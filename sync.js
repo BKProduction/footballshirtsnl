@@ -1,5 +1,5 @@
 import fs from "node:fs/promises";
-import cheerio from "cheerio";
+import * as cheerio from "cheerio";
 import pLimit from "p-limit";
 const base=process.env.SOURCE_BASE||"https://minkang.x.yupoo.com";
 const pages=Number(process.env.SYNC_MAX_PAGES||66), limit=pLimit(Number(process.env.SYNC_CONCURRENCY||2));
