@@ -11,7 +11,7 @@ permissions:
   id-token: write
 concurrency:
   group: pages
-  cancel-in-progress: false
+  cancel-in-progress: true
 jobs:
   sync:
     runs-on: ubuntu-latest
@@ -21,16 +21,28 @@ jobs:
         with:
           node-version: 22
           cache: npm
+      - name: Restore cached album images
+        uses: actions/cache/restore@v4
+        with:
+          path: assets/albums
+          key: footballshirtsnl-images-${{ runner.os }}-${{ github.run_id }}
+          restore-keys: |
+            footballshirtsnl-images-${{ runner.os }}-
       - run: npm install
-      - name: Sync catalog and download images
+      - name: Sync only new or changed albums
         run: npm run sync
-      - name: Save catalog metadata
+      - name: Save catalog only when changed
         run: |
           git config user.name "footballshirtsnl-sync"
           git config user.email "footballshirtsnl-sync@users.noreply.github.com"
           git add data/catalog.json
           git diff --cached --quiet || git commit -m "Update FootballshirtsNL catalog"
           git push
+      - name: Save updated image cache
+        uses: actions/cache/save@v4
+        with:
+          path: assets/albums
+          key: footballshirtsnl-images-${{ runner.os }}-${{ github.run_id }}
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
