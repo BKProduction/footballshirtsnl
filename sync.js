@@ -1,17 +1,240 @@
 import fs from "node:fs/promises";
 import * as cheerio from "cheerio";
 import pLimit from "p-limit";
-const base=process.env.SOURCE_BASE||"https://minkang.x.yupoo.com";
-const pages=Number(process.env.SYNC_MAX_PAGES||66), limit=pLimit(Number(process.env.SYNC_CONCURRENCY||2));
-const sleep=ms=>new Promise(r=>setTimeout(r,ms));
-async function html(url){const r=await fetch(url,{headers:{"user-agent":process.env.USER_AGENT||"CatalogSync/1.0"}});if(!r.ok)throw new Error(`${r.status} ${url}`);return r.text()}
-function abs(u){return u?.startsWith("http")?u:new URL(u,base).href}
-async function indexPage(page){await sleep(400);const $=cheerio.load(await html(`${base}/albums?page=${page}`));const out=[];
-  $('a[href*="/albums/"]').each((_,a)=>{const href=$(a).attr('href');const m=href?.match(/\/albums\/(\d+)/);if(!m)return;const card=$(a).closest('li, .album__main, .showindex__children');const title=($(a).attr('title')||card.find('.album__title,.showindex__children__title').text()||$(a).text()).trim();const img=card.find('img').first();const src=img.attr('data-origin-src')||img.attr('data-src')||img.attr('src');out.push({sourceId:m[1],title,sourceUrl:abs(href),coverUrl:src?abs(src):null});});return [...new Map(out.map(x=>[x.sourceId,x])).values()];}
-async function detail(a){return limit(async()=>{await sleep(500);const $=cheerio.load(await html(a.sourceUrl));const title=($('h1').first().text()||$('title').text().split('|')[0]||a.title).trim();const images=[];$('img').each((_,im)=>{const s=$(im).attr('data-origin-src')||$(im).attr('data-src')||$(im).attr('src');if(s&&/photo|image|yupoo|x\.yupoo/.test(s))images.push(abs(s));});return {...a,title,images:[...new Set(images)].filter(Boolean),updatedAt:new Date().toISOString()};});}
-await fs.mkdir('data', { recursive: true });
-let previous={albums:[]};try{previous=JSON.parse(await fs.readFile('data/catalog.json','utf8'))}catch{}
-const discovered=[];for(let p=1;p<=pages;p++){try{discovered.push(...await indexPage(p));console.log(`index ${p}/${pages}`)}catch(e){console.error(e.message)}}
-const unique=[...new Map(discovered.map(x=>[x.sourceId,x])).values()];const old=new Map(previous.albums.map(x=>[x.sourceId,x]));const albums=[];
-for(const a of unique){try{albums.push(await detail(a))}catch(e){albums.push(old.get(a.sourceId)||{...a,images:[],error:e.message})}}
-const output={lastSync:new Date().toISOString(),source:base,total:albums.length,albums,warnings:[]};await fs.writeFile('data/catalog.json.tmp',JSON.stringify(output,null,2));await fs.rename('data/catalog.json.tmp','data/catalog.json');console.log(`klaar: ${albums.length} albums`);
+
+const base = process.env.SOURCE_BASE || "https://minkang.x.yupoo.com";
+const pages = Number(process.env.SYNC_MAX_PAGES || 66);
+const limit = pLimit(Number(process.env.SYNC_CONCURRENCY || 2));
+
+const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
+
+async function html(url) {
+  const response = await fetch(url, {
+    headers: {
+      "user-agent": process.env.USER_AGENT || "CatalogSync/1.0"
+    }
+  });
+
+  if (!response.ok) {
+    throw new Error(`${response.status} ${url}`);
+  }
+
+  return response.text();
+}
+
+function abs(url) {
+  if (!url) return null;
+
+  return url.startsWith("http")
+    ? url
+    : new URL(url, base).href;
+}
+
+async function indexPage(page) {
+  await sleep(400);
+
+  const $ = cheerio.load(
+    await html(`${base}/albums?page=${page}`)
+  );
+
+  const albums = [];
+
+  $('a[href*="/albums/"]').each((_, element) => {
+    const href = $(element).attr("href");
+    const match = href?.match(/\/albums\/(\d+)/);
+
+    if (!match) return;
+
+    const card = $(element).closest(
+      "li, .album__main, .showindex__children"
+    );
+
+    const title = (
+      $(element).attr("title") ||
+      card.find(".album__title,.showindex__children__title").text() ||
+      $(element).text()
+    ).trim();
+
+    albums.push({
+      sourceId: match[1],
+      title,
+      sourceUrl: abs(href)
+    });
+  });
+
+  return [
+    ...new Map(
+      albums.map(album => [album.sourceId, album])
+    ).values()
+  ];
+}
+
+async function detail(album) {
+  return limit(async () => {
+    await sleep(500);
+
+    const $ = cheerio.load(
+      await html(album.sourceUrl)
+    );
+
+    const title = (
+      $("h1").first().text() ||
+      $("title").text().split("|")[0] ||
+      album.title
+    ).trim();
+
+    const images = [];
+
+    $("img").each((_, element) => {
+      const src =
+        $(element).attr("data-origin-src") ||
+        $(element).attr("data-src") ||
+        $(element).attr("src");
+
+      if (!src) return;
+
+      const url = abs(src);
+
+      // Alleen echte Minkang productfoto's.
+      // Logo's, iconen, data-images en Yupoo interfacebeelden
+      // worden hierdoor niet meegenomen.
+      if (
+        !url ||
+        !url.startsWith("https://photo.yupoo.com/minkang/")
+      ) {
+        return;
+      }
+
+      images.push(url);
+    });
+
+    const uniqueImages = [...new Set(images)];
+
+    return {
+      ...album,
+
+      title,
+
+      // Eerste echte productfoto wordt de albumcover.
+      coverUrl:
+        uniqueImages.length > 0
+          ? uniqueImages[0]
+          : null,
+
+      images: uniqueImages,
+
+      updatedAt: new Date().toISOString()
+    };
+  });
+}
+
+await fs.mkdir("data", {
+  recursive: true
+});
+
+let previous = {
+  albums: []
+};
+
+try {
+  previous = JSON.parse(
+    await fs.readFile(
+      "data/catalog.json",
+      "utf8"
+    )
+  );
+} catch {
+  // Eerste synchronisatie: nog geen bestaande catalogus.
+}
+
+const discovered = [];
+
+for (let page = 1; page <= pages; page++) {
+  try {
+    const pageAlbums =
+      await indexPage(page);
+
+    discovered.push(...pageAlbums);
+
+    console.log(
+      `index ${page}/${pages}`
+    );
+  } catch (error) {
+    console.error(
+      `Index ${page} mislukt:`,
+      error.message
+    );
+  }
+}
+
+const unique = [
+  ...new Map(
+    discovered.map(album => [
+      album.sourceId,
+      album
+    ])
+  ).values()
+];
+
+const old = new Map(
+  previous.albums.map(album => [
+    album.sourceId,
+    album
+  ])
+);
+
+const albums = [];
+
+for (const album of unique) {
+  try {
+    albums.push(
+      await detail(album)
+    );
+  } catch (error) {
+    const previousAlbum =
+      old.get(album.sourceId);
+
+    if (previousAlbum) {
+      albums.push(previousAlbum);
+    } else {
+      albums.push({
+        ...album,
+        coverUrl: null,
+        images: [],
+        error: error.message
+      });
+    }
+  }
+}
+
+const output = {
+  lastSync: new Date().toISOString(),
+  source: base,
+  total: albums.length,
+  albums,
+  warnings: []
+};
+
+await fs.writeFile(
+  "data/catalog.json.tmp",
+  JSON.stringify(output, null, 2)
+);
+
+await fs.rename(
+  "data/catalog.json.tmp",
+  "data/catalog.json"
+);
+
+console.log(
+  `Klaar: ${albums.length} albums`
+);
+
+console.log(
+  `Albums met foto's: ${
+    albums.filter(
+      album =>
+        album.images &&
+        album.images.length > 0
+    ).length
+  }`
+);
