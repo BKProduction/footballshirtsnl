@@ -6,182 +6,137 @@ import sharp from "sharp";
 
 const base = process.env.SOURCE_BASE || "https://minkang.x.yupoo.com";
 const pages = Number(process.env.SYNC_MAX_PAGES || 66);
-const concurrency = Number(process.env.SYNC_CONCURRENCY || 3);
 const maxImages = Number(process.env.MAX_IMAGES_PER_ALBUM || 8);
-const limit = pLimit(concurrency);
-const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
+const limit = pLimit(Number(process.env.SYNC_CONCURRENCY || 3));
+const sleep = ms => new Promise(r => setTimeout(r, ms));
 
-async function fetchResponse(url) {
-  const response = await fetch(url, {
-    headers: {
-      "user-agent": "Mozilla/5.0 FootballshirtsNL-CatalogSync/2.0",
-      "referer": base + "/"
-    }
-  });
+async function request(url) {
+  const response = await fetch(url, { headers: {
+    "user-agent": "Mozilla/5.0 FootballshirtsNL-CatalogSync/3.0",
+    referer: `${base}/`
+  }});
   if (!response.ok) throw new Error(`${response.status} ${url}`);
   return response;
 }
+const html = async url => (await request(url)).text();
+const absolute = url => !url ? null : url.startsWith("http") ? url : new URL(url, base).href;
 
-async function html(url) {
-  return (await fetchResponse(url)).text();
+function collectionId(url = "") {
+  return url.match(/\/collections\/(\d+)/)?.[1] || url.match(/[?&]referrercate=(\d+)/)?.[1] || null;
 }
-
-function absolute(url) {
-  if (!url) return null;
-  return url.startsWith("http") ? url : new URL(url, base).href;
-}
-
-function collectionIdFromUrl(url) {
-  if (!url) return null;
-  const byCollection = url.match(/\/collections\/(\d+)/);
-  const byReferrer = url.match(/[?&]referrercate=(\d+)/);
-  return byCollection?.[1] || byReferrer?.[1] || null;
-}
-
-function clubFromTitle(title) {
-  const cleaned = (title || "").replace(/^\d+\s*/, "").trim();
+function clubFromTitle(title = "") {
+  const cleaned = title.replace(/^\d+\s*/, "").trim();
   const season = cleaned.search(/\b(?:19|20)?\d{2}[/-]\d{2}\b|\b\d{2}[/-]\d{2}\b|\b2026\b/i);
-  if (season > 0) return cleaned.slice(0, season).trim();
-  return cleaned.split(/\s+/).slice(0, 2).join(" ") || "Overig";
+  return season > 0 ? cleaned.slice(0, season).trim() : cleaned.split(/\s+/).slice(0, 2).join(" ") || "Overig";
 }
-
+async function loadPrevious() {
+  try { return JSON.parse(await fs.readFile("data/catalog.json", "utf8")); }
+  catch { return { albums: [] }; }
+}
 async function getCollections() {
   const $ = cheerio.load(await html(`${base}/albums`));
-  const collections = new Map();
-  $('a[href*="/collections/"]').each((_, element) => {
-    const href = $(element).attr("href");
-    const id = collectionIdFromUrl(href);
-    const name = $(element).clone().children().remove().end().text().replace(/\s+/g, " ").trim();
-    if (id && name && !/^\d+\s*(个)?$/.test(name)) collections.set(id, name);
+  const map = new Map();
+  $('a[href*="/collections/"]').each((_, el) => {
+    const href = $(el).attr("href");
+    const id = collectionId(href);
+    const name = $(el).clone().children().remove().end().text().replace(/\s+/g, " ").trim();
+    if (id && name && !/^\d+\s*(个)?$/.test(name)) map.set(id, name);
   });
-  return collections;
+  return map;
 }
-
 async function indexPage(page, collections) {
-  await sleep(250);
+  await sleep(200);
   const $ = cheerio.load(await html(`${base}/albums?page=${page}`));
-  const albums = [];
-
-  $('a[href*="/albums/"]').each((_, element) => {
-    const href = $(element).attr("href");
-    const match = href?.match(/\/albums\/(\d+)/);
-    if (!match) return;
-
-    const card = $(element).closest("li, .album__main, .showindex__children, .album__item");
-    const rawTitle = (
-      $(element).attr("title") ||
-      card.find(".album__title,.showindex__children__title").text() ||
-      $(element).text()
-    ).replace(/\s+/g, " ").trim();
-    if (!rawTitle) return;
-
-    const collectionId = collectionIdFromUrl(href);
-    albums.push({
-      sourceId: match[1],
-      title: rawTitle,
-      sourceUrl: absolute(href),
-      collectionId,
-      competition: collections.get(collectionId) || "Overige collectie",
-      club: clubFromTitle(rawTitle)
-    });
-  });
-
-  return [...new Map(albums.map(album => [album.sourceId, album])).values()];
-}
-
-function productImages($) {
   const found = [];
-  $('img').each((_, element) => {
-    const src = $(element).attr("data-origin-src") || $(element).attr("data-src") || $(element).attr("src");
-    const url = absolute(src);
-    if (!url || !url.startsWith("https://photo.yupoo.com/minkang/")) return;
-    if (/\/(?:square|small)\.jpg(?:\?|$)/i.test(url)) return;
-    found.push(url);
+  $('a[href*="/albums/"]').each((_, el) => {
+    const href = $(el).attr("href");
+    const id = href?.match(/\/albums\/(\d+)/)?.[1];
+    if (!id) return;
+    const card = $(el).closest("li,.album__main,.showindex__children,.album__item");
+    const title = ($(el).attr("title") || card.find(".album__title,.showindex__children__title").text() || $(el).text()).replace(/\s+/g," ").trim();
+    if (!title) return;
+    const cid = collectionId(href);
+    found.push({ sourceId:id, title, sourceUrl:absolute(href), collectionId:cid,
+      competition:collections.get(cid) || "Overige collectie", club:clubFromTitle(title) });
   });
-  return [...new Set(found)].slice(0, maxImages);
+  return [...new Map(found.map(a => [a.sourceId, a])).values()];
 }
-
-async function saveImage(remoteUrl, albumId, index) {
-  const directory = path.join("assets", "albums", albumId);
-  await fs.mkdir(directory, { recursive: true });
-  const filename = `${String(index + 1).padStart(2, "0")}.webp`;
-  const destination = path.join(directory, filename);
-  const buffer = Buffer.from(await (await fetchResponse(remoteUrl)).arrayBuffer());
-  await sharp(buffer)
-    .rotate()
-    .resize({ width: index === 0 ? 700 : 1200, withoutEnlargement: true })
-    .webp({ quality: 80 })
-    .toFile(destination);
-  return `./assets/albums/${albumId}/${filename}`;
+function productImages($) {
+  const urls = [];
+  $("img").each((_, el) => {
+    const url = absolute($(el).attr("data-origin-src") || $(el).attr("data-src") || $(el).attr("src"));
+    if (url?.startsWith("https://photo.yupoo.com/minkang/") && !/\/(?:square|small)\.jpg(?:\?|$)/i.test(url)) urls.push(url);
+  });
+  return [...new Set(urls)].slice(0, maxImages);
 }
-
-async function detail(album) {
+async function localImagesExist(album) {
+  if (!album?.images?.length) return false;
+  const checks = await Promise.all(album.images.map(async image => {
+    try { await fs.access(image.replace(/^\.\//, "")); return true; } catch { return false; }
+  }));
+  return checks.every(Boolean);
+}
+async function saveImage(url, id, index) {
+  const dir = path.join("assets","albums",id);
+  await fs.mkdir(dir, { recursive:true });
+  const file = path.join(dir, `${String(index+1).padStart(2,"0")}.webp`);
+  const buffer = Buffer.from(await (await request(url)).arrayBuffer());
+  await sharp(buffer).rotate().resize({ width:index === 0 ? 700 : 1200, withoutEnlargement:true }).webp({quality:80}).toFile(file);
+  return `./${file.replaceAll(path.sep,"/")}`;
+}
+async function importAlbum(album) {
   return limit(async () => {
-    await sleep(300);
+    await sleep(250);
     const $ = cheerio.load(await html(album.sourceUrl));
-    const title = ($("h1").first().text() || $("title").text().split("|")[0] || album.title).replace(/\s+/g, " ").trim();
-    const remoteImages = productImages($);
+    const title = ($("h1").first().text() || $("title").text().split("|")[0] || album.title).replace(/\s+/g," ").trim();
+    const remote = productImages($);
     const images = [];
-
-    for (let index = 0; index < remoteImages.length; index++) {
-      try {
-        images.push(await saveImage(remoteImages[index], album.sourceId, index));
-      } catch (error) {
-        console.error(`Foto ${album.sourceId}/${index + 1} mislukt: ${error.message}`);
-      }
+    for (let i=0; i<remote.length; i++) {
+      try { images.push(await saveImage(remote[i], album.sourceId, i)); }
+      catch (e) { console.error(`Foto ${album.sourceId}/${i+1}: ${e.message}`); }
     }
-
-    return {
-      ...album,
-      title,
-      club: clubFromTitle(title),
-      coverUrl: images[0] || null,
-      images,
-      imageCount: images.length,
-      updatedAt: new Date().toISOString()
-    };
+    return {...album, title, club:clubFromTitle(title), coverUrl:images[0] || null, images, imageCount:images.length, updatedAt:new Date().toISOString()};
   });
 }
 
-await fs.mkdir("data", { recursive: true });
-await fs.rm("assets/albums", { recursive: true, force: true });
-await fs.mkdir("assets/albums", { recursive: true });
-
+await fs.mkdir("data", {recursive:true});
+await fs.mkdir("assets/albums", {recursive:true});
+const previous = await loadPrevious();
+const previousById = new Map((previous.albums || []).map(a => [String(a.sourceId), a]));
 const collections = await getCollections();
-console.log(`Collecties gevonden: ${collections.size}`);
-
 const discovered = [];
-for (let page = 1; page <= pages; page++) {
-  try {
-    discovered.push(...await indexPage(page, collections));
-    console.log(`Index ${page}/${pages}`);
-  } catch (error) {
-    console.error(`Index ${page} mislukt: ${error.message}`);
-  }
+for (let page=1; page<=pages; page++) {
+  try { discovered.push(...await indexPage(page, collections)); console.log(`Index ${page}/${pages}`); }
+  catch (e) { console.error(`Index ${page}: ${e.message}`); }
 }
-
-const unique = [...new Map(discovered.map(album => [album.sourceId, album])).values()];
+const current = [...new Map(discovered.map(a => [a.sourceId,a])).values()];
 const albums = [];
-for (let index = 0; index < unique.length; index++) {
-  try {
-    albums.push(await detail(unique[index]));
-  } catch (error) {
-    console.error(`Album ${unique[index].sourceId} mislukt: ${error.message}`);
+let added=0, changed=0, unchanged=0, repaired=0;
+for (const item of current) {
+  const old = previousById.get(String(item.sourceId));
+  const metadataChanged = old && (old.title !== item.title || old.competition !== item.competition || old.club !== item.club);
+  const assetsOkay = old ? await localImagesExist(old) : false;
+  if (old && !metadataChanged && assetsOkay) {
+    albums.push(old); unchanged++; continue;
   }
-  if ((index + 1) % 25 === 0) console.log(`Albums verwerkt: ${index + 1}/${unique.length}`);
+  try {
+    const imported = await importAlbum(item);
+    if (imported.images.length) albums.push(imported);
+    if (!old) added++; else if (!assetsOkay) repaired++; else changed++;
+  } catch (e) {
+    console.error(`Album ${item.sourceId}: ${e.message}`);
+    if (old && assetsOkay) albums.push(old);
+  }
 }
-
-const usable = albums.filter(album => album.images.length > 0);
-const competitions = [...new Set(usable.map(album => album.competition))].sort((a, b) => a.localeCompare(b, "nl"));
-const output = {
-  lastSync: new Date().toISOString(),
-  source: base,
-  total: usable.length,
-  competitions,
-  albums: usable,
-  warnings: []
-};
-
-await fs.writeFile("data/catalog.json.tmp", JSON.stringify(output, null, 2));
-await fs.rename("data/catalog.json.tmp", "data/catalog.json");
-console.log(`Klaar: ${usable.length} albums met lokale foto's`);
+const competitions = [...new Set(albums.map(a => a.competition))].sort((a,b)=>a.localeCompare(b,"nl"));
+const output = { lastSync:new Date().toISOString(), source:base, total:albums.length,
+  stats:{added,changed,unchanged,repaired,removed:Math.max(0,previousById.size-albums.length)}, competitions, albums, warnings:[] };
+const next = JSON.stringify(output,null,2);
+let before = ""; try { before = await fs.readFile("data/catalog.json","utf8"); } catch {}
+if (before !== next) {
+  await fs.writeFile("data/catalog.json.tmp", next);
+  await fs.rename("data/catalog.json.tmp","data/catalog.json");
+  console.log(`Wijzigingen opgeslagen: nieuw ${added}, gewijzigd ${changed}, hersteld ${repaired}`);
+} else {
+  console.log("Geen wijzigingen gevonden; catalogus niet aangepast.");
+}
