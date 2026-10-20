@@ -1,0 +1,1 @@
+{"name":"minkang-catalogus","private":true,"version":"1.0.0","type":"module","scripts":{"start":"node server.js","sync":"node sync.js"},"dependencies":{"cheerio":"latest","express":"latest","p-limit":"latest"}}

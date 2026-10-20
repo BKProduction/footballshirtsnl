@@ -1,0 +1,48 @@
+name: Daily sync and deploy FootballshirtsNL
+on:
+  schedule:
+    - cron: "15 2 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm install
+      - run: npm run sync
+      - name: Save updated catalog
+        run: |
+          git config user.name "footballshirtsnl-sync"
+          git config user.email "footballshirtsnl-sync@users.noreply.github.com"
+          git add data/catalog.json
+          git diff --cached --quiet || git commit -m "Update FootballshirtsNL catalog"
+          git push
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+      - name: Upload site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: sync
+    steps:
+      - name: Deploy Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
