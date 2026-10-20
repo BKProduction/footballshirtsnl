@@ -1,1 +1,1 @@
-{"name":"minkang-catalogus","private":true,"version":"1.0.0","type":"module","scripts":{"start":"node server.js","sync":"node sync.js"},"dependencies":{"cheerio":"latest","express":"latest","p-limit":"latest"}}
+{"name":"footballshirtsnl","private":true,"version":"2.0.0","type":"module","scripts":{"sync":"node sync.js"},"dependencies":{"cheerio":"1.1.2","p-limit":"7.1.1","sharp":"0.34.4"}}
