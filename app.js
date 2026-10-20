@@ -1,134 +1,79 @@
-let all = [];
-let cat = "";
-
+let catalog = { albums: [] };
+let competition = "";
+let club = "";
 const grid = document.querySelector("#grid");
 const detail = document.querySelector("#detail");
-const q = document.querySelector("#q");
+const query = document.querySelector("#q");
+const categories = document.querySelector("#cats");
+const heading = document.querySelector("#heading");
+const meta = document.querySelector("#meta");
+const esc = value => String(value || "").replace(/[&<>\"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"})[c]);
 
-const esc = value => String(value || "").replace(
-  /[&<>\"]/g,
-  character => ({
-    "&": "&amp;",
-    "<": "&lt;",
-    ">": "&gt;",
-    "\"": "&quot;"
-  })[character]
-);
-
-function category(album) {
-  return album.category || album.title?.split(/\s+/)[0] || "Overig";
+function grouped() {
+  const groups = new Map();
+  for (const album of catalog.albums) {
+    const comp = album.competition || "Overige collectie";
+    if (!groups.has(comp)) groups.set(comp, new Set());
+    groups.get(comp).add(album.club || "Overig");
+  }
+  return [...groups.entries()].sort(([a], [b]) => a.localeCompare(b, "nl"));
 }
 
-function proxyImage(source, width = 700) {
-  if (!source) return "";
+function renderNavigation() {
+  categories.innerHTML = `<button class="nav-all active" data-competition="" data-club="">Alle albums</button>` + grouped().map(([comp, clubs]) => `
+    <details class="competition" ${competition === comp ? "open" : ""}>
+      <summary>${esc(comp)} <span>${[...clubs].length}</span></summary>
+      <button data-competition="${esc(comp)}" data-club="">Alle ${esc(comp)}</button>
+      ${[...clubs].sort((a,b)=>a.localeCompare(b,"nl")).map(name => `<button data-competition="${esc(comp)}" data-club="${esc(name)}">${esc(name)}</button>`).join("")}
+    </details>`).join("");
 
-  return "https://wsrv.nl/?url=" +
-    encodeURIComponent(source) +
-    "&w=" + width +
-    "&fit=inside&output=webp&q=82";
+  categories.querySelectorAll("button").forEach(button => {
+    button.onclick = () => {
+      competition = button.dataset.competition || "";
+      club = button.dataset.club || "";
+      renderNavigation();
+      renderAlbums();
+    };
+  });
 }
 
-function imageMarkup(source, alt, width, extraClass = "") {
-  const original = esc(source);
-  const proxied = esc(proxyImage(source, width));
-
-  return `<img
-    class="${esc(extraClass)}"
-    loading="lazy"
-    decoding="async"
-    referrerpolicy="no-referrer"
-    src="${proxied}"
-    data-original="${original}"
-    alt="${esc(alt)}"
-    onerror="if(this.dataset.original && this.src !== this.dataset.original){this.src=this.dataset.original;this.removeAttribute('data-original')}else{this.classList.add('image-error')}"
-  >`;
-}
-
-function render() {
+function renderAlbums() {
   detail.hidden = true;
   grid.hidden = false;
+  const term = query.value.trim().toLowerCase();
+  const albums = catalog.albums.filter(album =>
+    (!competition || album.competition === competition) &&
+    (!club || album.club === club) &&
+    (!term || `${album.title} ${album.club} ${album.competition}`.toLowerCase().includes(term))
+  );
 
-  const term = q.value.trim().toLowerCase();
-
-  const list = all.filter(album => {
-    const matchesCategory = !cat || category(album) === cat;
-    const matchesSearch = (album.title || "").toLowerCase().includes(term);
-    return matchesCategory && matchesSearch;
-  });
-
-  document.querySelector("#meta").textContent = `${list.length} albums`;
-
-  grid.innerHTML = list.map(album => {
-    const cover = album.coverUrl || album.images?.[0] || "";
-
-    return `<article class="card" data-id="${esc(album.sourceId)}">
-      ${imageMarkup(cover, album.title, 500, "album-cover")}
-      <div>${esc(album.title)}</div>
-    </article>`;
-  }).join("");
-
-  document.querySelectorAll(".card").forEach(card => {
-    card.onclick = () => openAlbum(card.dataset.id);
-  });
+  heading.textContent = club || competition || "Alle albums";
+  meta.textContent = `${albums.length} albums`;
+  grid.innerHTML = albums.map(album => `
+    <article class="card" data-id="${esc(album.sourceId)}">
+      <img class="album-cover" loading="lazy" decoding="async" src="${esc(album.coverUrl)}" alt="${esc(album.title)}">
+      <div class="card-copy"><span>${esc(album.competition)}</span><strong>${esc(album.title)}</strong><small>${album.imageCount || album.images.length} foto's</small></div>
+    </article>`).join("");
+  grid.querySelectorAll(".card").forEach(card => card.onclick = () => openAlbum(card.dataset.id));
 }
 
 function openAlbum(id) {
-  const album = all.find(item => String(item.sourceId) === String(id));
+  const album = catalog.albums.find(item => String(item.sourceId) === String(id));
   if (!album) return;
-
   grid.hidden = true;
   detail.hidden = false;
-
-  const photos = (album.images || [])
-    .filter(source => source && source.includes("photo.yupoo.com/minkang/"));
-
   detail.innerHTML = `
-    <button class="back">← Terug</button>
+    <button class="back">← Terug naar overzicht</button>
+    <p class="eyebrow">${esc(album.competition)} · ${esc(album.club)}</p>
     <h1>${esc(album.title)}</h1>
-    <p>${photos.length} foto's</p>
-    <div class="photos">
-      ${photos.map((source, index) => imageMarkup(
-        source,
-        `${album.title} foto ${index + 1}`,
-        1200,
-        "album-photo"
-      )).join("")}
-    </div>
-  `;
-
-  detail.querySelector(".back").onclick = render;
+    <p>${album.images.length} foto's</p>
+    <div class="photos">${album.images.map((src, i) => `<img loading="lazy" decoding="async" src="${esc(src)}" alt="${esc(album.title)} foto ${i + 1}">`).join("")}</div>`;
+  detail.querySelector(".back").onclick = renderAlbums;
+  window.scrollTo({ top: 0, behavior: "smooth" });
 }
 
 fetch("./data/catalog.json", { cache: "no-store" })
-  .then(response => {
-    if (!response.ok) {
-      throw new Error(`Catalogus kon niet worden geladen: ${response.status}`);
-    }
-    return response.json();
-  })
-  .then(data => {
-    all = (data.albums || []).filter(album =>
-      album.coverUrl || (album.images && album.images.length > 0)
-    );
-
-    const categories = [...new Set(all.map(category))].sort();
-
-    document.querySelector("#cats").innerHTML = categories.map(name =>
-      `<button data-cat="${esc(name)}">${esc(name)}</button>`
-    ).join("");
-
-    document.querySelectorAll("[data-cat]").forEach(button => {
-      button.onclick = () => {
-        cat = button.dataset.cat;
-        document.querySelector("#heading").textContent = cat || "Alle albums";
-        render();
-      };
-    });
-
-    render();
-  })
-  .catch(error => {
-    grid.innerHTML = `<p>De catalogus kon niet worden geladen: ${esc(error.message)}</p>`;
-  });
-
-q.oninput = render;
+  .then(response => { if (!response.ok) throw new Error(`HTTP ${response.status}`); return response.json(); })
+  .then(data => { catalog = data; renderNavigation(); renderAlbums(); })
+  .catch(error => { grid.innerHTML = `<p>Catalogus kon niet worden geladen: ${esc(error.message)}</p>`; });
+query.oninput = renderAlbums;
