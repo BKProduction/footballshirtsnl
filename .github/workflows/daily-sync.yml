@@ -2,7 +2,7 @@ name: Daily sync and deploy FootballshirtsNL
 
 on:
   schedule:
-    - cron: "15 2 * * *"
+    - cron: "15 3 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -24,6 +24,8 @@ jobs:
     steps:
       - name: Download website
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -33,10 +35,14 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Sync Minkang catalog
-        run: npm run sync
+      - name: Sync catalog with checkpoints
+        env:
+          CHECKPOINT_MINUTES: 5
+          SYNC_CONCURRENCY: 2
+          MAX_IMAGES_PER_ALBUM: 1
+        run: node autosave-sync.js
 
-      - name: Save updated catalog
+      - name: Save final updated catalog
         run: |
           git config user.name "footballshirtsnl-sync"
           git config user.email "footballshirtsnl-sync@users.noreply.github.com"
