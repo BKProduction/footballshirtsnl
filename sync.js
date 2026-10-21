@@ -4,331 +4,65 @@ import * as cheerio from "cheerio";
 import pLimit from "p-limit";
 import sharp from "sharp";
 
-const base = (process.env.SOURCE_BASE || "https://minkang.x.yupoo.com").replace(/\/$/, "");
-const pages = Number(process.env.SYNC_MAX_PAGES || 66);
-const maxImages = Number(process.env.MAX_IMAGES_PER_ALBUM || 12);
-const concurrency = Number(process.env.SYNC_CONCURRENCY || 3);
-const limit = pLimit(Number.isFinite(concurrency) && concurrency > 0 ? concurrency : 3);
-const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
+const base=(process.env.SOURCE_BASE||"https://minkang.x.yupoo.com").replace(/\/$/,"");
+const pages=Math.max(1,Number(process.env.SYNC_MAX_PAGES||66));
+const categoryPages=Math.max(1,Number(process.env.SYNC_CATEGORY_MAX_PAGES||66));
+const maxImages=Math.max(1,Number(process.env.MAX_IMAGES_PER_ALBUM||12));
+const limit=pLimit(Math.max(1,Number(process.env.SYNC_CONCURRENCY||3)));
+const sleep=ms=>new Promise(r=>setTimeout(r,ms));
 
-const COUNTRY_TEAMS = [
-  "Argentina", "Australia", "Austria", "Belgium", "Brazil", "Canada", "Chile", "China", "Colombia", "Croatia", "Denmark", "Ecuador", "England", "France", "Germany", "Ghana", "Italy", "Japan", "Mexico", "Morocco", "Netherlands", "Nigeria", "Norway", "Poland", "Portugal", "Saudi Arabia", "Scotland", "Senegal", "South Korea", "Spain", "Sweden", "Switzerland", "Uruguay", "USA", "United States", "Wales"
+const COUNTRY_TEAMS=["Argentina","Australia","Austria","Belgium","Brazil","Canada","Chile","China","Colombia","Croatia","Denmark","Ecuador","England","France","Germany","Ghana","Italy","Japan","Mexico","Morocco","Netherlands","Nigeria","Norway","Poland","Portugal","Saudi Arabia","Scotland","Senegal","South Korea","Spain","Sweden","Switzerland","Uruguay","USA","United States","Wales"];
+const LEAGUES=[
+ {country:"Engeland",competition:"Premier League",clubs:["Arsenal","Aston Villa","Bournemouth","Brentford","Brighton","Burnley","Chelsea","Crystal Palace","Everton","Fulham","Leeds United","Liverpool","Manchester City","Manchester United","M-U","Newcastle United","Nottingham Forest","Sunderland","Tottenham","West Ham","Wolverhampton","Wolves"]},
+ {country:"Spanje",competition:"La Liga",clubs:["Alavés","Athletic Bilbao","Atlético Madrid","Barcelona","Celta Vigo","Elche","Espanyol","Getafe","Girona","Levante","Mallorca","Osasuna","Rayo Vallecano","Real Betis","Real Madrid","Real Oviedo","Real Sociedad","Sevilla","Valencia","Villarreal"]},
+ {country:"Italië",competition:"Serie A",clubs:["AC Milan","Atalanta","Bologna","Cagliari","Como","Cremonese","Fiorentina","Genoa","Inter Milan","Inter","Juventus","Lazio","Lecce","Napoli","Parma","Pisa","Roma","Sassuolo","Torino","Udinese","Verona"]},
+ {country:"Duitsland",competition:"Bundesliga",clubs:["Augsburg","Bayer Leverkusen","Bayern Munich","Borussia Dortmund","Borussia Mönchengladbach","Eintracht Frankfurt","FC Köln","Freiburg","Hamburg","Heidenheim","Hoffenheim","Mainz","RB Leipzig","St. Pauli","Stuttgart","Union Berlin","Werder Bremen","Wolfsburg"]},
+ {country:"Frankrijk",competition:"Ligue 1",clubs:["Auxerre","Angers","Brest","Le Havre","Lens","Lille","Lorient","Lyon","Marseille","Metz","Monaco","Nantes","Nice","Paris FC","PSG","Rennes","Strasbourg","Toulouse"]},
+ {country:"Nederland",competition:"Eredivisie",clubs:["Ajax","AZ Alkmaar","Excelsior","Feyenoord","Fortuna Sittard","Go Ahead Eagles","Groningen","Heerenveen","Heracles","NAC Breda","NEC","PEC Zwolle","PSV","Sparta Rotterdam","Telstar","Twente","Utrecht","Volendam"]},
+ {country:"Brazilië",competition:"Brasileiro Série A",clubs:["Atlético Mineiro","Bahia","Botafogo","Bragantino","Ceará","Corinthians","Cruzeiro","Flamengo","Fluminense","Fortaleza","Grêmio","Gremio","Internacional","Juventude","Mirassol","Palmeiras","Santos","São Paulo","Sport Recife","Vasco da Gama","Vitória"]},
+ {country:"Portugal",competition:"Primeira Liga",clubs:["Benfica","Boavista","Braga","Casa Pia","Estoril","Famalicão","Farense","Gil Vicente","Moreirense","Nacional","Porto","Rio Ave","Santa Clara","Sporting CP","Vitória SC"]},
+ {country:"Schotland",competition:"Scottish Premiership",clubs:["Aberdeen","Celtic","Dundee","Dundee United","Falkirk","Hearts","Hibernian","Kilmarnock","Livingston","Motherwell","Rangers","St Mirren"]},
+ {country:"Verenigde Staten",competition:"MLS",clubs:["Atlanta United","Austin FC","Charlotte FC","Chicago Fire","Columbus Crew","DC United","Inter Miami","LA Galaxy","Los Angeles FC","Miami","Nashville SC","New York City","New York Red Bulls","Orlando City","Philadelphia Union","Portland Timbers","Seattle Sounders","Toronto FC","Vancouver Whitecaps"]}
 ];
+const CATEGORY_OVERRIDES={"718623":{section:"Clubteams",country:"Spanje",competition:"La Liga",club:"Barcelona"}};
 
-const LEAGUES = [
-  { country: "Engeland", competition: "Premier League", clubs: ["Arsenal", "Aston Villa", "Bournemouth", "Brentford", "Brighton", "Burnley", "Chelsea", "Crystal Palace", "Everton", "Fulham", "Leeds United", "Liverpool", "Manchester City", "Manchester United", "M-U", "Newcastle United", "Nottingham Forest", "Sunderland", "Tottenham", "West Ham", "Wolverhampton", "Wolves"] },
-  { country: "Spanje", competition: "La Liga", clubs: ["Alavés", "Athletic Bilbao", "Atlético Madrid", "Barcelona", "Celta Vigo", "Elche", "Espanyol", "Getafe", "Girona", "Levante", "Mallorca", "Osasuna", "Rayo Vallecano", "Real Betis", "Real Madrid", "Real Oviedo", "Real Sociedad", "Sevilla", "Valencia", "Villarreal"] },
-  { country: "Italië", competition: "Serie A", clubs: ["AC Milan", "Atalanta", "Bologna", "Cagliari", "Como", "Cremonese", "Fiorentina", "Genoa", "Inter Milan", "Inter", "Juventus", "Lazio", "Lecce", "Napoli", "Parma", "Pisa", "Roma", "Sassuolo", "Torino", "Udinese", "Verona"] },
-  { country: "Duitsland", competition: "Bundesliga", clubs: ["Augsburg", "Bayer Leverkusen", "Bayern Munich", "Borussia Dortmund", "Borussia Mönchengladbach", "Eintracht Frankfurt", "FC Köln", "Freiburg", "Hamburg", "Heidenheim", "Hoffenheim", "Mainz", "RB Leipzig", "St. Pauli", "Stuttgart", "Union Berlin", "Werder Bremen", "Wolfsburg"] },
-  { country: "Frankrijk", competition: "Ligue 1", clubs: ["Auxerre", "Angers", "Brest", "Le Havre", "Lens", "Lille", "Lorient", "Lyon", "Marseille", "Metz", "Monaco", "Nantes", "Nice", "Paris FC", "PSG", "Rennes", "Strasbourg", "Toulouse"] },
-  { country: "Nederland", competition: "Eredivisie", clubs: ["Ajax", "AZ Alkmaar", "Excelsior", "Feyenoord", "Fortuna Sittard", "Go Ahead Eagles", "Groningen", "Heerenveen", "Heracles", "NAC Breda", "NEC", "PEC Zwolle", "PSV", "Sparta Rotterdam", "Telstar", "Twente", "Utrecht", "Volendam"] },
-  { country: "Brazilië", competition: "Brasileiro Série A", clubs: ["Atlético Mineiro", "Bahia", "Botafogo", "Bragantino", "Ceará", "Corinthians", "Cruzeiro", "Flamengo", "Fluminense", "Fortaleza", "Grêmio", "Gremio", "Internacional", "Juventude", "Mirassol", "Palmeiras", "Santos", "São Paulo", "Sport Recife", "Vasco da Gama", "Vitória"] },
-  { country: "Portugal", competition: "Primeira Liga", clubs: ["Benfica", "Boavista", "Braga", "Casa Pia", "Estoril", "Famalicão", "Farense", "Gil Vicente", "Moreirense", "Nacional", "Porto", "Rio Ave", "Santa Clara", "Sporting CP", "Vitória SC"] },
-  { country: "Schotland", competition: "Scottish Premiership", clubs: ["Aberdeen", "Celtic", "Dundee", "Dundee United", "Falkirk", "Hearts", "Hibernian", "Kilmarnock", "Livingston", "Motherwell", "Rangers", "St Mirren"] },
-  { country: "Verenigde Staten", competition: "MLS", clubs: ["Atlanta United", "Austin FC", "Charlotte FC", "Chicago Fire", "Columbus Crew", "DC United", "Inter Miami", "LA Galaxy", "Los Angeles FC", "Miami", "Nashville SC", "New York City", "New York Red Bulls", "Orlando City", "Philadelphia Union", "Portland Timbers", "Seattle Sounders", "Toronto FC", "Vancouver Whitecaps"] }
-];
+function normalize(v=""){return v.normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase().replace(/[^a-z0-9]+/g," ").trim();}
+function startsWithName(title,name){const t=normalize(title),n=normalize(name);return t===n||t.startsWith(`${n} `);}
+function productType(title){const t=normalize(title),a=[];if(/\bretro\b/.test(t))a.push("Retro");if(/\b(kids?|baby)\b/.test(t))a.push("Kids");if(/\b(women|womens|ladies)\b/.test(t))a.push("Dames");if(/\btraining\b|\beqt\b/.test(t))a.push("Training");if(/\bgoalkeeper\b/.test(t))a.push("Keepers");if(/\blong sleeve\b/.test(t))a.push("Lange mouw");if(/\bplayer version\b/.test(t))a.push("Player version");if(/\bspecial edition\b|\bcommemorative\b|\banniversary\b/.test(t))a.push("Special edition");return a;}
+function clubFromTitle(title=""){const s=title.replace(/^\d+\s*/,"").trim(),i=s.search(/\b(?:19|20)?\d{2}[/-]\d{2}\b|\b\d{2}[/-]\d{2}\b|\b2026\b/i);return i>0?s.slice(0,i).trim():s.split(/\s+/).slice(0,2).join(" ")||"Overig";}
+function classify(title,sourceCollection="",categoryId=null){const o=CATEGORY_OVERRIDES[String(categoryId||"")];if(o)return {...o,types:productType(title)};const countryTeam=COUNTRY_TEAMS.find(n=>startsWithName(title,n));if(countryTeam)return{section:"Landenteams",country:countryTeam,competition:"WK & landenteams",club:countryTeam,types:productType(title)};for(const l of LEAGUES){const club=[...l.clubs].sort((a,b)=>b.length-a.length).find(n=>startsWithName(title,n));if(club)return{section:"Clubteams",country:l.country,competition:l.competition,club,types:productType(title)};}const notice=/new notice|large stock|existing customers|contact customer/i.test(sourceCollection),c=notice||!sourceCollection||sourceCollection==="Overige collectie"?"":sourceCollection.trim();if(/fifa world cup|national team|euro 20/i.test(c))return{section:"Landenteams",country:"Overige landen",competition:"WK & landenteams",club:clubFromTitle(title),types:productType(title)};if(c&&!/^new season$/i.test(c))return{section:"Overige competities",country:"Overig",competition:c,club:clubFromTitle(title),types:productType(title)};return{section:"Nog te categoriseren",country:"Overig",competition:"Nog te categoriseren",club:clubFromTitle(title),types:productType(title)};}
 
-function normalize(value = "") {
-  return value.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
-}
+async function request(url,attempt=1){const r=await fetch(url,{headers:{"user-agent":"Mozilla/5.0 FootballshirtsNL-CatalogSync/6.0","accept-language":"nl-NL,nl;q=0.9,en;q=0.8",referer:`${base}/`}});if((r.status===429||r.status>=500)&&attempt<4){await sleep(1000*attempt);return request(url,attempt+1);}if(!r.ok)throw new Error(`${r.status} ${url}`);return r;}
+const html=async url=>(await request(url)).text();
+const absolute=url=>!url?null:url.startsWith("http")?url:new URL(url,base).href;
+const collectionId=(url="")=>url.match(/\/collections\/(\d+)/)?.[1]||url.match(/[?&]referrercate=(\d+)/)?.[1]||null;
+const categoryId=(url="")=>url.match(/\/categories\/(\d+)/)?.[1]||null;
+async function loadPrevious(){try{return JSON.parse(await fs.readFile("data/catalog.json","utf8"));}catch{return{albums:[]};}}
 
-function startsWithName(title, name) {
-  const t = normalize(title);
-  const n = normalize(name);
-  return t === n || t.startsWith(`${n} `);
-}
+function pageName($,fallback=""){return ($("h1").first().text()||$("title").text().split("|")[0]||fallback).replace(/\s+/g," ").trim();}
+function extractAlbumLinks($,context={}){const found=[];$('a[href*="/albums/"]').each((_,el)=>{const href=$(el).attr("href"),id=href?.match(/\/albums\/(\d+)/)?.[1];if(!id)return;const card=$(el).closest("li,.album__main,.showindex__children,.album__item"),title=($(el).attr("title")||card.find(".album__title,.showindex__children__title").text()||$(el).text()).replace(/\s+/g," ").trim();if(!title)return;found.push({sourceId:id,title,sourceUrl:absolute(href),collectionId:context.collectionId||collectionId(href),sourceCollection:context.sourceCollection||"",categoryId:context.categoryId||categoryId(href),sourceCategory:context.sourceCategory||"",...classify(title,context.sourceCollection||context.sourceCategory||"",context.categoryId||categoryId(href))});});return[...new Map(found.map(a=>[String(a.sourceId),a])).values()];}
+function extractCategoryLinks($){const m=new Map();$('a[href*="/categories/"]').each((_,el)=>{const href=$(el).attr("href"),id=categoryId(href);if(!id)return;const name=($(el).attr("title")||$(el).text()).replace(/\s+/g," ").trim();m.set(id,{id,name,url:`${base}/categories/${id}?isSubCate=true`});});return[...m.values()];}
 
-function productType(title) {
-  const t = normalize(title);
-  const types = [];
-  if (/\bretro\b/.test(t)) types.push("Retro");
-  if (/\b(kids?|baby)\b/.test(t)) types.push("Kids");
-  if (/\b(women|womens|ladies)\b/.test(t)) types.push("Dames");
-  if (/\btraining\b|\beqt\b/.test(t)) types.push("Training");
-  if (/\bgoalkeeper\b/.test(t)) types.push("Keepers");
-  if (/\blong sleeve\b/.test(t)) types.push("Lange mouw");
-  if (/\bplayer version\b/.test(t)) types.push("Player version");
-  if (/\bspecial edition\b|\bcommemorative\b|\banniversary\b/.test(t)) types.push("Special edition");
-  return types;
-}
+async function getCollections(){const $=cheerio.load(await html(`${base}/albums`)),m=new Map();$('a[href*="/collections/"]').each((_,el)=>{const href=$(el).attr("href"),id=collectionId(href),name=$(el).clone().children().remove().end().text().replace(/\s+/g," ").trim();if(id&&name&&!/^\d+\s*(个)?$/.test(name))m.set(id,name);});return m;}
+async function indexPage(page,collections){await sleep(150);const $=cheerio.load(await html(`${base}/albums?page=${page}`)),a=extractAlbumLinks($);return a.map(x=>{const sourceCollection=collections.get(x.collectionId)||x.sourceCollection||"";return{...x,sourceCollection,...classify(x.title,sourceCollection,x.categoryId)};});}
 
-function clubFromTitle(title = "") {
-  const cleaned = title.replace(/^\d+\s*/, "").trim();
-  const season = cleaned.search(/\b(?:19|20)?\d{2}[/-]\d{2}\b|\b\d{2}[/-]\d{2}\b|\b2026\b/i);
-  return season > 0 ? cleaned.slice(0, season).trim() : cleaned.split(/\s+/).slice(0, 2).join(" ") || "Overig";
-}
+async function discoverCategorySeeds(){const seeds=new Map([["718623",{id:"718623",name:"Barcelona",url:`${base}/categories/718623?isSubCate=true`}]]);for(const url of [`${base}/`,`${base}/albums`]){try{const $=cheerio.load(await html(url));for(const c of extractCategoryLinks($))seeds.set(c.id,c);}catch(e){console.error(`Categorie-index ${url}: ${e.message}`);}}for(const id of String(process.env.SYNC_CATEGORY_IDS||"").split(",").map(x=>x.trim()).filter(Boolean))seeds.set(id,{id,name:"",url:`${base}/categories/${id}?isSubCate=true`});return[...seeds.values()];}
+async function crawlCategories(){const queue=await discoverCategorySeeds(),seen=new Set(),albums=[];while(queue.length){const cat=queue.shift();if(seen.has(cat.id))continue;seen.add(cat.id);let empty=0;for(let page=1;page<=categoryPages;page++){const u=`${base}/categories/${cat.id}?isSubCate=true&page=${page}`;try{await sleep(150);const $=cheerio.load(await html(u)),name=pageName($,cat.name||`Categorie ${cat.id}`),found=extractAlbumLinks($,{categoryId:cat.id,sourceCategory:name,sourceCollection:name});albums.push(...found);for(const sub of extractCategoryLinks($))if(!seen.has(sub.id))queue.push(sub);console.log(`Categorie ${cat.id} pagina ${page}: ${found.length} albums`);if(found.length===0)empty++;else empty=0;if(empty>=2)break;}catch(e){console.error(`Categorie ${cat.id} pagina ${page}: ${e.message}`);break;}}}return albums;}
 
-function classify(title, sourceCollection = "") {
-  const notice = /new notice|large stock|existing customers|contact customer/i.test(sourceCollection);
-  const countryTeam = COUNTRY_TEAMS.find(name => startsWithName(title, name));
-  if (countryTeam) return { section: "Landenteams", country: countryTeam, competition: "WK & landenteams", club: countryTeam, types: productType(title) };
+function productImages($){const out=[];$("img").each((_,el)=>{const raw=$(el).attr("data-origin-src")||$(el).attr("data-src")||$(el).attr("data-lazy")||$(el).attr("src"),url=absolute(raw);if(url&&/^https:\/\/photo\.yupoo\.com\/minkang\//i.test(url)&&!/\/(?:square|small|thumb)[^/]*\.(?:jpg|jpeg|png|webp)(?:\?|$)/i.test(url))out.push(url);});return[...new Set(out)].slice(0,maxImages);}
+async function localImagesExist(a){if(!a?.images?.length)return false;return(await Promise.all(a.images.map(async i=>{try{await fs.access(i.replace(/^\.\//,""));return true;}catch{return false;}}))).every(Boolean);}
+async function saveImage(url,id,index){const dir=path.join("assets","albums",String(id));await fs.mkdir(dir,{recursive:true});const file=path.join(dir,`${String(index+1).padStart(2,"0")}.webp`),buf=Buffer.from(await(await request(url)).arrayBuffer());await sharp(buf).rotate().resize({width:index===0?700:1200,withoutEnlargement:true}).webp({quality:80}).toFile(file);return`./${file.replaceAll(path.sep,"/")}`;}
+async function inspectAlbum(album){return limit(async()=>{await sleep(200);const $=cheerio.load(await html(album.sourceUrl)),title=pageName($,album.title),sourceImages=productImages($);return{...album,title,...classify(title,album.sourceCollection||album.sourceCategory,album.categoryId),sourceImages};});}
+async function downloadAlbum(a){const images=[];for(const[index,url]of a.sourceImages.entries()){try{images.push(await saveImage(url,a.sourceId,index));}catch(e){console.error(`Foto ${a.sourceId}/${index+1}: ${e.message}`);}}return{...a,coverUrl:images[0]||null,images,imageCount:images.length,updatedAt:new Date().toISOString()};}
+const sameArray=(a=[],b=[])=>a.length===b.length&&a.every((v,i)=>v===b[i]);
 
-  for (const league of LEAGUES) {
-    const club = [...league.clubs].sort((a, b) => b.length - a.length).find(name => startsWithName(title, name));
-    if (club) return { section: "Clubteams", country: league.country, competition: league.competition, club, types: productType(title) };
-  }
-
-  const cleanCollection = notice || !sourceCollection || sourceCollection === "Overige collectie" ? "" : sourceCollection.trim();
-  if (/fifa world cup|national team|euro 20/i.test(cleanCollection)) {
-    return { section: "Landenteams", country: countryTeam || "Overige landen", competition: "WK & landenteams", club: countryTeam || clubFromTitle(title), types: productType(title) };
-  }
-  if (cleanCollection && !/^new season$/i.test(cleanCollection)) {
-    return { section: "Overige competities", country: "Overig", competition: cleanCollection, club: clubFromTitle(title), types: productType(title) };
-  }
-  return { section: "Nog te categoriseren", country: "Overig", competition: "Nog te categoriseren", club: clubFromTitle(title), types: productType(title) };
-}
-
-async function request(url, attempt = 1) {
-  const response = await fetch(url, {
-    headers: {
-      "user-agent": "Mozilla/5.0 FootballshirtsNL-CatalogSync/5.0",
-      "accept-language": "nl-NL,nl;q=0.9,en;q=0.8",
-      referer: `${base}/`
-    }
-  });
-
-  if ((response.status === 429 || response.status >= 500) && attempt < 4) {
-    await sleep(1000 * attempt);
-    return request(url, attempt + 1);
-  }
-  if (!response.ok) throw new Error(`${response.status} ${url}`);
-  return response;
-}
-
-const html = async url => (await request(url)).text();
-const absolute = url => !url ? null : url.startsWith("http") ? url : new URL(url, base).href;
-const collectionId = (url = "") => url.match(/\/collections\/(\d+)/)?.[1] || url.match(/[?&]referrercate=(\d+)/)?.[1] || null;
-
-async function loadPrevious() {
-  try {
-    return JSON.parse(await fs.readFile("data/catalog.json", "utf8"));
-  } catch {
-    return { albums: [] };
-  }
-}
-
-async function getCollections() {
-  const $ = cheerio.load(await html(`${base}/albums`));
-  const map = new Map();
-  $('a[href*="/collections/"]').each((_, el) => {
-    const href = $(el).attr("href");
-    const id = collectionId(href);
-    const name = $(el).clone().children().remove().end().text().replace(/\s+/g, " ").trim();
-    if (id && name && !/^\d+\s*(个)?$/.test(name)) map.set(id, name);
-  });
-  return map;
-}
-
-async function indexPage(page, collections) {
-  await sleep(200);
-  const $ = cheerio.load(await html(`${base}/albums?page=${page}`));
-  const found = [];
-
-  $('a[href*="/albums/"]').each((_, el) => {
-    const href = $(el).attr("href");
-    const id = href?.match(/\/albums\/(\d+)/)?.[1];
-    if (!id) return;
-
-    const card = $(el).closest("li,.album__main,.showindex__children,.album__item");
-    const title = ($(el).attr("title") || card.find(".album__title,.showindex__children__title").text() || $(el).text()).replace(/\s+/g, " ").trim();
-    if (!title) return;
-
-    const cid = collectionId(href);
-    const sourceCollection = collections.get(cid) || "";
-    found.push({ sourceId: id, title, sourceUrl: absolute(href), collectionId: cid, sourceCollection, ...classify(title, sourceCollection) });
-  });
-
-  return [...new Map(found.map(album => [album.sourceId, album])).values()];
-}
-
-function imageCandidate($, el) {
-  const raw = $(el).attr("data-origin-src") || $(el).attr("data-src") || $(el).attr("data-lazy") || $(el).attr("src");
-  const url = absolute(raw);
-  if (!url) return null;
-  if (!/^https:\/\/photo\.yupoo\.com\/minkang\//i.test(url)) return null;
-  if (/\/(?:square|small|thumb)[^/]*\.(?:jpg|jpeg|png|webp)(?:\?|$)/i.test(url)) return null;
-  return url;
-}
-
-function productImages($) {
-  const urls = [];
-  $("img").each((_, el) => {
-    const url = imageCandidate($, el);
-    if (url) urls.push(url);
-  });
-  return [...new Set(urls)].slice(0, maxImages);
-}
-
-async function localImagesExist(album) {
-  if (!album?.images?.length) return false;
-  const checks = await Promise.all(album.images.map(async image => {
-    try {
-      await fs.access(image.replace(/^\.\//, ""));
-      return true;
-    } catch {
-      return false;
-    }
-  }));
-  return checks.every(Boolean);
-}
-
-async function saveImage(url, id, index) {
-  const dir = path.join("assets", "albums", String(id));
-  await fs.mkdir(dir, { recursive: true });
-  const file = path.join(dir, `${String(index + 1).padStart(2, "0")}.webp`);
-  const buffer = Buffer.from(await (await request(url)).arrayBuffer());
-  await sharp(buffer)
-    .rotate()
-    .resize({ width: index === 0 ? 700 : 1200, withoutEnlargement: true })
-    .webp({ quality: 80 })
-    .toFile(file);
-  return `./${file.replaceAll(path.sep, "/")}`;
-}
-
-async function inspectAlbum(album) {
-  return limit(async () => {
-    await sleep(250);
-    const $ = cheerio.load(await html(album.sourceUrl));
-    const title = ($("h1").first().text() || $("title").text().split("|")[0] || album.title).replace(/\s+/g, " ").trim();
-    const sourceImages = productImages($);
-    return { ...album, title, ...classify(title, album.sourceCollection), sourceImages };
-  });
-}
-
-async function downloadAlbum(inspected) {
-  const images = [];
-  for (const [index, url] of inspected.sourceImages.entries()) {
-    try {
-      images.push(await saveImage(url, inspected.sourceId, index));
-    } catch (error) {
-      console.error(`Foto ${inspected.sourceId}/${index + 1}: ${error.message}`);
-    }
-  }
-
-  return {
-    ...inspected,
-    coverUrl: images[0] || null,
-    images,
-    imageCount: images.length,
-    updatedAt: new Date().toISOString()
-  };
-}
-
-function sameArray(a = [], b = []) {
-  return a.length === b.length && a.every((value, index) => value === b[index]);
-}
-
-await fs.mkdir("data", { recursive: true });
-await fs.mkdir("assets/albums", { recursive: true });
-
-const previous = await loadPrevious();
-const previousById = new Map((previous.albums || []).map(album => [String(album.sourceId), album]));
-const collections = await getCollections();
-const discovered = [];
-
-let emptyPagesInARow = 0;
-for (let page = 1; page <= pages; page++) {
-  try {
-    const pageAlbums = await indexPage(page, collections);
-    discovered.push(...pageAlbums);
-    emptyPagesInARow = pageAlbums.length ? 0 : emptyPagesInARow + 1;
-    console.log(`Index ${page}/${pages}: ${pageAlbums.length} albums`);
-    if (emptyPagesInARow >= 3) {
-      console.log("Drie lege pagina's achter elkaar; indexeren gestopt.");
-      break;
-    }
-  } catch (error) {
-    console.error(`Index ${page}: ${error.message}`);
-  }
-}
-
-const current = [...new Map(discovered.map(album => [String(album.sourceId), album])).values()];
-const inspectedResults = await Promise.all(current.map(async item => {
-  try {
-    return await inspectAlbum(item);
-  } catch (error) {
-    console.error(`Albumcontrole ${item.sourceId}: ${error.message}`);
-    return { ...item, sourceImages: null, inspectionFailed: true };
-  }
-}));
-
-const albums = [];
-let added = 0;
-let changed = 0;
-let unchanged = 0;
-let repaired = 0;
-let skipped = 0;
-
-for (const item of inspectedResults) {
-  const old = previousById.get(String(item.sourceId));
-  const assetsOkay = old ? await localImagesExist(old) : false;
-  const metadata = { ...old, ...item };
-  delete metadata.inspectionFailed;
-
-  if (item.inspectionFailed) {
-    if (old && assetsOkay) {
-      albums.push(old);
-      skipped++;
-    }
-    continue;
-  }
-
-  const metadataChanged = Boolean(old) && ["title", "section", "country", "competition", "club", "sourceCollection"].some(key => old[key] !== metadata[key]);
-  const remoteImagesChanged = !old || !Array.isArray(old.sourceImages) || !sameArray(old.sourceImages, item.sourceImages);
-  const needsDownload = !old || !assetsOkay || remoteImagesChanged;
-
-  if (!needsDownload) {
-    const kept = {
-      ...old,
-      ...item,
-      images: old.images,
-      coverUrl: old.coverUrl || old.images?.[0] || null,
-      imageCount: old.images?.length || 0,
-      updatedAt: old.updatedAt
-    };
-    albums.push(kept);
-    metadataChanged ? changed++ : unchanged++;
-    continue;
-  }
-
-  try {
-    const imported = await downloadAlbum(item);
-    if (imported.images.length) {
-      albums.push(imported);
-      if (!old) added++;
-      else if (!assetsOkay) repaired++;
-      else changed++;
-    } else if (old && assetsOkay) {
-      albums.push(old);
-      skipped++;
-    }
-  } catch (error) {
-    console.error(`Album ${item.sourceId}: ${error.message}`);
-    if (old && assetsOkay) {
-      albums.push(old);
-      skipped++;
-    }
-  }
-}
-
-const cleanAlbums = albums
-  .filter(album => album.images?.length)
-  .sort((a, b) => String(b.sourceId).localeCompare(String(a.sourceId), undefined, { numeric: true }));
-
-const competitions = [...new Set(cleanAlbums.map(album => album.competition))].sort((a, b) => a.localeCompare(b, "nl"));
-const stable = { source: base, total: cleanAlbums.length, competitions, albums: cleanAlbums };
-const oldStable = { source: previous.source, total: previous.total, competitions: previous.competitions, albums: previous.albums };
-
-if (JSON.stringify(stable) !== JSON.stringify(oldStable)) {
-  const output = {
-    lastSync: new Date().toISOString(),
-    stats: { added, changed, unchanged, repaired, skipped },
-    ...stable
-  };
-  await fs.writeFile("data/catalog.json.tmp", JSON.stringify(output, null, 2));
-  await fs.rename("data/catalog.json.tmp", "data/catalog.json");
-  console.log(`Bijgewerkt: nieuw ${added}, gewijzigd ${changed}, hersteld ${repaired}, ongewijzigd ${unchanged}, overgeslagen ${skipped}`);
-} else {
-  console.log("Geen inhoudelijke wijzigingen; catalogus niet aangepast.");
-}
-
+await fs.mkdir("data",{recursive:true});await fs.mkdir("assets/albums",{recursive:true});
+const previous=await loadPrevious(),previousById=new Map((previous.albums||[]).map(a=>[String(a.sourceId),a])),collections=await getCollections(),discovered=[];
+let empty=0;for(let page=1;page<=pages;page++){try{const a=await indexPage(page,collections);discovered.push(...a);console.log(`Algemene index ${page}/${pages}: ${a.length} albums`);empty=a.length?0:empty+1;if(empty>=3)break;}catch(e){console.error(`Algemene index ${page}: ${e.message}`);}}
+discovered.push(...await crawlCategories());
+const merged=new Map();for(const a of discovered){const id=String(a.sourceId),old=merged.get(id);merged.set(id,old?{...old,...a,categoryId:a.categoryId||old.categoryId,sourceCategory:a.sourceCategory||old.sourceCategory}:a);}
+const current=[...merged.values()],inspected=await Promise.all(current.map(async a=>{try{return await inspectAlbum(a);}catch(e){console.error(`Albumcontrole ${a.sourceId}: ${e.message}`);return{...a,inspectionFailed:true};}}));
+const albums=[];let added=0,changed=0,unchanged=0,repaired=0,skipped=0;
+for(const item of inspected){const old=previousById.get(String(item.sourceId)),assetsOkay=old?await localImagesExist(old):false;if(item.inspectionFailed){if(old&&assetsOkay){albums.push(old);skipped++;}continue;}const metadataChanged=!!old&&["title","section","country","competition","club","sourceCollection","sourceCategory","categoryId"].some(k=>old[k]!==item[k]),remoteChanged=!old||!Array.isArray(old.sourceImages)||!sameArray(old.sourceImages,item.sourceImages),needsDownload=!old||!assetsOkay||remoteChanged;if(!needsDownload){albums.push({...old,...item,images:old.images,coverUrl:old.coverUrl||old.images?.[0]||null,imageCount:old.images?.length||0,updatedAt:old.updatedAt});metadataChanged?changed++:unchanged++;continue;}try{const imported=await downloadAlbum(item);if(imported.images.length){albums.push(imported);if(!old)added++;else if(!assetsOkay)repaired++;else changed++;}else if(old&&assetsOkay){albums.push(old);skipped++;}}catch(e){console.error(`Album ${item.sourceId}: ${e.message}`);if(old&&assetsOkay){albums.push(old);skipped++;}}}
+const cleanAlbums=albums.filter(a=>a.images?.length).sort((a,b)=>String(b.sourceId).localeCompare(String(a.sourceId),undefined,{numeric:true})),competitions=[...new Set(cleanAlbums.map(a=>a.competition))].sort((a,b)=>a.localeCompare(b,"nl")),stable={source:base,total:cleanAlbums.length,competitions,albums:cleanAlbums},oldStable={source:previous.source,total:previous.total,competitions:previous.competitions,albums:previous.albums};
+if(JSON.stringify(stable)!==JSON.stringify(oldStable)){const output={lastSync:new Date().toISOString(),stats:{added,changed,unchanged,repaired,skipped},...stable};await fs.writeFile("data/catalog.json.tmp",JSON.stringify(output,null,2));await fs.rename("data/catalog.json.tmp","data/catalog.json");console.log(`Bijgewerkt: nieuw ${added}, gewijzigd ${changed}, hersteld ${repaired}, ongewijzigd ${unchanged}, overgeslagen ${skipped}`);}else console.log("Geen inhoudelijke wijzigingen; catalogus niet aangepast.");
