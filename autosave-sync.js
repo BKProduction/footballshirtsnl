@@ -1,136 +1,111 @@
-import { spawn, spawnSync } from "node:child_process";
+import { spawn } from "node:child_process";
+import { execFile } from "node:child_process";
+import { promisify } from "node:util";
 
-const intervalMinutes = Math.max(
+const execFileAsync = promisify(execFile);
+
+const CHECKPOINT_MINUTES = Math.max(
   1,
   Number(process.env.CHECKPOINT_MINUTES || 5)
 );
 
-const intervalMs =
-  intervalMinutes * 60 * 1000;
+const CHECKPOINT_INTERVAL = CHECKPOINT_MINUTES * 60 * 1000;
 
-let busy = false;
-let finished = false;
+let checkpointRunning = false;
+let syncFinished = false;
 
-function run(
-  command,
-  args,
-  options = {}
-) {
-  return spawnSync(
-    command,
-    args,
-    {
-      stdio: "inherit",
-      ...options
-    }
-  );
+async function git(args) {
+  return execFileAsync("git", args, {
+    maxBuffer: 20 * 1024 * 1024
+  });
 }
 
-function checkpoint(
-  label = "automatic checkpoint"
-) {
-  if (busy) {
+async function createCheckpoint(reason = "autosave") {
+  if (checkpointRunning) {
+    console.log("[checkpoint] Vorige checkpoint is nog bezig; overgeslagen");
     return;
   }
 
-  busy = true;
+  checkpointRunning = true;
 
   try {
-    run(
-      "git",
-      [
-        "add",
-        "assets/products",
-        "data/catalog.json",
-        "data/catalog.json.tmp"
-      ],
-      {
-        stdio: "ignore"
-      }
-    );
+    console.log(`[checkpoint] Start checkpoint: ${reason}`);
 
-    const diff = spawnSync(
-      "git",
-      [
-        "diff",
-        "--cached",
-        "--quiet"
-      ]
-    );
+    await git([
+      "config",
+      "user.name",
+      "footballshirtsnl-sync"
+    ]);
 
-    if (diff.status === 0) {
-      console.log(
-        `[checkpoint] Geen nieuwe bestanden om op te slaan (${label}).`
-      );
+    await git([
+      "config",
+      "user.email",
+      "footballshirtsnl-sync@users.noreply.github.com"
+    ]);
 
+    await git(["add", "-A"]);
+
+    const { stdout: status } = await git([
+      "status",
+      "--porcelain"
+    ]);
+
+    if (!status.trim()) {
+      console.log("[checkpoint] Geen nieuwe bestanden om op te slaan");
       return;
     }
 
-    run(
-      "git",
-      [
-        "config",
-        "user.name",
-        "github-actions[bot]"
-      ]
-    );
+    const timestamp = new Date().toISOString();
 
-    run(
-      "git",
-      [
-        "config",
-        "user.email",
-        "41898282+github-actions[bot]@users.noreply.github.com"
-      ]
-    );
+    await git([
+      "commit",
+      "-m",
+      `Autosave FootballshirtsNL ${timestamp}`
+    ]);
 
-    const stamp =
-      new Date().toISOString();
-
-    const commit = run(
-      "git",
-      [
-        "commit",
-        "-m",
-        `Catalog checkpoint ${stamp}`
-      ]
-    );
-
-    if (commit.status !== 0) {
-      console.log(
-        "[checkpoint] Commit kon niet worden gemaakt."
-      );
-      return;
-    }
-
-    const branch =
-      process.env.GITHUB_REF_NAME ||
-      "main";
-
-    const push = run(
-      "git",
-      [
-        "push",
+    /*
+     * Een eerdere checkpoint kan ondertussen de remote branch
+     * gewijzigd hebben. Daarom eerst rebasen voordat we pushen.
+     */
+    try {
+      await git([
+        "pull",
+        "--rebase",
+        "--autostash",
         "origin",
-        `HEAD:${branch}`
-      ]
-    );
-
-    if (push.status === 0) {
+        "main"
+      ]);
+    } catch (error) {
       console.log(
-        `[checkpoint] Tussentijds opgeslagen: ${stamp}`
-      );
-    } else {
-      console.log(
-        "[checkpoint] Push van checkpoint is mislukt."
+        "[checkpoint] Pull/rebase niet gelukt:",
+        error.stderr || error.message
       );
     }
+
+    await git([
+      "push",
+      "origin",
+      "HEAD:main"
+    ]);
+
+    console.log(
+      `[checkpoint] Voortgang opgeslagen en gepusht: ${timestamp}`
+    );
+  } catch (error) {
+    console.error(
+      "[checkpoint] Opslaan mislukt:",
+      error.stderr || error.stdout || error.message
+    );
   } finally {
-    busy = false;
+    checkpointRunning = false;
   }
 }
 
-const child = spawn(
+console.log(
+  `[autosave] sync.js wordt gestart; checkpoint iedere ${CHECKPOINT_MINUTES} minuten`
+);
+
+const sync = spawn(
   process.execPath,
   ["sync.js"],
   {
@@ -139,43 +114,66 @@ const child = spawn(
   }
 );
 
-const timer = setInterval(
-  () => checkpoint("interval"),
-  intervalMs
-);
-
-for (
-  const signal of [
-    "SIGINT",
-    "SIGTERM"
-  ]
-) {
-  process.on(
-    signal,
-    () => {
-      if (!finished) {
-        checkpoint(
-          `voor ${signal}`
-        );
-      }
-
-      child.kill(signal);
-    }
-  );
-}
-
-child.on(
-  "exit",
-  code => {
-    finished = true;
-
-    clearInterval(timer);
-
-    checkpoint(
-      "einde sync"
-    );
-
-    process.exitCode =
-      code ?? 1;
+const checkpointTimer = setInterval(() => {
+  if (!syncFinished) {
+    createCheckpoint("periodiek");
   }
-);
+}, CHECKPOINT_INTERVAL);
+
+sync.on("error", async error => {
+  console.error("[autosave] sync.js kon niet worden gestart:", error);
+
+  syncFinished = true;
+  clearInterval(checkpointTimer);
+
+  await createCheckpoint("sync startfout");
+
+  process.exitCode = 1;
+});
+
+sync.on("exit", async (code, signal) => {
+  syncFinished = true;
+  clearInterval(checkpointTimer);
+
+  if (signal) {
+    console.log(`[autosave] sync.js beëindigd door signaal: ${signal}`);
+  } else {
+    console.log(`[autosave] sync.js beëindigd met code: ${code}`);
+  }
+
+  /*
+   * Ook bij het einde van sync.js nog één checkpoint proberen.
+   * Zo worden de laatst geschreven catalogus/foto's meegenomen.
+   */
+  await createCheckpoint("einde sync");
+
+  if (signal || code !== 0) {
+    process.exitCode = code || 1;
+  } else {
+    process.exitCode = 0;
+  }
+});
+
+process.on("SIGINT", async () => {
+  console.log("[autosave] SIGINT ontvangen");
+
+  clearInterval(checkpointTimer);
+
+  await createCheckpoint("SIGINT");
+
+  if (!sync.killed) {
+    sync.kill("SIGINT");
+  }
+});
+
+process.on("SIGTERM", async () => {
+  console.log("[autosave] SIGTERM ontvangen");
+
+  clearInterval(checkpointTimer);
+
+  await createCheckpoint("SIGTERM");
+
+  if (!sync.killed) {
+    sync.kill("SIGTERM");
+  }
+});
