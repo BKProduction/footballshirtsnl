@@ -65,17 +65,48 @@ const BATCH_SIZE = Math.max(
 
 const limit = pLimit(CONCURRENCY);
 
-const sleep = ms =>
-  new Promise(resolve => setTimeout(resolve, ms));
+const sleep = milliseconds =>
+  new Promise(resolve => setTimeout(resolve, milliseconds));
 
 const COUNTRY_TEAMS = [
-  "Argentina","Australia","Austria","Belgium","Brazil","Canada",
-  "Chile","China","Colombia","Croatia","Denmark","Ecuador",
-  "England","France","Germany","Ghana","Italy","Japan","Mexico",
-  "Morocco","Netherlands","Nigeria","Norway","Poland","Portugal",
-  "Saudi Arabia","Scotland","Senegal","South Korea","Spain",
-  "Sweden","Switzerland","Turkey","Tunisia","Uruguay","USA",
-  "United States","Wales"
+  "Argentina",
+  "Australia",
+  "Austria",
+  "Belgium",
+  "Brazil",
+  "Canada",
+  "Chile",
+  "China",
+  "Colombia",
+  "Croatia",
+  "Denmark",
+  "Ecuador",
+  "England",
+  "France",
+  "Germany",
+  "Ghana",
+  "Italy",
+  "Japan",
+  "Mexico",
+  "Morocco",
+  "Netherlands",
+  "Nigeria",
+  "Norway",
+  "Poland",
+  "Portugal",
+  "Saudi Arabia",
+  "Scotland",
+  "Senegal",
+  "South Korea",
+  "Spain",
+  "Sweden",
+  "Switzerland",
+  "Turkey",
+  "Tunisia",
+  "Uruguay",
+  "USA",
+  "United States",
+  "Wales"
 ];
 
 const LEAGUES = [
@@ -83,71 +114,180 @@ const LEAGUES = [
     country: "Engeland",
     competition: "Premier League",
     clubs: [
-      "Arsenal","Aston Villa","Bournemouth","Brentford","Brighton",
-      "Burnley","Chelsea","Crystal Palace","Everton","Fulham",
-      "Leeds United","Liverpool","Manchester City","Manchester United",
-      "M-U","Newcastle United","Nottingham Forest","Sunderland",
-      "Tottenham","West Ham","Wolverhampton","Wolves"
+      "Arsenal",
+      "Aston Villa",
+      "Bournemouth",
+      "Brentford",
+      "Brighton",
+      "Burnley",
+      "Chelsea",
+      "Crystal Palace",
+      "Everton",
+      "Fulham",
+      "Leeds United",
+      "Liverpool",
+      "Manchester City",
+      "Manchester United",
+      "M-U",
+      "Newcastle United",
+      "Nottingham Forest",
+      "Sunderland",
+      "Tottenham",
+      "West Ham",
+      "Wolverhampton",
+      "Wolves"
     ]
   },
   {
     country: "Spanje",
     competition: "La Liga",
     clubs: [
-      "Alavés","Athletic Bilbao","Atlético Madrid","Barcelona",
-      "Celta Vigo","Elche","Espanyol","Getafe","Girona","Levante",
-      "Mallorca","Osasuna","Rayo Vallecano","Real Betis","Real Madrid",
-      "Real Oviedo","Real Sociedad","Sevilla","Valencia","Villarreal"
+      "Alavés",
+      "Athletic Bilbao",
+      "Atlético Madrid",
+      "Barcelona",
+      "Celta Vigo",
+      "Elche",
+      "Espanyol",
+      "Getafe",
+      "Girona",
+      "Levante",
+      "Mallorca",
+      "Osasuna",
+      "Rayo Vallecano",
+      "Real Betis",
+      "Real Madrid",
+      "Real Oviedo",
+      "Real Sociedad",
+      "Sevilla",
+      "Valencia",
+      "Villarreal"
     ]
   },
   {
     country: "Italië",
     competition: "Serie A",
     clubs: [
-      "AC Milan","Atalanta","Bologna","Cagliari","Como","Cremonese",
-      "Fiorentina","Genoa","Inter Milan","Inter","Juventus","Lazio",
-      "Lecce","Napoli","Parma","Pisa","Roma","Sassuolo","Torino",
-      "Udinese","Venezia","Verona"
+      "AC Milan",
+      "Atalanta",
+      "Bologna",
+      "Cagliari",
+      "Como",
+      "Cremonese",
+      "Fiorentina",
+      "Genoa",
+      "Inter Milan",
+      "Inter",
+      "Juventus",
+      "Lazio",
+      "Lecce",
+      "Napoli",
+      "Parma",
+      "Pisa",
+      "Roma",
+      "Sassuolo",
+      "Torino",
+      "Udinese",
+      "Venezia",
+      "Verona"
     ]
   },
   {
     country: "Duitsland",
     competition: "Bundesliga",
     clubs: [
-      "Augsburg","Bayer Leverkusen","Bayern Munich","Borussia Dortmund",
-      "Borussia Mönchengladbach","Eintracht Frankfurt","FC Köln",
-      "Freiburg","Hamburg","Heidenheim","Hoffenheim","Mainz",
-      "RB Leipzig","St. Pauli","Stuttgart","Union Berlin",
-      "Werder Bremen","Wolfsburg"
+      "Augsburg",
+      "Bayer Leverkusen",
+      "Bayern Munich",
+      "Borussia Dortmund",
+      "Borussia Mönchengladbach",
+      "Eintracht Frankfurt",
+      "FC Köln",
+      "Freiburg",
+      "Hamburg",
+      "Heidenheim",
+      "Hoffenheim",
+      "Mainz",
+      "RB Leipzig",
+      "St. Pauli",
+      "Stuttgart",
+      "Union Berlin",
+      "Werder Bremen",
+      "Wolfsburg"
     ]
   },
   {
     country: "Frankrijk",
     competition: "Ligue 1",
     clubs: [
-      "Auxerre","Angers","Brest","Le Havre","Lens","Lille","Lorient",
-      "Lyon","Marseille","Metz","Monaco","Nantes","Nice","Paris FC",
-      "PSG","Rennes","Strasbourg","Toulouse"
+      "Auxerre",
+      "Angers",
+      "Brest",
+      "Le Havre",
+      "Lens",
+      "Lille",
+      "Lorient",
+      "Lyon",
+      "Marseille",
+      "Metz",
+      "Monaco",
+      "Nantes",
+      "Nice",
+      "Paris FC",
+      "PSG",
+      "Rennes",
+      "Strasbourg",
+      "Toulouse"
     ]
   },
   {
     country: "Nederland",
     competition: "Eredivisie",
     clubs: [
-      "Ajax","AZ Alkmaar","Excelsior","Feyenoord","Fortuna Sittard",
-      "Go Ahead Eagles","Groningen","Heerenveen","Heracles","NAC Breda",
-      "NEC","PEC Zwolle","PSV","Sparta Rotterdam","Telstar","Twente",
-      "Utrecht","Volendam"
+      "Ajax",
+      "AZ Alkmaar",
+      "Excelsior",
+      "Feyenoord",
+      "Fortuna Sittard",
+      "Go Ahead Eagles",
+      "Groningen",
+      "Heerenveen",
+      "Heracles",
+      "NAC Breda",
+      "NEC",
+      "PEC Zwolle",
+      "PSV",
+      "Sparta Rotterdam",
+      "Telstar",
+      "Twente",
+      "Utrecht",
+      "Volendam"
     ]
   },
   {
     country: "Brazilië",
     competition: "Brasileiro Série A",
     clubs: [
-      "Atlético Mineiro","Bahia","Botafogo","Bragantino","Ceará",
-      "Corinthians","Cruzeiro","Flamengo","Fluminense","Fortaleza",
-      "Grêmio","Gremio","Internacional","Juventude","Mirassol",
-      "Palmeiras","Santos","São Paulo","Sport Recife","Vasco da Gama",
+      "Atlético Mineiro",
+      "Bahia",
+      "Botafogo",
+      "Bragantino",
+      "Ceará",
+      "Corinthians",
+      "Cruzeiro",
+      "Flamengo",
+      "Fluminense",
+      "Fortaleza",
+      "Grêmio",
+      "Gremio",
+      "Internacional",
+      "Juventude",
+      "Mirassol",
+      "Palmeiras",
+      "Santos",
+      "São Paulo",
+      "Sport Recife",
+      "Vasco da Gama",
       "Vitória"
     ]
   },
@@ -155,17 +295,38 @@ const LEAGUES = [
     country: "Portugal",
     competition: "Primeira Liga",
     clubs: [
-      "Benfica","Boavista","Braga","Casa Pia","Estoril","Famalicão",
-      "Farense","Gil Vicente","Moreirense","Nacional","Porto","Rio Ave",
-      "Santa Clara","Sporting CP","Vitória SC"
+      "Benfica",
+      "Boavista",
+      "Braga",
+      "Casa Pia",
+      "Estoril",
+      "Famalicão",
+      "Farense",
+      "Gil Vicente",
+      "Moreirense",
+      "Nacional",
+      "Porto",
+      "Rio Ave",
+      "Santa Clara",
+      "Sporting CP",
+      "Vitória SC"
     ]
   },
   {
     country: "Schotland",
     competition: "Scottish Premiership",
     clubs: [
-      "Aberdeen","Celtic","Dundee","Dundee United","Falkirk","Hearts",
-      "Hibernian","Kilmarnock","Livingston","Motherwell","Rangers",
+      "Aberdeen",
+      "Celtic",
+      "Dundee",
+      "Dundee United",
+      "Falkirk",
+      "Hearts",
+      "Hibernian",
+      "Kilmarnock",
+      "Livingston",
+      "Motherwell",
+      "Rangers",
       "St Mirren"
     ]
   },
@@ -173,11 +334,23 @@ const LEAGUES = [
     country: "Verenigde Staten",
     competition: "MLS",
     clubs: [
-      "Atlanta United","Austin FC","Charlotte FC","Chicago Fire",
-      "Columbus Crew","DC United","Inter Miami","LA Galaxy",
-      "Los Angeles FC","Nashville SC","New York City",
-      "New York Red Bulls","Orlando City","Philadelphia Union",
-      "Portland Timbers","Seattle Sounders","Toronto FC",
+      "Atlanta United",
+      "Austin FC",
+      "Charlotte FC",
+      "Chicago Fire",
+      "Columbus Crew",
+      "DC United",
+      "Inter Miami",
+      "LA Galaxy",
+      "Los Angeles FC",
+      "Nashville SC",
+      "New York City",
+      "New York Red Bulls",
+      "Orlando City",
+      "Philadelphia Union",
+      "Portland Timbers",
+      "Seattle Sounders",
+      "Toronto FC",
       "Vancouver Whitecaps"
     ]
   }
@@ -249,45 +422,74 @@ function collectionId(url = "") {
 }
 
 function startsWithName(title, name) {
-  const t = normalize(title);
-  const n = normalize(name);
+  const normalizedTitle = normalize(title);
+  const normalizedName = normalize(name);
 
   return (
-    t === n ||
-    t.startsWith(`${n} `) ||
-    t.includes(` ${n} `)
+    normalizedTitle === normalizedName ||
+    normalizedTitle.startsWith(`${normalizedName} `) ||
+    normalizedTitle.includes(` ${normalizedName} `)
   );
 }
 
 function productTypes(title) {
-  const t = normalize(title);
-  const out = [];
+  const normalizedTitle = normalize(title);
+  const output = [];
 
-  if (/\bretro\b/.test(t)) out.push("Retro");
-  if (/\b(kids?|baby|youth)\b/.test(t)) out.push("Kids");
-  if (/\b(women|womens|ladies)\b/.test(t)) out.push("Dames");
-  if (/\btraining|pre match|tracksuit\b/.test(t)) out.push("Training");
-  if (/\bgoalkeeper\b/.test(t)) out.push("Keepers");
-  if (/\blong sleeve\b/.test(t)) out.push("Lange mouw");
-  if (/\bplayer version\b/.test(t)) out.push("Player version");
-
-  if (/\bspecial edition|commemorative|anniversary\b/.test(t)) {
-    out.push("Special edition");
+  if (/\bretro\b/.test(normalizedTitle)) {
+    output.push("Retro");
   }
 
-  return out;
+  if (/\b(kids?|baby|youth)\b/.test(normalizedTitle)) {
+    output.push("Kids");
+  }
+
+  if (/\b(women|womens|ladies)\b/.test(normalizedTitle)) {
+    output.push("Dames");
+  }
+
+  if (/\btraining|pre match|tracksuit\b/.test(normalizedTitle)) {
+    output.push("Training");
+  }
+
+  if (/\bgoalkeeper\b/.test(normalizedTitle)) {
+    output.push("Keepers");
+  }
+
+  if (/\blong sleeve\b/.test(normalizedTitle)) {
+    output.push("Lange mouw");
+  }
+
+  if (/\bplayer version\b/.test(normalizedTitle)) {
+    output.push("Player version");
+  }
+
+  if (
+    /\bspecial edition|commemorative|anniversary\b/.test(
+      normalizedTitle
+    )
+  ) {
+    output.push("Special edition");
+  }
+
+  return output;
 }
 
 function clubFromTitle(title = "") {
   const cleaned = title.replace(/^\d+\s*/, "").trim();
 
-  const index = cleaned.search(
+  const position = cleaned.search(
     /\b(?:19|20)?\d{2}[/-]\d{2}\b|\b\d{2}[/-]\d{2}\b|\b202[0-9]\b/i
   );
 
-  return index > 0
-    ? cleaned.slice(0, index).trim()
-    : cleaned.split(/\s+/).slice(0, 3).join(" ") || "Overig";
+  if (position > 0) {
+    return cleaned.slice(0, position).trim();
+  }
+
+  return (
+    cleaned.split(/\s+/).slice(0, 3).join(" ") ||
+    "Overig"
+  );
 }
 
 function productClass(
@@ -312,7 +514,9 @@ function productClass(
   );
 
   if (
-    /\b(handbag|hand bag|shoulder bag|tote bag|crossbody|clutch|purse|wallet|backpack|rucksack|travel bag|duffle|duffel|bag)\b/.test(all)
+    /\b(handbag|hand bag|shoulder bag|tote bag|crossbody|clutch|purse|wallet|backpack|rucksack|travel bag|duffle|duffel|bag)\b/.test(
+      all
+    )
   ) {
     return {
       section: "Mode & accessoires",
@@ -331,7 +535,9 @@ function productClass(
     };
   }
 
-  if (/\b(watch|watches|chronograph|timepiece)\b/.test(all)) {
+  if (
+    /\b(watch|watches|chronograph|timepiece)\b/.test(all)
+  ) {
     return {
       section: "Mode & accessoires",
       category: "Horloges",
@@ -356,7 +562,9 @@ function productClass(
   }
 
   if (
-    /\b(shoe|shoes|sneaker|sneakers|trainer shoes|boots|sandals|slippers|cleats)\b/.test(all)
+    /\b(shoe|shoes|sneaker|sneakers|trainer shoes|boots|sandals|slippers|cleats)\b/.test(
+      all
+    )
   ) {
     return {
       section: "Schoenen",
@@ -374,7 +582,9 @@ function productClass(
   }
 
   if (
-    /\b(ball|football|soccer ball|basketball|volleyball)\b/.test(all) &&
+    /\b(ball|football|soccer ball|basketball|volleyball)\b/.test(
+      all
+    ) &&
     !/shirt|jersey|kit|clothes|uniform/.test(all)
   ) {
     return {
@@ -393,7 +603,9 @@ function productClass(
   }
 
   if (
-    /\b(cap|hat|scarf|glove|sunglasses|jewelry|necklace|bracelet|earring|sock|socks)\b/.test(all)
+    /\b(cap|hat|scarf|glove|sunglasses|jewelry|necklace|bracelet|earring|sock|socks)\b/.test(
+      all
+    )
   ) {
     return {
       section: "Mode & accessoires",
@@ -406,25 +618,28 @@ function productClass(
     };
   }
 
-  const national = COUNTRY_TEAMS.find(
-    name => startsWithName(title, name)
+  const nationalTeam = COUNTRY_TEAMS.find(name =>
+    startsWithName(title, name)
   );
 
-  if (national) {
+  if (nationalTeam) {
     return {
       section: "Voetbal",
       category: "Landenteams",
       subcategory: "WK & landenteams",
-      country: national,
+      country: nationalTeam,
       competition: "WK & landenteams",
-      club: national,
+      club: nationalTeam,
       types: productTypes(title)
     };
   }
 
   for (const league of LEAGUES) {
     const club = [...league.clubs]
-      .sort((a, b) => b.length - a.length)
+      .sort(
+        (first, second) =>
+          second.length - first.length
+      )
       .find(name => startsWithName(title, name));
 
     if (club) {
@@ -441,7 +656,9 @@ function productClass(
   }
 
   if (
-    /\b(jersey|shirt|football|soccer|kit|uniform|training|windbreaker|tracksuit)\b/.test(all)
+    /\b(jersey|shirt|football|soccer|kit|uniform|training|windbreaker|tracksuit)\b/.test(
+      all
+    )
   ) {
     return {
       section: "Voetbal",
@@ -461,7 +678,9 @@ function productClass(
   }
 
   if (
-    /\b(t shirt|tshirt|hoodie|sweater|jacket|coat|pants|shorts|dress|skirt|clothing|apparel)\b/.test(all)
+    /\b(t shirt|tshirt|hoodie|sweater|jacket|coat|pants|shorts|dress|skirt|clothing|apparel)\b/.test(
+      all
+    )
   ) {
     return {
       section: "Mode & kleding",
@@ -509,24 +728,37 @@ async function request(source, url, attempt = 1) {
     attempt < 4
   ) {
     await sleep(1000 * attempt);
-    return request(source, url, attempt + 1);
+
+    return request(
+      source,
+      url,
+      attempt + 1
+    );
   }
 
   if (!response.ok) {
-    throw new Error(`${response.status} ${url}`);
+    throw new Error(
+      `${response.status} ${url}`
+    );
   }
 
   return response;
 }
 
 async function html(source, url) {
-  return (await request(source, url)).text();
+  const response =
+    await request(source, url);
+
+  return response.text();
 }
 
 async function loadPrevious() {
   try {
     return JSON.parse(
-      await fs.readFile("data/catalog.json", "utf8")
+      await fs.readFile(
+        "data/catalog.json",
+        "utf8"
+      )
     );
   } catch {
     return {
@@ -546,63 +778,88 @@ function pageTitle($, fallback = "") {
     .trim();
 }
 
-function extractLinks($, source, context = {}) {
+function extractLinks(
+  $,
+  source,
+  context = {}
+) {
   const products = [];
 
-  $('a[href*="/albums/"]').each((_, element) => {
-    const href = $(element).attr("href");
-    const sourceId = albumId(href);
+  $('a[href*="/albums/"]').each(
+    (_, element) => {
+      const href =
+        $(element).attr("href");
 
-    if (!sourceId) return;
+      const sourceId =
+        albumId(href);
 
-    const card = $(element).closest(
-      "li,.album__main,.showindex__children,.album__item"
-    );
+      if (!sourceId) return;
 
-    const title = (
-      $(element).attr("title") ||
-      card
-        .find(".album__title,.showindex__children__title")
-        .text() ||
-      $(element).text()
-    )
-      .replace(/\s+/g, " ")
-      .trim();
+      const card =
+        $(element).closest(
+          "li,.album__main,.showindex__children,.album__item"
+        );
 
-    if (!title || NON_PRODUCT.test(title)) return;
+      const title = (
+        $(element).attr("title") ||
+        card
+          .find(
+            ".album__title,.showindex__children__title"
+          )
+          .text() ||
+        $(element).text()
+      )
+        .replace(/\s+/g, " ")
+        .trim();
 
-    const foundCategoryId =
-      context.categoryId || categoryId(href);
+      if (
+        !title ||
+        NON_PRODUCT.test(title)
+      ) {
+        return;
+      }
 
-    const foundCollectionId =
-      context.collectionId || collectionId(href);
+      const foundCategoryId =
+        context.categoryId ||
+        categoryId(href);
 
-    const sourceCollection =
-      context.sourceCollection || "";
+      const foundCollectionId =
+        context.collectionId ||
+        collectionId(href);
 
-    const sourceCategory =
-      context.sourceCategory || "";
+      const sourceCollection =
+        context.sourceCollection || "";
 
-    products.push({
-      source: source.key,
-      sourcePriority: source.priority,
-      sourceId: String(sourceId),
-      uniqueKey: `${source.key}:${sourceId}`,
-      title,
-      sourceUrl: absolute(source, href),
-      categoryId: foundCategoryId,
-      collectionId: foundCollectionId,
-      sourceCollection,
-      sourceCategory,
-      ...productClass(
+      const sourceCategory =
+        context.sourceCategory || "";
+
+      products.push({
+        source: source.key,
+        sourcePriority:
+          source.priority,
+        sourceId:
+          String(sourceId),
+        uniqueKey:
+          `${source.key}:${sourceId}`,
         title,
+        sourceUrl:
+          absolute(source, href),
+        categoryId:
+          foundCategoryId,
+        collectionId:
+          foundCollectionId,
         sourceCollection,
         sourceCategory,
-        source.key,
-        foundCategoryId
-      )
-    });
-  });
+        ...productClass(
+          title,
+          sourceCollection,
+          sourceCategory,
+          source.key,
+          foundCategoryId
+        )
+      });
+    }
+  );
 
   return [
     ...new Map(
@@ -615,51 +872,72 @@ function extractLinks($, source, context = {}) {
 }
 
 function extractNavigation($) {
-  const categories = new Map();
-  const collections = new Map();
+  const categories =
+    new Map();
 
-  $('a[href*="/categories/"]').each((_, element) => {
-    const href = $(element).attr("href");
-    const id = categoryId(href);
+  const collections =
+    new Map();
 
-    if (id) {
+  $('a[href*="/categories/"]').each(
+    (_, element) => {
+      const href =
+        $(element).attr("href");
+
+      const id =
+        categoryId(href);
+
+      if (!id) return;
+
       categories.set(id, {
         id,
-        name: textOf($, element)
+        name:
+          textOf($, element)
       });
     }
-  });
+  );
 
-  $('a[href*="/collections/"]').each((_, element) => {
-    const href = $(element).attr("href");
-    const id = collectionId(href);
+  $('a[href*="/collections/"]').each(
+    (_, element) => {
+      const href =
+        $(element).attr("href");
 
-    if (id) {
+      const id =
+        collectionId(href);
+
+      if (!id) return;
+
       collections.set(id, {
         id,
-        name: textOf($, element)
+        name:
+          textOf($, element)
       });
     }
-  });
+  );
 
   return {
-    categories: [...categories.values()],
-    collections: [...collections.values()]
+    categories:
+      [...categories.values()],
+    collections:
+      [...collections.values()]
   };
 }
 
 async function discoverSeeds(source) {
-  const categories = new Map(
-    (source.seedCategories || []).map(id => [
-      id,
-      {
-        id,
-        name: ""
-      }
-    ])
-  );
+  const categories =
+    new Map(
+      (source.seedCategories || []).map(
+        id => [
+          id,
+          {
+            id,
+            name: ""
+          }
+        ]
+      )
+    );
 
-  const collections = new Map();
+  const collections =
+    new Map();
 
   for (const url of [
     `${source.base}/`,
@@ -674,12 +952,24 @@ async function discoverSeeds(source) {
       const navigation =
         extractNavigation($);
 
-      for (const item of navigation.categories) {
-        categories.set(item.id, item);
+      for (
+        const item of
+          navigation.categories
+      ) {
+        categories.set(
+          item.id,
+          item
+        );
       }
 
-      for (const item of navigation.collections) {
-        collections.set(item.id, item);
+      for (
+        const item of
+          navigation.collections
+      ) {
+        collections.set(
+          item.id,
+          item
+        );
       }
     } catch (error) {
       console.error(
@@ -689,8 +979,10 @@ async function discoverSeeds(source) {
   }
 
   return {
-    categories: [...categories.values()],
-    collections: [...collections.values()]
+    categories:
+      [...categories.values()],
+    collections:
+      [...collections.values()]
   };
 }
 
@@ -703,30 +995,39 @@ async function crawlPaged(
   const products = [];
   let emptyPages = 0;
 
-  for (let page = 1; page <= maxPages; page++) {
+  for (
+    let page = 1;
+    page <= maxPages;
+    page++
+  ) {
     try {
-      const url = urlFactory(page);
+      const url =
+        urlFactory(page);
 
       const $ = cheerio.load(
         await html(source, url)
       );
 
-      const name = pageTitle(
-        $,
-        context.name || ""
-      );
+      const name =
+        pageTitle(
+          $,
+          context.name || ""
+        );
 
-      const found = extractLinks(
-        $,
-        source,
-        {
-          ...context,
-          sourceCategory:
-            context.sourceCategory || name,
-          sourceCollection:
-            context.sourceCollection || name
-        }
-      );
+      const found =
+        extractLinks(
+          $,
+          source,
+          {
+            ...context,
+            sourceCategory:
+              context.sourceCategory ||
+              name,
+            sourceCollection:
+              context.sourceCollection ||
+              name
+          }
+        );
 
       products.push(...found);
 
@@ -734,9 +1035,10 @@ async function crawlPaged(
         `[${source.key}] ${context.kind} ${context.id || "index"} pagina ${page}: ${found.length}`
       );
 
-      emptyPages = found.length
-        ? 0
-        : emptyPages + 1;
+      emptyPages =
+        found.length
+          ? 0
+          : emptyPages + 1;
 
       if (emptyPages >= 2) {
         break;
@@ -772,7 +1074,10 @@ async function discoverSource(source) {
   const seeds =
     await discoverSeeds(source);
 
-  for (const category of seeds.categories) {
+  for (
+    const category of
+      seeds.categories
+  ) {
     found.push(
       ...await crawlPaged(
         source,
@@ -783,14 +1088,19 @@ async function discoverSource(source) {
           kind: "categorie",
           id: category.id,
           name: category.name,
-          categoryId: category.id,
-          sourceCategory: category.name
+          categoryId:
+            category.id,
+          sourceCategory:
+            category.name
         }
       )
     );
   }
 
-  for (const collection of seeds.collections) {
+  for (
+    const collection of
+      seeds.collections
+  ) {
     found.push(
       ...await crawlPaged(
         source,
@@ -801,8 +1111,10 @@ async function discoverSource(source) {
           kind: "collectie",
           id: collection.id,
           name: collection.name,
-          collectionId: collection.id,
-          sourceCollection: collection.name
+          collectionId:
+            collection.id,
+          sourceCollection:
+            collection.name
         }
       )
     );
@@ -818,60 +1130,79 @@ async function discoverSource(source) {
   ];
 }
 
-function sourceImageUrls($, source) {
+function sourceImageUrls(
+  $,
+  source
+) {
   const urls = [];
 
-  $("img").each((_, element) => {
-    const raw =
-      $(element).attr("data-origin-src") ||
-      $(element).attr("data-src") ||
-      $(element).attr("data-lazy") ||
-      $(element).attr("src");
+  $("img").each(
+    (_, element) => {
+      const raw =
+        $(element).attr(
+          "data-origin-src"
+        ) ||
+        $(element).attr(
+          "data-src"
+        ) ||
+        $(element).attr(
+          "data-lazy"
+        ) ||
+        $(element).attr(
+          "src"
+        );
 
-    const url = absolute(source, raw);
+      const url =
+        absolute(source, raw);
 
-    if (!url) return;
+      if (!url) return;
 
-    let parsed;
+      let parsed;
 
-    try {
-      parsed = new URL(url);
-    } catch {
-      return;
+      try {
+        parsed = new URL(url);
+      } catch {
+        return;
+      }
+
+      const host =
+        parsed.host.toLowerCase();
+
+      const pathname =
+        parsed.pathname.toLowerCase();
+
+      if (
+        host !==
+          "photo.yupoo.com" &&
+        !host.endsWith(
+          ".yupoo.com"
+        )
+      ) {
+        return;
+      }
+
+      if (
+        source.imageHost &&
+        !url
+          .toLowerCase()
+          .includes(
+            source.imageHost.toLowerCase()
+          )
+      ) {
+        return;
+      }
+
+      if (
+        /\/(square|small|thumb)[^/]*\.(jpg|jpeg|png|webp)$/.test(
+          pathname
+        )
+      ) {
+        return;
+      }
+
+      urls.push(url);
     }
-
-    const host =
-      parsed.host.toLowerCase();
-
-    const pathname =
-      parsed.pathname.toLowerCase();
-
-    if (
-      host !== "photo.yupoo.com" &&
-      !host.endsWith(".yupoo.com")
-    ) {
-      return;
-    }
-
-    if (
-      source.imageHost &&
-      !url
-        .toLowerCase()
-        .includes(source.imageHost.toLowerCase())
-    ) {
-      return;
-    }
-
-    if (
-      /\/(square|small|thumb)[^/]*\.(jpg|jpeg|png|webp)$/.test(
-        pathname
-      )
-    ) {
-      return;
-    }
-
-    urls.push(url);
-  });
+  );
 
   return unique(urls).slice(
     0,
@@ -879,40 +1210,51 @@ function sourceImageUrls($, source) {
   );
 }
 
-async function inspectProduct(product) {
-  const source = SOURCES.find(
-    item => item.key === product.source
-  );
-
-  return limit(async () => {
-    const $ = cheerio.load(
-      await html(
-        source,
-        product.sourceUrl
-      )
+async function inspectProduct(
+  product
+) {
+  const source =
+    SOURCES.find(
+      item =>
+        item.key ===
+        product.source
     );
 
-    const title = pageTitle(
-      $,
-      product.title
-    );
+  return limit(
+    async () => {
+      const $ = cheerio.load(
+        await html(
+          source,
+          product.sourceUrl
+        )
+      );
 
-    const sourceImages =
-      sourceImageUrls($, source);
+      const title =
+        pageTitle(
+          $,
+          product.title
+        );
 
-    return {
-      ...product,
-      title,
-      ...productClass(
+      const sourceImages =
+        sourceImageUrls(
+          $,
+          source
+        );
+
+      return {
+        ...product,
         title,
-        product.sourceCollection,
-        product.sourceCategory,
-        product.source,
-        product.categoryId
-      ),
-      sourceImages
-    };
-  });
+        ...productClass(
+          title,
+          product.sourceCollection,
+          product.sourceCategory,
+          product.source,
+          product.categoryId
+        ),
+        sourceImages
+      };
+    }
+  );
 }
 
 async function fileExists(file) {
@@ -920,7 +1262,10 @@ async function fileExists(file) {
 
   try {
     await fs.access(
-      file.replace(/^\.\//, "")
+      file.replace(
+        /^\.\//,
+        ""
+      )
     );
 
     return true;
@@ -933,26 +1278,38 @@ function localImageLocation(
   product,
   index
 ) {
-  const directory = path.join(
-    "assets",
-    "products",
-    product.source,
-    String(product.sourceId)
-  );
+  const directory =
+    path.join(
+      "assets",
+      "products",
+      product.source,
+      String(
+        product.sourceId
+      )
+    );
 
   const filename =
-    `${String(index + 1).padStart(2, "0")}.webp`;
+    `${String(
+      index + 1
+    ).padStart(
+      2,
+      "0"
+    )}.webp`;
 
-  const file = path.join(
-    directory,
-    filename
-  );
+  const file =
+    path.join(
+      directory,
+      filename
+    );
 
   return {
     directory,
     file,
     publicPath:
-      `./${file.replaceAll(path.sep, "/")}`
+      `./${file.replaceAll(
+        path.sep,
+        "/"
+      )}`
   };
 }
 
@@ -975,23 +1332,30 @@ async function saveImage(
   );
 
   if (
-    await fileExists(location.file)
+    await fileExists(
+      location.file
+    )
   ) {
     return location.publicPath;
   }
 
-  const source = SOURCES.find(
-    item => item.key === product.source
-  );
+  const source =
+    SOURCES.find(
+      item =>
+        item.key ===
+        product.source
+    );
 
-  const response = await request(
-    source,
-    url
-  );
+  const response =
+    await request(
+      source,
+      url
+    );
 
-  const buffer = Buffer.from(
-    await response.arrayBuffer()
-  );
+  const buffer =
+    Buffer.from(
+      await response.arrayBuffer()
+    );
 
   const temporaryFile =
     `${location.file}.tmp`;
@@ -1004,12 +1368,15 @@ async function saveImage(
           index === 0
             ? 700
             : 1200,
-        withoutEnlargement: true
+        withoutEnlargement:
+          true
       })
       .webp({
         quality: 80
       })
-      .toFile(temporaryFile);
+      .toFile(
+        temporaryFile
+      );
 
     await fs.rename(
       temporaryFile,
@@ -1022,12 +1389,14 @@ async function saveImage(
 
     return location.publicPath;
   } catch (error) {
-    await fs.rm(
-      temporaryFile,
-      {
-        force: true
-      }
-    ).catch(() => {});
+    await fs
+      .rm(
+        temporaryFile,
+        {
+          force: true
+        }
+      )
+      .catch(() => {});
 
     throw error;
   }
@@ -1041,11 +1410,14 @@ async function downloadProduct(
 
   for (
     let index = 0;
-    index < product.sourceImages.length;
+    index <
+      product.sourceImages.length;
     index++
   ) {
     const url =
-      product.sourceImages[index];
+      product.sourceImages[
+        index
+      ];
 
     const location =
       localImageLocation(
@@ -1054,7 +1426,9 @@ async function downloadProduct(
       );
 
     if (
-      await fileExists(location.file)
+      await fileExists(
+        location.file
+      )
     ) {
       images.push(
         location.publicPath
@@ -1068,14 +1442,16 @@ async function downloadProduct(
     }
 
     const oldImage =
-      oldProduct?.images?.[index];
+      oldProduct
+        ?.images?.[index];
 
     if (
       oldImage &&
-      await fileExists(oldImage)
+      await fileExists(
+        oldImage
+      )
     ) {
       images.push(oldImage);
-
       continue;
     }
 
@@ -1087,7 +1463,9 @@ async function downloadProduct(
           index
         );
 
-      images.push(savedImage);
+      images.push(
+        savedImage
+      );
     } catch (error) {
       console.error(
         `[${product.source}] Foto ${product.sourceId}/${index + 1}: ${error.message}`
@@ -1095,48 +1473,67 @@ async function downloadProduct(
 
       if (
         oldImage &&
-        await fileExists(oldImage)
+        await fileExists(
+          oldImage
+        )
       ) {
-        images.push(oldImage);
+        images.push(
+          oldImage
+        );
       }
     }
   }
 
   for (
     const oldImage of
-      oldProduct?.images || []
+      oldProduct?.images ||
+      []
   ) {
     if (
-      images.length >= MAX_IMAGES
+      images.length >=
+      MAX_IMAGES
     ) {
       break;
     }
 
     if (
-      !images.includes(oldImage) &&
-      await fileExists(oldImage)
+      !images.includes(
+        oldImage
+      ) &&
+      await fileExists(
+        oldImage
+      )
     ) {
-      images.push(oldImage);
+      images.push(
+        oldImage
+      );
     }
   }
 
-  const limited =
-    images.slice(0, MAX_IMAGES);
+  const limitedImages =
+    images.slice(
+      0,
+      MAX_IMAGES
+    );
 
   return {
     ...product,
     coverUrl:
-      limited[0] ||
+      limitedImages[0] ||
       oldProduct?.coverUrl ||
       null,
-    images: limited,
-    imageCount: limited.length,
+    images:
+      limitedImages,
+    imageCount:
+      limitedImages.length,
     updatedAt:
       new Date().toISOString()
   };
 }
 
-function duplicateKey(product) {
+function duplicateKey(
+  product
+) {
   return normalize(
     [
       product.title,
@@ -1151,14 +1548,21 @@ function duplicateKey(product) {
 function hasAllExpectedImages(
   product
 ) {
-  const expected = Math.min(
-    product.sourceImages?.length || 0,
-    MAX_IMAGES
-  );
+  const expected =
+    Math.min(
+      product
+        .sourceImages
+        ?.length || 0,
+      MAX_IMAGES
+    );
 
   return (
     expected > 0 &&
-    (product.images?.length || 0) >= expected
+    (
+      product
+        .images
+        ?.length || 0
+    ) >= expected
   );
 }
 
@@ -1184,13 +1588,16 @@ const previousProducts =
   previous.albums ||
   [];
 
-const productMap = new Map(
-  previousProducts.map(product => [
-    product.uniqueKey ||
-      `${product.source || "minkang"}:${product.sourceId}`,
-    product
-  ])
-);
+const productMap =
+  new Map(
+    previousProducts.map(
+      product => [
+        product.uniqueKey ||
+          `${product.source || "minkang"}:${product.sourceId}`,
+        product
+      ]
+    )
+  );
 
 const stats = {
   discovered: 0,
@@ -1203,28 +1610,45 @@ const stats = {
   batchesSaved: 0
 };
 
-async function writeCatalog(label) {
-  const winners = new Map();
+async function writeCatalog(
+  label,
+  status = "in-progress"
+) {
+  const winners =
+    new Map();
 
   for (
-    const product of productMap.values()
+    const product of
+      productMap.values()
   ) {
     if (
-      !product?.images?.length
+      !product
+        ?.images
+        ?.length
     ) {
       continue;
     }
 
     const key =
-      duplicateKey(product);
+      duplicateKey(
+        product
+      );
 
     const winner =
       winners.get(key);
 
     if (
       !winner ||
-      (product.sourcePriority ?? 99) <
-        (winner.sourcePriority ?? 99)
+      (
+        product
+          .sourcePriority ??
+        99
+      ) <
+      (
+        winner
+          .sourcePriority ??
+        99
+      )
     ) {
       winners.set(
         key,
@@ -1233,23 +1657,27 @@ async function writeCatalog(label) {
     }
   }
 
-  const cleanProducts = [
-    ...winners.values()
-  ].sort(
-    (first, second) =>
-      first.section.localeCompare(
-        second.section,
-        "nl"
-      ) ||
-      first.category.localeCompare(
-        second.category,
-        "nl"
-      ) ||
-      first.title.localeCompare(
-        second.title,
-        "nl"
-      )
-  );
+  const cleanProducts =
+    [
+      ...winners.values()
+    ].sort(
+      (
+        first,
+        second
+      ) =>
+        first.section.localeCompare(
+          second.section,
+          "nl"
+        ) ||
+        first.category.localeCompare(
+          second.category,
+          "nl"
+        ) ||
+        first.title.localeCompare(
+          second.title,
+          "nl"
+        )
+    );
 
   stats.duplicatesRemoved =
     productMap.size -
@@ -1260,60 +1688,75 @@ async function writeCatalog(label) {
       new Date().toISOString(),
 
     syncState: {
-      status: "in-progress",
+      status,
       label,
-      batchSize: BATCH_SIZE,
-      maxImages: MAX_IMAGES
+      batchSize:
+        BATCH_SIZE,
+      maxImages:
+        MAX_IMAGES
     },
 
     stats: {
       ...stats
     },
 
-    sources: SOURCES.map(
-      ({
-        key,
-        base,
-        priority
-      }) => ({
-        key,
-        base,
-        priority
-      })
-    ),
+    sources:
+      SOURCES.map(
+        ({
+          key,
+          base,
+          priority
+        }) => ({
+          key,
+          base,
+          priority
+        })
+      ),
 
     total:
       cleanProducts.length,
 
-    sections: unique(
-      cleanProducts.map(
-        product =>
-          product.section
-      )
-    ).sort(
-      (a, b) =>
-        a.localeCompare(b, "nl")
-    ),
+    sections:
+      unique(
+        cleanProducts.map(
+          product =>
+            product.section
+        )
+      ).sort(
+        (first, second) =>
+          first.localeCompare(
+            second,
+            "nl"
+          )
+      ),
 
-    categories: unique(
-      cleanProducts.map(
-        product =>
-          product.category
-      )
-    ).sort(
-      (a, b) =>
-        a.localeCompare(b, "nl")
-    ),
+    categories:
+      unique(
+        cleanProducts.map(
+          product =>
+            product.category
+        )
+      ).sort(
+        (first, second) =>
+          first.localeCompare(
+            second,
+            "nl"
+          )
+      ),
 
-    competitions: unique(
-      cleanProducts.map(
-        product =>
-          product.competition
-      )
-    ).sort(
-      (a, b) =>
-        a.localeCompare(b, "nl")
-    ),
+    competitions:
+      unique(
+        cleanProducts.map(
+          product =>
+            product.competition
+        )
+      ).sort(
+        (first, second) =>
+          first.localeCompare(
+            second,
+            "nl"
+          )
+      ),
 
     products:
       cleanProducts
@@ -1340,12 +1783,17 @@ async function writeCatalog(label) {
   );
 }
 
-for (const source of SOURCES) {
+for (
+  const source of
+    SOURCES
+) {
   let discovered = [];
 
   try {
     discovered =
-      await discoverSource(source);
+      await discoverSource(
+        source
+      );
 
     stats.discovered +=
       discovered.length;
@@ -1363,13 +1811,15 @@ for (const source of SOURCES) {
 
   for (
     let start = 0;
-    start < discovered.length;
+    start <
+      discovered.length;
     start += BATCH_SIZE
   ) {
     const batch =
       discovered.slice(
         start,
-        start + BATCH_SIZE
+        start +
+          BATCH_SIZE
       );
 
     const inspected =
@@ -1387,14 +1837,18 @@ for (const source of SOURCES) {
 
               return {
                 ...product,
-                inspectionFailed: true
+                inspectionFailed:
+                  true
               };
             }
           }
         )
       );
 
-    for (const item of inspected) {
+    for (
+      const item of
+        inspected
+    ) {
       const old =
         productMap.get(
           item.uniqueKey
@@ -1427,12 +1881,14 @@ for (const source of SOURCES) {
             item[key]
         );
 
-      const complete = old
-        ? hasAllExpectedImages({
-            ...item,
-            images: old.images
-          })
-        : false;
+      const complete =
+        old
+          ? hasAllExpectedImages({
+              ...item,
+              images:
+                old.images
+            })
+          : false;
 
       if (
         old &&
@@ -1451,7 +1907,8 @@ for (const source of SOURCES) {
               old.images?.[0] ||
               null,
             imageCount:
-              old.images?.length ||
+              old.images
+                ?.length ||
               0,
             updatedAt:
               old.updatedAt
@@ -1470,7 +1927,9 @@ for (const source of SOURCES) {
           );
 
         if (
-          imported.images.length
+          imported
+            .images
+            .length
         ) {
           productMap.set(
             item.uniqueKey,
@@ -1479,7 +1938,9 @@ for (const source of SOURCES) {
 
           if (!old) {
             stats.added++;
-          } else if (!complete) {
+          } else if (
+            !complete
+          ) {
             stats.repaired++;
           } else {
             stats.changed++;
@@ -1498,7 +1959,8 @@ for (const source of SOURCES) {
 
     await writeCatalog(
       `${source.key} ${Math.min(
-        start + BATCH_SIZE,
+        start +
+          BATCH_SIZE,
         discovered.length
       )}/${discovered.length}`
     );
@@ -1506,40 +1968,10 @@ for (const source of SOURCES) {
 }
 
 await writeCatalog(
-  "voltooid"
-);
-
-const finalCatalog =
-  JSON.parse(
-    await fs.readFile(
-      "data/catalog.json",
-      "utf8"
-    )
-  );
-
-finalCatalog.syncState = {
-  ...finalCatalog.syncState,
-  status: "completed",
-  label: "voltooid"
-};
-
-finalCatalog.lastSync =
-  new Date().toISOString();
-
-await fs.writeFile(
-  "data/catalog.json.tmp",
-  JSON.stringify(
-    finalCatalog,
-    null,
-    2
-  )
-);
-
-await fs.rename(
-  "data/catalog.json.tmp",
-  "data/catalog.json"
+  "voltooid",
+  "completed"
 );
 
 console.log(
-  `Klaar: ${finalCatalog.total} producten; nieuw ${stats.added}, gewijzigd ${stats.changed}, hersteld ${stats.repaired}, batches ${stats.batchesSaved}`
+  `Klaar: nieuw ${stats.added}, gewijzigd ${stats.changed}, hersteld ${stats.repaired}, batches ${stats.batchesSaved}`
 );
