@@ -1,20 +1,20 @@
 {
-  "lastSync": "2026-10-23T23:24:05.262Z",
+  "lastSync": "2026-10-23T23:28:49.726Z",
   "syncState": {
     "status": "in-progress",
-    "label": "minkang 2125/7463",
+    "label": "minkang 2300/7463",
     "batchSize": 25,
     "maxImages": 1
   },
   "stats": {
     "discovered": 7463,
-    "added": 1427,
+    "added": 1602,
     "changed": 695,
     "unchanged": 0,
     "repaired": 0,
     "skipped": 3,
-    "duplicatesRemoved": 27,
-    "batchesSaved": 84
+    "duplicatesRemoved": 34,
+    "batchesSaved": 91
   },
   "sources": [
     {
@@ -33,7 +33,7 @@
       "priority": 3
     }
   ],
-  "total": 2100,
+  "total": 2268,
   "sections": [
     "Nog te categoriseren",
     "Overige producten",
@@ -247,6 +247,62 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "99888554",
+      "uniqueKey": "minkang:99888554",
+      "title": "21/22 M-U away S-XXXL12",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/99888554?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/99888554/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/f5700c34/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/99888554/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:28:44.577Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "98500599",
+      "uniqueKey": "minkang:98500599",
+      "title": "21/22 M-U home S-XXXL13",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/98500599?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/98500599/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/5f43eab9/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/98500599/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:28:44.903Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "100858263",
       "uniqueKey": "minkang:100858263",
       "title": "21/22 Mineiro Athletic Commemorative Edition (picture version) S-XXL9",
@@ -271,6 +327,174 @@
       "coverUrl": "./assets/products/minkang/100858263/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:19:01.024Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "121145451",
+      "uniqueKey": "minkang:121145451",
+      "title": "22/23  M-U third away S-XXXL10",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/121145451?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/121145451/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/8725ee11/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/121145451/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:28:41.777Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "120303247",
+      "uniqueKey": "minkang:120303247",
+      "title": "22/23 M-U away S-XXXL10",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/120303247?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/120303247/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/5bf2044b/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/120303247/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:28:42.102Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "113757659",
+      "uniqueKey": "minkang:113757659",
+      "title": "22/23 M-U home S-XXXL11",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/113757659?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/113757659/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/9b1130a0/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/113757659/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:28:43.219Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "140200953",
+      "uniqueKey": "minkang:140200953",
+      "title": "23/24 M-U Away S-4XL9",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/140200953?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/140200953/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/8a0d4812/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/140200953/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:28:39.000Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "138062505",
+      "uniqueKey": "minkang:138062505",
+      "title": "23/24 M-U Home S-4XL9",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/138062505?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/138062505/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/c589593c/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/138062505/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:28:37.934Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "142208498",
+      "uniqueKey": "minkang:142208498",
+      "title": "23/24 M-U third away S-XXL9",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/142208498?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/142208498/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/5b37afc9/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/142208498/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:28:40.619Z"
     },
     {
       "source": "minkang",
@@ -327,6 +551,90 @@
       "coverUrl": "./assets/products/minkang/181884819/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:10:45.822Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "163996657",
+      "uniqueKey": "minkang:163996657",
+      "title": "24/25 M-U away S-4XL9",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/163996657?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/163996657/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/3f1a4aab/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/163996657/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:28:34.466Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "166258114",
+      "uniqueKey": "minkang:166258114",
+      "title": "24/25 M-U Home S-4XL9",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/166258114?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/166258114/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/df4ac776/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/166258114/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:28:32.469Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "168819960",
+      "uniqueKey": "minkang:168819960",
+      "title": "24/25 M-U Third Away S-4XL9",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/168819960?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/168819960/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/bdf01e8f/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/168819960/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:28:36.903Z"
     },
     {
       "source": "minkang",
@@ -611,6 +919,90 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "213133831",
+      "uniqueKey": "minkang:213133831",
+      "title": "25/26 Kids M-U Away Size: 16-2811",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/213133831?uid=1&isSubCate=true&referrercate=720294",
+      "categoryId": "720294",
+      "collectionId": "720294",
+      "sourceCollection": "KANG Team Official ✅",
+      "sourceCategory": "M-U",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "M-U",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/213133831/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/e49a915e/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/213133831/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:24:18.347Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "199190481",
+      "uniqueKey": "minkang:199190481",
+      "title": "25/26 kids M-U third away size 16-289",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/199190481?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/199190481/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/ac495254/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/199190481/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:24:25.826Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "211961096",
+      "uniqueKey": "minkang:211961096",
+      "title": "25/26 M-U Away S-4XL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/211961096?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/211961096/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/99697c9d/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/211961096/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:24:19.803Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "212192587",
       "uniqueKey": "minkang:212192587",
       "title": "25/26 M-U Home S-4XL6",
@@ -635,6 +1027,34 @@
       "coverUrl": "./assets/products/minkang/212192587/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:24:04.676Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "214652712",
+      "uniqueKey": "minkang:214652712",
+      "title": "25/26 M-U Trench Coat Reversible S-3XL11",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214652712?uid=1&isSubCate=true&referrercate=720294",
+      "categoryId": "720294",
+      "collectionId": "720294",
+      "sourceCollection": "KANG Team Official ✅",
+      "sourceCategory": "M-U",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "M-U",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/214652712/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/9f6cee39/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/214652712/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:28:07.005Z"
     },
     {
       "source": "minkang",
@@ -691,6 +1111,34 @@
       "coverUrl": "./assets/products/minkang/206448044/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:10:23.966Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "199559157",
+      "uniqueKey": "minkang:199559157",
+      "title": "25/26 Player M-U Away S-4XL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/199559157?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/199559157/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/21e863ee/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/199559157/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:24:22.245Z"
     },
     {
       "source": "minkang",
@@ -803,6 +1251,34 @@
       "coverUrl": "./assets/products/minkang/201768804/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:10:09.467Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "193039822",
+      "uniqueKey": "minkang:193039822",
+      "title": "98/99 Player M-U Special Edition S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/193039822?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/193039822/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/e5524e07/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/193039822/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:28:31.152Z"
     },
     {
       "source": "minkang",
@@ -1867,6 +2343,454 @@
       "coverUrl": "./assets/products/minkang/155599433/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:09:45.906Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "161463283",
+      "uniqueKey": "minkang:161463283",
+      "title": "kids M-U 00/01 home size: 16-288",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/161463283?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/161463283/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/a8864633/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/161463283/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:27:02.078Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "161463410",
+      "uniqueKey": "minkang:161463410",
+      "title": "kids M-U 02/04 home size: 16-2812",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/161463410?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/161463410/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/cacfb4b6/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/161463410/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:24:40.507Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "161463391",
+      "uniqueKey": "minkang:161463391",
+      "title": "kids M-U 05/06 home size: 16-288",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/161463391?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/161463391/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/38765db0/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/161463391/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:26:44.969Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "160609406",
+      "uniqueKey": "minkang:160609406",
+      "title": "kids M-U 06/07Home size: 16-289",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/160609406?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/160609406/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/473ab104/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/160609406/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:24:44.908Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "155599244",
+      "uniqueKey": "minkang:155599244",
+      "title": "kids M-U 07/08 black size: 16-289",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/155599244?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/155599244/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/a4d40459/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/155599244/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:25:07.610Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "155599213",
+      "uniqueKey": "minkang:155599213",
+      "title": "kids M-U 07/08UEFA Champions League home size: 16-2810",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/155599213?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/155599213/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/eaa82690/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/155599213/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:25:03.032Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "170574307",
+      "uniqueKey": "minkang:170574307",
+      "title": "kids M-U 08/09 away size: 16-289",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/170574307?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/170574307/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/600d1741/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/170574307/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:25:14.204Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "160609419",
+      "uniqueKey": "minkang:160609419",
+      "title": "kids M-U 09/10 home size: 16-289",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/160609419?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/160609419/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/66a8a4e8/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/160609419/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:26:19.588Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "161463263",
+      "uniqueKey": "minkang:161463263",
+      "title": "kids M-U 10/11 Champions League away size: 16-2811",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/161463263?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/161463263/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/e377f521/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/161463263/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:25:45.915Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "161463241",
+      "uniqueKey": "minkang:161463241",
+      "title": "kids M-U 10/11 home size: 16-2810",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/161463241?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/161463241/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/b9438605/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/161463241/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:26:05.065Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "161463293",
+      "uniqueKey": "minkang:161463293",
+      "title": "kids M-U 12/13 home size: 16-2810",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/161463293?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/161463293/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/5d1a7e75/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/161463293/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:25:18.876Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "161463434",
+      "uniqueKey": "minkang:161463434",
+      "title": "kids M-U 94/96 home size: 16-288",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/161463434?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/161463434/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/4259c17d/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/161463434/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:25:57.425Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "161463319",
+      "uniqueKey": "minkang:161463319",
+      "title": "kids M-U 96/97 home size: 16-288",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/161463319?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/161463319/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/cac7204b/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/161463319/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:27:03.339Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "199559246",
+      "uniqueKey": "minkang:199559246",
+      "title": "kids M-U 97/98 away size: 16-287",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/199559246?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/199559246/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/2f30065e/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/199559246/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:26:31.776Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "160609398",
+      "uniqueKey": "minkang:160609398",
+      "title": "kids M-U 98/99 home size: 16-288",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/160609398?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/160609398/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/c550cda9/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/160609398/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:24:36.926Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "161463364",
+      "uniqueKey": "minkang:161463364",
+      "title": "kids M-U 99/00 home size: 16-289",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/161463364?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/161463364/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/35b54c1a/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/161463364/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:26:00.968Z"
     },
     {
       "source": "minkang",
@@ -3439,6 +4363,314 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "189379060",
+      "uniqueKey": "minkang:189379060",
+      "title": "Retro  M-U 00/01 away S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/189379060?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/189379060/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/b9bee27d/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/189379060/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:27:26.345Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "83140346",
+      "uniqueKey": "minkang:83140346",
+      "title": "Retro 00/01 M-U home S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/83140346?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/83140346/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/fd71240a/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/83140346/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:27:10.181Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "83138707",
+      "uniqueKey": "minkang:83138707",
+      "title": "Retro 06/07 M-U home S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/83138707?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/83138707/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/48390363/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/83138707/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:24:58.453Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "83138829",
+      "uniqueKey": "minkang:83138829",
+      "title": "Retro 06/07 M-U Long sleeve home S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/83138829?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/83138829/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/436ad3ab/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/83138829/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:25:00.077Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "81525015",
+      "uniqueKey": "minkang:81525015",
+      "title": "Retro 07/08 M-U Champions League version home S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/81525015?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/81525015/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/dd325bd7/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/81525015/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:25:04.027Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "92537820",
+      "uniqueKey": "minkang:92537820",
+      "title": "Retro 09/10 M-U home S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/92537820?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/92537820/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/a5df5dac/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/92537820/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:26:20.077Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "82258382",
+      "uniqueKey": "minkang:82258382",
+      "title": "Retro 12/13 M-U home S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/82258382?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/82258382/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/1a2ed536/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/82258382/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:27:12.575Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "107158615",
+      "uniqueKey": "minkang:107158615",
+      "title": "Retro 13/14 M-U  third away S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/107158615?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/107158615/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/16d24cc7/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/107158615/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:25:52.456Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "107209838",
+      "uniqueKey": "minkang:107209838",
+      "title": "Retro 13/14 M-U away S-XXL9",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/107209838?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/107209838/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/0cc0adcf/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/107209838/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:27:55.401Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "107158679",
+      "uniqueKey": "minkang:107158679",
+      "title": "Retro 13/14 M-U home S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/107158679?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/107158679/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/03cd3e95/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/107158679/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:27:12.904Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "190511527",
+      "uniqueKey": "minkang:190511527",
+      "title": "Retro 18/19 M-U home S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/190511527?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/190511527/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/87963b96/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/190511527/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:27:19.024Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "85143777",
       "uniqueKey": "minkang:85143777",
       "title": "Retro 1981 Boca Juniors home S-XXL6",
@@ -3495,6 +4727,62 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "110373305",
+      "uniqueKey": "minkang:110373305",
+      "title": "Retro 1988 M-U away S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/110373305?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/110373305/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/8a2c2747/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/110373305/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:27:50.319Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "82355807",
+      "uniqueKey": "minkang:82355807",
+      "title": "Retro 1996 M-U home S-XXL9",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/82355807?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/82355807/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/8dc95ece/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/82355807/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:26:57.945Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "213865646",
       "uniqueKey": "minkang:213865646",
       "title": "Retro 80/81Celtics home S-XXL6",
@@ -3523,6 +4811,314 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "82590436",
+      "uniqueKey": "minkang:82590436",
+      "title": "Retro 83/84 M-U home S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/82590436?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/82590436/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/d07162a3/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/82590436/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:27:05.944Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "82590867",
+      "uniqueKey": "minkang:82590867",
+      "title": "Retro 86/88 M-U third away S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/82590867?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/82590867/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/2e156106/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/82590867/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:26:34.784Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "82216316",
+      "uniqueKey": "minkang:82216316",
+      "title": "Retro 88/90 M-U third away S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/82216316?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/82216316/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/2e984868/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/82216316/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:26:34.452Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "82258247",
+      "uniqueKey": "minkang:82258247",
+      "title": "Retro 90/92 M-U  away S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/82258247?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/82258247/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/0fcacf00/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/82258247/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:26:36.776Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "82216285",
+      "uniqueKey": "minkang:82216285",
+      "title": "Retro 90/92 M-U  home S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/82216285?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/82216285/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/cfa76b3c/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/82216285/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:27:07.531Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "82311450",
+      "uniqueKey": "minkang:82311450",
+      "title": "Retro 92/93 M-U in the  away S-XXL9",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/82311450?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/82311450/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/c1290c6e/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/82311450/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:28:03.452Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "81520122",
+      "uniqueKey": "minkang:81520122",
+      "title": "Retro 92/94 M-U away S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/81520122?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/81520122/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/9a54c8cf/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/81520122/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:25:50.112Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "82258472",
+      "uniqueKey": "minkang:82258472",
+      "title": "Retro 92/94 M-U home S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/82258472?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/82258472/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/0a38bd60/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/82258472/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:27:09.150Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "83349922",
+      "uniqueKey": "minkang:83349922",
+      "title": "Retro 93/95 M-U away S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/83349922?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/83349922/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/9f063306/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/83349922/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:25:54.839Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "83140437",
+      "uniqueKey": "minkang:83140437",
+      "title": "Retro 94/96 M-U home S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/83140437?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/83140437/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/a54d7aaa/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/83140437/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:25:58.195Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "84984222",
+      "uniqueKey": "minkang:84984222",
+      "title": "Retro 95/96  M-U away S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/84984222?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/84984222/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/5bb9271b/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/84984222/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:27:58.824Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "212234757",
       "uniqueKey": "minkang:212234757",
       "title": "Retro 96/97 Celtics Away S-XXL6",
@@ -3547,6 +5143,146 @@
       "coverUrl": "./assets/products/minkang/212234757/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:11:36.910Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "82590609",
+      "uniqueKey": "minkang:82590609",
+      "title": "Retro 97/98 M-U away S-XXL9",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/82590609?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/82590609/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/6e6e6d83/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/82590609/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:26:32.275Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "184675148",
+      "uniqueKey": "minkang:184675148",
+      "title": "Retro 98/99 M-U Black S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/184675148?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/184675148/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/ef532d51/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/184675148/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:27:48.782Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "188799034",
+      "uniqueKey": "minkang:188799034",
+      "title": "Retro 98/99 M-U Commemorative Edition S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/188799034?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/188799034/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/a16a14ff/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/188799034/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:27:42.309Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212192349",
+      "uniqueKey": "minkang:212192349",
+      "title": "Retro 98/99 M-U home S-4XL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212192349?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/212192349/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/1f71ae10/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212192349/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:24:37.335Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "211563666",
+      "uniqueKey": "minkang:211563666",
+      "title": "Retro 99/00 M-U home S-4XL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/211563666?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/211563666/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/dba36fab/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/211563666/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:26:01.982Z"
     },
     {
       "source": "minkang",
@@ -4139,6 +5875,34 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "82355782",
+      "uniqueKey": "minkang:82355782",
+      "title": "Retro Long Sleeve 1996 M-U home S-XXL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/82355782?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/82355782/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/1140e5a6/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/82355782/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:26:58.951Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "212585221",
       "uniqueKey": "minkang:212585221",
       "title": "Retro Long Sleeve Boca Juniors 03/04 home S-XXL8",
@@ -4163,6 +5927,258 @@
       "coverUrl": "./assets/products/minkang/212585221/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:10:24.827Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "133690759",
+      "uniqueKey": "minkang:133690759",
+      "title": "Retro Long Sleeve M-U 01/02 100th Anniversary S-XXL16",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/133690759?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/133690759/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/14966281/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/133690759/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:24:40.081Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212320118",
+      "uniqueKey": "minkang:212320118",
+      "title": "Retro long sleeve M-U 07/08 black S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212320118?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/212320118/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/a5840060/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212320118/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:25:10.211Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "151794473",
+      "uniqueKey": "minkang:151794473",
+      "title": "Retro long sleeve M-U 07/08 Champions League version home S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/151794473?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/151794473/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/672bb025/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/151794473/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:25:04.572Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "201768189",
+      "uniqueKey": "minkang:201768189",
+      "title": "Retro Long Sleeve M-U 13/14 Black S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/201768189?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/201768189/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/c785899e/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/201768189/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:25:53.591Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "201768123",
+      "uniqueKey": "minkang:201768123",
+      "title": "Retro Long Sleeve M-U 13/14 Home S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/201768123?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/201768123/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/73c56df4/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/201768123/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:26:59.475Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212312353",
+      "uniqueKey": "minkang:212312353",
+      "title": "Retro Long Sleeve M-U 90/92 Away S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212312353?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/212312353/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/bbfeff88/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212312353/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:26:37.951Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "201768161",
+      "uniqueKey": "minkang:201768161",
+      "title": "Retro Long Sleeve M-U 92/94 Home S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/201768161?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/201768161/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/de2ae8d2/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/201768161/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:26:43.475Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "151794518",
+      "uniqueKey": "minkang:151794518",
+      "title": "Retro long sleeve M-U 92/94 third away S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/151794518?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/151794518/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/0bdd5be7/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/151794518/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:25:51.170Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "151794703",
+      "uniqueKey": "minkang:151794703",
+      "title": "Retro long sleeve M-U 93/95 away S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/151794703?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/151794703/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/878bcc1e/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/151794703/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:25:55.901Z"
     },
     {
       "source": "minkang",
@@ -4247,6 +6263,538 @@
       "coverUrl": "./assets/products/minkang/186059636/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:10:07.586Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "81520220",
+      "uniqueKey": "minkang:81520220",
+      "title": "Retro long-sleeved 98/99 M-U home S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/81520220?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/81520220/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/3e4050f9/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/81520220/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:24:38.482Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "151794871",
+      "uniqueKey": "minkang:151794871",
+      "title": "Retro M-U 00/02 Home S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/151794871?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/151794871/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/81df5f28/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/151794871/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:27:16.537Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "133690778",
+      "uniqueKey": "minkang:133690778",
+      "title": "Retro M-U 01/02 100th Anniversary Edition S-XXL16",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/133690778?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/133690778/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/2d8cd9d8/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/133690778/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:24:39.763Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "151321213",
+      "uniqueKey": "minkang:151321213",
+      "title": "Retro M-U 02/03 Away S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/151321213?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/151321213/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/15d9b0a4/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/151321213/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:27:54.751Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "105553241",
+      "uniqueKey": "minkang:105553241",
+      "title": "Retro M-U 02/04 away S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/105553241?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/105553241/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/6028b399/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/105553241/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:25:44.040Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "96263122",
+      "uniqueKey": "minkang:96263122",
+      "title": "Retro M-U 02/04 home S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/96263122?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/96263122/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/30608c6c/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/96263122/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:24:40.834Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "151794849",
+      "uniqueKey": "minkang:151794849",
+      "title": "Retro M-U 03/04 Away S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/151794849?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/151794849/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/b7bfbccf/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/151794849/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:27:51.627Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "184319878",
+      "uniqueKey": "minkang:184319878",
+      "title": "Retro M-U 03/05 Away S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/184319878?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/184319878/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/23c280be/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/184319878/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:27:53.193Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "105551528",
+      "uniqueKey": "minkang:105551528",
+      "title": "Retro M-U 04/06 home S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/105551528?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/105551528/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/c2b3bf06/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/105551528/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:24:43.542Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "116563420",
+      "uniqueKey": "minkang:116563420",
+      "title": "Retro M-U 06/07 away S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/116563420?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/116563420/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/74dc4466/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/116563420/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:27:55.076Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "176130863",
+      "uniqueKey": "minkang:176130863",
+      "title": "Retro M-U 07/08 Black S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/176130863?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/176130863/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/88bd0f94/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/176130863/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:25:09.251Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212325802",
+      "uniqueKey": "minkang:212325802",
+      "title": "Retro M-U 08/09 Champions League Away Edition S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212325802?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/212325802/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/e976c1a8/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212325802/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:25:11.050Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "192385338",
+      "uniqueKey": "minkang:192385338",
+      "title": "Retro M-U 10/11 Away S-XXL13",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/192385338?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/192385338/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/665b8492/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/192385338/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:25:47.974Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "192385313",
+      "uniqueKey": "minkang:192385313",
+      "title": "Retro M-U 10/11 Home S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/192385313?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/192385313/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/ab2c05f6/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/192385313/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:26:05.391Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "184319816",
+      "uniqueKey": "minkang:184319816",
+      "title": "Retro M-U 11/12 Home S-XXL10",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/184319816?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/184319816/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/4e2a57bd/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/184319816/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:27:14.109Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "201768204",
+      "uniqueKey": "minkang:201768204",
+      "title": "Retro M-U 19/20 Away S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/201768204?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/201768204/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/7b9083ab/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/201768204/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:27:25.166Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "101948079",
+      "uniqueKey": "minkang:101948079",
+      "title": "Retro M-U 1977 home S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/101948079?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/101948079/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/11e6544d/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/101948079/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:28:01.791Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "104150211",
+      "uniqueKey": "minkang:104150211",
+      "title": "Retro M-U 96/97 away S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/104150211?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/104150211/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/f29bb960/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/104150211/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:27:56.931Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "105551662",
+      "uniqueKey": "minkang:105551662",
+      "title": "Retro M-U long sleeve 02/04 home S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/105551662?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/105551662/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/d9b3501c/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/105551662/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:24:41.849Z"
     },
     {
       "source": "minkang",
@@ -4475,6 +7023,34 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "131222755",
+      "uniqueKey": "minkang:131222755",
+      "title": "Retro Shorts M-U 07/08 Home S-XXL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/131222755?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/131222755/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/aacb3361/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/131222755/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:28:05.840Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "244810569",
       "uniqueKey": "minkang:244810569",
       "title": "Retro size1",
@@ -4499,6 +7075,34 @@
       "coverUrl": "./assets/albums/244810569/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:06:29.312Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "84065052",
+      "uniqueKey": "minkang:84065052",
+      "title": "RetroM-U 1983 away S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/84065052?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/84065052/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/27b40dbc/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/84065052/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:27:59.913Z"
     },
     {
       "source": "minkang",
@@ -30077,6 +32681,185 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "225670164",
+      "uniqueKey": "minkang:225670164",
+      "title": "Manchester City 26/27 Home Jersey S-4XL9",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/225670164?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "country": "Engeland",
+      "competition": "Premier League",
+      "club": "Manchester City",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/225670164/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/5f05f992/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/225670164/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:28:49.710Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "229204375",
+      "uniqueKey": "minkang:229204375",
+      "title": "Manchester City 26/27 Home Kids Kit Size 16-2812",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/229204375?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "country": "Engeland",
+      "competition": "Premier League",
+      "club": "Manchester City",
+      "types": [
+        "Kids"
+      ],
+      "images": [
+        "./assets/products/minkang/229204375/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/8044de4f/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/229204375/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:28:49.074Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "255035895",
+      "uniqueKey": "minkang:255035895",
+      "title": "Manchester City 26/27 Home Long Sleeve Jersey S-4XL10",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/255035895?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "country": "Engeland",
+      "competition": "Premier League",
+      "club": "Manchester City",
+      "types": [
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/minkang/255035895/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/008cccb465/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/255035895/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:28:47.610Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "251868139",
+      "uniqueKey": "minkang:251868139",
+      "title": "Manchester City 26/27 Home Womens Jersey S-XXL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/251868139?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "country": "Engeland",
+      "competition": "Premier League",
+      "club": "Manchester City",
+      "types": [
+        "Dames"
+      ],
+      "images": [
+        "./assets/products/minkang/251868139/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/32a747c716/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/251868139/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:28:49.385Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "255035811",
+      "uniqueKey": "minkang:255035811",
+      "title": "Manchester City 26/27 Third Away Jersey Player Version S-XXL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/255035811?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "country": "Engeland",
+      "competition": "Premier League",
+      "club": "Manchester City",
+      "types": [
+        "Player version"
+      ],
+      "images": [
+        "./assets/products/minkang/255035811/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/8f1ede35bb/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/255035811/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:28:48.746Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "255035856",
+      "uniqueKey": "minkang:255035856",
+      "title": "Manchester City 26/27 Third Away Long Sleeve Jersey  Player Version S-XXL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/255035856?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "country": "Engeland",
+      "competition": "Premier League",
+      "club": "Manchester City",
+      "types": [
+        "Lange mouw",
+        "Player version"
+      ],
+      "images": [
+        "./assets/products/minkang/255035856/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/422803b64a/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/255035856/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:28:48.433Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "258446322",
       "uniqueKey": "minkang:258446322",
       "title": "Manchester City 26/27 Third Away Long-Sleeved Jersey S-5XL2",
@@ -30101,6 +32884,36 @@
       "coverUrl": "./assets/albums/258446322/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:04:42.579Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "255035938",
+      "uniqueKey": "minkang:255035938",
+      "title": "Manchester City 26/27 Third Kids Kit Size 16-2812",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/255035938?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "country": "Engeland",
+      "competition": "Premier League",
+      "club": "Manchester City",
+      "types": [
+        "Kids"
+      ],
+      "images": [
+        "./assets/products/minkang/255035938/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/bfc98c3059/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/255035938/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:28:46.403Z"
     },
     {
       "source": "minkang",
@@ -30131,6 +32944,36 @@
       "coverUrl": "./assets/products/minkang/259116358/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:12:40.115Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "255035991",
+      "uniqueKey": "minkang:255035991",
+      "title": "Manchester City 89/91 Home Retro Jersey S-XXL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/255035991?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "country": "Engeland",
+      "competition": "Premier League",
+      "club": "Manchester City",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/255035991/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/49799a84c6/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/255035991/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:28:45.663Z"
     },
     {
       "source": "minkang",
@@ -48529,6 +51372,124 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "210981839",
+      "uniqueKey": "minkang:210981839",
+      "title": "25/26 M-U Training Suit Blue S-3XL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210981839?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "/26 M-U Training",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/minkang/210981839/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/73749608/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/210981839/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:28:29.638Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "210982525",
+      "uniqueKey": "minkang:210982525",
+      "title": "25/26 M-U Training Suit Purple S-3XL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210982525?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "/26 M-U Training",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/minkang/210982525/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/b26a5284/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/210982525/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:28:26.525Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "210982549",
+      "uniqueKey": "minkang:210982549",
+      "title": "25/26 M-U Training Suit White S-3XL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210982549?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "/26 M-U Training",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/minkang/210982549/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/44d57e0d/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/210982549/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:28:27.349Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "214652080",
+      "uniqueKey": "minkang:214652080",
+      "title": "25／26 M-U Windbreaker S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214652080?uid=1&isSubCate=true&referrercate=720294",
+      "categoryId": "720294",
+      "collectionId": "720294",
+      "sourceCollection": "KANG Team Official ✅",
+      "sourceCategory": "M-U",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "M-U",
+      "country": "Overig",
+      "competition": "M-U",
+      "club": "／26 M-U Windbreaker",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/214652080/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/766e931b/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/214652080/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:28:08.882Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "193674116",
       "uniqueKey": "minkang:193674116",
       "title": "25/26 Recife sports Home Jersey S-4XL7",
@@ -52666,6 +55627,95 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "213267340",
+      "uniqueKey": "minkang:213267340",
+      "title": "M-U  25/26 Pre-Match Jersey S-4XL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/213267340?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/minkang/213267340/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/c46e4e02/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/213267340/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:24:34.933Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "213150834",
+      "uniqueKey": "minkang:213150834",
+      "title": "M-U  25/26 US Pack Full-Button Baseball Jersey Red8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/213150834?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/213150834/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/ada0dba2/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/213150834/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:24:32.137Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212589396",
+      "uniqueKey": "minkang:212589396",
+      "title": "M-U 00/01 Away Long Sleeve Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212589396?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Retro",
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/minkang/212589396/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/a47e2664/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212589396/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:26:24.429Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "255036031",
       "uniqueKey": "minkang:255036031",
       "title": "M-U 01/02 Centenary Reversible Away And Third Retro Jersey S-XXL2",
@@ -52692,6 +55742,191 @@
       "coverUrl": "./assets/products/minkang/255036031/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:23:02.834Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "213000930",
+      "uniqueKey": "minkang:213000930",
+      "title": "M-U 02/03 Third Away Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/213000930?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/213000930/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/3bad899a/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/213000930/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:25:44.967Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212383099",
+      "uniqueKey": "minkang:212383099",
+      "title": "M-U 03/05 Away Retro Jersey S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212383099?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/212383099/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/cf667011/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212383099/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:27:46.679Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212589016",
+      "uniqueKey": "minkang:212589016",
+      "title": "M-U 04/06 Home Long Sleeve Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212589016?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Retro",
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/minkang/212589016/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/ab3ebd3a/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212589016/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:26:25.444Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212822020",
+      "uniqueKey": "minkang:212822020",
+      "title": "M-U 06/07 Away Player Version Retro Jersey S-3XL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212822020?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Retro",
+        "Player version"
+      ],
+      "images": [
+        "./assets/products/minkang/212822020/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/4f1a328e/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212822020/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:25:39.144Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212823041",
+      "uniqueKey": "minkang:212823041",
+      "title": "M-U 06/07 Home Long Sleeve Player Version Retro Jersey S-3XL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212823041?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Retro",
+        "Lange mouw",
+        "Player version"
+      ],
+      "images": [
+        "./assets/products/minkang/212823041/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/96dda2e1/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212823041/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:25:01.142Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212822665",
+      "uniqueKey": "minkang:212822665",
+      "title": "M-U 06/07 Home Player Version Retro Jersey S-3XL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212822665?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Retro",
+        "Player version"
+      ],
+      "images": [
+        "./assets/products/minkang/212822665/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/c16e03e0/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212822665/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:25:00.403Z"
     },
     {
       "source": "minkang",
@@ -52810,6 +56045,100 @@
       "coverUrl": "./assets/products/minkang/238400453/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:23:21.983Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "213002931",
+      "uniqueKey": "minkang:213002931",
+      "title": "M-U 07/08 Goalkeeper Long Sleeve Retro Jersey S-XXL9",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/213002931?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Retro",
+        "Keepers",
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/minkang/213002931/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/56bad234/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/213002931/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:25:42.348Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "213002501",
+      "uniqueKey": "minkang:213002501",
+      "title": "M-U 07/08 Goalkeeper Retro Jersey S-XXL9",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/213002501?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Retro",
+        "Keepers"
+      ],
+      "images": [
+        "./assets/products/minkang/213002501/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/38a097ae/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/213002501/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:25:41.171Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212822194",
+      "uniqueKey": "minkang:212822194",
+      "title": "M-U 07/08 Home Player Version Retro Jersey S-3XL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212822194?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Retro",
+        "Player version"
+      ],
+      "images": [
+        "./assets/products/minkang/212822194/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/688dddd8/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212822194/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:25:05.748Z"
     },
     {
       "source": "minkang",
@@ -52936,6 +56265,191 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "212822664",
+      "uniqueKey": "minkang:212822664",
+      "title": "M-U 08/09 Away Player Version Retro Jersey S-3XL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212822664?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Retro",
+        "Player version"
+      ],
+      "images": [
+        "./assets/products/minkang/212822664/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/cf43ee0e/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212822664/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:25:11.378Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "213002107",
+      "uniqueKey": "minkang:213002107",
+      "title": "M-U 08/09 Away Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/213002107?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/213002107/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/0897eb37/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/213002107/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:27:40.702Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212823039",
+      "uniqueKey": "minkang:212823039",
+      "title": "M-U 08/09 Third Away Long Sleeve Player Version Retro Jersey S-3XL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212823039?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Retro",
+        "Lange mouw",
+        "Player version"
+      ],
+      "images": [
+        "./assets/products/minkang/212823039/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/1f38cede/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212823039/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:25:16.889Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212321735",
+      "uniqueKey": "minkang:212321735",
+      "title": "M-U 08/09 Third Away Long Sleeve Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212321735?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Retro",
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/minkang/212321735/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/f6b03bfe/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212321735/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:25:16.229Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212822198",
+      "uniqueKey": "minkang:212822198",
+      "title": "M-U 08/09 Third Away Player Version Retro Jersey S-3XL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212822198?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Retro",
+        "Player version"
+      ],
+      "images": [
+        "./assets/products/minkang/212822198/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/8c814e54/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212822198/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:25:16.557Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212927054",
+      "uniqueKey": "minkang:212927054",
+      "title": "M-U 08/09 Third Away Retro Jersey S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212927054?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/212927054/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/fbee00ae/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212927054/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:25:15.212Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "238400606",
       "uniqueKey": "minkang:238400606",
       "title": "M-U 08/09 Third Away Retro Long-Sleeve Kids Kit Jersey Size 16-2812",
@@ -52999,6 +56513,37 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "212826770",
+      "uniqueKey": "minkang:212826770",
+      "title": "M-U 10/11 Away Long Sleeve Retro Jersey S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212826770?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Retro",
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/minkang/212826770/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/eb24e3d8/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212826770/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:25:49.780Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "237798119",
       "uniqueKey": "minkang:237798119",
       "title": "M-U 10/11 Home Retro Kids Kit Jersey SIZE 16-2813",
@@ -53056,6 +56601,99 @@
       "coverUrl": "./assets/products/minkang/215723250/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:24:02.660Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212822192",
+      "uniqueKey": "minkang:212822192",
+      "title": "M-U 12/13 Away Player Version Retro Jersey S-3XL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212822192?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Retro",
+        "Player version"
+      ],
+      "images": [
+        "./assets/products/minkang/212822192/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/60964d21/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212822192/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:25:38.128Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212823513",
+      "uniqueKey": "minkang:212823513",
+      "title": "M-U 12/13 Home Long Sleeve Player Version Retro Jersey S-3XL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212823513?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Retro",
+        "Lange mouw",
+        "Player version"
+      ],
+      "images": [
+        "./assets/products/minkang/212823513/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/0399076f/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212823513/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:25:20.329Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212590229",
+      "uniqueKey": "minkang:212590229",
+      "title": "M-U 12/13 Home Retro Jersey S-XXL9",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212590229?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/212590229/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/b6aa062e/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212590229/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:27:10.512Z"
     },
     {
       "source": "minkang",
@@ -53148,6 +56786,37 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "213387449",
+      "uniqueKey": "minkang:213387449",
+      "title": "M-U 18/19 Third Away Player Version Retro Jersey S-3XL10",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/213387449?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Retro",
+        "Player version"
+      ],
+      "images": [
+        "./assets/products/minkang/213387449/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/01b55489/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/213387449/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:25:21.310Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "220907151",
       "uniqueKey": "minkang:220907151",
       "title": "M-U 1819 Home Long-Sleeve Retro Jersey S-XXL8",
@@ -53179,6 +56848,370 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "212826679",
+      "uniqueKey": "minkang:212826679",
+      "title": "M-U 19/20 Home Long Sleeve Retro Jersey S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212826679?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Retro",
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/minkang/212826679/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/d260eb30/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212826679/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:26:23.297Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212824429",
+      "uniqueKey": "minkang:212824429",
+      "title": "M-U 19/20 Home Retro Jersey S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212824429?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/212824429/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/7265f2d0/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212824429/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:27:17.466Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212322993",
+      "uniqueKey": "minkang:212322993",
+      "title": "M-U 1984 Home Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212322993?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U 1984 Home",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/212322993/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/85fdf028/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212322993/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:27:06.369Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212322907",
+      "uniqueKey": "minkang:212322907",
+      "title": "M-U 1986/88 Away Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212322907?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/212322907/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/2adb8220/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212322907/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:27:21.407Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212322750",
+      "uniqueKey": "minkang:212322750",
+      "title": "M-U 1986/88 Home Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212322750?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/212322750/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/cefcff43/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212322750/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:27:07.192Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212312139",
+      "uniqueKey": "minkang:212312139",
+      "title": "M-U 1986/88 Second Away Long Sleeve Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212312139?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Retro",
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/minkang/212312139/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/f20dee55/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212312139/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:26:36.437Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212323087",
+      "uniqueKey": "minkang:212323087",
+      "title": "M-U 1988/90 Away Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212323087?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/212323087/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/3f213ede/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212323087/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:27:20.230Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212322826",
+      "uniqueKey": "minkang:212322826",
+      "title": "M-U 1991 Away Retro Jersey S-4XL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212322826?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U 1991 Away",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/212322826/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/7a63c1e3/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212322826/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:27:23.049Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212322292",
+      "uniqueKey": "minkang:212322292",
+      "title": "M-U 1994/96 2nd Away Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212322292?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/212322292/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/31821bd9/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212322292/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:27:23.471Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212312504",
+      "uniqueKey": "minkang:212312504",
+      "title": "M-U 1994/96 Home Long Sleeve Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212312504?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Retro",
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/minkang/212312504/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/5b59bfd1/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212312504/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:25:59.876Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212327490",
+      "uniqueKey": "minkang:212327490",
+      "title": "M-U 1996/97 Home Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212327490?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/212327490/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/a9f88830/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212327490/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:27:05.023Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212311369",
+      "uniqueKey": "minkang:212311369",
+      "title": "M-U 1998/99 Away Long Sleeve Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212311369?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Retro",
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/minkang/212311369/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/c7e630d0/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212311369/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:26:33.917Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "212311148",
       "uniqueKey": "minkang:212311148",
       "title": "M-U 1998/99 Black Long Sleeve Retro Jersey S-XXL7",
@@ -53206,6 +57239,69 @@
       "coverUrl": "./assets/products/minkang/212311148/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:24:03.525Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212309755",
+      "uniqueKey": "minkang:212309755",
+      "title": "M-U 1998/99 Goalkeeper - Green Long Sleeve Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212309755?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Retro",
+        "Keepers",
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/minkang/212309755/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/e42cdaf5/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212309755/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:26:41.267Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212321699",
+      "uniqueKey": "minkang:212321699",
+      "title": "M-U 1999/00 Home Long Sleeve Retro Jersey S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212321699?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Retro",
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/minkang/212321699/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/caa43fe7/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212321699/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:26:03.150Z"
     },
     {
       "source": "minkang",
@@ -53296,6 +57392,285 @@
       "coverUrl": "./assets/products/minkang/222043071/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:23:42.969Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212308817",
+      "uniqueKey": "minkang:212308817",
+      "title": "M-U 2003/05 Away Long Sleeve Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212308817?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Retro",
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/minkang/212308817/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/90cae354/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212308817/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:26:42.260Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212585147",
+      "uniqueKey": "minkang:212585147",
+      "title": "M-U 2007 Goalkeeper Grey Long Sleeve Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212585147?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U 2007 Goalkeeper",
+      "types": [
+        "Retro",
+        "Keepers",
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/minkang/212585147/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/02d3d737/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212585147/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:26:27.794Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212583635",
+      "uniqueKey": "minkang:212583635",
+      "title": "M-U 2007 Goalkeeper Grey Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212583635?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U 2007 Goalkeeper",
+      "types": [
+        "Retro",
+        "Keepers"
+      ],
+      "images": [
+        "./assets/products/minkang/212583635/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/15daa79b/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212583635/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:27:44.004Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212310438",
+      "uniqueKey": "minkang:212310438",
+      "title": "M-U 2008/09 Away Champions League Edition Long Sleeve Retro Jersey S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212310438?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Retro",
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/minkang/212310438/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/46996e15/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212310438/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:25:12.574Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212318457",
+      "uniqueKey": "minkang:212318457",
+      "title": "M-U 2010 Home Long Sleeve Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212318457?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U 2010 Home",
+      "types": [
+        "Retro",
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/minkang/212318457/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/46aafde5/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212318457/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:26:21.754Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212322693",
+      "uniqueKey": "minkang:212322693",
+      "title": "M-U 2010/11 Away Champions League version  Retro Jersey S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212322693?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/212322693/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/65e92d70/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212322693/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:25:46.678Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212310566",
+      "uniqueKey": "minkang:212310566",
+      "title": "M-U 2010/11 Home Long Sleeve Retro Jersey S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212310566?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Retro",
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/minkang/212310566/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/5a83823d/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212310566/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:26:40.925Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "213148560",
+      "uniqueKey": "minkang:213148560",
+      "title": "M-U 2011/12 Player Version Retro Home Jersey S-3XL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/213148560?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Retro",
+        "Player version"
+      ],
+      "images": [
+        "./assets/products/minkang/213148560/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/667b128a/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/213148560/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:25:22.766Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "213147771",
+      "uniqueKey": "minkang:213147771",
+      "title": "M-U 2013/14 Player Version Retro Home Jersey S-3XL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/213147771?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Retro",
+        "Player version"
+      ],
+      "images": [
+        "./assets/products/minkang/213147771/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/1b0ae3d6/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/213147771/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:25:40.088Z"
     },
     {
       "source": "minkang",
@@ -53452,6 +57827,69 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "212823178",
+      "uniqueKey": "minkang:212823178",
+      "title": "M-U 22/23 Home Long Sleeve Player Version Retro Jersey S-3XL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212823178?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Retro",
+        "Lange mouw",
+        "Player version"
+      ],
+      "images": [
+        "./assets/products/minkang/212823178/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/17f19f83/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212823178/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:28:04.687Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212822672",
+      "uniqueKey": "minkang:212822672",
+      "title": "M-U 22/23 Home Player Version Retro Jersey S-3XL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212822672?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Retro",
+        "Player version"
+      ],
+      "images": [
+        "./assets/products/minkang/212822672/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/cc1ea288/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212822672/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:25:24.370Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "218963784",
       "uniqueKey": "minkang:218963784",
       "title": "M-U 23/24 Away Retro Player Version Jersey S-3XL9",
@@ -53541,6 +57979,124 @@
       "coverUrl": "./assets/products/minkang/218963900/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:23:59.136Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "213131491",
+      "uniqueKey": "minkang:213131491",
+      "title": "M-U 24/25 Away kids kit Jersey SZIE 16-2811",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/213131491?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Kids"
+      ],
+      "images": [
+        "./assets/products/minkang/213131491/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/8d163e13/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/213131491/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:28:35.468Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212579563",
+      "uniqueKey": "minkang:212579563",
+      "title": "M-U 25/26 Away Jersey S-4XL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212579563?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/212579563/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/40d1f981/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212579563/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:24:28.085Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "213386478",
+      "uniqueKey": "minkang:213386478",
+      "title": "M-U 25/26 Away Long Sleeve Jersey S-4XL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/213386478?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/minkang/213386478/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/832ac4fc/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/213386478/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:24:20.958Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "218961673",
+      "uniqueKey": "minkang:218961673",
+      "title": "M-U 25/26 Away Women's Jersey Sizes S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/218961673?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Dames"
+      ],
+      "images": [
+        "./assets/products/minkang/218961673/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/fb02f606/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/218961673/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:24:19.476Z"
     },
     {
       "source": "minkang",
@@ -53715,6 +58271,37 @@
       "coverUrl": "./assets/products/minkang/213133300/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:24:04.103Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "213149475",
+      "uniqueKey": "minkang:213149475",
+      "title": "M-U 25/26 Home Long Sleeve Player Version Jersey S-3XL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/213149475?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Lange mouw",
+        "Player version"
+      ],
+      "images": [
+        "./assets/products/minkang/213149475/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/157d43ba/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/213149475/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:24:17.207Z"
     },
     {
       "source": "minkang",
@@ -53899,6 +58486,67 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "213374907",
+      "uniqueKey": "minkang:213374907",
+      "title": "M-U 25/26 Player Version Away Long Sleeve Jersey S-3XL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/213374907?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Lange mouw",
+        "Player version"
+      ],
+      "images": [
+        "./assets/products/minkang/213374907/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/926e5dd1/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/213374907/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:24:23.971Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "213147169",
+      "uniqueKey": "minkang:213147169",
+      "title": "M-U 25/26 Player Version Third Jersey S-4XL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/213147169?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Player version"
+      ],
+      "images": [
+        "./assets/products/minkang/213147169/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/ceb3491d/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/213147169/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:24:31.047Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "215945682",
       "uniqueKey": "minkang:215945682",
       "title": "M-U 25/26 Retro Style- Black Jersey S-XXL7",
@@ -53959,6 +58607,36 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "217775016",
+      "uniqueKey": "minkang:217775016",
+      "title": "M-U 25/26 Third Away Long-Sleeve Jersey S-4XL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/217775016?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/minkang/217775016/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/e09cb43e/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/217775016/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:24:29.912Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "226511715",
       "uniqueKey": "minkang:226511715",
       "title": "M-U 25/26 Third Away Player Version Long-sleeved Jersey S-XXL11",
@@ -53985,6 +58663,66 @@
       "coverUrl": "./assets/products/minkang/226511715/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:23:39.935Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "218961894",
+      "uniqueKey": "minkang:218961894",
+      "title": "M-U 25/26 Third Away Women's Jersey S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/218961894?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Dames"
+      ],
+      "images": [
+        "./assets/products/minkang/218961894/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/e1d2f1ff/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/218961894/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:24:26.962Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "213267816",
+      "uniqueKey": "minkang:213267816",
+      "title": "M-U 25/26 Third Goalkeeper Jersey Green S-4XL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/213267816?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Keepers"
+      ],
+      "images": [
+        "./assets/products/minkang/213267816/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/fccc991b/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/213267816/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:24:33.707Z"
     },
     {
       "source": "minkang",
@@ -55005,6 +59743,38 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "212487461",
+      "uniqueKey": "minkang:212487461",
+      "title": "M-U 92/94 Goalkeeper Long Sleeve Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212487461?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Retro",
+        "Keepers",
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/minkang/212487461/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/0b43e36d/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212487461/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:26:28.872Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "221176331",
       "uniqueKey": "minkang:221176331",
       "title": "M-U 92/94 Retro Windbreaker - Black S-XXL8",
@@ -55066,6 +59836,36 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "212580071",
+      "uniqueKey": "minkang:212580071",
+      "title": "M-U 96/98 2nd Away Retro Jersey S-XXL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212580071?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/212580071/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/0a49c78a/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212580071/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:27:45.573Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "237798430",
       "uniqueKey": "minkang:237798430",
       "title": "M-U 96/98 Third Away Retro Kids Kit Jersey SIZE 16-2810",
@@ -55093,6 +59893,37 @@
       "coverUrl": "./assets/products/minkang/237798430/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:23:22.269Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212588672",
+      "uniqueKey": "minkang:212588672",
+      "title": "M-U 98/99 2nd Away (Champions League Edition) Long Sleeve Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212588672?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Retro",
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/minkang/212588672/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/390c0a70/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212588672/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:26:26.822Z"
     },
     {
       "source": "minkang",
@@ -55125,6 +59956,67 @@
       "coverUrl": "./assets/products/minkang/238400675/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:23:21.107Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212588853",
+      "uniqueKey": "minkang:212588853",
+      "title": "M-U 98/99 White Long Sleeve Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212588853?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Retro",
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/minkang/212588853/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/921300b3/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212588853/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:26:26.467Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212382043",
+      "uniqueKey": "minkang:212382043",
+      "title": "M-U 99/00 Away Retro Jersey S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212382043?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "M-U",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/212382043/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/15045112/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212382043/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-23T23:27:47.783Z"
     },
     {
       "source": "minkang",
