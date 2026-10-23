@@ -58,50 +58,24 @@ const REQUEST_DELAY = Math.max(
   Number(process.env.SYNC_DELAY_MS || 180)
 );
 
+const BATCH_SIZE = Math.max(
+  1,
+  Number(process.env.SYNC_BATCH_SIZE || 25)
+);
+
 const limit = pLimit(CONCURRENCY);
 
-const sleep = milliseconds =>
-  new Promise(resolve => setTimeout(resolve, milliseconds));
+const sleep = ms =>
+  new Promise(resolve => setTimeout(resolve, ms));
 
 const COUNTRY_TEAMS = [
-  "Argentina",
-  "Australia",
-  "Austria",
-  "Belgium",
-  "Brazil",
-  "Canada",
-  "Chile",
-  "China",
-  "Colombia",
-  "Croatia",
-  "Denmark",
-  "Ecuador",
-  "England",
-  "France",
-  "Germany",
-  "Ghana",
-  "Italy",
-  "Japan",
-  "Mexico",
-  "Morocco",
-  "Netherlands",
-  "Nigeria",
-  "Norway",
-  "Poland",
-  "Portugal",
-  "Saudi Arabia",
-  "Scotland",
-  "Senegal",
-  "South Korea",
-  "Spain",
-  "Sweden",
-  "Switzerland",
-  "Turkey",
-  "Tunisia",
-  "Uruguay",
-  "USA",
-  "United States",
-  "Wales"
+  "Argentina","Australia","Austria","Belgium","Brazil","Canada",
+  "Chile","China","Colombia","Croatia","Denmark","Ecuador",
+  "England","France","Germany","Ghana","Italy","Japan","Mexico",
+  "Morocco","Netherlands","Nigeria","Norway","Poland","Portugal",
+  "Saudi Arabia","Scotland","Senegal","South Korea","Spain",
+  "Sweden","Switzerland","Turkey","Tunisia","Uruguay","USA",
+  "United States","Wales"
 ];
 
 const LEAGUES = [
@@ -109,180 +83,71 @@ const LEAGUES = [
     country: "Engeland",
     competition: "Premier League",
     clubs: [
-      "Arsenal",
-      "Aston Villa",
-      "Bournemouth",
-      "Brentford",
-      "Brighton",
-      "Burnley",
-      "Chelsea",
-      "Crystal Palace",
-      "Everton",
-      "Fulham",
-      "Leeds United",
-      "Liverpool",
-      "Manchester City",
-      "Manchester United",
-      "M-U",
-      "Newcastle United",
-      "Nottingham Forest",
-      "Sunderland",
-      "Tottenham",
-      "West Ham",
-      "Wolverhampton",
-      "Wolves"
+      "Arsenal","Aston Villa","Bournemouth","Brentford","Brighton",
+      "Burnley","Chelsea","Crystal Palace","Everton","Fulham",
+      "Leeds United","Liverpool","Manchester City","Manchester United",
+      "M-U","Newcastle United","Nottingham Forest","Sunderland",
+      "Tottenham","West Ham","Wolverhampton","Wolves"
     ]
   },
   {
     country: "Spanje",
     competition: "La Liga",
     clubs: [
-      "Alavés",
-      "Athletic Bilbao",
-      "Atlético Madrid",
-      "Barcelona",
-      "Celta Vigo",
-      "Elche",
-      "Espanyol",
-      "Getafe",
-      "Girona",
-      "Levante",
-      "Mallorca",
-      "Osasuna",
-      "Rayo Vallecano",
-      "Real Betis",
-      "Real Madrid",
-      "Real Oviedo",
-      "Real Sociedad",
-      "Sevilla",
-      "Valencia",
-      "Villarreal"
+      "Alavés","Athletic Bilbao","Atlético Madrid","Barcelona",
+      "Celta Vigo","Elche","Espanyol","Getafe","Girona","Levante",
+      "Mallorca","Osasuna","Rayo Vallecano","Real Betis","Real Madrid",
+      "Real Oviedo","Real Sociedad","Sevilla","Valencia","Villarreal"
     ]
   },
   {
     country: "Italië",
     competition: "Serie A",
     clubs: [
-      "AC Milan",
-      "Atalanta",
-      "Bologna",
-      "Cagliari",
-      "Como",
-      "Cremonese",
-      "Fiorentina",
-      "Genoa",
-      "Inter Milan",
-      "Inter",
-      "Juventus",
-      "Lazio",
-      "Lecce",
-      "Napoli",
-      "Parma",
-      "Pisa",
-      "Roma",
-      "Sassuolo",
-      "Torino",
-      "Udinese",
-      "Venezia",
-      "Verona"
+      "AC Milan","Atalanta","Bologna","Cagliari","Como","Cremonese",
+      "Fiorentina","Genoa","Inter Milan","Inter","Juventus","Lazio",
+      "Lecce","Napoli","Parma","Pisa","Roma","Sassuolo","Torino",
+      "Udinese","Venezia","Verona"
     ]
   },
   {
     country: "Duitsland",
     competition: "Bundesliga",
     clubs: [
-      "Augsburg",
-      "Bayer Leverkusen",
-      "Bayern Munich",
-      "Borussia Dortmund",
-      "Borussia Mönchengladbach",
-      "Eintracht Frankfurt",
-      "FC Köln",
-      "Freiburg",
-      "Hamburg",
-      "Heidenheim",
-      "Hoffenheim",
-      "Mainz",
-      "RB Leipzig",
-      "St. Pauli",
-      "Stuttgart",
-      "Union Berlin",
-      "Werder Bremen",
-      "Wolfsburg"
+      "Augsburg","Bayer Leverkusen","Bayern Munich","Borussia Dortmund",
+      "Borussia Mönchengladbach","Eintracht Frankfurt","FC Köln",
+      "Freiburg","Hamburg","Heidenheim","Hoffenheim","Mainz",
+      "RB Leipzig","St. Pauli","Stuttgart","Union Berlin",
+      "Werder Bremen","Wolfsburg"
     ]
   },
   {
     country: "Frankrijk",
     competition: "Ligue 1",
     clubs: [
-      "Auxerre",
-      "Angers",
-      "Brest",
-      "Le Havre",
-      "Lens",
-      "Lille",
-      "Lorient",
-      "Lyon",
-      "Marseille",
-      "Metz",
-      "Monaco",
-      "Nantes",
-      "Nice",
-      "Paris FC",
-      "PSG",
-      "Rennes",
-      "Strasbourg",
-      "Toulouse"
+      "Auxerre","Angers","Brest","Le Havre","Lens","Lille","Lorient",
+      "Lyon","Marseille","Metz","Monaco","Nantes","Nice","Paris FC",
+      "PSG","Rennes","Strasbourg","Toulouse"
     ]
   },
   {
     country: "Nederland",
     competition: "Eredivisie",
     clubs: [
-      "Ajax",
-      "AZ Alkmaar",
-      "Excelsior",
-      "Feyenoord",
-      "Fortuna Sittard",
-      "Go Ahead Eagles",
-      "Groningen",
-      "Heerenveen",
-      "Heracles",
-      "NAC Breda",
-      "NEC",
-      "PEC Zwolle",
-      "PSV",
-      "Sparta Rotterdam",
-      "Telstar",
-      "Twente",
-      "Utrecht",
-      "Volendam"
+      "Ajax","AZ Alkmaar","Excelsior","Feyenoord","Fortuna Sittard",
+      "Go Ahead Eagles","Groningen","Heerenveen","Heracles","NAC Breda",
+      "NEC","PEC Zwolle","PSV","Sparta Rotterdam","Telstar","Twente",
+      "Utrecht","Volendam"
     ]
   },
   {
     country: "Brazilië",
     competition: "Brasileiro Série A",
     clubs: [
-      "Atlético Mineiro",
-      "Bahia",
-      "Botafogo",
-      "Bragantino",
-      "Ceará",
-      "Corinthians",
-      "Cruzeiro",
-      "Flamengo",
-      "Fluminense",
-      "Fortaleza",
-      "Grêmio",
-      "Gremio",
-      "Internacional",
-      "Juventude",
-      "Mirassol",
-      "Palmeiras",
-      "Santos",
-      "São Paulo",
-      "Sport Recife",
-      "Vasco da Gama",
+      "Atlético Mineiro","Bahia","Botafogo","Bragantino","Ceará",
+      "Corinthians","Cruzeiro","Flamengo","Fluminense","Fortaleza",
+      "Grêmio","Gremio","Internacional","Juventude","Mirassol",
+      "Palmeiras","Santos","São Paulo","Sport Recife","Vasco da Gama",
       "Vitória"
     ]
   },
@@ -290,38 +155,17 @@ const LEAGUES = [
     country: "Portugal",
     competition: "Primeira Liga",
     clubs: [
-      "Benfica",
-      "Boavista",
-      "Braga",
-      "Casa Pia",
-      "Estoril",
-      "Famalicão",
-      "Farense",
-      "Gil Vicente",
-      "Moreirense",
-      "Nacional",
-      "Porto",
-      "Rio Ave",
-      "Santa Clara",
-      "Sporting CP",
-      "Vitória SC"
+      "Benfica","Boavista","Braga","Casa Pia","Estoril","Famalicão",
+      "Farense","Gil Vicente","Moreirense","Nacional","Porto","Rio Ave",
+      "Santa Clara","Sporting CP","Vitória SC"
     ]
   },
   {
     country: "Schotland",
     competition: "Scottish Premiership",
     clubs: [
-      "Aberdeen",
-      "Celtic",
-      "Dundee",
-      "Dundee United",
-      "Falkirk",
-      "Hearts",
-      "Hibernian",
-      "Kilmarnock",
-      "Livingston",
-      "Motherwell",
-      "Rangers",
+      "Aberdeen","Celtic","Dundee","Dundee United","Falkirk","Hearts",
+      "Hibernian","Kilmarnock","Livingston","Motherwell","Rangers",
       "St Mirren"
     ]
   },
@@ -329,23 +173,11 @@ const LEAGUES = [
     country: "Verenigde Staten",
     competition: "MLS",
     clubs: [
-      "Atlanta United",
-      "Austin FC",
-      "Charlotte FC",
-      "Chicago Fire",
-      "Columbus Crew",
-      "DC United",
-      "Inter Miami",
-      "LA Galaxy",
-      "Los Angeles FC",
-      "Nashville SC",
-      "New York City",
-      "New York Red Bulls",
-      "Orlando City",
-      "Philadelphia Union",
-      "Portland Timbers",
-      "Seattle Sounders",
-      "Toronto FC",
+      "Atlanta United","Austin FC","Charlotte FC","Chicago Fire",
+      "Columbus Crew","DC United","Inter Miami","LA Galaxy",
+      "Los Angeles FC","Nashville SC","New York City",
+      "New York Red Bulls","Orlando City","Philadelphia Union",
+      "Portland Timbers","Seattle Sounders","Toronto FC",
       "Vancouver Whitecaps"
     ]
   }
@@ -417,74 +249,45 @@ function collectionId(url = "") {
 }
 
 function startsWithName(title, name) {
-  const normalizedTitle = normalize(title);
-  const normalizedName = normalize(name);
+  const t = normalize(title);
+  const n = normalize(name);
 
   return (
-    normalizedTitle === normalizedName ||
-    normalizedTitle.startsWith(`${normalizedName} `) ||
-    normalizedTitle.includes(` ${normalizedName} `)
+    t === n ||
+    t.startsWith(`${n} `) ||
+    t.includes(` ${n} `)
   );
 }
 
 function productTypes(title) {
-  const normalizedTitle = normalize(title);
-  const output = [];
+  const t = normalize(title);
+  const out = [];
 
-  if (/\bretro\b/.test(normalizedTitle)) {
-    output.push("Retro");
+  if (/\bretro\b/.test(t)) out.push("Retro");
+  if (/\b(kids?|baby|youth)\b/.test(t)) out.push("Kids");
+  if (/\b(women|womens|ladies)\b/.test(t)) out.push("Dames");
+  if (/\btraining|pre match|tracksuit\b/.test(t)) out.push("Training");
+  if (/\bgoalkeeper\b/.test(t)) out.push("Keepers");
+  if (/\blong sleeve\b/.test(t)) out.push("Lange mouw");
+  if (/\bplayer version\b/.test(t)) out.push("Player version");
+
+  if (/\bspecial edition|commemorative|anniversary\b/.test(t)) {
+    out.push("Special edition");
   }
 
-  if (/\b(kids?|baby|youth)\b/.test(normalizedTitle)) {
-    output.push("Kids");
-  }
-
-  if (/\b(women|womens|ladies)\b/.test(normalizedTitle)) {
-    output.push("Dames");
-  }
-
-  if (/\btraining|pre match|tracksuit\b/.test(normalizedTitle)) {
-    output.push("Training");
-  }
-
-  if (/\bgoalkeeper\b/.test(normalizedTitle)) {
-    output.push("Keepers");
-  }
-
-  if (/\blong sleeve\b/.test(normalizedTitle)) {
-    output.push("Lange mouw");
-  }
-
-  if (/\bplayer version\b/.test(normalizedTitle)) {
-    output.push("Player version");
-  }
-
-  if (
-    /\bspecial edition|commemorative|anniversary\b/.test(
-      normalizedTitle
-    )
-  ) {
-    output.push("Special edition");
-  }
-
-  return output;
+  return out;
 }
 
 function clubFromTitle(title = "") {
   const cleaned = title.replace(/^\d+\s*/, "").trim();
 
-  const position = cleaned.search(
+  const index = cleaned.search(
     /\b(?:19|20)?\d{2}[/-]\d{2}\b|\b\d{2}[/-]\d{2}\b|\b202[0-9]\b/i
   );
 
-  if (position > 0) {
-    return cleaned.slice(0, position).trim();
-  }
-
-  return (
-    cleaned.split(/\s+/).slice(0, 3).join(" ") ||
-    "Overig"
-  );
+  return index > 0
+    ? cleaned.slice(0, index).trim()
+    : cleaned.split(/\s+/).slice(0, 3).join(" ") || "Overig";
 }
 
 function productClass(
@@ -509,9 +312,7 @@ function productClass(
   );
 
   if (
-    /\b(handbag|hand bag|shoulder bag|tote bag|crossbody|clutch|purse|wallet|backpack|rucksack|travel bag|duffle|duffel|bag)\b/.test(
-      all
-    )
+    /\b(handbag|hand bag|shoulder bag|tote bag|crossbody|clutch|purse|wallet|backpack|rucksack|travel bag|duffle|duffel|bag)\b/.test(all)
   ) {
     return {
       section: "Mode & accessoires",
@@ -530,9 +331,7 @@ function productClass(
     };
   }
 
-  if (
-    /\b(watch|watches|chronograph|timepiece)\b/.test(all)
-  ) {
+  if (/\b(watch|watches|chronograph|timepiece)\b/.test(all)) {
     return {
       section: "Mode & accessoires",
       category: "Horloges",
@@ -557,9 +356,7 @@ function productClass(
   }
 
   if (
-    /\b(shoe|shoes|sneaker|sneakers|trainer shoes|boots|sandals|slippers|cleats)\b/.test(
-      all
-    )
+    /\b(shoe|shoes|sneaker|sneakers|trainer shoes|boots|sandals|slippers|cleats)\b/.test(all)
   ) {
     return {
       section: "Schoenen",
@@ -577,9 +374,7 @@ function productClass(
   }
 
   if (
-    /\b(ball|football|soccer ball|basketball|volleyball)\b/.test(
-      all
-    ) &&
+    /\b(ball|football|soccer ball|basketball|volleyball)\b/.test(all) &&
     !/shirt|jersey|kit|clothes|uniform/.test(all)
   ) {
     return {
@@ -598,9 +393,7 @@ function productClass(
   }
 
   if (
-    /\b(cap|hat|scarf|glove|sunglasses|jewelry|necklace|bracelet|earring|sock|socks)\b/.test(
-      all
-    )
+    /\b(cap|hat|scarf|glove|sunglasses|jewelry|necklace|bracelet|earring|sock|socks)\b/.test(all)
   ) {
     return {
       section: "Mode & accessoires",
@@ -613,25 +406,25 @@ function productClass(
     };
   }
 
-  const nationalTeam = COUNTRY_TEAMS.find(name =>
-    startsWithName(title, name)
+  const national = COUNTRY_TEAMS.find(
+    name => startsWithName(title, name)
   );
 
-  if (nationalTeam) {
+  if (national) {
     return {
       section: "Voetbal",
       category: "Landenteams",
       subcategory: "WK & landenteams",
-      country: nationalTeam,
+      country: national,
       competition: "WK & landenteams",
-      club: nationalTeam,
+      club: national,
       types: productTypes(title)
     };
   }
 
   for (const league of LEAGUES) {
     const club = [...league.clubs]
-      .sort((first, second) => second.length - first.length)
+      .sort((a, b) => b.length - a.length)
       .find(name => startsWithName(title, name));
 
     if (club) {
@@ -648,9 +441,7 @@ function productClass(
   }
 
   if (
-    /\b(jersey|shirt|football|soccer|kit|uniform|training|windbreaker|tracksuit)\b/.test(
-      all
-    )
+    /\b(jersey|shirt|football|soccer|kit|uniform|training|windbreaker|tracksuit)\b/.test(all)
   ) {
     return {
       section: "Voetbal",
@@ -670,9 +461,7 @@ function productClass(
   }
 
   if (
-    /\b(t shirt|tshirt|hoodie|sweater|jacket|coat|pants|shorts|dress|skirt|clothing|apparel)\b/.test(
-      all
-    )
+    /\b(t shirt|tshirt|hoodie|sweater|jacket|coat|pants|shorts|dress|skirt|clothing|apparel)\b/.test(all)
   ) {
     return {
       section: "Mode & kleding",
@@ -708,7 +497,7 @@ async function request(source, url, attempt = 1) {
   const response = await fetch(url, {
     headers: {
       "user-agent":
-        "Mozilla/5.0 FootballshirtsNL-MultiSourceSync/1.0",
+        "Mozilla/5.0 FootballshirtsNL-MultiSourceSync/2.0",
       "accept-language":
         "nl-NL,nl;q=0.9,en;q=0.8",
       referer: `${source.base}/`
@@ -731,8 +520,7 @@ async function request(source, url, attempt = 1) {
 }
 
 async function html(source, url) {
-  const response = await request(source, url);
-  return response.text();
+  return (await request(source, url)).text();
 }
 
 async function loadPrevious() {
@@ -774,9 +562,7 @@ function extractLinks($, source, context = {}) {
     const title = (
       $(element).attr("title") ||
       card
-        .find(
-          ".album__title,.showindex__children__title"
-        )
+        .find(".album__title,.showindex__children__title")
         .text() ||
       $(element).text()
     )
@@ -828,7 +614,7 @@ function extractLinks($, source, context = {}) {
   ];
 }
 
-function extractNavigation($, source) {
+function extractNavigation($) {
   const categories = new Map();
   const collections = new Map();
 
@@ -836,26 +622,24 @@ function extractNavigation($, source) {
     const href = $(element).attr("href");
     const id = categoryId(href);
 
-    if (!id) return;
-
-    categories.set(id, {
-      id,
-      name: textOf($, element),
-      url: `${source.base}/categories/${id}?isSubCate=true`
-    });
+    if (id) {
+      categories.set(id, {
+        id,
+        name: textOf($, element)
+      });
+    }
   });
 
   $('a[href*="/collections/"]').each((_, element) => {
     const href = $(element).attr("href");
     const id = collectionId(href);
 
-    if (!id) return;
-
-    collections.set(id, {
-      id,
-      name: textOf($, element),
-      url: `${source.base}/collections/${id}`
-    });
+    if (id) {
+      collections.set(id, {
+        id,
+        name: textOf($, element)
+      });
+    }
   });
 
   return {
@@ -870,8 +654,7 @@ async function discoverSeeds(source) {
       id,
       {
         id,
-        name: "",
-        url: `${source.base}/categories/${id}?isSubCate=true`
+        name: ""
       }
     ])
   );
@@ -884,8 +667,12 @@ async function discoverSeeds(source) {
     `${source.base}/categories`
   ]) {
     try {
-      const $ = cheerio.load(await html(source, url));
-      const navigation = extractNavigation($, source);
+      const $ = cheerio.load(
+        await html(source, url)
+      );
+
+      const navigation =
+        extractNavigation($);
 
       for (const item of navigation.categories) {
         categories.set(item.id, item);
@@ -917,23 +704,29 @@ async function crawlPaged(
   let emptyPages = 0;
 
   for (let page = 1; page <= maxPages; page++) {
-    const url = urlFactory(page);
-
     try {
-      const $ = cheerio.load(await html(source, url));
+      const url = urlFactory(page);
+
+      const $ = cheerio.load(
+        await html(source, url)
+      );
 
       const name = pageTitle(
         $,
         context.name || ""
       );
 
-      const found = extractLinks($, source, {
-        ...context,
-        sourceCategory:
-          context.sourceCategory || name,
-        sourceCollection:
-          context.sourceCollection || name
-      });
+      const found = extractLinks(
+        $,
+        source,
+        {
+          ...context,
+          sourceCategory:
+            context.sourceCategory || name,
+          sourceCollection:
+            context.sourceCollection || name
+        }
+      );
 
       products.push(...found);
 
@@ -966,7 +759,8 @@ async function discoverSource(source) {
   found.push(
     ...await crawlPaged(
       source,
-      page => `${source.base}/albums?page=${page}`,
+      page =>
+        `${source.base}/albums?page=${page}`,
       MAX_INDEX_PAGES,
       {
         kind: "index",
@@ -975,7 +769,8 @@ async function discoverSource(source) {
     )
   );
 
-  const seeds = await discoverSeeds(source);
+  const seeds =
+    await discoverSeeds(source);
 
   for (const category of seeds.categories) {
     found.push(
@@ -1045,8 +840,11 @@ function sourceImageUrls($, source) {
       return;
     }
 
-    const host = parsed.host.toLowerCase();
-    const pathname = parsed.pathname.toLowerCase();
+    const host =
+      parsed.host.toLowerCase();
+
+    const pathname =
+      parsed.pathname.toLowerCase();
 
     if (
       host !== "photo.yupoo.com" &&
@@ -1075,7 +873,10 @@ function sourceImageUrls($, source) {
     urls.push(url);
   });
 
-  return unique(urls).slice(0, MAX_IMAGES);
+  return unique(urls).slice(
+    0,
+    MAX_IMAGES
+  );
 }
 
 async function inspectProduct(product) {
@@ -1085,11 +886,19 @@ async function inspectProduct(product) {
 
   return limit(async () => {
     const $ = cheerio.load(
-      await html(source, product.sourceUrl)
+      await html(
+        source,
+        product.sourceUrl
+      )
     );
 
-    const title = pageTitle($, product.title);
-    const sourceImages = sourceImageUrls($, source);
+    const title = pageTitle(
+      $,
+      product.title
+    );
+
+    const sourceImages =
+      sourceImageUrls($, source);
 
     return {
       ...product,
@@ -1120,19 +929,10 @@ async function fileExists(file) {
   }
 }
 
-async function localImagesExist(product) {
-  if (!product?.images?.length) {
-    return false;
-  }
-
-  const checks = await Promise.all(
-    product.images.map(image => fileExists(image))
-  );
-
-  return checks.every(Boolean);
-}
-
-function localImageLocation(product, index) {
+function localImageLocation(
+  product,
+  index
+) {
   const directory = path.join(
     "assets",
     "products",
@@ -1156,26 +956,27 @@ function localImageLocation(product, index) {
   };
 }
 
-async function saveImage(product, url, index) {
-  const location = localImageLocation(
-    product,
-    index
-  );
+async function saveImage(
+  product,
+  url,
+  index
+) {
+  const location =
+    localImageLocation(
+      product,
+      index
+    );
 
   await fs.mkdir(
     location.directory,
-    { recursive: true }
+    {
+      recursive: true
+    }
   );
 
-  /*
-   * Een bestaande afbeelding wordt niet opnieuw
-   * gedownload of verwerkt.
-   */
-  if (await fileExists(location.file)) {
-    console.log(
-      `[${product.source}] Foto ${product.sourceId}/${index + 1} bestaat al; behouden`
-    );
-
+  if (
+    await fileExists(location.file)
+  ) {
     return location.publicPath;
   }
 
@@ -1183,17 +984,15 @@ async function saveImage(product, url, index) {
     item => item.key === product.source
   );
 
-  const response = await request(source, url);
+  const response = await request(
+    source,
+    url
+  );
 
   const buffer = Buffer.from(
     await response.arrayBuffer()
   );
 
-  /*
-   * Eerst naar een tijdelijk bestand schrijven.
-   * Daardoor blijft bij een fout geen beschadigd
-   * definitief webp-bestand achter.
-   */
   const temporaryFile =
     `${location.file}.tmp`;
 
@@ -1201,7 +1000,10 @@ async function saveImage(product, url, index) {
     await sharp(buffer)
       .rotate()
       .resize({
-        width: index === 0 ? 700 : 1200,
+        width:
+          index === 0
+            ? 700
+            : 1200,
         withoutEnlargement: true
       })
       .webp({
@@ -1220,14 +1022,12 @@ async function saveImage(product, url, index) {
 
     return location.publicPath;
   } catch (error) {
-    try {
-      await fs.rm(
-        temporaryFile,
-        { force: true }
-      );
-    } catch {
-      // Tijdelijk bestand bestond niet meer.
-    }
+    await fs.rm(
+      temporaryFile,
+      {
+        force: true
+      }
+    ).catch(() => {});
 
     throw error;
   }
@@ -1244,31 +1044,29 @@ async function downloadProduct(
     index < product.sourceImages.length;
     index++
   ) {
-    const url = product.sourceImages[index];
+    const url =
+      product.sourceImages[index];
 
-    const location = localImageLocation(
-      product,
-      index
-    );
+    const location =
+      localImageLocation(
+        product,
+        index
+      );
 
-    /*
-     * Als bijvoorbeeld 01.webp al bestaat,
-     * wordt het bestand direct hergebruikt.
-     */
-    if (await fileExists(location.file)) {
-      images.push(location.publicPath);
+    if (
+      await fileExists(location.file)
+    ) {
+      images.push(
+        location.publicPath
+      );
 
       console.log(
-        `[${product.source}] Foto ${product.sourceId}/${index + 1} bestaat al; niet opnieuw gedownload`
+        `[${product.source}] Foto ${product.sourceId}/${index + 1} bestaat al; overgeslagen`
       );
 
       continue;
     }
 
-    /*
-     * Controleer ook of het oude catalogusrecord
-     * op deze positie een geldig bestand heeft.
-     */
     const oldImage =
       oldProduct?.images?.[index];
 
@@ -1278,19 +1076,16 @@ async function downloadProduct(
     ) {
       images.push(oldImage);
 
-      console.log(
-        `[${product.source}] Foto ${product.sourceId}/${index + 1} uit bestaande catalogus behouden`
-      );
-
       continue;
     }
 
     try {
-      const savedImage = await saveImage(
-        product,
-        url,
-        index
-      );
+      const savedImage =
+        await saveImage(
+          product,
+          url,
+          index
+        );
 
       images.push(savedImage);
     } catch (error) {
@@ -1298,28 +1093,19 @@ async function downloadProduct(
         `[${product.source}] Foto ${product.sourceId}/${index + 1}: ${error.message}`
       );
 
-      /*
-       * Als een download mislukt, wordt een eventueel
-       * bestaand oud bestand niet uit de catalogus verwijderd.
-       */
       if (
         oldImage &&
         await fileExists(oldImage)
       ) {
         images.push(oldImage);
-
-        console.log(
-          `[${product.source}] Oude foto ${product.sourceId}/${index + 1} na downloadfout behouden`
-        );
       }
     }
   }
 
-  /*
-   * Bestaande geldige afbeeldingen behouden wanneer
-   * de bron tijdelijk minder afbeeldingen teruggeeft.
-   */
-  for (const oldImage of oldProduct?.images || []) {
+  for (
+    const oldImage of
+      oldProduct?.images || []
+  ) {
     if (
       images.length >= MAX_IMAGES
     ) {
@@ -1334,26 +1120,21 @@ async function downloadProduct(
     }
   }
 
-  const limitedImages =
+  const limited =
     images.slice(0, MAX_IMAGES);
 
   return {
     ...product,
     coverUrl:
-      limitedImages[0] ||
+      limited[0] ||
       oldProduct?.coverUrl ||
       null,
-    images: limitedImages,
-    imageCount: limitedImages.length,
-    updatedAt: new Date().toISOString()
+    images: limited,
+    imageCount: limited.length,
+    updatedAt:
+      new Date().toISOString()
   };
 }
-
-const sameArray = (first = [], second = []) =>
-  first.length === second.length &&
-  first.every(
-    (value, index) => value === second[index]
-  );
 
 function duplicateKey(product) {
   return normalize(
@@ -1367,24 +1148,43 @@ function duplicateKey(product) {
   );
 }
 
+function hasAllExpectedImages(
+  product
+) {
+  const expected = Math.min(
+    product.sourceImages?.length || 0,
+    MAX_IMAGES
+  );
+
+  return (
+    expected > 0 &&
+    (product.images?.length || 0) >= expected
+  );
+}
+
 await fs.mkdir(
   "data",
-  { recursive: true }
+  {
+    recursive: true
+  }
 );
 
 await fs.mkdir(
   "assets/products",
-  { recursive: true }
+  {
+    recursive: true
+  }
 );
 
-const previous = await loadPrevious();
+const previous =
+  await loadPrevious();
 
 const previousProducts =
   previous.products ||
   previous.albums ||
   [];
 
-const previousByKey = new Map(
+const productMap = new Map(
   previousProducts.map(product => [
     product.uniqueKey ||
       `${product.source || "minkang"}:${product.sourceId}`,
@@ -1392,194 +1192,50 @@ const previousByKey = new Map(
   ])
 );
 
-const discovered = [];
+const stats = {
+  discovered: 0,
+  added: 0,
+  changed: 0,
+  unchanged: 0,
+  repaired: 0,
+  skipped: 0,
+  duplicatesRemoved: 0,
+  batchesSaved: 0
+};
 
-for (const source of SOURCES) {
-  try {
-    const sourceProducts =
-      await discoverSource(source);
+async function writeCatalog(label) {
+  const winners = new Map();
 
-    discovered.push(...sourceProducts);
-
-    console.log(
-      `[${source.key}] totaal ontdekt: ${sourceProducts.length}`
-    );
-  } catch (error) {
-    console.error(
-      `[${source.key}] bron overgeslagen: ${error.message}`
-    );
-  }
-}
-
-const current = [
-  ...new Map(
-    discovered.map(product => [
-      product.uniqueKey,
-      product
-    ])
-  ).values()
-];
-
-const inspected = await Promise.all(
-  current.map(async product => {
-    try {
-      return await inspectProduct(product);
-    } catch (error) {
-      console.error(
-        `[${product.source}] Albumcontrole ${product.sourceId}: ${error.message}`
-      );
-
-      return {
-        ...product,
-        inspectionFailed: true
-      };
-    }
-  })
-);
-
-const products = [];
-
-let added = 0;
-let changed = 0;
-let unchanged = 0;
-let repaired = 0;
-let skipped = 0;
-
-for (const item of inspected) {
-  const old = previousByKey.get(
-    item.uniqueKey
-  );
-
-  const assetsOkay = old
-    ? await localImagesExist(old)
-    : false;
-
-  if (item.inspectionFailed) {
-    if (old && assetsOkay) {
-      products.push(old);
-      skipped++;
-    }
-
-    continue;
-  }
-
-  const metadataChanged =
-    Boolean(old) &&
-    [
-      "title",
-      "section",
-      "category",
-      "subcategory",
-      "country",
-      "competition",
-      "club",
-      "sourceCollection",
-      "sourceCategory",
-      "categoryId",
-      "collectionId"
-    ].some(key => old[key] !== item[key]);
-
-  const remoteChanged =
-    !old ||
-    !Array.isArray(old.sourceImages) ||
-    !sameArray(
-      old.sourceImages,
-      item.sourceImages
-    );
-
-  /*
-   * Ook opnieuw verwerken wanneer het bestaande product
-   * minder afbeeldingen heeft dan de bron nu aanbiedt.
-   */
-  const missingImages =
-    Boolean(old) &&
-    (old.images?.length || 0) <
-      Math.min(
-        item.sourceImages.length,
-        MAX_IMAGES
-      );
-
-  const needsDownload =
-    !old ||
-    !assetsOkay ||
-    remoteChanged ||
-    missingImages;
-
-  if (!needsDownload) {
-    products.push({
-      ...old,
-      ...item,
-      images: old.images,
-      coverUrl:
-        old.coverUrl ||
-        old.images?.[0] ||
-        null,
-      imageCount:
-        old.images?.length || 0,
-      updatedAt: old.updatedAt
-    });
-
-    if (metadataChanged) {
-      changed++;
-    } else {
-      unchanged++;
-    }
-
-    continue;
-  }
-
-  try {
-    const imported = await downloadProduct(
-      item,
-      old
-    );
-
-    if (imported.images.length) {
-      products.push(imported);
-
-      if (!old) {
-        added++;
-      } else if (!assetsOkay) {
-        repaired++;
-      } else {
-        changed++;
-      }
-    } else if (old && assetsOkay) {
-      products.push(old);
-      skipped++;
-    }
-  } catch (error) {
-    console.error(
-      `[${item.source}] Product ${item.sourceId}: ${error.message}`
-    );
-
-    if (old && assetsOkay) {
-      products.push(old);
-      skipped++;
-    }
-  }
-}
-
-const winners = new Map();
-
-for (const product of products) {
-  const key = duplicateKey(product);
-  const currentWinner = winners.get(key);
-
-  if (
-    !currentWinner ||
-    product.sourcePriority <
-      currentWinner.sourcePriority
+  for (
+    const product of productMap.values()
   ) {
-    winners.set(key, product);
-  }
-}
+    if (
+      !product?.images?.length
+    ) {
+      continue;
+    }
 
-const cleanProducts = [
-  ...winners.values()
-]
-  .filter(product => product.images?.length)
-  .sort(
+    const key =
+      duplicateKey(product);
+
+    const winner =
+      winners.get(key);
+
+    if (
+      !winner ||
+      (product.sourcePriority ?? 99) <
+        (winner.sourcePriority ?? 99)
+    ) {
+      winners.set(
+        key,
+        product
+      );
+    }
+  }
+
+  const cleanProducts = [
+    ...winners.values()
+  ].sort(
     (first, second) =>
       first.section.localeCompare(
         second.section,
@@ -1595,75 +1251,81 @@ const cleanProducts = [
       )
   );
 
-const sections = unique(
-  cleanProducts.map(product => product.section)
-).sort((first, second) =>
-  first.localeCompare(second, "nl")
-);
+  stats.duplicatesRemoved =
+    productMap.size -
+    cleanProducts.length;
 
-const categories = unique(
-  cleanProducts.map(product => product.category)
-).sort((first, second) =>
-  first.localeCompare(second, "nl")
-);
-
-const competitions = unique(
-  cleanProducts.map(
-    product => product.competition
-  )
-).sort((first, second) =>
-  first.localeCompare(second, "nl")
-);
-
-const stable = {
-  sources: SOURCES.map(
-    ({ key, base, priority }) => ({
-      key,
-      base,
-      priority
-    })
-  ),
-  total: cleanProducts.length,
-  sections,
-  categories,
-  competitions,
-  products: cleanProducts
-};
-
-const oldStable = {
-  sources: previous.sources,
-  total: previous.total,
-  sections: previous.sections,
-  categories: previous.categories,
-  competitions: previous.competitions,
-  products:
-    previous.products ||
-    previous.albums
-};
-
-if (
-  JSON.stringify(stable) !==
-  JSON.stringify(oldStable)
-) {
   const output = {
-    lastSync: new Date().toISOString(),
-    stats: {
-      discovered: current.length,
-      added,
-      changed,
-      unchanged,
-      repaired,
-      skipped,
-      duplicatesRemoved:
-        products.length -
-        cleanProducts.length
+    lastSync:
+      new Date().toISOString(),
+
+    syncState: {
+      status: "in-progress",
+      label,
+      batchSize: BATCH_SIZE,
+      maxImages: MAX_IMAGES
     },
-    ...stable
+
+    stats: {
+      ...stats
+    },
+
+    sources: SOURCES.map(
+      ({
+        key,
+        base,
+        priority
+      }) => ({
+        key,
+        base,
+        priority
+      })
+    ),
+
+    total:
+      cleanProducts.length,
+
+    sections: unique(
+      cleanProducts.map(
+        product =>
+          product.section
+      )
+    ).sort(
+      (a, b) =>
+        a.localeCompare(b, "nl")
+    ),
+
+    categories: unique(
+      cleanProducts.map(
+        product =>
+          product.category
+      )
+    ).sort(
+      (a, b) =>
+        a.localeCompare(b, "nl")
+    ),
+
+    competitions: unique(
+      cleanProducts.map(
+        product =>
+          product.competition
+      )
+    ).sort(
+      (a, b) =>
+        a.localeCompare(b, "nl")
+    ),
+
+    products:
+      cleanProducts
   };
 
   await fs.writeFile(
     "data/catalog.json.tmp",
-    JSON.stringify(output, null, 2)
+    JSON.stringify(
+      output,
+      null,
+      2
+    )
   );
 
   await fs.rename(
@@ -1671,11 +1333,213 @@ if (
     "data/catalog.json"
   );
 
+  stats.batchesSaved++;
+
   console.log(
-    `Bijgewerkt: ${cleanProducts.length} producten; nieuw ${added}, gewijzigd ${changed}, hersteld ${repaired}, dubbelen verwijderd ${products.length - cleanProducts.length}`
-  );
-} else {
-  console.log(
-    "Geen inhoudelijke wijzigingen; catalogus niet aangepast."
+    `[batch] Catalogus tussentijds opgeslagen: ${label}; ${cleanProducts.length} producten`
   );
 }
+
+for (const source of SOURCES) {
+  let discovered = [];
+
+  try {
+    discovered =
+      await discoverSource(source);
+
+    stats.discovered +=
+      discovered.length;
+
+    console.log(
+      `[${source.key}] totaal ontdekt: ${discovered.length}`
+    );
+  } catch (error) {
+    console.error(
+      `[${source.key}] bron overgeslagen: ${error.message}`
+    );
+
+    continue;
+  }
+
+  for (
+    let start = 0;
+    start < discovered.length;
+    start += BATCH_SIZE
+  ) {
+    const batch =
+      discovered.slice(
+        start,
+        start + BATCH_SIZE
+      );
+
+    const inspected =
+      await Promise.all(
+        batch.map(
+          async product => {
+            try {
+              return await inspectProduct(
+                product
+              );
+            } catch (error) {
+              console.error(
+                `[${product.source}] Albumcontrole ${product.sourceId}: ${error.message}`
+              );
+
+              return {
+                ...product,
+                inspectionFailed: true
+              };
+            }
+          }
+        )
+      );
+
+    for (const item of inspected) {
+      const old =
+        productMap.get(
+          item.uniqueKey
+        );
+
+      if (
+        item.inspectionFailed
+      ) {
+        stats.skipped++;
+        continue;
+      }
+
+      const metadataChanged =
+        Boolean(old) &&
+        [
+          "title",
+          "section",
+          "category",
+          "subcategory",
+          "country",
+          "competition",
+          "club",
+          "sourceCollection",
+          "sourceCategory",
+          "categoryId",
+          "collectionId"
+        ].some(
+          key =>
+            old[key] !==
+            item[key]
+        );
+
+      const complete = old
+        ? hasAllExpectedImages({
+            ...item,
+            images: old.images
+          })
+        : false;
+
+      if (
+        old &&
+        complete &&
+        !metadataChanged
+      ) {
+        productMap.set(
+          item.uniqueKey,
+          {
+            ...old,
+            ...item,
+            images:
+              old.images,
+            coverUrl:
+              old.coverUrl ||
+              old.images?.[0] ||
+              null,
+            imageCount:
+              old.images?.length ||
+              0,
+            updatedAt:
+              old.updatedAt
+          }
+        );
+
+        stats.unchanged++;
+        continue;
+      }
+
+      try {
+        const imported =
+          await downloadProduct(
+            item,
+            old
+          );
+
+        if (
+          imported.images.length
+        ) {
+          productMap.set(
+            item.uniqueKey,
+            imported
+          );
+
+          if (!old) {
+            stats.added++;
+          } else if (!complete) {
+            stats.repaired++;
+          } else {
+            stats.changed++;
+          }
+        } else {
+          stats.skipped++;
+        }
+      } catch (error) {
+        console.error(
+          `[${item.source}] Product ${item.sourceId}: ${error.message}`
+        );
+
+        stats.skipped++;
+      }
+    }
+
+    await writeCatalog(
+      `${source.key} ${Math.min(
+        start + BATCH_SIZE,
+        discovered.length
+      )}/${discovered.length}`
+    );
+  }
+}
+
+await writeCatalog(
+  "voltooid"
+);
+
+const finalCatalog =
+  JSON.parse(
+    await fs.readFile(
+      "data/catalog.json",
+      "utf8"
+    )
+  );
+
+finalCatalog.syncState = {
+  ...finalCatalog.syncState,
+  status: "completed",
+  label: "voltooid"
+};
+
+finalCatalog.lastSync =
+  new Date().toISOString();
+
+await fs.writeFile(
+  "data/catalog.json.tmp",
+  JSON.stringify(
+    finalCatalog,
+    null,
+    2
+  )
+);
+
+await fs.rename(
+  "data/catalog.json.tmp",
+  "data/catalog.json"
+);
+
+console.log(
+  `Klaar: ${finalCatalog.total} producten; nieuw ${stats.added}, gewijzigd ${stats.changed}, hersteld ${stats.repaired}, batches ${stats.batchesSaved}`
+);
