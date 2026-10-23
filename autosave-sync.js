@@ -97,21 +97,32 @@ function checkpoint(
     );
 
     if (commit.status !== 0) {
+      console.log(
+        "[checkpoint] Commit kon niet worden gemaakt."
+      );
       return;
     }
+
+    const branch =
+      process.env.GITHUB_REF_NAME ||
+      "main";
 
     const push = run(
       "git",
       [
         "push",
         "origin",
-        `HEAD:${process.env.GITHUB_REF_NAME || "main"}`
+        `HEAD:${branch}`
       ]
     );
 
     if (push.status === 0) {
       console.log(
         `[checkpoint] Tussentijds opgeslagen: ${stamp}`
+      );
+    } else {
+      console.log(
+        "[checkpoint] Push van checkpoint is mislukt."
       );
     }
   } finally {
