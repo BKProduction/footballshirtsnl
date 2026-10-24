@@ -1,200 +1,171 @@
-import { spawn } from "node:child_process";
-import { execFile } from "node:child_process";
-import { promisify } from "node:util";
+import { spawn, spawnSync } from "node:child_process";
 
-const execFileAsync = promisify(execFile);
-
-// Iedere 5 minuten proberen de voortgang naar GitHub op te slaan.
-// Via CHECKPOINT_MINUTES kan dit eventueel in de workflow worden aangepast.
-const CHECKPOINT_MINUTES = Math.max(
+const intervalMinutes = Math.max(
   1,
   Number(process.env.CHECKPOINT_MINUTES || 5)
 );
 
-const CHECKPOINT_INTERVAL = CHECKPOINT_MINUTES * 60 * 1000;
+const intervalMs = intervalMinutes * 60 * 1000;
 
-let checkpointRunning = false;
-let syncFinished = false;
-let shuttingDown = false;
+let busy = false;
+let finished = false;
 
-async function git(args) {
-  return execFileAsync("git", args, {
-    maxBuffer: 50 * 1024 * 1024
+function run(command, args, options = {}) {
+  return spawnSync(command, args, {
+    stdio: "inherit",
+    ...options
   });
 }
 
-async function createCheckpoint(reason = "autosave") {
-  if (checkpointRunning) {
+function checkpoint(label = "automatic checkpoint") {
+  if (busy) {
     console.log(
-      `[checkpoint] Overgeslagen (${reason}): vorige checkpoint is nog bezig`
+      `[checkpoint] Overgeslagen: vorig checkpoint is nog bezig (${label}).`
     );
     return;
   }
 
-  checkpointRunning = true;
+  busy = true;
 
   try {
-    console.log("");
-    console.log("========================================");
-    console.log(`[checkpoint] Start: ${reason}`);
-    console.log("========================================");
+    console.log(
+      "========================================"
+    );
+    console.log(
+      `[checkpoint] Start: ${label}`
+    );
+    console.log(
+      "========================================"
+    );
 
-    // Git-identiteit instellen
-    await git([
-      "config",
-      "user.name",
-      "footballshirtsnl-sync"
-    ]);
+    /*
+     * Alleen de bestanden opslaan die tijdens de sync
+     * daadwerkelijk worden aangepast.
+     *
+     * BELANGRIJK:
+     * Geen git pull / rebase tijdens een draaiende sync.
+     * sync.js kan catalog.json namelijk ondertussen alweer
+     * wijzigen en dat kan conflicten veroorzaken.
+     */
+    run(
+      "git",
+      [
+        "add",
+        "assets/products",
+        "data/catalog.json"
+      ],
+      {
+        stdio: "ignore"
+      }
+    );
 
-    await git([
-      "config",
-      "user.email",
-      "footballshirtsnl-sync@users.noreply.github.com"
-    ]);
+    const diff = spawnSync(
+      "git",
+      [
+        "diff",
+        "--cached",
+        "--quiet"
+      ]
+    );
 
-    // Alle gewijzigde en nieuwe bestanden toevoegen
-    await git(["add", "-A"]);
-
-    // Controleren of er daadwerkelijk iets gewijzigd is
-    const { stdout: status } = await git([
-      "status",
-      "--porcelain"
-    ]);
-
-    if (!status.trim()) {
+    if (diff.status === 0) {
       console.log(
-        "[checkpoint] Geen nieuwe bestanden om op te slaan"
+        `[checkpoint] Geen nieuwe wijzigingen (${label}).`
       );
       return;
     }
 
-    console.log("[checkpoint] Wijzigingen gevonden:");
-    console.log(status.trim());
+    console.log(
+      "[checkpoint] Wijzigingen gevonden."
+    );
 
-    const timestamp = new Date().toISOString();
+    run(
+      "git",
+      [
+        "config",
+        "user.name",
+        "github-actions[bot]"
+      ]
+    );
 
-    // Wijzigingen committen
-    await git([
-      "commit",
-      "-m",
-      `Autosave FootballshirtsNL ${timestamp}`
-    ]);
+    run(
+      "git",
+      [
+        "config",
+        "user.email",
+        "41898282+github-actions[bot]@users.noreply.github.com"
+      ]
+    );
 
-    console.log("[checkpoint] Commit aangemaakt");
+    const stamp = new Date().toISOString();
 
-    // Eerst de actuele main ophalen voordat we pushen.
-    // --autostash voorkomt problemen met eventuele lokale wijzigingen.
-    try {
-      const { stdout, stderr } = await git([
-        "pull",
-        "--rebase",
-        "--autostash",
-        "origin",
-        "main"
-      ]);
+    const commit = run(
+      "git",
+      [
+        "commit",
+        "-m",
+        `Autosave FootballshirtsNL ${stamp}`
+      ]
+    );
 
-      if (stdout?.trim()) {
-        console.log(stdout.trim());
-      }
-
-      if (stderr?.trim()) {
-        console.log(stderr.trim());
-      }
-
-      console.log("[checkpoint] Remote main bijgewerkt");
-    } catch (error) {
+    if (commit.status !== 0) {
       console.log(
-        "[checkpoint] Pull/rebase gaf een melding:"
+        "[checkpoint] Commit mislukt."
       );
-
-      console.log(
-        error.stderr ||
-        error.stdout ||
-        error.message
-      );
-
-      // Als een rebase actief is geraakt, proberen we die veilig af te breken.
-      try {
-        await git(["rebase", "--abort"]);
-      } catch {
-        // Geen actieve rebase, dus niets doen.
-      }
+      return;
     }
 
-    // Checkpoint naar main pushen
-    try {
-      const { stdout, stderr } = await git([
+    console.log(
+      "[checkpoint] Commit aangemaakt."
+    );
+
+    const branch =
+      process.env.GITHUB_REF_NAME || "main";
+
+    /*
+     * Eerst normaal pushen.
+     *
+     * Er hoort tijdens deze workflow geen andere writer
+     * nodig te zijn. Als main tóch gewijzigd is, gaan we
+     * NIET automatisch rebasen terwijl sync.js actief is.
+     *
+     * Dat voorkomt beschadiging of conflicten in
+     * data/catalog.json.
+     */
+    const push = run(
+      "git",
+      [
         "push",
         "origin",
-        "HEAD:main"
-      ]);
+        `HEAD:${branch}`
+      ]
+    );
 
-      if (stdout?.trim()) {
-        console.log(stdout.trim());
-      }
-
-      if (stderr?.trim()) {
-        console.log(stderr.trim());
-      }
-
+    if (push.status === 0) {
       console.log(
-        `[checkpoint] SUCCES: voortgang opgeslagen ${timestamp}`
+        `[checkpoint] SUCCES: voortgang opgeslagen ${stamp}`
       );
-    } catch (error) {
-      console.error(
-        "[checkpoint] Push mislukt:"
+    } else {
+      console.log(
+        "[checkpoint] Push mislukt."
       );
-
-      console.error(
-        error.stderr ||
-        error.stdout ||
-        error.message
+      console.log(
+        "[checkpoint] Geen pull/rebase uitgevoerd om de draaiende sync te beschermen."
+      );
+      console.log(
+        "[checkpoint] De synchronisatie kan veilig verdergaan; een volgend checkpoint probeert opnieuw."
       );
     }
   } catch (error) {
     console.error(
-      `[checkpoint] Checkpoint mislukt (${reason}):`
-    );
-
-    console.error(
-      error.stderr ||
-      error.stdout ||
-      error.message
+      `[checkpoint] Fout: ${error.message}`
     );
   } finally {
-    checkpointRunning = false;
-
-    console.log("========================================");
-    console.log("");
+    busy = false;
   }
 }
 
-async function waitForCheckpoint() {
-  while (checkpointRunning) {
-    await new Promise(resolve =>
-      setTimeout(resolve, 1000)
-    );
-  }
-}
-
-async function finalCheckpoint(reason) {
-  await waitForCheckpoint();
-  await createCheckpoint(reason);
-}
-
-console.log("");
-console.log("========================================");
-console.log("FootballshirtsNL autosave gestart");
-console.log(
-  `Checkpoint iedere ${CHECKPOINT_MINUTES} minuten`
-);
-console.log("sync.js wordt nu gestart");
-console.log("========================================");
-console.log("");
-
-// sync.js als apart Node-proces starten.
-// Alle uitvoer van sync.js blijft rechtstreeks zichtbaar in GitHub Actions.
-const sync = spawn(
+const child = spawn(
   process.execPath,
   ["sync.js"],
   {
@@ -203,139 +174,27 @@ const sync = spawn(
   }
 );
 
-// Periodiek gewijzigde bestanden naar GitHub pushen.
-const checkpointTimer = setInterval(() => {
-  if (!syncFinished && !shuttingDown) {
-    createCheckpoint("periodieke autosave");
-  }
-}, CHECKPOINT_INTERVAL);
+const timer = setInterval(
+  () => checkpoint("periodieke autosave"),
+  intervalMs
+);
 
-// Zorgt ervoor dat de timer het Node-proces niet onnodig vasthoudt
-// wanneer sync.js al beëindigd is.
-checkpointTimer.unref();
-
-sync.on("error", async error => {
-  console.error("");
-  console.error("[autosave] sync.js kon niet worden gestart");
-  console.error(error);
-
-  syncFinished = true;
-  shuttingDown = true;
-
-  clearInterval(checkpointTimer);
-
-  await finalCheckpoint(
-    "laatste opslag na startfout"
-  );
-
-  process.exitCode = 1;
-});
-
-sync.on("exit", async (code, signal) => {
-  syncFinished = true;
-  shuttingDown = true;
-
-  clearInterval(checkpointTimer);
-
-  console.log("");
-  console.log("========================================");
-
-  if (signal) {
-    console.log(
-      `[autosave] sync.js beëindigd door signaal: ${signal}`
-    );
-  } else {
-    console.log(
-      `[autosave] sync.js beëindigd met code: ${code}`
-    );
-  }
-
-  console.log(
-    "[autosave] Laatste checkpoint wordt uitgevoerd"
-  );
-
-  console.log("========================================");
-
-  await finalCheckpoint(
-    "laatste opslag na einde sync.js"
-  );
-
-  if (signal) {
-    process.exitCode = 1;
-  } else {
-    process.exitCode =
-      typeof code === "number" ? code : 1;
-  }
-});
-
-async function handleShutdown(signal) {
-  if (shuttingDown) {
-    return;
-  }
-
-  shuttingDown = true;
-
-  console.log("");
-  console.log(
-    `[autosave] ${signal} ontvangen`
-  );
-
-  console.log(
-    "[autosave] Probeer laatste voortgang op te slaan"
-  );
-
-  clearInterval(checkpointTimer);
-
-  await finalCheckpoint(
-    `noodopslag ${signal}`
-  );
-
-  if (!sync.killed) {
-    try {
-      sync.kill(signal);
-    } catch (error) {
-      console.error(
-        "[autosave] Kon sync.js niet stoppen:",
-        error.message
-      );
+for (const signal of ["SIGINT", "SIGTERM"]) {
+  process.on(signal, () => {
+    if (!finished) {
+      checkpoint(`voor ${signal}`);
     }
-  }
+
+    child.kill(signal);
+  });
 }
 
-process.on("SIGINT", () => {
-  handleShutdown("SIGINT");
-});
+child.on("exit", code => {
+  finished = true;
 
-process.on("SIGTERM", () => {
-  handleShutdown("SIGTERM");
-});
+  clearInterval(timer);
 
-process.on("uncaughtException", async error => {
-  console.error(
-    "[autosave] Onverwachte fout:",
-    error
-  );
+  checkpoint("einde sync");
 
-  clearInterval(checkpointTimer);
-
-  await finalCheckpoint(
-    "noodopslag na onverwachte fout"
-  );
-
-  process.exitCode = 1;
-});
-
-process.on("unhandledRejection", async reason => {
-  console.error(
-    "[autosave] Onverwerkte promise-fout:",
-    reason
-  );
-
-  clearInterval(checkpointTimer);
-
-  await finalCheckpoint(
-    "noodopslag na promise-fout"
-  );
-
-  process.exitCode = 1;
+  process.exitCode = code ?? 1;
 });
