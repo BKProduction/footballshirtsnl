@@ -1,20 +1,20 @@
 {
-  "lastSync": "2026-10-24T13:21:27.050Z",
+  "lastSync": "2026-10-24T13:25:57.689Z",
   "syncState": {
     "status": "in-progress",
-    "label": "popmo 1625/2782",
+    "label": "popmo 1775/2782",
     "batchSize": 25,
     "maxImages": 1
   },
   "stats": {
     "discovered": 24436,
-    "added": 3312,
+    "added": 3462,
     "changed": 0,
     "unchanged": 19950,
     "repaired": 0,
     "skipped": 17,
-    "duplicatesRemoved": 407,
-    "batchesSaved": 931
+    "duplicatesRemoved": 408,
+    "batchesSaved": 937
   },
   "sources": [
     {
@@ -33,7 +33,7 @@
       "priority": 3
     }
   ],
-  "total": 22860,
+  "total": 23009,
   "sections": [
     "Nog te categoriseren",
     "Overige producten",
@@ -5297,6 +5297,90 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "214306970",
+      "uniqueKey": "popmo:214306970",
+      "title": "24-25 Cape Verde Away White S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/214306970?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/214306970/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/f9d0fb61/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/214306970/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:22:00.308Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "214306575",
+      "uniqueKey": "popmo:214306575",
+      "title": "24-25 Cape Verde Home Blue S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/214306575?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/214306575/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/ae163bf5/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/214306575/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:22:01.051Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "214305430",
+      "uniqueKey": "popmo:214305430",
+      "title": "24-25 Karlsruher SC Anniversary S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/214305430?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/214305430/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/0aefc250/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/214305430/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:22:06.197Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "202296105",
       "uniqueKey": "popmo:202296105",
       "title": "24-25 Maccabi Tel Aviv Home Yellow Jersey2",
@@ -7005,6 +7089,34 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "213299619",
+      "uniqueKey": "popmo:213299619",
+      "title": "25-26 Barnet Third S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/213299619?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/213299619/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/ed1f6c6e/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/213299619/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:22:38.702Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "203039388",
       "uniqueKey": "popmo:203039388",
       "title": "25-26 Bayern Munich4",
@@ -7029,6 +7141,34 @@
       "coverUrl": "./assets/products/popmo/203039388/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T12:54:39.634Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "213932389",
+      "uniqueKey": "popmo:213932389",
+      "title": "25-26 Bayern Special Edition Red (S-2XL)11",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/213932389?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/213932389/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/028a14b9/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/213932389/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:22:23.861Z"
     },
     {
       "source": "popmo",
@@ -7085,6 +7225,34 @@
       "coverUrl": "./assets/products/popmo/216557376/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T13:19:44.807Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "212741242",
+      "uniqueKey": "popmo:212741242",
+      "title": "25-26 Bilbao Third Green S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/212741242?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/212741242/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/b3c1535c/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/212741242/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:23:25.889Z"
     },
     {
       "source": "popmo",
@@ -7201,6 +7369,62 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "211440879",
+      "uniqueKey": "popmo:211440879",
+      "title": "25-26 Brazilian Special Edition Light Pink S-2XL3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/211440879?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/211440879/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/046ab1ee/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/211440879/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:24:41.571Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "213936597",
+      "uniqueKey": "popmo:213936597",
+      "title": "25-26 Burgos CF Away S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/213936597?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/213936597/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/a6d2dcc1/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/213936597/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:22:08.937Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "215748455",
       "uniqueKey": "popmo:215748455",
       "title": "25-26 Burkina Faso Blue White Yellow S-2XL6",
@@ -7253,6 +7477,34 @@
       "coverUrl": "./assets/products/popmo/215672009/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T13:21:07.453Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "211858925",
+      "uniqueKey": "popmo:211858925",
+      "title": "25-26 CD Castellón Away S-2XL3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/211858925?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/211858925/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/abc2437c/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/211858925/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:24:08.105Z"
     },
     {
       "source": "popmo",
@@ -7341,6 +7593,34 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "213301295",
+      "uniqueKey": "popmo:213301295",
+      "title": "25-26 Celtics Retro Edition S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/213301295?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/213301295/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/eb9c871c/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/213301295/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:22:36.268Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "207385436",
       "uniqueKey": "popmo:207385436",
       "title": "25-26 Club Atlético Rosario Central Home Shirt2",
@@ -7421,6 +7701,62 @@
       "coverUrl": "./assets/products/popmo/198163086/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T12:48:04.275Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "215339866",
+      "uniqueKey": "popmo:215339866",
+      "title": "25-26 Colo Retro Edition White S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/215339866?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/215339866/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/d42643a9/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/215339866/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:21:52.246Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "212649472",
+      "uniqueKey": "popmo:212649472",
+      "title": "25-26 Congo home and away S-XXL8",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/212649472?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/212649472/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/2bcf5e23/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/212649472/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:23:34.484Z"
     },
     {
       "source": "popmo",
@@ -7565,6 +7901,62 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "210496117",
+      "uniqueKey": "popmo:210496117",
+      "title": "25-26 Deportivo La Coruna Away Red S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/210496117?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/210496117/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/98d3b81a/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/210496117/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:25:46.526Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "211175576",
+      "uniqueKey": "popmo:211175576",
+      "title": "25-26 Dortmund away S-4XL3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/211175576?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/211175576/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/d7593ba1/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/211175576/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:24:54.529Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "215664523",
       "uniqueKey": "popmo:215664523",
       "title": "25-26 Dortmund Commemorative Edition S-4XL2",
@@ -7677,6 +8069,34 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "211839640",
+      "uniqueKey": "popmo:211839640",
+      "title": "25-26 FC Hansa Rostock away S-4XL3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/211839640?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/211839640/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/20e1e5f1/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/211839640/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:24:15.851Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "218128765",
       "uniqueKey": "popmo:218128765",
       "title": "25-26 FC Nürnberg FCN Away S-4XL4",
@@ -7705,6 +8125,90 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "215343698",
+      "uniqueKey": "popmo:215343698",
+      "title": "25-26 Fenerbahçe SK home game S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/215343698?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/215343698/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/2ff7d78b/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/215343698/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:21:45.875Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "210892971",
+      "uniqueKey": "popmo:210892971",
+      "title": "25-26 Flamenco Special Edition S—4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/210892971?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/210892971/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/b59c9660/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/210892971/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:25:30.228Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "211306925",
+      "uniqueKey": "popmo:211306925",
+      "title": "25-26 Fortuna Düsseldorf Away2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/211306925?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/211306925/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/65c596c8/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/211306925/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:24:48.347Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "227839334",
       "uniqueKey": "popmo:227839334",
       "title": "25-26 Galatasaray Retro Contrasting Long sleeves6",
@@ -7729,6 +8233,34 @@
       "coverUrl": "./assets/products/popmo/227839334/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T13:11:32.767Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "211853212",
+      "uniqueKey": "popmo:211853212",
+      "title": "25-26 Galatasaray Special Edition S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/211853212?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/211853212/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/dc90d591/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/211853212/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:24:09.206Z"
     },
     {
       "source": "popmo",
@@ -7873,6 +8405,62 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "211581421",
+      "uniqueKey": "popmo:211581421",
+      "title": "25-26 Hércules home away game S-2XL4",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/211581421?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/211581421/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/d978bb37/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/211581421/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:24:19.833Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "211354178",
+      "uniqueKey": "popmo:211354178",
+      "title": "25-26 HNK Hajduk Split Home White S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/211354178?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/211354178/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/f16bf32c/medium.png"
+      ],
+      "coverUrl": "./assets/products/popmo/211354178/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:24:45.092Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "220908590",
       "uniqueKey": "popmo:220908590",
       "title": "25-26 Hollywood Dutch Goalkeeper Orange-Grey S-2XL5",
@@ -7925,6 +8513,34 @@
       "coverUrl": "./assets/products/popmo/216552220/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T13:19:48.610Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "210562298",
+      "uniqueKey": "popmo:210562298",
+      "title": "25-26 Hungary home S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/210562298?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/210562298/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/729b7219/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/210562298/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:25:42.324Z"
     },
     {
       "source": "popmo",
@@ -7985,6 +8601,34 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "211581807",
+      "uniqueKey": "popmo:211581807",
+      "title": "25-26 Ipswich Town third S-4XL4",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/211581807?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/211581807/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/907dd38b/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/211581807/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:24:17.704Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "217490647",
       "uniqueKey": "popmo:217490647",
       "title": "25-26 Ireland third S-4XL4",
@@ -8009,6 +8653,34 @@
       "coverUrl": "./assets/products/popmo/217490647/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T13:18:42.057Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "215342029",
+      "uniqueKey": "popmo:215342029",
+      "title": "25-26 Japanese Plum Blossom Clay Green Dragon S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/215342029?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/215342029/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/91153caf/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/215342029/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:21:48.745Z"
     },
     {
       "source": "popmo",
@@ -8093,6 +8765,34 @@
       "coverUrl": "./assets/products/popmo/221595562/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T13:14:55.347Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "211490864",
+      "uniqueKey": "popmo:211490864",
+      "title": "25-26 Leicester City away S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/211490864?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/211490864/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/258c0f93/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/211490864/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:24:38.134Z"
     },
     {
       "source": "popmo",
@@ -8209,6 +8909,34 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "214227621",
+      "uniqueKey": "popmo:214227621",
+      "title": "25-26 Lisbon Three-seater White S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/214227621?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/214227621/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/9564e7e4/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/214227621/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:22:07.693Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "216797398",
       "uniqueKey": "popmo:216797398",
       "title": "25-26 Liverpool2",
@@ -8237,6 +8965,34 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "212649680",
+      "uniqueKey": "popmo:212649680",
+      "title": "25-26 Malaga basketball uniforms S-2XL3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/212649680?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/212649680/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/37e7a967/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/212649680/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:23:32.061Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "218995797",
       "uniqueKey": "popmo:218995797",
       "title": "25-26 Malaga Half-zip Long sleeve S-2XL2",
@@ -8261,6 +9017,62 @@
       "coverUrl": "./assets/products/popmo/218995797/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T13:17:16.057Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "211840411",
+      "uniqueKey": "popmo:211840411",
+      "title": "25-26 Malaga Special Edition S-4XL3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/211840411?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/211840411/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/99fba509/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/211840411/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:24:14.804Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "211846513",
+      "uniqueKey": "popmo:211846513",
+      "title": "25-26 Malaga Third. S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/211846513?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/211846513/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/c8f2bb13/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/211846513/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:24:10.879Z"
     },
     {
       "source": "popmo",
@@ -8317,6 +9129,34 @@
       "coverUrl": "./assets/products/popmo/200694558/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T12:48:02.047Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "210592989",
+      "uniqueKey": "popmo:210592989",
+      "title": "25-26 Mineiro third S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/210592989?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/210592989/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/f38c0ad4/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/210592989/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:25:37.606Z"
     },
     {
       "source": "popmo",
@@ -8461,6 +9301,90 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "213268198",
+      "uniqueKey": "popmo:213268198",
+      "title": "25-26 Náutico Capibaribe Home Away4",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/213268198?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/213268198/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/6e43d6ad/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/213268198/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:23:08.466Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "210613525",
+      "uniqueKey": "popmo:210613525",
+      "title": "25-26 Newcastle Retro Edition S-4XL3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/210613525?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/210613525/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/fa5a229c/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/210613525/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:25:35.877Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "211070854",
+      "uniqueKey": "popmo:211070854",
+      "title": "25-26 Nürnberg Third S-4XL4",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/211070854?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/211070854/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/768bd5aa/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/211070854/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:24:55.301Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "216549204",
       "uniqueKey": "popmo:216549204",
       "title": "25-26 Olympiacos Third2",
@@ -8541,6 +9465,34 @@
       "coverUrl": "./assets/products/popmo/216097465/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T13:20:19.168Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "214307579",
+      "uniqueKey": "popmo:214307579",
+      "title": "25-26 Palestine No. 17 S-2XL6",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/214307579?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/214307579/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/81b180ef/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/214307579/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:21:58.746Z"
     },
     {
       "source": "minkang",
@@ -9329,6 +10281,118 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "211353724",
+      "uniqueKey": "popmo:211353724",
+      "title": "25-26 Sporting de Gijón Third White S-4XL3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/211353724?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/211353724/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/1607712b/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/211353724/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:24:46.582Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "213300695",
+      "uniqueKey": "popmo:213300695",
+      "title": "25-26 Stade de Reims Third2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/213300695?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/213300695/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/4481aa67/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/213300695/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:22:37.197Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "213073576",
+      "uniqueKey": "popmo:213073576",
+      "title": "25-26 Standard de Liège Away2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/213073576?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/213073576/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/6ba226ab/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/213073576/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:23:13.456Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "213073722",
+      "uniqueKey": "popmo:213073722",
+      "title": "25-26 Standard de Liège Home2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/213073722?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/213073722/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/cd3a5085/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/213073722/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:23:12.222Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "219335007",
       "uniqueKey": "popmo:219335007",
       "title": "25-26 Tel Aviv Home Away S-4XL4",
@@ -9353,6 +10417,34 @@
       "coverUrl": "./assets/products/popmo/219335007/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T12:48:57.949Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "211438642",
+      "uniqueKey": "popmo:211438642",
+      "title": "25-26 Tenerife Limited Edition S-4XL3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/211438642?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/211438642/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/85a840a0/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/211438642/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:24:44.240Z"
     },
     {
       "source": "popmo",
@@ -9413,6 +10505,34 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "214306169",
+      "uniqueKey": "popmo:214306169",
+      "title": "25-26 VfL Bochum Home2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/214306169?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/214306169/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/0dfb026d/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/214306169/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:22:02.670Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "216783131",
       "uniqueKey": "popmo:216783131",
       "title": "25-26 Youth adidas Green Northern Ireland National Team FIFA x World Cup 2026 Home2",
@@ -9465,6 +10585,34 @@
       "coverUrl": "./assets/products/popmo/220398456/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T13:15:44.669Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "213297664",
+      "uniqueKey": "popmo:213297664",
+      "title": "25-26 Zenit Saint Petersburg Home Away4",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/213297664?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/213297664/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/70646e51/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/213297664/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:22:41.194Z"
     },
     {
       "source": "popmo",
@@ -22711,6 +23859,34 @@
       "updatedAt": "2026-10-23T23:55:31.156Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "213077349",
+      "uniqueKey": "popmo:213077349",
+      "title": "Kӧln 25-26 Carnival version2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/213077349?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/213077349/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/f3707cc0/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/213077349/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:23:11.419Z"
+    },
+    {
       "source": "minkang",
       "sourcePriority": 1,
       "sourceId": "14188190",
@@ -34641,6 +35817,34 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "211441628",
+      "uniqueKey": "popmo:211441628",
+      "title": "Wallstreet X Olympique Lyonnais T-Shirt2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/211441628?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/211441628/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/9339bc62/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/211441628/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:24:40.501Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "221001091",
       "uniqueKey": "popmo:221001091",
       "title": "WATCHES808",
@@ -35005,6 +36209,37 @@
       "coverUrl": "./assets/products/popmo/218580948/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T13:17:53.046Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "210895848",
+      "uniqueKey": "popmo:210895848",
+      "title": "[player version] 25-26 LFC Liverpool black goalkeeper S-2XL10",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/210895848?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "country": "Engeland",
+      "competition": "Premier League",
+      "club": "Liverpool",
+      "types": [
+        "Keepers",
+        "Player version"
+      ],
+      "images": [
+        "./assets/products/popmo/210895848/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/189288b8/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/210895848/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:24:59.798Z"
     },
     {
       "source": "popmo",
@@ -170330,6 +171565,62 @@
       "updatedAt": "2026-10-24T03:57:43.567Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "212411482",
+      "uniqueKey": "popmo:212411482",
+      "title": "25-26 25-26 SC Braga Away S-2XL3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/212411482?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Primeira Liga",
+      "country": "Portugal",
+      "competition": "Primeira Liga",
+      "club": "Braga",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/212411482/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/365fffe4/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/212411482/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:24:03.837Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "212411599",
+      "uniqueKey": "popmo:212411599",
+      "title": "25-26 25-26 SC Braga Third S-2XL3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/212411599?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Primeira Liga",
+      "country": "Portugal",
+      "competition": "Primeira Liga",
+      "club": "Braga",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/212411599/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/10ed4841/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/212411599/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:24:02.678Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237728685",
@@ -170508,6 +171799,36 @@
       "coverUrl": "./assets/products/yema007/237693747/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T01:52:58.560Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "210681583",
+      "uniqueKey": "popmo:210681583",
+      "title": "25-26 AC Milan away long sleeve S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/210681583?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Serie A",
+      "country": "Italië",
+      "competition": "Serie A",
+      "club": "AC Milan",
+      "types": [
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/popmo/210681583/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/29ae62d8/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/210681583/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:25:33.580Z"
     },
     {
       "source": "yema007",
@@ -171517,6 +172838,90 @@
       "updatedAt": "2026-10-24T01:54:29.123Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "213271200",
+      "uniqueKey": "popmo:213271200",
+      "title": "25-26 AC Pisa 1909 Home Jersey4",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/213271200?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Serie A",
+      "country": "Italië",
+      "competition": "Serie A",
+      "club": "Pisa",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/213271200/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/7d31fb0b/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/213271200/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:23:07.515Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "212057439",
+      "uniqueKey": "popmo:212057439",
+      "title": "25-26 ACF Fiorentina Third S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/212057439?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Serie A",
+      "country": "Italië",
+      "competition": "Serie A",
+      "club": "Fiorentina",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/212057439/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/cf7e5537/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/212057439/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:24:06.042Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "212652448",
+      "uniqueKey": "popmo:212652448",
+      "title": "25-26 AFC Bournemouth third S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/212652448?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "country": "Engeland",
+      "competition": "Premier League",
+      "club": "Bournemouth",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/212652448/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/2c5400ac/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/212652448/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:23:28.420Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237728726",
@@ -171543,6 +172948,34 @@
       "coverUrl": "./assets/products/yema007/237728726/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T12:26:15.721Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "210591622",
+      "uniqueKey": "popmo:210591622",
+      "title": "25-26 AJ Auxerre Home S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/210591622?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Ligue 1",
+      "country": "Frankrijk",
+      "competition": "Ligue 1",
+      "club": "Auxerre",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/210591622/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/b8db11b0/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/210591622/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:25:39.119Z"
     },
     {
       "source": "yema007",
@@ -173608,6 +175041,36 @@
       "updatedAt": "2026-10-24T01:24:10.681Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "210590981",
+      "uniqueKey": "popmo:210590981",
+      "title": "25-26 Arsenal Away long sleeve S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/210590981?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "country": "Engeland",
+      "competition": "Premier League",
+      "club": "Arsenal",
+      "types": [
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/popmo/210590981/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/56cd8cee/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/210590981/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:25:40.821Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237720441",
@@ -173754,6 +175217,34 @@
       "coverUrl": "./assets/products/yema007/237686205/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T01:24:09.461Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "211845230",
+      "uniqueKey": "popmo:211845230",
+      "title": "25-26 Arsenal Black Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/211845230?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "country": "Engeland",
+      "competition": "Premier League",
+      "club": "Arsenal",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/211845230/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/458eb903/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/211845230/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:24:11.662Z"
     },
     {
       "source": "yema007",
@@ -174413,6 +175904,36 @@
       "updatedAt": "2026-10-24T01:24:11.599Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "214345117",
+      "uniqueKey": "popmo:214345117",
+      "title": "25-26 Arsenal Home long sleeve S-4XL1",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/214345117?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "country": "Engeland",
+      "competition": "Premier League",
+      "club": "Arsenal",
+      "types": [
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/popmo/214345117/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/01cf3951/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/214345117/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:21:54.834Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237724805",
@@ -174618,6 +176139,34 @@
       "coverUrl": "./assets/products/yema007/237730866/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T01:22:10.069Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "213065330",
+      "uniqueKey": "popmo:213065330",
+      "title": "25-26 Arsenal joint model black S-4XL3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/213065330?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "country": "Engeland",
+      "competition": "Premier League",
+      "club": "Arsenal",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/213065330/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/10950728/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/213065330/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:23:21.939Z"
     },
     {
       "source": "yema007",
@@ -176787,6 +178336,36 @@
       "updatedAt": "2026-10-24T01:38:14.292Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "212844829",
+      "uniqueKey": "popmo:212844829",
+      "title": "25-26 Aston Villa Retro Edition White S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/212844829?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "country": "Engeland",
+      "competition": "Premier League",
+      "club": "Aston Villa",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/popmo/212844829/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/00f1d229/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/212844829/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:23:23.778Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237735461",
@@ -176957,6 +178536,34 @@
       "coverUrl": "./assets/products/yema007/237729238/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T02:02:02.575Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "213071735",
+      "uniqueKey": "popmo:213071735",
+      "title": "25-26 Atalanta BC Away S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/213071735?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Serie A",
+      "country": "Italië",
+      "competition": "Serie A",
+      "club": "Atalanta",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/213071735/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/534c96c3/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/213071735/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:23:17.134Z"
     },
     {
       "source": "yema007",
@@ -178315,6 +179922,34 @@
       "updatedAt": "2026-10-24T04:37:40.901Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "211353418",
+      "uniqueKey": "popmo:211353418",
+      "title": "25-26 Atlético Madrid Third S-4XL5",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/211353418?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Atlético Madrid",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/211353418/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/5aa56e7b/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/211353418/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:24:47.448Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237729957",
@@ -178610,6 +180245,36 @@
       "coverUrl": "./assets/products/yema007/237732406/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T02:13:40.668Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "210162589",
+      "uniqueKey": "popmo:210162589",
+      "title": "25-26 Atlético Mineiro Third women's clothing S-XXL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/210162589?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Brasileiro Série A",
+      "country": "Brazilië",
+      "competition": "Brasileiro Série A",
+      "club": "Atlético Mineiro",
+      "types": [
+        "Dames"
+      ],
+      "images": [
+        "./assets/products/popmo/210162589/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/582064aa/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/210162589/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:25:32.836Z"
     },
     {
       "source": "yema007",
@@ -180585,6 +182250,36 @@
       "updatedAt": "2026-10-24T04:30:19.252Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "210591247",
+      "uniqueKey": "popmo:210591247",
+      "title": "25-26 Barcelona FCB away long sleeve S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/210591247?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Barcelona",
+      "types": [
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/popmo/210591247/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/2c000da9/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/210591247/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:25:40.016Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237497306",
@@ -181027,6 +182722,34 @@
       "updatedAt": "2026-10-24T04:26:07.042Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "213420346",
+      "uniqueKey": "popmo:213420346",
+      "title": "25-26 Barcelona Home Derby Edition S-4XL3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/213420346?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Barcelona",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/213420346/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/ad00dd0d/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/213420346/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:22:34.486Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237696009",
@@ -181233,6 +182956,36 @@
       "coverUrl": "./assets/products/yema007/237724701/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T04:24:01.592Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "213930252",
+      "uniqueKey": "popmo:213930252",
+      "title": "25-26 Barcelona Home Special Edition Advertising S-4XL3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/213930252?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Barcelona",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/popmo/213930252/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/b6fb22cb/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/213930252/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:22:26.865Z"
     },
     {
       "source": "yema007",
@@ -181977,6 +183730,36 @@
       "coverUrl": "./assets/products/yema007/237726201/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T04:23:55.532Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "210893080",
+      "uniqueKey": "popmo:210893080",
+      "title": "25-26 Barcelona Pink Special Edition S-XXL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/210893080?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Barcelona",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/popmo/210893080/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/bf02c624/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/210893080/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:25:29.367Z"
     },
     {
       "source": "yema007",
@@ -182764,6 +184547,36 @@
       "coverUrl": "./assets/products/yema007/237718148/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T04:24:32.654Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "215340236",
+      "uniqueKey": "popmo:215340236",
+      "title": "25-26 Barcelona Special Edition Pink Green S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/215340236?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Barcelona",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/popmo/215340236/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/e0fed56b/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/215340236/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:21:50.481Z"
     },
     {
       "source": "yema007",
@@ -185451,6 +187264,36 @@
       "updatedAt": "2026-10-24T02:22:39.148Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "210716819",
+      "uniqueKey": "popmo:210716819",
+      "title": "25-26 Bayern Munich goalkeeper red S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/210716819?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Bundesliga",
+      "country": "Duitsland",
+      "competition": "Bundesliga",
+      "club": "Bayern Munich",
+      "types": [
+        "Keepers"
+      ],
+      "images": [
+        "./assets/products/popmo/210716819/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/f594242a/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/210716819/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:25:31.868Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237731928",
@@ -185964,6 +187807,36 @@
       "updatedAt": "2026-10-24T02:22:59.744Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "212618301",
+      "uniqueKey": "popmo:212618301",
+      "title": "25-26 Bayern Munich Pink Goalkeeper S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/212618301?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Bundesliga",
+      "country": "Duitsland",
+      "competition": "Bundesliga",
+      "club": "Bayern Munich",
+      "types": [
+        "Keepers"
+      ],
+      "images": [
+        "./assets/products/popmo/212618301/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/76c0db27/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/212618301/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:23:53.755Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237738024",
@@ -186020,6 +187893,34 @@
       "coverUrl": "./assets/products/yema007/237715167/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T02:23:00.306Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "212640815",
+      "uniqueKey": "popmo:212640815",
+      "title": "25-26 Bayern Munich Red GK S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/212640815?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Bundesliga",
+      "country": "Duitsland",
+      "competition": "Bundesliga",
+      "club": "Bayern Munich",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/212640815/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/e61bdf90/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/212640815/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:23:52.085Z"
     },
     {
       "source": "yema007",
@@ -186707,6 +188608,34 @@
       "coverUrl": "./assets/products/yema007/237715111/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T02:23:01.706Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "211439811",
+      "uniqueKey": "popmo:211439811",
+      "title": "25-26 Bayern Munich WIESN Oktoberfest S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/211439811?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Bundesliga",
+      "country": "Duitsland",
+      "competition": "Bundesliga",
+      "club": "Bayern Munich",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/211439811/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/173e4629/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/211439811/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:24:42.428Z"
     },
     {
       "source": "yema007",
@@ -188008,6 +189937,34 @@
       "updatedAt": "2026-10-24T13:20:35.962Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "215346709",
+      "uniqueKey": "popmo:215346709",
+      "title": "25-26 Bologna FC 1909 third blue S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/215346709?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Serie A",
+      "country": "Italië",
+      "competition": "Serie A",
+      "club": "Bologna",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/215346709/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/d5e05f26/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/215346709/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:21:43.288Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237717454",
@@ -188648,6 +190605,34 @@
       "updatedAt": "2026-10-24T02:17:06.751Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "212651454",
+      "uniqueKey": "popmo:212651454",
+      "title": "25-26 Botafogo Third S-4XL3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/212651454?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Brasileiro Série A",
+      "country": "Brazilië",
+      "competition": "Brasileiro Série A",
+      "club": "Botafogo",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/212651454/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/e2aeb800/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/212651454/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:23:30.207Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237720603",
@@ -189080,6 +191065,36 @@
       "coverUrl": "./assets/products/yema007/237635000/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T02:02:20.773Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "214438806",
+      "uniqueKey": "popmo:214438806",
+      "title": "25-26 Castore Everton Fc Pre Match T-shirt2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/214438806?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "country": "Engeland",
+      "competition": "Premier League",
+      "club": "Everton",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/popmo/214438806/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/ca13ba44/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/214438806/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:21:53.820Z"
     },
     {
       "source": "popmo",
@@ -190586,6 +192601,36 @@
       "updatedAt": "2026-10-24T01:29:40.151Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "212648499",
+      "uniqueKey": "popmo:212648499",
+      "title": "25-26 Chelsea pre-match suit blue S-4XLp3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/212648499?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "country": "Engeland",
+      "competition": "Premier League",
+      "club": "Chelsea",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/popmo/212648499/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/3de31af3/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/212648499/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:23:49.491Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237687511",
@@ -190614,6 +192659,36 @@
       "coverUrl": "./assets/products/yema007/237687511/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T01:29:41.578Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "213931742",
+      "uniqueKey": "popmo:213931742",
+      "title": "25-26 Chelsea Special Edition Blue (S-2XL)2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/213931742?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "country": "Engeland",
+      "competition": "Premier League",
+      "club": "Chelsea",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/popmo/213931742/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/d247c5d5/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/213931742/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:22:24.585Z"
     },
     {
       "source": "yema007",
@@ -191965,6 +194040,64 @@
       "updatedAt": "2026-10-24T02:08:42.060Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "214333078",
+      "uniqueKey": "popmo:214333078",
+      "title": "25-26 Corinthians Third S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/214333078?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Brasileiro Série A",
+      "country": "Brazilië",
+      "competition": "Brasileiro Série A",
+      "club": "Corinthians",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/214333078/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/20e5be05/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/214333078/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:21:56.513Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "214333428",
+      "uniqueKey": "popmo:214333428",
+      "title": "25-26 Corinthians Third women shirt S-XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/214333428?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Brasileiro Série A",
+      "country": "Brazilië",
+      "competition": "Brasileiro Série A",
+      "club": "Corinthians",
+      "types": [
+        "Dames"
+      ],
+      "images": [
+        "./assets/products/popmo/214333428/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/a4a5eec1/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/214333428/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:21:55.702Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237687702",
@@ -192668,6 +194801,34 @@
       "updatedAt": "2026-10-24T02:14:42.193Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "213922540",
+      "uniqueKey": "popmo:213922540",
+      "title": "25-26 Cruzeiro third S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/213922540?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Brasileiro Série A",
+      "country": "Brazilië",
+      "competition": "Brasileiro Série A",
+      "club": "Cruzeiro",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/213922540/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/40fd21d8/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/213922540/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:22:27.703Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237495456",
@@ -192964,6 +195125,34 @@
       "updatedAt": "2026-10-24T01:40:50.526Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "212738866",
+      "uniqueKey": "popmo:212738866",
+      "title": "25-26 Crystal Palace third White S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/212738866?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "country": "Engeland",
+      "competition": "Premier League",
+      "club": "Crystal Palace",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/212738866/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/4759cb48/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/212738866/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:23:27.531Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237513244",
@@ -193020,6 +195209,34 @@
       "coverUrl": "./assets/products/yema007/237706451/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T12:08:48.947Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "210592207",
+      "uniqueKey": "popmo:210592207",
+      "title": "25-26 Elche CF third S-4XL3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/210592207?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Elche",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/210592207/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/e9e89995/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/210592207/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:25:38.353Z"
     },
     {
       "source": "yema007",
@@ -193537,6 +195754,62 @@
       "updatedAt": "2026-10-24T13:20:29.107Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "215346289",
+      "uniqueKey": "popmo:215346289",
+      "title": "25-26 FC Nantes away game: Blue S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/215346289?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Ligue 1",
+      "country": "Frankrijk",
+      "competition": "Ligue 1",
+      "club": "Nantes",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/215346289/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/68756d92/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/215346289/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:21:44.120Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "215346110",
+      "uniqueKey": "popmo:215346110",
+      "title": "25-26 FC Nantes home game: Yellow S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/215346110?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Ligue 1",
+      "country": "Frankrijk",
+      "competition": "Ligue 1",
+      "club": "Nantes",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/215346110/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/8ba020c5/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/215346110/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:21:44.976Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237628288",
@@ -193741,6 +196014,34 @@
       "coverUrl": "./assets/products/popmo/215346545/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T12:48:12.871Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "210894092",
+      "uniqueKey": "popmo:210894092",
+      "title": "25-26 FC Twente Home Red S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/210894092?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Eredivisie",
+      "country": "Nederland",
+      "competition": "Eredivisie",
+      "club": "Twente",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/210894092/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/4da485a4/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/210894092/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:25:00.639Z"
     },
     {
       "source": "popmo",
@@ -196138,6 +198439,34 @@
       "updatedAt": "2026-10-24T01:40:25.818Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "211842409",
+      "uniqueKey": "popmo:211842409",
+      "title": "25-26 Fulham Away S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/211842409?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "country": "Engeland",
+      "competition": "Premier League",
+      "club": "Fulham",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/211842409/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/b5605766/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/211842409/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:24:14.031Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237723709",
@@ -196742,6 +199071,34 @@
       "coverUrl": "./assets/products/yema007/237716591/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T12:27:37.346Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "210929549",
+      "uniqueKey": "popmo:210929549",
+      "title": "25-26 Hibernian fourth jersey S-2XL3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/210929549?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Scottish Premiership",
+      "country": "Schotland",
+      "competition": "Scottish Premiership",
+      "club": "Hibernian",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/210929549/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/ee925067/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/210929549/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:24:58.740Z"
     },
     {
       "source": "yema007",
@@ -198896,6 +201253,36 @@
       "updatedAt": "2026-10-24T01:57:24.401Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "213072490",
+      "uniqueKey": "popmo:213072490",
+      "title": "25-26 Inter Milan pre-match uniform black S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/213072490?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Serie A",
+      "country": "Italië",
+      "competition": "Serie A",
+      "club": "Inter Milan",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/popmo/213072490/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/f3051727/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/213072490/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:23:16.323Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237714339",
@@ -200068,6 +202455,62 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "210374598",
+      "uniqueKey": "popmo:210374598",
+      "title": "25-26 Lazio third S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/210374598?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Serie A",
+      "country": "Italië",
+      "competition": "Serie A",
+      "club": "Lazio",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/210374598/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/7ef1c0fc/medium.png"
+      ],
+      "coverUrl": "./assets/products/popmo/210374598/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:25:57.525Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "213299230",
+      "uniqueKey": "popmo:213299230",
+      "title": "25-26 Le Havre AC away shirt2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/213299230?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Ligue 1",
+      "country": "Frankrijk",
+      "competition": "Ligue 1",
+      "club": "Le Havre",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/213299230/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/7299f2c5/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/213299230/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:22:39.959Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "227829787",
       "uniqueKey": "popmo:227829787",
       "title": "25-26 Le Havre away S-4XL2",
@@ -200092,6 +202535,34 @@
       "coverUrl": "./assets/products/popmo/227829787/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T13:11:38.178Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "213300359",
+      "uniqueKey": "popmo:213300359",
+      "title": "25-26 Le Havre Home S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/213300359?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Ligue 1",
+      "country": "Frankrijk",
+      "competition": "Ligue 1",
+      "club": "Le Havre",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/213300359/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/5432f760/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/213300359/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:22:37.919Z"
     },
     {
       "source": "yema007",
@@ -200294,6 +202765,36 @@
       "updatedAt": "2026-10-24T01:39:10.857Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "212650327",
+      "uniqueKey": "popmo:212650327",
+      "title": "25-26 Leeds United training suit blue S-4XL3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/212650327?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "country": "Engeland",
+      "competition": "Premier League",
+      "club": "Leeds United",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/popmo/212650327/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/dacda2c0/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/212650327/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:23:31.216Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237692882",
@@ -200378,6 +202879,34 @@
       "updatedAt": "2026-10-24T02:41:10.225Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "215343458",
+      "uniqueKey": "popmo:215343458",
+      "title": "25-26 Levante away game S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/215343458?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Levante",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/215343458/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/2aa3bbcd/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/215343458/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:21:46.845Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237727678",
@@ -200460,6 +202989,36 @@
       "coverUrl": "./assets/products/yema007/237721575/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T12:26:59.961Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "210681419",
+      "uniqueKey": "popmo:210681419",
+      "title": "25-26 LFC Liverpool away long sleeve S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/210681419?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "country": "Engeland",
+      "competition": "Premier League",
+      "club": "Liverpool",
+      "types": [
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/popmo/210681419/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/4e67a47a/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/210681419/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:25:35.099Z"
     },
     {
       "source": "popmo",
@@ -200610,6 +203169,34 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "212844677",
+      "uniqueKey": "popmo:212844677",
+      "title": "25-26 Lille third S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/212844677?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Ligue 1",
+      "country": "Frankrijk",
+      "competition": "Ligue 1",
+      "club": "Lille",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/212844677/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/5ac1a8d6/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/212844677/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:23:25.133Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "240341502",
       "uniqueKey": "popmo:240341502",
       "title": "25-26 Limited Edition FC Barcelona x Olivia Rodrigo Women Jersey S-2XL2",
@@ -200640,6 +203227,34 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "213066151",
+      "uniqueKey": "popmo:213066151",
+      "title": "25-26 Liverpool Black Gold S-4XL3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/213066151?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "country": "Engeland",
+      "competition": "Premier League",
+      "club": "Liverpool",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/213066151/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/14df6bec/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/213066151/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:23:20.327Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "216854435",
       "uniqueKey": "popmo:216854435",
       "title": "25-26 Liverpool casual beige red, sizes S-4XL2",
@@ -200664,6 +203279,66 @@
       "coverUrl": "./assets/products/popmo/216854435/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T13:19:16.660Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "213184218",
+      "uniqueKey": "popmo:213184218",
+      "title": "25-26 Liverpool LFC Pre-match black red S-2XL3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/213184218?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "country": "Engeland",
+      "competition": "Premier League",
+      "club": "Liverpool",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/popmo/213184218/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/940a7687/medium.png"
+      ],
+      "coverUrl": "./assets/products/popmo/213184218/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:23:09.948Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "210590409",
+      "uniqueKey": "popmo:210590409",
+      "title": "25-26 Liverpool LFC third long sleeve S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/210590409?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "country": "Engeland",
+      "competition": "Premier League",
+      "club": "Liverpool",
+      "types": [
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/popmo/210590409/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/9b82654d/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/210590409/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:25:41.547Z"
     },
     {
       "source": "popmo",
@@ -200724,6 +203399,96 @@
       "coverUrl": "./assets/products/popmo/218135349/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T13:18:25.363Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "213420784",
+      "uniqueKey": "popmo:213420784",
+      "title": "25-26 Liverpool training suit green S-4XL3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/213420784?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "country": "Engeland",
+      "competition": "Premier League",
+      "club": "Liverpool",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/popmo/213420784/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/1ce04d86/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/213420784/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:22:33.615Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "213421359",
+      "uniqueKey": "popmo:213421359",
+      "title": "25-26 Liverpool training suit white S-4XL3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/213421359?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "country": "Engeland",
+      "competition": "Premier League",
+      "club": "Liverpool",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/popmo/213421359/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/379f1b95/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/213421359/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:22:32.629Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "213930505",
+      "uniqueKey": "popmo:213930505",
+      "title": "25-26 Liverpool tricolor training suit S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/213930505?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "country": "Engeland",
+      "competition": "Premier League",
+      "club": "Liverpool",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/popmo/213930505/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/029290c8/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/213930505/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:22:25.872Z"
     },
     {
       "source": "yema007",
@@ -201082,6 +203847,34 @@
       "coverUrl": "./assets/products/yema007/237596675/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T02:40:47.682Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "210561814",
+      "uniqueKey": "popmo:210561814",
+      "title": "25-26 Lyon Third S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/210561814?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Ligue 1",
+      "country": "Frankrijk",
+      "competition": "Ligue 1",
+      "club": "Lyon",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/210561814/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/d23f0683/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/210561814/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:25:43.536Z"
     },
     {
       "source": "yema007",
@@ -201584,6 +204377,36 @@
       "updatedAt": "2026-10-24T01:16:18.271Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "213423325",
+      "uniqueKey": "popmo:213423325",
+      "title": "25-26 Manchester City blue and white training S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/213423325?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "country": "Engeland",
+      "competition": "Premier League",
+      "club": "Manchester City",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/popmo/213423325/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/b90e134c/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/213423325/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:22:30.897Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237687336",
@@ -201791,6 +204614,34 @@
       "coverUrl": "./assets/products/yema007/237731965/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T01:16:08.251Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "215340043",
+      "uniqueKey": "popmo:215340043",
+      "title": "25-26 Manchester City Fourth Green S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/215340043?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "country": "Engeland",
+      "competition": "Premier League",
+      "club": "Manchester City",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/215340043/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/9e4fbda4/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/215340043/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:21:51.343Z"
     },
     {
       "source": "yema007",
@@ -202446,6 +205297,34 @@
       "updatedAt": "2026-10-24T13:20:25.091Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "213304383",
+      "uniqueKey": "popmo:213304383",
+      "title": "25-26 Manchester City Print No. 9 S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/213304383?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "country": "Engeland",
+      "competition": "Premier League",
+      "club": "Manchester City",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/213304383/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/fb583d93/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/213304383/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:22:35.400Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237714082",
@@ -202764,6 +205643,36 @@
       "coverUrl": "./assets/products/yema007/237687287/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T01:16:41.209Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "213422079",
+      "uniqueKey": "popmo:213422079",
+      "title": "25-26 Manchester City training S-XXL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/213422079?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "country": "Engeland",
+      "competition": "Premier League",
+      "club": "Manchester City",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/popmo/213422079/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/e32ffaff/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/213422079/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:22:31.771Z"
     },
     {
       "source": "yema007",
@@ -203385,6 +206294,36 @@
       "coverUrl": "./assets/products/popmo/228268375/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T13:11:14.323Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "211838594",
+      "uniqueKey": "popmo:211838594",
+      "title": "25-26 Manchester United Black Retro Casual shirt S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/211838594?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "country": "Engeland",
+      "competition": "Premier League",
+      "club": "Manchester United",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/popmo/211838594/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/1a1d3102/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/211838594/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:24:16.844Z"
     },
     {
       "source": "yema007",
@@ -207491,6 +210430,34 @@
       "updatedAt": "2026-10-24T02:41:28.336Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "210381971",
+      "uniqueKey": "popmo:210381971",
+      "title": "25-26 Monaco third S-4XL3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/210381971?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Ligue 1",
+      "country": "Frankrijk",
+      "competition": "Ligue 1",
+      "club": "Monaco",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/210381971/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/ee53e0a1/medium.png"
+      ],
+      "coverUrl": "./assets/products/popmo/210381971/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:25:56.336Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237692765",
@@ -207575,6 +210542,62 @@
       "coverUrl": "./assets/products/yema007/237707966/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T01:58:43.971Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "211069459",
+      "uniqueKey": "popmo:211069459",
+      "title": "25-26 Napoli Champions League Edition Away S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/211069459?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Serie A",
+      "country": "Italië",
+      "competition": "Serie A",
+      "club": "Napoli",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/211069459/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/5271072e/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/211069459/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:24:56.112Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "211055937",
+      "uniqueKey": "popmo:211055937",
+      "title": "25-26 Napoli Champions League Edition Third S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/211055937?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Serie A",
+      "country": "Italië",
+      "competition": "Serie A",
+      "club": "Napoli",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/211055937/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/9161cecc/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/211055937/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:24:56.936Z"
     },
     {
       "source": "yema007",
@@ -208087,6 +211110,36 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "215639445",
+      "uniqueKey": "popmo:215639445",
+      "title": "25-26 New Retro Blue Chelsea S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/215639445?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "country": "Engeland",
+      "competition": "Premier League",
+      "club": "Chelsea",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/popmo/215639445/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/4adeb186/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/215639445/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:21:41.969Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "215639528",
       "uniqueKey": "popmo:215639528",
       "title": "25-26 New Retro Earth Yellow Arsenal Style S-4XL2",
@@ -208590,6 +211643,34 @@
       "coverUrl": "./assets/products/yema007/237691987/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T01:36:05.010Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "212618790",
+      "uniqueKey": "popmo:212618790",
+      "title": "25-26 Newcastle United Pink Goalkeeper2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/212618790?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "country": "Engeland",
+      "competition": "Premier League",
+      "club": "Newcastle United",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/212618790/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/83ae9e32/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/212618790/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:23:52.921Z"
     },
     {
       "source": "yema007",
@@ -214117,6 +217198,34 @@
       "updatedAt": "2026-10-24T12:16:44.931Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "212652043",
+      "uniqueKey": "popmo:212652043",
+      "title": "25-26 Queens Park Rangers Home S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/212652043?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Scottish Premiership",
+      "country": "Schotland",
+      "competition": "Scottish Premiership",
+      "club": "Rangers",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/212652043/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/de840873/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/212652043/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:23:29.146Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237717292",
@@ -214719,6 +217828,62 @@
       "coverUrl": "./assets/products/yema007/237692613/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T02:41:11.158Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "212057142",
+      "uniqueKey": "popmo:212057142",
+      "title": "25-26 RC Lens Third S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/212057142?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Ligue 1",
+      "country": "Frankrijk",
+      "competition": "Ligue 1",
+      "club": "Lens",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/212057142/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/8fdf573e/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/212057142/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:24:06.919Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "213271726",
+      "uniqueKey": "popmo:213271726",
+      "title": "25-26 RC Strasbourg Alsace Third Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/213271726?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Ligue 1",
+      "country": "Frankrijk",
+      "competition": "Ligue 1",
+      "club": "Strasbourg",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/213271726/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/e5e94d29/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/213271726/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:22:46.608Z"
     },
     {
       "source": "yema007",
@@ -220459,6 +223624,66 @@
       "updatedAt": "2026-10-24T04:13:00.759Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "213066654",
+      "uniqueKey": "popmo:213066654",
+      "title": "25-26 Real Madrid Retro Edition Platinum S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/213066654?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Madrid",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/popmo/213066654/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/cf426057/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/213066654/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:23:19.341Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "211843159",
+      "uniqueKey": "popmo:211843159",
+      "title": "25-26 Real Madrid Retro White Casual Shirt2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/211843159?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Madrid",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/popmo/211843159/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/0d9a698b/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/211843159/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:24:13.254Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237489575",
@@ -225363,6 +228588,34 @@
       "updatedAt": "2026-10-24T02:10:19.845Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "210892841",
+      "uniqueKey": "popmo:210892841",
+      "title": "25-26 Sao Paulo Third S-4XL4",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/210892841?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Brasileiro Série A",
+      "country": "Brazilië",
+      "competition": "Brasileiro Série A",
+      "club": "São Paulo",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/210892841/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/72725f8b/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/210892841/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:25:31.028Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237732217",
@@ -226085,6 +229338,62 @@
       "coverUrl": "./assets/products/yema007/237686576/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T02:29:16.699Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "211483143",
+      "uniqueKey": "popmo:211483143",
+      "title": "25-26 St. Pauli Away S-2XL3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/211483143?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Bundesliga",
+      "country": "Duitsland",
+      "competition": "Bundesliga",
+      "club": "St. Pauli",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/211483143/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/322d22c8/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/211483143/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:24:38.999Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "210893837",
+      "uniqueKey": "popmo:210893837",
+      "title": "25-26 St. Pauli third S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/210893837?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Bundesliga",
+      "country": "Duitsland",
+      "competition": "Bundesliga",
+      "club": "St. Pauli",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/210893837/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/676afb30/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/210893837/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:25:23.069Z"
     },
     {
       "source": "yema007",
@@ -226904,6 +230213,34 @@
       "updatedAt": "2026-10-24T01:33:43.734Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "211580765",
+      "uniqueKey": "popmo:211580765",
+      "title": "25-26 Tottenham Hotspur Third S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/211580765?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "country": "Engeland",
+      "competition": "Premier League",
+      "club": "Tottenham",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/211580765/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/ae2b9dcc/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/211580765/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:24:37.142Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237716870",
@@ -227046,6 +230383,90 @@
       "coverUrl": "./assets/products/yema007/237716726/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T02:28:20.122Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "210386365",
+      "uniqueKey": "popmo:210386365",
+      "title": "25-26 US Cremonese Away S-2XL1",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/210386365?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Serie A",
+      "country": "Italië",
+      "competition": "Serie A",
+      "club": "Cremonese",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/210386365/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/46849196/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/210386365/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:25:47.317Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "211306812",
+      "uniqueKey": "popmo:211306812",
+      "title": "25-26 US Cremonese away S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/211306812?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Serie A",
+      "country": "Italië",
+      "competition": "Serie A",
+      "club": "Cremonese",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/211306812/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/f636cdaf/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/211306812/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:24:49.740Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "210384229",
+      "uniqueKey": "popmo:210384229",
+      "title": "25-26 US Cremonese Home S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/210384229?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Serie A",
+      "country": "Italië",
+      "competition": "Serie A",
+      "club": "Cremonese",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/210384229/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/452de3ba/medium.png"
+      ],
+      "coverUrl": "./assets/products/popmo/210384229/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:25:48.270Z"
     },
     {
       "source": "yema007",
@@ -227704,6 +231125,36 @@
       "coverUrl": "./assets/products/yema007/237727853/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T02:01:41.510Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "211847138",
+      "uniqueKey": "popmo:211847138",
+      "title": "25-26 Venezia Away short-long sleeve S-4XL6",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/211847138?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Serie A",
+      "country": "Italië",
+      "competition": "Serie A",
+      "club": "Venezia",
+      "types": [
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/popmo/211847138/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/911c8ff9/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/211847138/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:24:09.989Z"
     },
     {
       "source": "popmo",
@@ -228600,6 +232051,36 @@
       "updatedAt": "2026-10-24T02:28:22.579Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "210613365",
+      "uniqueKey": "popmo:210613365",
+      "title": "25-26 Wolfsburg Commemorative Edition S-4XL3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/210613365?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Bundesliga",
+      "country": "Duitsland",
+      "competition": "Bundesliga",
+      "club": "Wolfsburg",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/popmo/210613365/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/865bbfad/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/210613365/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:25:36.780Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237591385",
@@ -228654,6 +232135,34 @@
       "coverUrl": "./assets/products/yema007/237732279/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T02:28:21.673Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "210382425",
+      "uniqueKey": "popmo:210382425",
+      "title": "25-26 Wolves away S-4XL1",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/210382425?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "country": "Engeland",
+      "competition": "Premier League",
+      "club": "Wolves",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/210382425/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/b5eda7b5/medium.png"
+      ],
+      "coverUrl": "./assets/products/popmo/210382425/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:25:51.191Z"
     },
     {
       "source": "yema007",
@@ -228712,6 +232221,34 @@
       "coverUrl": "./assets/products/yema007/237539323/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T01:40:30.357Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "213933295",
+      "uniqueKey": "popmo:213933295",
+      "title": "25-26 Wolves Third S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/213933295?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "country": "Engeland",
+      "competition": "Premier League",
+      "club": "Wolves",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/213933295/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/bdb8561f/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/213933295/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:22:23.139Z"
     },
     {
       "source": "yema007",
@@ -453270,6 +456807,34 @@
       "updatedAt": "2026-10-24T13:14:28.151Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "211443713",
+      "uniqueKey": "popmo:211443713",
+      "title": "2026 Belgium Home Jersey S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/211443713?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Belgium",
+      "competition": "WK & landenteams",
+      "club": "Belgium",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/211443713/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/72f3849e/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/211443713/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:24:39.746Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "245136879",
@@ -476152,6 +479717,34 @@
       "updatedAt": "2026-10-24T03:37:49.879Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "213933589",
+      "uniqueKey": "popmo:213933589",
+      "title": "24-25 Norway home S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/213933589?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Norway",
+      "competition": "WK & landenteams",
+      "club": "Norway",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/213933589/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/4787a534/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/213933589/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:22:22.286Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237232891",
@@ -476657,6 +480250,36 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "211227644",
+      "uniqueKey": "popmo:211227644",
+      "title": "25-26 Austria pre-match suit S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/211227644?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Austria",
+      "competition": "WK & landenteams",
+      "club": "Austria",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/popmo/211227644/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/af4f84cb/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/211227644/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:24:52.648Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "218924935",
       "uniqueKey": "popmo:218924935",
       "title": "25-26 Belgium Home Women2",
@@ -476803,6 +480426,66 @@
       "coverUrl": "./assets/products/popmo/216512647/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T13:19:58.633Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "213295342",
+      "uniqueKey": "popmo:213295342",
+      "title": "25-26 Brazil Special Edition Rose Red (S-2XL)2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/213295342?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Brazil",
+      "competition": "WK & landenteams",
+      "club": "Brazil",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/popmo/213295342/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/807754be/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/213295342/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:22:43.794Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "213295527",
+      "uniqueKey": "popmo:213295527",
+      "title": "25-26 Brazil Special Edition Yellow Green (S-2XL)2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/213295527?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Brazil",
+      "competition": "WK & landenteams",
+      "club": "Brazil",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/popmo/213295527/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/07c237e8/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/213295527/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:22:42.034Z"
     },
     {
       "source": "popmo",
@@ -478183,6 +481866,64 @@
       "updatedAt": "2026-10-24T03:31:26.838Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "215342127",
+      "uniqueKey": "popmo:215342127",
+      "title": "25-26 Japan Red Flame Zoro S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/215342127?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Japan",
+      "competition": "WK & landenteams",
+      "club": "Japan",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/215342127/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/2399f265/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/215342127/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:21:47.733Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "215340601",
+      "uniqueKey": "popmo:215340601",
+      "title": "25-26 Japan Special Edition Ninja Blue S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/215340601?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Japan",
+      "competition": "WK & landenteams",
+      "club": "Japan",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/popmo/215340601/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/e98744bf/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/215340601/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:21:49.569Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237690592",
@@ -478572,6 +482313,36 @@
       "updatedAt": "2026-10-24T01:59:03.408Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "211843749",
+      "uniqueKey": "popmo:211843749",
+      "title": "25-26 Netherlands Special Edition Black S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/211843749?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Netherlands",
+      "competition": "WK & landenteams",
+      "club": "Netherlands",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/popmo/211843749/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/702af179/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/211843749/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:24:12.446Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237688697",
@@ -478626,6 +482397,36 @@
       "coverUrl": "./assets/products/popmo/218134025/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T13:18:27.176Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "213564607",
+      "uniqueKey": "popmo:213564607",
+      "title": "25-26 Norway Special Edition Black S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/213564607?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Norway",
+      "competition": "WK & landenteams",
+      "club": "Norway",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/popmo/213564607/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/a0ed2769/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/213564607/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:22:29.892Z"
     },
     {
       "source": "yema007",
@@ -478926,6 +482727,36 @@
       "coverUrl": "./assets/products/yema007/237689606/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T03:19:01.732Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "211227408",
+      "uniqueKey": "popmo:211227408",
+      "title": "25-26 Portugal Special Edition Pink S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/211227408?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Portugal",
+      "competition": "WK & landenteams",
+      "club": "Portugal",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/popmo/211227408/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/d6850e61/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/211227408/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:24:53.642Z"
     },
     {
       "source": "yema007",
@@ -481323,6 +485154,36 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "213567891",
+      "uniqueKey": "popmo:213567891",
+      "title": "26-27 Colombia Home/Away Women Jersey S-2XL [2026 FIFA WORLD CUP]5",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/213567891?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Colombia",
+      "competition": "WK & landenteams",
+      "club": "Colombia",
+      "types": [
+        "Dames"
+      ],
+      "images": [
+        "./assets/products/popmo/213567891/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/2bc5a972/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/213567891/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:22:28.786Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "219027905",
       "uniqueKey": "popmo:219027905",
       "title": "26-27 Colombia Home2",
@@ -482162,6 +486023,34 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "212617946",
+      "uniqueKey": "popmo:212617946",
+      "title": "26-27 Germany Away Fans Short Sleeve S-4XL [2026 FIFA WORLD CUP]2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/212617946?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Germany",
+      "competition": "WK & landenteams",
+      "club": "Germany",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/212617946/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/b9041de4/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/212617946/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:23:54.870Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "230664421",
       "uniqueKey": "popmo:230664421",
       "title": "26-27 Germany Black Special Edition S-4XL2",
@@ -482750,6 +486639,34 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "211306241",
+      "uniqueKey": "popmo:211306241",
+      "title": "26-27 Italy away S-XXL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/211306241?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Italy",
+      "competition": "WK & landenteams",
+      "club": "Italy",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/211306241/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/609e0f0a/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/211306241/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:24:51.612Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "227649266",
       "uniqueKey": "popmo:227649266",
       "title": "26-27 Italy training S-4XL2",
@@ -482954,6 +486871,34 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "212641339",
+      "uniqueKey": "popmo:212641339",
+      "title": "26-27 Japan Home Short Sleeve Fans Jersey S-4XL [2026 FIFA WORLD CUP]2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/212641339?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Japan",
+      "competition": "WK & landenteams",
+      "club": "Japan",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/212641339/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/ded3fa88/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/212641339/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:23:50.412Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "234893386",
       "uniqueKey": "popmo:234893386",
       "title": "26-27 Japan Home/Away Women Jersey S-2XL [2026 FIFA WORLD CUP]2",
@@ -483131,6 +487076,34 @@
       "coverUrl": "./assets/products/yema007/242743654/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T02:55:12.682Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "212649063",
+      "uniqueKey": "popmo:212649063",
+      "title": "26-27 Mexico Away Fans Short Sleeve Jersey S-4XL [2026 FIFA WORLD CUP]11",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/212649063?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Mexico",
+      "competition": "WK & landenteams",
+      "club": "Mexico",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/212649063/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/caa29815bb/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/212649063/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:23:48.572Z"
     },
     {
       "source": "popmo",
@@ -484586,6 +488559,34 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "213935189",
+      "uniqueKey": "popmo:213935189",
+      "title": "26-27 Spain Home Fans Short Sleeve Jersey S-4XL [2026 FIFA WORLD CUP]11",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/213935189?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Spain",
+      "competition": "WK & landenteams",
+      "club": "Spain",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/213935189/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/1e51b5ac25/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/213935189/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:22:09.747Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "243100107",
       "uniqueKey": "popmo:243100107",
       "title": "26-27 Spain Third Short Sleeve Fans Jersey S-4XL [2026 FIFA WORLD CUP]2",
@@ -484752,6 +488753,64 @@
       "coverUrl": "./assets/products/popmo/222501561/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T13:14:24.718Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "212740590",
+      "uniqueKey": "popmo:212740590",
+      "title": "26-27 Switzerland Blue Goalkeeper Short Sleeve Fans Jersey S-4XL [2026 FIFA WORLD CUP]2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/212740590?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Switzerland",
+      "competition": "WK & landenteams",
+      "club": "Switzerland",
+      "types": [
+        "Keepers"
+      ],
+      "images": [
+        "./assets/products/popmo/212740590/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/6e9c1a18/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/212740590/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:23:26.763Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "213070422",
+      "uniqueKey": "popmo:213070422",
+      "title": "26-27 Switzerland Home Short Sleeve Fans Jersey S-4XL [2026 FIFA WORLD CUP]2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/213070422?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Switzerland",
+      "competition": "WK & landenteams",
+      "club": "Switzerland",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/213070422/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/03d3fc11/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/213070422/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:23:18.060Z"
     },
     {
       "source": "popmo",
@@ -583958,6 +588017,34 @@
       "updatedAt": "2026-10-24T02:22:42.787Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "214311467",
+      "uniqueKey": "popmo:214311467",
+      "title": "25-26 Bayern T-shirt striped red S-2XL3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/214311467?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "QIQIYG.COM POPMO Official: +84 775508751",
+      "club": "-26 Bayern T-shirt",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/214311467/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/46a5a7e4/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/214311467/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:21:57.272Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237719643",
@@ -584128,6 +588215,36 @@
       "coverUrl": "./assets/products/popmo/202546895/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T12:49:04.230Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "213272604",
+      "uniqueKey": "popmo:213272604",
+      "title": "25-26 Betis training blue/green shirt4",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/213272604?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "QIQIYG.COM POPMO Official: +84 775508751",
+      "club": "-26 Betis training",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/popmo/213272604/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/b4d5aeaa/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/213272604/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:22:45.616Z"
     },
     {
       "source": "yema007",
@@ -591349,6 +595466,34 @@
       "updatedAt": "2026-10-24T12:05:24.748Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "210929919",
+      "uniqueKey": "popmo:210929919",
+      "title": "25-26 Mali Pre-Game Jersey (Black, green, white) S-2XL6",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/210929919?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "QIQIYG.COM POPMO Official: +84 775508751",
+      "club": "-26 Mali Pre-Game",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/210929919/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/da45e92b/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/210929919/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:24:57.752Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237511184",
@@ -593808,6 +597953,36 @@
       "updatedAt": "2026-10-24T02:30:59.448Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "210893458",
+      "uniqueKey": "popmo:210893458",
+      "title": "25-26 Paris pre-match training suit S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/210893458?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "QIQIYG.COM POPMO Official: +84 775508751",
+      "club": "-26 Paris pre-match",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/popmo/210893458/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/6f6fc512/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/210893458/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:25:28.246Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237691164",
@@ -595756,6 +599931,62 @@
       "updatedAt": "2026-10-24T12:28:55.731Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "213073169",
+      "uniqueKey": "popmo:213073169",
+      "title": "25-26 RSC Anderlecht Away Soccer Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/213073169?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "QIQIYG.COM POPMO Official: +84 775508751",
+      "club": "-26 RSC Anderlecht",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/213073169/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/05348a71/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/213073169/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:23:14.463Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "213073004",
+      "uniqueKey": "popmo:213073004",
+      "title": "25-26 RSC Anderlecht Home Soccer Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/213073004?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "QIQIYG.COM POPMO Official: +84 775508751",
+      "club": "-26 RSC Anderlecht",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/213073004/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/7094e308/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/213073004/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:23:15.416Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237718354",
@@ -596150,6 +600381,34 @@
       "coverUrl": "./assets/products/popmo/208042784/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T12:46:51.430Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "212412948",
+      "uniqueKey": "popmo:212412948",
+      "title": "25-26 Sheffield Yellow & Blue Soccer Pre-game Jersey3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/212412948?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "QIQIYG.COM POPMO Official: +84 775508751",
+      "club": "-26 Sheffield Yellow",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/212412948/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/c0462399/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/212412948/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T13:23:56.732Z"
     },
     {
       "source": "yema007",
