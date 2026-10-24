@@ -1,20 +1,20 @@
 {
-  "lastSync": "2026-10-24T12:31:28.851Z",
+  "lastSync": "2026-10-24T12:35:10.013Z",
   "syncState": {
     "status": "in-progress",
-    "label": "yema007 14075/14191",
+    "label": "yema007 14191/14191",
     "batchSize": 25,
     "maxImages": 1
   },
   "stats": {
     "discovered": 21654,
-    "added": 1574,
+    "added": 1690,
     "changed": 0,
     "unchanged": 19950,
     "repaired": 0,
     "skipped": 14,
-    "duplicatesRemoved": 394,
-    "batchesSaved": 861
+    "duplicatesRemoved": 395,
+    "batchesSaved": 866
   },
   "sources": [
     {
@@ -33,7 +33,7 @@
       "priority": 3
     }
   ],
-  "total": 21135,
+  "total": 21250,
   "sections": [
     "Nog te categoriseren",
     "Overige producten",
@@ -37387,6 +37387,36 @@
       "coverUrl": "./assets/products/yema007/237489609/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T04:31:48.238Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237224900",
+      "uniqueKey": "yema007:237224900",
+      "title": "13-14 Retro Benfica S-XXL Cheap Soccer Jerseys6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237224900?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Primeira Liga",
+      "country": "Portugal",
+      "competition": "Primeira Liga",
+      "club": "Benfica",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237224900/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/8d9e0d618d/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237224900/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:33:36.383Z"
     },
     {
       "source": "yema007",
@@ -76108,6 +76138,34 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237193091",
+      "uniqueKey": "yema007:237193091",
+      "title": "23-24 Botafogo Home Size S-4XL Soccer Jersey12",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237193091?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Brasileiro Série A",
+      "country": "Brazilië",
+      "competition": "Brasileiro Série A",
+      "club": "Botafogo",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237193091/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/52d92c2b5b/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237193091/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:34:08.546Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237184225",
       "uniqueKey": "yema007:237184225",
       "title": "23-24 Botafogo home10",
@@ -76254,6 +76312,34 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237193656",
+      "uniqueKey": "yema007:237193656",
+      "title": "23-24 Braga Home Size S-XXL Soccer Jerseys10",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237193656?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Primeira Liga",
+      "country": "Portugal",
+      "competition": "Primeira Liga",
+      "club": "Braga",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237193656/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/d7738be11b/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237193656/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:34:07.840Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237227643",
       "uniqueKey": "yema007:237227643",
       "title": "23-24 Brighton Rainbow Laces Pre-Match Size:S-4XL Jersey2",
@@ -76310,6 +76396,34 @@
       "coverUrl": "./assets/products/yema007/237195175/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T01:39:07.890Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237225742",
+      "uniqueKey": "yema007:237225742",
+      "title": "23-24 Ceara Black S-4XL Cheap Soccer Jerseys7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237225742?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Brasileiro Série A",
+      "country": "Brazilië",
+      "competition": "Brasileiro Série A",
+      "club": "Ceará",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237225742/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/f7fdfcbf3a/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237225742/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:32:47.624Z"
     },
     {
       "source": "yema007",
@@ -78516,6 +78630,62 @@
       "coverUrl": "./assets/products/yema007/237641451/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T02:14:45.399Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237225790",
+      "uniqueKey": "yema007:237225790",
+      "title": "23-24 Crystal Palace Away S-4XL Cheap Soccer Jerseys9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237225790?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "country": "Engeland",
+      "competition": "Premier League",
+      "club": "Crystal Palace",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237225790/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/050ae3524b/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237225790/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:32:45.175Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237225805",
+      "uniqueKey": "yema007:237225805",
+      "title": "23-24 Crystal Palace Second Away S-4XL Cheap Soccer Jerseys9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237225805?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "country": "Engeland",
+      "competition": "Premier League",
+      "club": "Crystal Palace",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237225805/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/fe4361d26b/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237225805/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:32:44.481Z"
     },
     {
       "source": "yema007",
@@ -80825,6 +80995,90 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237195264",
+      "uniqueKey": "yema007:237195264",
+      "title": "23-24 Fulham away S-4XL9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237195264?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "country": "Engeland",
+      "competition": "Premier League",
+      "club": "Fulham",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237195264/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/2370f06a92/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237195264/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:33:38.819Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237225949",
+      "uniqueKey": "yema007:237225949",
+      "title": "23-24 Girona Away S-XXL Cheap Soccer Jerseys6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237225949?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Girona",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237225949/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/b0c01a1287/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237225949/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:32:43.648Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237225961",
+      "uniqueKey": "yema007:237225961",
+      "title": "23-24 Girona Home S-XXL Cheap Soccer Jerseys6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237225961?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Girona",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237225961/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/a79de2ce60/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237225961/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:32:42.859Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237189356",
       "uniqueKey": "yema007:237189356",
       "title": "23-24 Goalkeeper Palmeiras Orange S-4XL9",
@@ -82982,6 +83236,36 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237193719",
+      "uniqueKey": "yema007:237193719",
+      "title": "23-24 Kids AC Milan away size 16-28 Soccer Jerseys14",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237193719?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Serie A",
+      "country": "Italië",
+      "competition": "Serie A",
+      "club": "AC Milan",
+      "types": [
+        "Kids"
+      ],
+      "images": [
+        "./assets/products/yema007/237193719/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/4428d4239a/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237193719/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:34:06.640Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237193732",
       "uniqueKey": "yema007:237193732",
       "title": "23-24 Kids Ajax Black Third away size 16-28 Soccer Jerseys6",
@@ -83984,6 +84268,36 @@
       "coverUrl": "./assets/products/yema007/237677235/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T02:41:07.362Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237190549",
+      "uniqueKey": "yema007:237190549",
+      "title": "23-24 Long Sleeve AC Milan Home S-XXL10",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237190549?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Serie A",
+      "country": "Italië",
+      "competition": "Serie A",
+      "club": "AC Milan",
+      "types": [
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/yema007/237190549/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/292a756aa8/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237190549/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:34:09.365Z"
     },
     {
       "source": "yema007",
@@ -89787,6 +90101,120 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237193892",
+      "uniqueKey": "yema007:237193892",
+      "title": "23-24 Osasuna Away S-XXL Soccer Jerseys10",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237193892?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Osasuna",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237193892/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/c18d4ff949/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237193892/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:34:05.221Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237193910",
+      "uniqueKey": "yema007:237193910",
+      "title": "23-24 Osasuna Copa del Rey Special Edition S-XXL Soccer Jerseys11",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237193910?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Osasuna",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/yema007/237193910/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/efebb74a34/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237193910/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:34:04.434Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237193930",
+      "uniqueKey": "yema007:237193930",
+      "title": "23-24 Osasuna Home S-XXL Soccer Jerseys10",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237193930?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Osasuna",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237193930/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/ef75663905/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237193930/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:34:03.761Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237193947",
+      "uniqueKey": "yema007:237193947",
+      "title": "23-24 Osasuna third away game S-XXL Soccer Jerseys10",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237193947?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Osasuna",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237193947/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/2324574552/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237193947/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:34:03.067Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237188511",
       "uniqueKey": "yema007:237188511",
       "title": "23-24 Palmeiras away long-sleeved9",
@@ -94509,6 +94937,118 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237193991",
+      "uniqueKey": "yema007:237193991",
+      "title": "23-24 Rayo Vallecano Away S-XXL Soccer Jerseys8",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237193991?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Rayo Vallecano",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237193991/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/4dd290fad7/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237193991/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:34:01.753Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237194003",
+      "uniqueKey": "yema007:237194003",
+      "title": "23-24 Rayo Vallecano Home S-XXL Soccer Jerseys8",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237194003?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Rayo Vallecano",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237194003/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/8a2727f867/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237194003/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:34:00.992Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237194843",
+      "uniqueKey": "yema007:237194843",
+      "title": "23-24 RB Bragantino Black S-XXL Soccer Jerseys10",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237194843?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Brasileiro Série A",
+      "country": "Brazilië",
+      "competition": "Brasileiro Série A",
+      "club": "Bragantino",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237194843/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/2a8fba18ba/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237194843/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:33:42.499Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237227206",
+      "uniqueKey": "yema007:237227206",
+      "title": "23-24 RB Bragantino S-XXL5",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237227206?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Brasileiro Série A",
+      "country": "Brazilië",
+      "competition": "Brasileiro Série A",
+      "club": "Bragantino",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237227206/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/a7ccbcedf9/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237227206/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:32:32.007Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237663961",
       "uniqueKey": "yema007:237663961",
       "title": "23-24 RB Leipzig Special Edition8",
@@ -97273,6 +97813,66 @@
       "coverUrl": "./assets/products/yema007/237194893/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T04:20:32.573Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237194867",
+      "uniqueKey": "yema007:237194867",
+      "title": "23-24 Real Madrid Training Vest Kit S-XXL(1) Soccer Jerseys3",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237194867?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Madrid",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/yema007/237194867/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/975d0d0867/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237194867/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:33:40.570Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237194876",
+      "uniqueKey": "yema007:237194876",
+      "title": "23-24 Real Madrid Training Vest Kit S-XXL(2) Soccer Jerseys3",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237194876?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Madrid",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/yema007/237194876/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/4df4ae6fdd/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237194876/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:33:39.457Z"
     },
     {
       "source": "yema007",
@@ -101231,6 +101831,34 @@
       "coverUrl": "./assets/products/yema007/237191153/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T02:02:01.385Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237226554",
+      "uniqueKey": "yema007:237226554",
+      "title": "23-24 Vitoria Black S-4XL Cheap Soccer Jerseys6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237226554?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Brasileiro Série A",
+      "country": "Brazilië",
+      "competition": "Brasileiro Série A",
+      "club": "Vitória",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237226554/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/15bc7e1611/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237226554/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:32:37.391Z"
     },
     {
       "source": "yema007",
@@ -121790,6 +122418,36 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237230852",
+      "uniqueKey": "yema007:237230852",
+      "title": "24-25 Flamengo Home Kit Long Sleeve Shirt Jersey Supplier6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237230852?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Brasileiro Série A",
+      "country": "Brazilië",
+      "competition": "Brasileiro Série A",
+      "club": "Flamengo",
+      "types": [
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/yema007/237230852/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/00a92980ed/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237230852/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:32:23.963Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237232573",
       "uniqueKey": "yema007:237232573",
       "title": "24-25 Flamengo Home Kit Long Sleeve with All Sponsor Football David Jersey2",
@@ -131439,6 +132097,36 @@
       "coverUrl": "./assets/products/yema007/237534069/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T01:59:04.564Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237361291",
+      "uniqueKey": "yema007:237361291",
+      "title": "24-25 Napoli Home Kid Kits Youth Apparels Sport David Jersey2",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237361291?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Serie A",
+      "country": "Italië",
+      "competition": "Serie A",
+      "club": "Napoli",
+      "types": [
+        "Kids"
+      ],
+      "images": [
+        "./assets/products/yema007/237361291/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/7a3a7776b7/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237361291/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:31:43.595Z"
     },
     {
       "source": "yema007",
@@ -147913,6 +148601,64 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237359382",
+      "uniqueKey": "yema007:237359382",
+      "title": "24-25 Sunderland Home Kid Kits Youth Apparels Sport David Jersey2",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237359382?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "country": "Engeland",
+      "competition": "Premier League",
+      "club": "Sunderland",
+      "types": [
+        "Kids"
+      ],
+      "images": [
+        "./assets/products/yema007/237359382/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/7000077c8d/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237359382/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:31:49.290Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237359358",
+      "uniqueKey": "yema007:237359358",
+      "title": "24-25 Sunderland Home Kit Soccer Uniform Sport David Jersey7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237359358?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "country": "Engeland",
+      "competition": "Premier League",
+      "club": "Sunderland",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237359358/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/e6cdfa92b9/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237359358/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:31:50.057Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237459714",
       "uniqueKey": "yema007:237459714",
       "title": "24-25 Torino Away Shirt Football Apparels Soccer David Jersey2",
@@ -149288,6 +150034,34 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237355011",
+      "uniqueKey": "yema007:237355011",
+      "title": "24-25 Twente Home Kit Football Apparel David Jersey Wholesale7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237355011?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Eredivisie",
+      "country": "Nederland",
+      "competition": "Eredivisie",
+      "club": "Twente",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237355011/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/388c0ff1d9/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237355011/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:31:57.978Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "241008000",
       "uniqueKey": "yema007:241008000",
       "title": "24-25 Two Star PSG Mens Home Kit Player Version Football Shirts David Jersey Dropship8",
@@ -150326,6 +151100,92 @@
       "coverUrl": "./assets/products/yema007/237368806/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T12:31:10.456Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237237611",
+      "uniqueKey": "yema007:237237611",
+      "title": "24-25 Vitoria Fouth Kit Soccer Jerseys8",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237237611?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Brasileiro Série A",
+      "country": "Brazilië",
+      "competition": "Brasileiro Série A",
+      "club": "Vitória",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237237611/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/dd2b9f984d/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237237611/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:32:05.448Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237346771",
+      "uniqueKey": "yema007:237346771",
+      "title": "24-25 Vitoria Home Kit Football David Jersey Supplier8",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237346771?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Brasileiro Série A",
+      "country": "Brazilië",
+      "competition": "Brasileiro Série A",
+      "club": "Vitória",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237346771/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/a972f5a6cc/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237346771/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:32:00.341Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237346795",
+      "uniqueKey": "yema007:237346795",
+      "title": "24-25 Vitoria Home Women Kit Lady Shirt Football David Jersey Supplier8",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237346795?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Brasileiro Série A",
+      "country": "Brazilië",
+      "competition": "Brasileiro Série A",
+      "club": "Vitória",
+      "types": [
+        "Dames"
+      ],
+      "images": [
+        "./assets/products/yema007/237346795/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/beecd4ec8e/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237346795/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:31:58.725Z"
     },
     {
       "source": "yema007",
@@ -261161,6 +262021,34 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237224910",
+      "uniqueKey": "yema007:237224910",
+      "title": "98-99 Parma third away yellowblue Cheap Football Kit5",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237224910?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Serie A",
+      "country": "Italië",
+      "competition": "Serie A",
+      "club": "Parma",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237224910/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/34b55bec33/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237224910/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:33:35.472Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237486382",
       "uniqueKey": "yema007:237486382",
       "title": "98-99 Porto Home Retro Kit Vintage Shirt Football Jerseys9",
@@ -358265,6 +359153,34 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237186481",
+      "uniqueKey": "yema007:237186481",
+      "title": "Windbreaker PSG Black Blue Purple7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237186481?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Ligue 1",
+      "country": "Frankrijk",
+      "competition": "Ligue 1",
+      "club": "PSG",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237186481/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/b954e37d6a/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237186481/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:34:12.000Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237225523",
       "uniqueKey": "yema007:237225523",
       "title": "Windbreaker Sao Paulo White S-XXL Cheap Soccer Jerseys1",
@@ -382108,6 +383024,34 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237187917",
+      "uniqueKey": "yema007:237187917",
+      "title": "2023 Ecuador home11",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237187917?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Ecuador",
+      "competition": "WK & landenteams",
+      "club": "Ecuador",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237187917/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/7b6b5b145a/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237187917/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:34:11.305Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237225083",
       "uniqueKey": "yema007:237225083",
       "title": "2023 England 150th Anniversary Prematch S-4XL Cheap Soccer Jerseys7",
@@ -384724,6 +385668,34 @@
       "updatedAt": "2026-10-24T03:37:02.393Z"
     },
     {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237195731",
+      "uniqueKey": "yema007:237195731",
+      "title": "2023 Senegal Away S-XXL best soccer jersey8",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237195731?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Senegal",
+      "competition": "WK & landenteams",
+      "club": "Senegal",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237195731/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/84cc514817/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237195731/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:33:38.152Z"
+    },
+    {
       "source": "minkang",
       "sourcePriority": 1,
       "sourceId": "146851856",
@@ -384948,6 +385920,34 @@
       "coverUrl": "./assets/products/yema007/237613119/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T03:15:04.377Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237225387",
+      "uniqueKey": "yema007:237225387",
+      "title": "2023 Switzerland Home S-4XL Cheap Soccer Jerseys6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237225387?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Switzerland",
+      "competition": "WK & landenteams",
+      "club": "Switzerland",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237225387/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/95da54aadc/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237225387/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:33:25.696Z"
     },
     {
       "source": "minkang",
@@ -399963,6 +400963,36 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237357083",
+      "uniqueKey": "yema007:237357083",
+      "title": "2024 Japan Dragon Ball Vegeta Special Edition Kit David Jersey Supplier6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237357083?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Japan",
+      "competition": "WK & landenteams",
+      "club": "Japan",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/yema007/237357083/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/88271c5c5c/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237357083/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:31:55.240Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237367986",
       "uniqueKey": "yema007:237367986",
       "title": "2024 Japan Dragon Jaune Special Edition Player Version Shirt Soccer David Jersey2",
@@ -403903,6 +404933,36 @@
       "coverUrl": "./assets/products/yema007/237638658/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T00:57:37.831Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237232178",
+      "uniqueKey": "yema007:237232178",
+      "title": "2024 Mexico Goalkeeper Shirt Jersey Supplier6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237232178?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Mexico",
+      "competition": "WK & landenteams",
+      "club": "Mexico",
+      "types": [
+        "Keepers"
+      ],
+      "images": [
+        "./assets/products/yema007/237232178/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/7c0c088deb/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237232178/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:32:06.682Z"
     },
     {
       "source": "yema007",
@@ -491074,6 +492134,36 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237238096",
+      "uniqueKey": "yema007:237238096",
+      "title": "16-17 Recife Sport Black Retro Kit Vintage Shirt Football David Jersey Supplier6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237238096?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "-17 Recife Sport",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237238096/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/53d3b5b421/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237238096/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:32:02.810Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237549215",
       "uniqueKey": "yema007:237549215",
       "title": "17-18 Chivas Away Retro Kit Vintage Shirt Soccer David Jersey8",
@@ -496686,6 +497776,34 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237225070",
+      "uniqueKey": "yema007:237225070",
+      "title": "2023 Egypt Home S-XXL Cheap Soccer Jerseys6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237225070?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Egypt Home S-XXL",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237225070/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/889cbfeebf/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237225070/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:33:34.829Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237615508",
       "uniqueKey": "yema007:237615508",
       "title": "2023 French Blue Training Suit10",
@@ -496918,6 +498036,62 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237225133",
+      "uniqueKey": "yema007:237225133",
+      "title": "2023 Israel Away S-4XL Cheap Soccer Jerseys5",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237225133?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Israel Away S-4XL",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237225133/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/2e54888b1a/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237225133/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:33:33.824Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237225139",
+      "uniqueKey": "yema007:237225139",
+      "title": "2023 Israel Home S-4XL Cheap Soccer Jerseys6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237225139?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Israel Home S-4XL",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237225139/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/bf76afe849/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237225139/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:33:32.402Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237609282",
       "uniqueKey": "yema007:237609282",
       "title": "2023 Jamaica Away Kit Best Jerseys10",
@@ -496974,6 +498148,208 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237227415",
+      "uniqueKey": "yema007:237227415",
+      "title": "2023 Jamaica Trench Coat Reversible S-XXL16",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237227415?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Jamaica Trench Coat",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237227415/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/23f2b1e0a1/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237227415/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:32:31.165Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237225234",
+      "uniqueKey": "yema007:237225234",
+      "title": "2023 Mali Away S-XXL Cheap Soccer Jerseys6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237225234?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Mali Away S-XXL",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237225234/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/8677a17c96/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237225234/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:33:31.721Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237225244",
+      "uniqueKey": "yema007:237225244",
+      "title": "2023 Mali Home S-XXL Cheap Soccer Jerseys6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237225244?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Mali Home S-XXL",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237225244/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/d48d2bafb1/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237225244/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:33:31.009Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237225258",
+      "uniqueKey": "yema007:237225258",
+      "title": "2023 Mali Second Away S-XXL Cheap Soccer Jerseys6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237225258?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Mali Second Away",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237225258/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/e15b5f398f/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237225258/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:33:29.683Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237225265",
+      "uniqueKey": "yema007:237225265",
+      "title": "2023 Mali Special Edition Black S-XXL Cheap Soccer Jerseys5",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237225265?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Mali Special Edition",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/yema007/237225265/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/65bd62c8e1/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237225265/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:33:28.929Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237225279",
+      "uniqueKey": "yema007:237225279",
+      "title": "2023 Mali Special Edition Green S-XXL Cheap Soccer Jerseys5",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237225279?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Mali Special Edition",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/yema007/237225279/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/8964124448/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237225279/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:33:28.211Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237225292",
+      "uniqueKey": "yema007:237225292",
+      "title": "2023 Mali Special Edition S-XXL Cheap Soccer Jerseys6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237225292?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Mali Special Edition",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/yema007/237225292/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/bb0ca00a30/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237225292/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:33:27.020Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237530834",
       "uniqueKey": "yema007:237530834",
       "title": "2023 Reversible Windbreaker Italy17",
@@ -497026,6 +498402,62 @@
       "coverUrl": "./assets/products/yema007/237660544/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T03:24:08.599Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237225404",
+      "uniqueKey": "yema007:237225404",
+      "title": "2023 Venezuela Away S-XXL Cheap Soccer Jerseys7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237225404?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Venezuela Away S-XXL",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237225404/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/caaf5fa7f0/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237225404/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:33:24.383Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237225413",
+      "uniqueKey": "yema007:237225413",
+      "title": "2023 Venezuela Home S-XXL Cheap Soccer Jerseys6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237225413?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Venezuela Home S-XXL",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237225413/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/babec48379/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237225413/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:33:23.628Z"
     },
     {
       "source": "yema007",
@@ -498158,6 +499590,34 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237229143",
+      "uniqueKey": "yema007:237229143",
+      "title": "2024 Guinea Home Kit Cheap Jerseys7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237229143?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Guinea Home Kit",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237229143/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/b808382b28/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237229143/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:32:25.462Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237356934",
       "uniqueKey": "yema007:237356934",
       "title": "2024 Honduras Special Edition Black Kit David Jersey Supplier7",
@@ -498392,6 +499852,34 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237228545",
+      "uniqueKey": "yema007:237228545",
+      "title": "2024 Ivory Coast Reversible Windbreaker Yellow&Orange Double-Sides Jacket Soccer Jerseys For Sale7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237228545?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Ivory Coast Reversible",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237228545/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/bf495ca2c4/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237228545/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:32:26.107Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237358599",
       "uniqueKey": "yema007:237358599",
       "title": "2024 Jamaica Away Kit Player Version Shirt Sport David Jersey5",
@@ -498448,6 +499936,34 @@
       "coverUrl": "./assets/products/yema007/237230023/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T03:54:27.576Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237228515",
+      "uniqueKey": "yema007:237228515",
+      "title": "2024 Jamaica Reversible Windbreaker Orange&Green Double-Sides Jacket Soccer Jerseys For Sale7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237228515?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Jamaica Reversible Windbreaker",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237228515/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/f850a516b2/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237228515/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:32:26.894Z"
     },
     {
       "source": "yema007",
@@ -499620,6 +501136,34 @@
       "coverUrl": "./assets/products/yema007/237357771/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T01:42:26.960Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237357679",
+      "uniqueKey": "yema007:237357679",
+      "title": "2024 UEFA Euro Keychains David Jersey Supplier10",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237357679?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "UEFA Euro Keychains",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237357679/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/cc56502786/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237357679/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:31:54.444Z"
     },
     {
       "source": "yema007",
@@ -502077,6 +503621,34 @@
       "coverUrl": "./assets/products/yema007/237700129/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T03:51:18.248Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "216686562",
+      "uniqueKey": "yema007:216686562",
+      "title": "2025/2026 Font54",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/216686562?uid=1&isSubCate=false&referrercate=5067537",
+      "categoryId": null,
+      "collectionId": "5067537",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "/",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/216686562/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/3cce6a71/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/216686562/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:35:02.283Z"
     },
     {
       "source": "yema007",
@@ -514480,6 +516052,34 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237194223",
+      "uniqueKey": "yema007:237194223",
+      "title": "23-24 Albacete away S-XXL Soccer Jerseys9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237194223?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "-24 Albacete away",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237194223/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/98f76a98ba/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237194223/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:33:44.503Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237655003",
       "uniqueKey": "yema007:237655003",
       "title": "23-24 Algeria Black Hoodie Long Sleeve Training Suit3",
@@ -515160,6 +516760,34 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237185270",
+      "uniqueKey": "yema007:237185270",
+      "title": "23-24 Avai home11",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237185270?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "-24 Avai home11",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237185270/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/42d1942f74/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237185270/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:34:58.526Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237654806",
       "uniqueKey": "yema007:237654806",
       "title": "23-24 Bahiao away10",
@@ -515212,6 +516840,34 @@
       "coverUrl": "./assets/products/yema007/237184474/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T02:20:12.063Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237227743",
+      "uniqueKey": "yema007:237227743",
+      "title": "23-24 Bari City Lights Fourth Kit Size:S-XXL Jersey4",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237227743?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "-24 Bari City",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237227743/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/8b5da3e0b7/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237227743/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:32:29.094Z"
     },
     {
       "source": "yema007",
@@ -516180,6 +517836,62 @@
       "coverUrl": "./assets/products/yema007/237681139/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T02:28:20.431Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237194554",
+      "uniqueKey": "yema007:237194554",
+      "title": "23-24 Birmingham away S-4XL Soccer Jerseys9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237194554?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "-24 Birmingham away",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237194554/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/fbb95e28d0/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237194554/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:33:43.864Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237194576",
+      "uniqueKey": "yema007:237194576",
+      "title": "23-24 Birmingham Home S-4XL Soccer Jerseys9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237194576?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "-24 Birmingham Home",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237194576/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/808ad75c88/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237194576/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:33:43.172Z"
     },
     {
       "source": "yema007",
@@ -518037,6 +519749,34 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237225770",
+      "uniqueKey": "yema007:237225770",
+      "title": "23-24 Coritiba Home S-XXL Cheap Soccer Jerseys6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237225770?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "-24 Coritiba Home",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237225770/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/2a8fbe2dfb/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237225770/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:32:47.249Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237519137",
       "uniqueKey": "yema007:237519137",
       "title": "23-24 Cruz Azul Away Kids Kit Children Suits Soccer Jerseys2",
@@ -519802,6 +521542,90 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237226091",
+      "uniqueKey": "yema007:237226091",
+      "title": "23-24 Las Palmas Away S-XXL Cheap Soccer Jerseys6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237226091?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "-24 Las Palmas",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237226091/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/26312aa3f7/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237226091/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:32:42.086Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237226108",
+      "uniqueKey": "yema007:237226108",
+      "title": "23-24 Las Palmas Home S-XXL Cheap Soccer Jerseys7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237226108?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "-24 Las Palmas",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237226108/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/ce0407d163/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237226108/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:32:41.395Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237226121",
+      "uniqueKey": "yema007:237226121",
+      "title": "23-24 Las Palmas Red S-XXL Cheap Soccer Jerseys7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237226121?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "-24 Las Palmas",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237226121/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/db962feee4/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237226121/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:32:39.762Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237659418",
       "uniqueKey": "yema007:237659418",
       "title": "23-24 Leverkusen Away S-XXL Cheap Soccer Jerseys7",
@@ -520092,6 +521916,34 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237224535",
+      "uniqueKey": "yema007:237224535",
+      "title": "23-24 Miami Joint Edition pink size S-XXL best soccer jersey9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237224535?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "-24 Miami Joint",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237224535/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/ec9e7dbdd8/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237224535/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:33:37.490Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237637063",
       "uniqueKey": "yema007:237637063",
       "title": "23-24 Miami Long Sleeve Training Suit (1)3",
@@ -520212,6 +522064,36 @@
       "coverUrl": "./assets/products/yema007/237636446/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T12:19:42.129Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237224615",
+      "uniqueKey": "yema007:237224615",
+      "title": "23-24 Monterey Special Edition S-XXL best soccer jersey7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237224615?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "-24 Monterey Special",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/yema007/237224615/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/f62e86a20a/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237224615/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:33:36.824Z"
     },
     {
       "source": "yema007",
@@ -520382,6 +522264,34 @@
       "coverUrl": "./assets/products/yema007/237606961/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T01:46:53.796Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237227714",
+      "uniqueKey": "yema007:237227714",
+      "title": "23-24 Monza Third Kit Size:S-XXL Jersey4",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237227714?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "-24 Monza Third",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237227714/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/c284eb4a1b/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237227714/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:32:29.712Z"
     },
     {
       "source": "yema007",
@@ -520815,6 +522725,62 @@
       "coverUrl": "./assets/products/yema007/237467242/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T12:22:48.683Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237227141",
+      "uniqueKey": "yema007:237227141",
+      "title": "23-24 Palestinian Black S-4XL6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237227141?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "-24 Palestinian Black",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237227141/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/f49a3ec802/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237227141/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:32:34.344Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237227152",
+      "uniqueKey": "yema007:237227152",
+      "title": "23-24 Palestinian White S-4XL6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237227152?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "-24 Palestinian White",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237227152/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/12b8977f8f/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237227152/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:32:33.616Z"
     },
     {
       "source": "yema007",
@@ -522314,6 +524280,34 @@
       "coverUrl": "./assets/products/yema007/237659150/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T02:50:00.382Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237228316",
+      "uniqueKey": "yema007:237228316",
+      "title": "23-24 San Luis Reversible Windbreaker White&Blue Double-Sides Jacket Soccer Jerseys For Sale7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237228316?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "-24 San Luis",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237228316/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/ad1ed5da44/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237228316/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:32:28.046Z"
     },
     {
       "source": "yema007",
@@ -524459,6 +526453,34 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237194102",
+      "uniqueKey": "yema007:237194102",
+      "title": "23-24 Vit��ria away size S-4XL Soccer Jerseys10",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237194102?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "-24 Vit��ria away",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237194102/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/a870473375/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237194102/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:33:45.670Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237683045",
       "uniqueKey": "yema007:237683045",
       "title": "23-24 Wellington Phoenix Home Size:S-4XL Jersey2",
@@ -525495,6 +527517,34 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237226614",
+      "uniqueKey": "yema007:237226614",
+      "title": "23-24 Woman Paysandu Black S-XXL Cheap Soccer Jerseys6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237226614?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "-24 Woman Paysandu",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237226614/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/780d4e8364/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237226614/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:32:35.748Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237602531",
       "uniqueKey": "yema007:237602531",
       "title": "23-24 Women's Athletico Paranaense away9",
@@ -525699,6 +527749,37 @@
       "coverUrl": "./assets/products/minkang/139937505/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:51:15.456Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237355648",
+      "uniqueKey": "yema007:237355648",
+      "title": "24-25 AC Millan Goalkeeper Kid Kits Black Youth Apparels David Jersey Supplier6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237355648?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "-25 AC Millan",
+      "types": [
+        "Kids",
+        "Keepers"
+      ],
+      "images": [
+        "./assets/products/yema007/237355648/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/a3e9aed73e/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237355648/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:31:56.855Z"
     },
     {
       "source": "yema007",
@@ -531405,6 +533486,34 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237230792",
+      "uniqueKey": "yema007:237230792",
+      "title": "24-25 Deportivo Universidad Católica Third Kit Jersey Supplier8",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237230792?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "-25 Deportivo Universidad",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237230792/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/977ae0f570/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237230792/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:32:24.682Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237363696",
       "uniqueKey": "yema007:237363696",
       "title": "24-25 Derby County Home Kit Sport David Jersey8",
@@ -534427,6 +536536,34 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237361370",
+      "uniqueKey": "yema007:237361370",
+      "title": "24-25 Monterrey Home Kit Soccer Uniform Sport David Jersey6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237361370?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "-25 Monterrey Home",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237361370/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/5a676ae96d/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237361370/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:31:42.810Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237387582",
       "uniqueKey": "yema007:237387582",
       "title": "24-25 Monterrey Third Kit Player Version Shirt David Jersey Supplier6",
@@ -534453,6 +536590,34 @@
       "coverUrl": "./assets/products/yema007/237387582/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T01:47:21.865Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237239316",
+      "uniqueKey": "yema007:237239316",
+      "title": "24-25 Nashville Away Shirt Football David Jersey Supplier8",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237239316?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "-25 Nashville Away",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237239316/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/26ffaaa47f/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237239316/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:32:01.976Z"
     },
     {
       "source": "yema007",
@@ -534638,6 +536803,34 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237361179",
+      "uniqueKey": "yema007:237361179",
+      "title": "24-25 Newcastle Third Kit Football Uniforms Sport David Jersey6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237361179?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "-25 Newcastle Third",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237361179/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/11b226ec60/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237361179/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:31:44.334Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237371251",
       "uniqueKey": "yema007:237371251",
       "title": "24-25 Newcastle Third Kit Player Version Shirt Soccer David Jersey7",
@@ -534720,6 +536913,64 @@
       "coverUrl": "./assets/products/yema007/237371155/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T01:41:25.954Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237361139",
+      "uniqueKey": "yema007:237361139",
+      "title": "24-25 O'Higgins Home Kit Sport David Jersey6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237361139?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "-25 O'Higgins Home",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237361139/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/3c9dff2f9d/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237361139/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:31:45.539Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237239335",
+      "uniqueKey": "yema007:237239335",
+      "title": "24-25 Olympia Training Kit Football David Jersey Supplier7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237239335?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "-25 Olympia Training",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/yema007/237239335/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/022cdd9b9c/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237239335/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:32:01.124Z"
     },
     {
       "source": "yema007",
@@ -536227,6 +538478,34 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237359533",
+      "uniqueKey": "yema007:237359533",
+      "title": "24-25 RSC Anderlecht Home Kit Soccer Apparels Sport David Jersey6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237359533?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "-25 RSC Anderlecht",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237359533/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/ede362576c/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237359533/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:31:46.348Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237344551",
       "uniqueKey": "yema007:237344551",
       "title": "24-25 Salt Lake Home Shirt Football David Jersey Supplier8",
@@ -536251,6 +538530,62 @@
       "coverUrl": "./assets/products/yema007/237344551/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T12:23:14.463Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237359510",
+      "uniqueKey": "yema007:237359510",
+      "title": "24-25 San Lorenzo Away Kit Sport David Jersey7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237359510?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "-25 San Lorenzo",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237359510/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/ab3d8edbc8/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237359510/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:31:47.061Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237359498",
+      "uniqueKey": "yema007:237359498",
+      "title": "24-25 San Lorenzo Home Kit Sport David Jersey5",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237359498?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "-25 San Lorenzo",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237359498/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/58bc66ccc8/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237359498/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:31:47.870Z"
     },
     {
       "source": "yema007",
@@ -537037,6 +539372,34 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237359389",
+      "uniqueKey": "yema007:237359389",
+      "title": "24-25 Standard Liege Home Kit Soccer Uniforms Sport David Jersey6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237359389?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "-25 Standard Liege",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237359389/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/02668eddec/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237359389/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:31:48.520Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237381340",
       "uniqueKey": "yema007:237381340",
       "title": "24-25 Stuttgarts Away Shirt Football Uniforms David Jersey Supplier7",
@@ -537175,6 +539538,64 @@
       "coverUrl": "./assets/products/yema007/237369222/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T12:11:58.769Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237359326",
+      "uniqueKey": "yema007:237359326",
+      "title": "24-25 Tenerife Home Kid Kits Youth Apparels Sport David Jersey10",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237359326?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "-25 Tenerife Home",
+      "types": [
+        "Kids"
+      ],
+      "images": [
+        "./assets/products/yema007/237359326/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/71a426e061/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237359326/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:31:50.905Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237359298",
+      "uniqueKey": "yema007:237359298",
+      "title": "24-25 Tenerife Home Kit Sport David Jersey7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237359298?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "-25 Tenerife Home",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237359298/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/b97b4279ba/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237359298/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:31:51.819Z"
     },
     {
       "source": "yema007",
@@ -537529,6 +539950,62 @@
       "coverUrl": "./assets/products/yema007/237349220/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T01:42:27.610Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237359197",
+      "uniqueKey": "yema007:237359197",
+      "title": "24-25 Tolima Home Kit Sport David Jersey7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237359197?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "-25 Tolima Home",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237359197/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/a43711ad3c/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237359197/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:31:53.116Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237356670",
+      "uniqueKey": "yema007:237356670",
+      "title": "24-25 Tucuman Home Kit Soccer Uniform David Jersey Supplier7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237356670?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "-25 Tucuman Home",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237356670/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/33d3649bc3/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237356670/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:31:56.117Z"
     },
     {
       "source": "yema007",
@@ -569674,6 +572151,36 @@
       "updatedAt": "2026-10-24T00:13:12.084Z"
     },
     {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "216532463",
+      "uniqueKey": "yema007:216532463",
+      "title": "Adult training suit1",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/216532463?uid=1&isSubCate=false&referrercate=5067537",
+      "categoryId": null,
+      "collectionId": "5067537",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Adult training suit1",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/yema007/216532463/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/12b5d2aa/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/216532463/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:35:08.028Z"
+    },
+    {
       "source": "minkang",
       "sourcePriority": 1,
       "sourceId": "247186301",
@@ -585387,6 +587894,34 @@
       "updatedAt": "2026-10-24T01:38:35.044Z"
     },
     {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "216578900",
+      "uniqueKey": "yema007:216578900",
+      "title": "F11",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/216578900?uid=1&isSubCate=false&referrercate=5067537",
+      "categoryId": null,
+      "collectionId": "5067537",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "F11",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/216578900/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/2e8f7db0/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/216578900/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:34:59.486Z"
+    },
+    {
       "source": "minkang",
       "sourcePriority": 1,
       "sourceId": "258669544",
@@ -586461,6 +588996,34 @@
       "updatedAt": "2026-10-24T00:21:37.182Z"
     },
     {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "216579229",
+      "uniqueKey": "yema007:216579229",
+      "title": "GAA1",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/216579229?uid=1&isSubCate=false&referrercate=5067537",
+      "categoryId": null,
+      "collectionId": "5067537",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "GAA1",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/216579229/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/8147f825/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/216579229/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:35:00.432Z"
+    },
+    {
       "source": "minkang",
       "sourcePriority": 1,
       "sourceId": "247185553",
@@ -587226,6 +589789,34 @@
       "coverUrl": "./assets/products/minkang/227759584/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T00:22:12.826Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "216670550",
+      "uniqueKey": "yema007:216670550",
+      "title": "Get gifts with purchase46",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/216670550?uid=1&isSubCate=false&referrercate=5067537",
+      "categoryId": null,
+      "collectionId": "5067537",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Get gifts with",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/216670550/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/85226a82/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/216670550/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:35:03.100Z"
     },
     {
       "source": "minkang",
@@ -591885,6 +594476,37 @@
       "coverUrl": "./assets/albums/14188124/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:01:43.772Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "216532466",
+      "uniqueKey": "yema007:216532466",
+      "title": "Kids training suit1",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/216532466?uid=1&isSubCate=false&referrercate=5067537",
+      "categoryId": null,
+      "collectionId": "5067537",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Kids training suit1",
+      "types": [
+        "Kids",
+        "Training"
+      ],
+      "images": [
+        "./assets/products/yema007/216532466/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/9d50e8bf/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/216532466/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:35:09.150Z"
     },
     {
       "source": "yema007",
@@ -606030,6 +608652,34 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "216571711",
+      "uniqueKey": "yema007:216571711",
+      "title": "Patch1",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/216571711?uid=1&isSubCate=false&referrercate=5067537",
+      "categoryId": null,
+      "collectionId": "5067537",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Patch1",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/216571711/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/cfd05082/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/216571711/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:35:09.847Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "216648531",
       "uniqueKey": "yema007:216648531",
       "title": "patch684",
@@ -609937,6 +612587,36 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "216532442",
+      "uniqueKey": "yema007:216532442",
+      "title": "retro style1",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/216532442?uid=1&isSubCate=false&referrercate=5067537",
+      "categoryId": null,
+      "collectionId": "5067537",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "retro style1",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/216532442/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/7550ff47/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/216532442/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:35:01.410Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237502929",
       "uniqueKey": "yema007:237502929",
       "title": "Retro Tenerife 75th Anniversary Away Retro Kit Vintage Shirt David Jersey Supply9",
@@ -613432,6 +616112,34 @@
       "updatedAt": "2026-10-23T23:06:08.125Z"
     },
     {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "216642308",
+      "uniqueKey": "yema007:216642308",
+      "title": "Shoes2",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/216642308?uid=1&isSubCate=false&referrercate=5067537",
+      "categoryId": null,
+      "collectionId": "5067537",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Shoes2",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/216642308/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/c577d6485b/medium.gif"
+      ],
+      "coverUrl": "./assets/products/yema007/216642308/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:35:05.892Z"
+    },
+    {
       "source": "minkang",
       "sourcePriority": 1,
       "sourceId": "113830778",
@@ -613460,6 +616168,62 @@
       "coverUrl": "./assets/albums/113830778/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:06:29.313Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "216532407",
+      "uniqueKey": "yema007:216532407",
+      "title": "Shorts1",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/216532407?uid=1&isSubCate=false&referrercate=5067537",
+      "categoryId": null,
+      "collectionId": "5067537",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Shorts1",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/216532407/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/9f906f0f/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/216532407/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:35:06.225Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "216583845",
+      "uniqueKey": "yema007:216583845",
+      "title": "Size2",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/216583845?uid=1&isSubCate=false&referrercate=5067537",
+      "categoryId": null,
+      "collectionId": "5067537",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Size2",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/216583845/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/8e647c27/medium.gif"
+      ],
+      "coverUrl": "./assets/products/yema007/216583845/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:35:04.042Z"
     },
     {
       "source": "minkang",
@@ -613544,6 +616308,34 @@
       "coverUrl": "./assets/products/minkang/239061753/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T00:17:18.801Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "216639357",
+      "uniqueKey": "yema007:216639357",
+      "title": "soccer shoes1",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/216639357?uid=1&isSubCate=false&referrercate=5067537",
+      "categoryId": null,
+      "collectionId": "5067537",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "soccer shoes1",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/216639357/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/2b8b4432/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/216639357/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:35:06.934Z"
     },
     {
       "source": "yema007",
@@ -615044,6 +617836,118 @@
       "coverUrl": "./assets/products/minkang/255161055/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:36:41.727Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237186280",
+      "uniqueKey": "yema007:237186280",
+      "title": "Sunscreen suit Nike outdoor sports | 29",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237186280?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Sunscreen suit Nike",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237186280/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/b5cf5ccedc/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237186280/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:34:55.763Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237186258",
+      "uniqueKey": "yema007:237186258",
+      "title": "Sunscreen suit Nike outdoor sports | 38",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237186258?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Sunscreen suit Nike",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237186258/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/4a2ab47369/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237186258/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:34:57.050Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237186296",
+      "uniqueKey": "yema007:237186296",
+      "title": "Sunscreen suit Nike outdoor sports | 47",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237186296?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Sunscreen suit Nike",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237186296/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/e9e38cf4fb/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237186296/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:34:27.964Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237186240",
+      "uniqueKey": "yema007:237186240",
+      "title": "Sunscreen suit Nike outdoor sports9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237186240?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Sunscreen suit Nike",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237186240/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/1691a9ed49/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237186240/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:34:57.822Z"
     },
     {
       "source": "yema007",
@@ -619022,6 +621926,34 @@
       "updatedAt": "2026-10-24T01:01:54.380Z"
     },
     {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237188000",
+      "uniqueKey": "yema007:237188000",
+      "title": "Wind-proof clothing The North Face8",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237188000?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Wind-proof clothing The",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237188000/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/f0d0cad141/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237188000/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:34:10.252Z"
+    },
+    {
       "source": "minkang",
       "sourcePriority": 1,
       "sourceId": "222526104",
@@ -619048,6 +621980,174 @@
       "coverUrl": "./assets/products/minkang/222526104/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T00:24:12.512Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237186332",
+      "uniqueKey": "yema007:237186332",
+      "title": "Windbreaker Adidas Black9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237186332?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Windbreaker Adidas Black9",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237186332/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/0c80082dcc/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237186332/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:34:26.072Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237186350",
+      "uniqueKey": "yema007:237186350",
+      "title": "Windbreaker Adidas Blue8",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237186350?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Windbreaker Adidas Blue8",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237186350/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/cca3c1a05f/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237186350/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:34:25.338Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237225437",
+      "uniqueKey": "yema007:237225437",
+      "title": "Windbreaker Adidas Green S-XXL Cheap Soccer Jerseys2",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237225437?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Windbreaker Adidas Green",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237225437/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/6b2bc9da3e/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237225437/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:32:50.136Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237225442",
+      "uniqueKey": "yema007:237225442",
+      "title": "Windbreaker Adidas White S-XXL Cheap Soccer Jerseys1",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237225442?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Windbreaker Adidas White",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237225442/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/fa4d2feeb1/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237225442/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:32:48.546Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237186363",
+      "uniqueKey": "yema007:237186363",
+      "title": "Windbreaker Adidas White9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237186363?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Windbreaker Adidas White9",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237186363/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/7324f04575/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237186363/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:34:24.239Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237186312",
+      "uniqueKey": "yema007:237186312",
+      "title": "Windbreaker Adidas8",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237186312?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Windbreaker Adidas8",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237186312/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/21972d4910/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237186312/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:34:26.812Z"
     },
     {
       "source": "yema007",
@@ -619384,6 +622484,174 @@
       "coverUrl": "./assets/products/yema007/237534484/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T02:04:58.258Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237186441",
+      "uniqueKey": "yema007:237186441",
+      "title": "Windbreaker Nike | 66",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237186441?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Windbreaker Nike |",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237186441/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/1ea17a58cd/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237186441/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:34:16.499Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237186456",
+      "uniqueKey": "yema007:237186456",
+      "title": "Windbreaker Nike | 87",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237186456?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Windbreaker Nike |",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237186456/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/f9a3cb9428/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237186456/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:34:15.229Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237186419",
+      "uniqueKey": "yema007:237186419",
+      "title": "Windbreaker Nike | 98",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237186419?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Windbreaker Nike |",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237186419/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/7e785b73a8/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237186419/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:34:18.036Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237186390",
+      "uniqueKey": "yema007:237186390",
+      "title": "Windbreaker Nike Black7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237186390?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Windbreaker Nike Black7",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237186390/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/3b2a7c2a2f/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237186390/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:34:20.466Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237186377",
+      "uniqueKey": "yema007:237186377",
+      "title": "Windbreaker NIKE8",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237186377?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Windbreaker NIKE8",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237186377/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/c1916be06b/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237186377/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:34:22.875Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237186469",
+      "uniqueKey": "yema007:237186469",
+      "title": "Windbreaker PRADA7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237186469?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Windbreaker PRADA7",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237186469/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/45523f5dd2/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237186469/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T12:34:13.493Z"
     },
     {
       "source": "yema007",
