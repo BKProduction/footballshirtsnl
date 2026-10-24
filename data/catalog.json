@@ -1,20 +1,20 @@
 {
-  "lastSync": "2026-10-24T19:44:49.039Z",
+  "lastSync": "2026-10-24T19:49:44.494Z",
   "syncState": {
     "status": "in-progress",
-    "label": "minkang 225/7464",
+    "label": "minkang 875/7464",
     "batchSize": 25,
     "maxImages": 1
   },
   "stats": {
     "discovered": 7464,
-    "added": 3,
-    "changed": 35,
-    "unchanged": 187,
+    "added": 12,
+    "changed": 85,
+    "unchanged": 777,
     "repaired": 0,
-    "skipped": 0,
-    "duplicatesRemoved": 2,
-    "batchesSaved": 8
+    "skipped": 1,
+    "duplicatesRemoved": 12,
+    "batchesSaved": 34
   },
   "sources": [
     {
@@ -33,7 +33,7 @@
       "priority": 3
     }
   ],
-  "total": 23355,
+  "total": 23354,
   "sections": [
     "Mode & accessoires",
     "Nog te categoriseren",
@@ -322447,11 +322447,11 @@
       "sourceId": "259116318",
       "uniqueKey": "minkang:259116318",
       "title": "Bayern Munich 16/17 Home Retro Jersey S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259116318?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259116318?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Bundesliga",
@@ -322469,7 +322469,7 @@
       ],
       "coverUrl": "./assets/products/minkang/259116318/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:40.399Z"
+      "updatedAt": "2026-10-24T19:45:46.025Z"
     },
     {
       "source": "minkang",
@@ -326459,11 +326459,11 @@
       "sourceId": "259451415",
       "uniqueKey": "minkang:259451415",
       "title": "Borussia Monchengladbach 97/98 Home Retro Jersey S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259451415?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259451415?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Bundesliga",
@@ -326481,7 +326481,7 @@
       ],
       "coverUrl": "./assets/products/minkang/259451415/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:37.159Z"
+      "updatedAt": "2026-10-24T19:45:46.025Z"
     },
     {
       "source": "minkang",
@@ -330787,11 +330787,11 @@
       "sourceId": "259451655",
       "uniqueKey": "minkang:259451655",
       "title": "Como 1907 26/27 Black Goalkeeper Jersey S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259451655?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259451655?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Serie A",
@@ -330809,7 +330809,7 @@
       ],
       "coverUrl": "./assets/products/minkang/259451655/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:35.788Z"
+      "updatedAt": "2026-10-24T19:46:54.503Z"
     },
     {
       "source": "popmo",
@@ -333630,11 +333630,11 @@
       "sourceId": "259451692",
       "uniqueKey": "minkang:259451692",
       "title": "Crystal Palace 73/75 Home Retro Jersey S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259451692?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259451692?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Premier League",
@@ -333652,7 +333652,7 @@
       ],
       "coverUrl": "./assets/products/minkang/259451692/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:35.521Z"
+      "updatedAt": "2026-10-24T19:45:46.025Z"
     },
     {
       "source": "minkang",
@@ -333660,11 +333660,11 @@
       "sourceId": "259451724",
       "uniqueKey": "minkang:259451724",
       "title": "Crystal Palace 87/88 Home Retro Jersey S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259451724?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259451724?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Premier League",
@@ -333682,7 +333682,7 @@
       ],
       "coverUrl": "./assets/products/minkang/259451724/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:35.255Z"
+      "updatedAt": "2026-10-24T19:45:46.025Z"
     },
     {
       "source": "minkang",
@@ -344198,11 +344198,11 @@
       "sourceId": "259451760",
       "uniqueKey": "minkang:259451760",
       "title": "Inter Milan 26/27 Third Away Kids Kit Jersey Size 16-282",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259451760?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259451760?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Serie A",
@@ -344220,7 +344220,7 @@
       ],
       "coverUrl": "./assets/products/minkang/259451760/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:34.988Z"
+      "updatedAt": "2026-10-24T19:46:20.179Z"
     },
     {
       "source": "minkang",
@@ -347737,11 +347737,11 @@
       "sourceId": "258143847",
       "uniqueKey": "minkang:258143847",
       "title": "LOSC Lille 26/27 Away Jersey S-4XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258143847?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258143847?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -347757,7 +347757,7 @@
       ],
       "coverUrl": "./assets/products/minkang/258143847/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:13:09.268Z"
+      "updatedAt": "2026-10-24T19:47:17.336Z"
     },
     {
       "source": "minkang",
@@ -347765,11 +347765,11 @@
       "sourceId": "258143876",
       "uniqueKey": "minkang:258143876",
       "title": "LOSC Lille 26/27 Hoem Jersey S-4XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258143876?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258143876?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -347785,7 +347785,7 @@
       ],
       "coverUrl": "./assets/products/minkang/258143876/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:57.911Z"
+      "updatedAt": "2026-10-24T19:47:17.336Z"
     },
     {
       "source": "minkang",
@@ -349126,11 +349126,11 @@
       "sourceId": "259116358",
       "uniqueKey": "minkang:259116358",
       "title": "Manchester City 26/27 Third Kids Kit Size 16-282",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259116358?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259116358?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Premier League",
@@ -349148,7 +349148,7 @@
       ],
       "coverUrl": "./assets/products/minkang/259116358/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:40.115Z"
+      "updatedAt": "2026-10-24T19:46:20.180Z"
     },
     {
       "source": "minkang",
@@ -351231,11 +351231,11 @@
       "sourceId": "259451803",
       "uniqueKey": "minkang:259451803",
       "title": "Napoli 26/27 Black Special Edition Jersey S-4XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259451803?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259451803?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Serie A",
@@ -351253,7 +351253,7 @@
       ],
       "coverUrl": "./assets/products/minkang/259451803/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:34.722Z"
+      "updatedAt": "2026-10-24T19:46:54.503Z"
     },
     {
       "source": "minkang",
@@ -395462,11 +395462,11 @@
       "sourceId": "259116449",
       "uniqueKey": "minkang:259116449",
       "title": "Sporting CP 26/27 Black Goalkeeper Kids Kit Jersey Size 16-282",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259116449?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259116449?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Primeira Liga",
@@ -395485,7 +395485,7 @@
       ],
       "coverUrl": "./assets/products/minkang/259116449/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:39.579Z"
+      "updatedAt": "2026-10-24T19:46:20.180Z"
     },
     {
       "source": "minkang",
@@ -395641,11 +395641,11 @@
       "sourceId": "259116521",
       "uniqueKey": "minkang:259116521",
       "title": "Sporting CP 26/27 October Pink Kids Kit Jersey Size 16-282",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259116521?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259116521?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Primeira Liga",
@@ -395663,7 +395663,7 @@
       ],
       "coverUrl": "./assets/products/minkang/259116521/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:39.310Z"
+      "updatedAt": "2026-10-24T19:46:20.180Z"
     },
     {
       "source": "minkang",
@@ -397673,11 +397673,11 @@
       "sourceId": "259415921",
       "uniqueKey": "minkang:259415921",
       "title": "Tottenham Hotspur 26/27 Third Away Kids Kit Jersey Size 16-2811",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259415921?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259415921?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Premier League",
@@ -397695,7 +397695,7 @@
       ],
       "coverUrl": "./assets/products/minkang/259415921/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:37.700Z"
+      "updatedAt": "2026-10-24T19:46:20.180Z"
     },
     {
       "source": "minkang",
@@ -400182,11 +400182,11 @@
       "sourceId": "259451846",
       "uniqueKey": "minkang:259451846",
       "title": "Venezia FC 26/27 Home Long-Sleeve Jersey S-4XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259451846?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259451846?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Serie A",
@@ -400204,7 +400204,7 @@
       ],
       "coverUrl": "./assets/products/minkang/259451846/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:34.455Z"
+      "updatedAt": "2026-10-24T19:46:31.575Z"
     },
     {
       "source": "minkang",
@@ -501262,11 +501262,11 @@
       "sourceId": "259922368",
       "uniqueKey": "minkang:259922368",
       "title": "Argentina 2026 Blue and White Commemorative Edition Short Women's Jersey S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259922368?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259922368?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "WK & landenteams",
@@ -501285,7 +501285,7 @@
       ],
       "coverUrl": "./assets/products/minkang/259922368/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:33.893Z"
+      "updatedAt": "2026-10-24T19:46:08.533Z"
     },
     {
       "source": "minkang",
@@ -501293,11 +501293,11 @@
       "sourceId": "259922411",
       "uniqueKey": "minkang:259922411",
       "title": "Argentina 2026 Blue and White Commemorative Edition Women's Jersey S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259922411?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259922411?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "WK & landenteams",
@@ -501316,7 +501316,7 @@
       ],
       "coverUrl": "./assets/products/minkang/259922411/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:22.612Z"
+      "updatedAt": "2026-10-24T19:46:08.533Z"
     },
     {
       "source": "minkang",
@@ -501324,11 +501324,11 @@
       "sourceId": "259922452",
       "uniqueKey": "minkang:259922452",
       "title": "Argentina 2026 Blue Commemorative Edition Baseball Version Player Version Jersey S-XXL1",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259922452?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259922452?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "WK & landenteams",
@@ -501347,7 +501347,7 @@
       ],
       "coverUrl": "./assets/products/minkang/259922452/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:22.345Z"
+      "updatedAt": "2026-10-24T19:45:12.117Z"
     },
     {
       "source": "minkang",
@@ -501355,11 +501355,11 @@
       "sourceId": "259922479",
       "uniqueKey": "minkang:259922479",
       "title": "Argentina 2026 Blue Commemorative Edition Short Women's Jersey S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259922479?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259922479?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "WK & landenteams",
@@ -501378,7 +501378,7 @@
       ],
       "coverUrl": "./assets/products/minkang/259922479/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:22.036Z"
+      "updatedAt": "2026-10-24T19:46:08.533Z"
     },
     {
       "source": "minkang",
@@ -501565,11 +501565,11 @@
       "sourceId": "259922515",
       "uniqueKey": "minkang:259922515",
       "title": "Argentina 2026 Green Commemorative Edition Kids Kit Jersey Size 16-282",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259922515?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259922515?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "WK & landenteams",
@@ -501588,7 +501588,7 @@
       ],
       "coverUrl": "./assets/products/minkang/259922515/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:21.754Z"
+      "updatedAt": "2026-10-24T19:46:20.179Z"
     },
     {
       "source": "minkang",
@@ -501956,11 +501956,11 @@
       "sourceId": "259922557",
       "uniqueKey": "minkang:259922557",
       "title": "Argentina 2026 Navy Blue Commemorative Edition Short Women's Jersey S-4XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259922557?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259922557?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "WK & landenteams",
@@ -501979,7 +501979,7 @@
       ],
       "coverUrl": "./assets/products/minkang/259922557/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:21.115Z"
+      "updatedAt": "2026-10-24T19:45:57.271Z"
     },
     {
       "source": "minkang",
@@ -501987,11 +501987,11 @@
       "sourceId": "259922617",
       "uniqueKey": "minkang:259922617",
       "title": "Argentina 2026 Navy Blue Commemorative Edition Women's Jersey S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259922617?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259922617?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "WK & landenteams",
@@ -502010,7 +502010,7 @@
       ],
       "coverUrl": "./assets/products/minkang/259922617/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:20.499Z"
+      "updatedAt": "2026-10-24T19:46:08.533Z"
     },
     {
       "source": "minkang",
@@ -502080,11 +502080,11 @@
       "sourceId": "259922689",
       "uniqueKey": "minkang:259922689",
       "title": "Argentina 2026 Pink Commemorative Edition Short Women's Jersey S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259922689?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259922689?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "WK & landenteams",
@@ -502103,7 +502103,7 @@
       ],
       "coverUrl": "./assets/products/minkang/259922689/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:19.909Z"
+      "updatedAt": "2026-10-24T19:45:57.271Z"
     },
     {
       "source": "minkang",
@@ -507654,11 +507654,11 @@
       "sourceId": "259922960",
       "uniqueKey": "minkang:259922960",
       "title": "Brazil Yellow 1994 Reissue Retro Jersey S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259922960?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259922960?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "WK & landenteams",
@@ -507676,7 +507676,7 @@
       ],
       "coverUrl": "./assets/products/minkang/259922960/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:18.168Z"
+      "updatedAt": "2026-10-24T19:45:46.025Z"
     },
     {
       "source": "yema007",
@@ -533562,11 +533562,11 @@
       "sourceId": "258678986",
       "uniqueKey": "minkang:258678986",
       "title": "Spain 2026 Gold Special Edition Player Version Jersey S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258678986?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258678986?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "WK & landenteams",
@@ -533585,7 +533585,7 @@
       ],
       "coverUrl": "./assets/products/minkang/258678986/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:53.592Z"
+      "updatedAt": "2026-10-24T19:45:57.270Z"
     },
     {
       "source": "minkang",
@@ -536860,11 +536860,11 @@
       "sourceId": "258680544",
       "uniqueKey": "minkang:258680544",
       "title": "Universidad de Chile 26/27 Away Long-Sleeved Jersey S-4XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258680544?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258680544?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "WK & landenteams",
@@ -536880,7 +536880,7 @@
       ],
       "coverUrl": "./assets/products/minkang/258680544/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:52.767Z"
+      "updatedAt": "2026-10-24T19:46:42.936Z"
     },
     {
       "source": "minkang",
@@ -537234,11 +537234,11 @@
       "sourceId": "258680408",
       "uniqueKey": "minkang:258680408",
       "title": "Universidad de Chile 27/28 Home Jersey S-4XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258680408?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258680408?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "WK & landenteams",
@@ -537254,7 +537254,7 @@
       ],
       "coverUrl": "./assets/products/minkang/258680408/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:53.035Z"
+      "updatedAt": "2026-10-24T19:47:50.786Z"
     },
     {
       "source": "minkang",
@@ -631654,16 +631654,16 @@
       "sourceId": "258663633",
       "uniqueKey": "minkang:258663633",
       "title": "AC Monza 26/27 Away Jersey S-4XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258663633?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258663633?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Overige voetbalproducten",
-      "subcategory": "other",
+      "subcategory": "KANG Team Official ✅",
       "country": "Overig",
-      "competition": "other",
+      "competition": "KANG Team Official ✅",
       "club": "AC Monza",
       "types": [],
       "images": [
@@ -631674,7 +631674,7 @@
       ],
       "coverUrl": "./assets/products/minkang/258663633/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:55.485Z"
+      "updatedAt": "2026-10-24T19:46:54.503Z"
     },
     {
       "source": "minkang",
@@ -631856,16 +631856,16 @@
       "sourceId": "258664368",
       "uniqueKey": "minkang:258664368",
       "title": "AFC Richmond 26/27 Third Away Jersey S-4XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258664368?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258664368?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Overige voetbalproducten",
-      "subcategory": "other",
+      "subcategory": "KANG Team Official ✅",
       "country": "Overig",
-      "competition": "other",
+      "competition": "KANG Team Official ✅",
       "club": "AFC Richmond",
       "types": [],
       "images": [
@@ -631876,7 +631876,7 @@
       ],
       "coverUrl": "./assets/products/minkang/258664368/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:55.216Z"
+      "updatedAt": "2026-10-24T19:46:42.936Z"
     },
     {
       "source": "minkang",
@@ -631972,16 +631972,16 @@
       "sourceId": "258844321",
       "uniqueKey": "minkang:258844321",
       "title": "Al Ahli 26/27 Green Special Edition Player Version Retro Jersey S-4XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258844321?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258844321?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Overige voetbalproducten",
-      "subcategory": "other",
+      "subcategory": "KANG Team Official ✅",
       "country": "Overig",
-      "competition": "other",
+      "competition": "KANG Team Official ✅",
       "club": "Al Ahli",
       "types": [
         "Retro",
@@ -631996,7 +631996,7 @@
       ],
       "coverUrl": "./assets/products/minkang/258844321/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:51.965Z"
+      "updatedAt": "2026-10-24T19:45:57.270Z"
     },
     {
       "source": "minkang",
@@ -632096,16 +632096,16 @@
       "sourceId": "258844466",
       "uniqueKey": "minkang:258844466",
       "title": "Al Nassr 2026 Yellow Special Edition Player Version Polo Jersey S-4XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258844466?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258844466?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Overige voetbalproducten",
-      "subcategory": "other",
+      "subcategory": "KANG Team Official ✅",
       "country": "Overig",
-      "competition": "other",
+      "competition": "KANG Team Official ✅",
       "club": "Al Nassr",
       "types": [
         "Player version",
@@ -632119,7 +632119,7 @@
       ],
       "coverUrl": "./assets/products/minkang/258844466/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:51.692Z"
+      "updatedAt": "2026-10-24T19:45:57.270Z"
     },
     {
       "source": "minkang",
@@ -634194,16 +634194,16 @@
       "sourceId": "258664480",
       "uniqueKey": "minkang:258664480",
       "title": "Aris Thessaloniki 98/99 Third Away Retro Jersey S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258664480?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258664480?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Overige voetbalproducten",
-      "subcategory": "other",
+      "subcategory": "KANG Team Official ✅",
       "country": "Overig",
-      "competition": "other",
+      "competition": "KANG Team Official ✅",
       "club": "Aris Thessaloniki",
       "types": [
         "Retro"
@@ -634216,7 +634216,7 @@
       ],
       "coverUrl": "./assets/products/minkang/258664480/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:54.946Z"
+      "updatedAt": "2026-10-24T19:45:46.026Z"
     },
     {
       "source": "minkang",
@@ -634693,16 +634693,16 @@
       "sourceId": "259558013",
       "uniqueKey": "minkang:259558013",
       "title": "Atlas 26/27 Black 110th Anniversary Edition Player Version Jersey S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259558013?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259558013?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Overige voetbalproducten",
-      "subcategory": "other",
+      "subcategory": "KANG Team Official ✅",
       "country": "Overig",
-      "competition": "other",
+      "competition": "KANG Team Official ✅",
       "club": "Atlas",
       "types": [
         "Player version",
@@ -634716,7 +634716,7 @@
       ],
       "coverUrl": "./assets/products/minkang/259558013/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:34.190Z"
+      "updatedAt": "2026-10-24T19:45:57.270Z"
     },
     {
       "source": "minkang",
@@ -635302,16 +635302,16 @@
       "sourceId": "259451370",
       "uniqueKey": "minkang:259451370",
       "title": "Belgrano 99/00 Home Retro Jersey S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259451370?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259451370?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Overige voetbalproducten",
-      "subcategory": "other",
+      "subcategory": "KANG Team Official ✅",
       "country": "Overig",
-      "competition": "other",
+      "competition": "KANG Team Official ✅",
       "club": "Belgrano",
       "types": [
         "Retro"
@@ -635324,7 +635324,7 @@
       ],
       "coverUrl": "./assets/products/minkang/259451370/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:37.432Z"
+      "updatedAt": "2026-10-24T19:45:46.025Z"
     },
     {
       "source": "minkang",
@@ -640411,16 +640411,16 @@
       "sourceId": "259451524",
       "uniqueKey": "minkang:259451524",
       "title": "Chivas de Guadalajara 26/27 Third Away Jersey S-6XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259451524?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259451524?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Overige voetbalproducten",
-      "subcategory": "other",
+      "subcategory": "KANG Team Official ✅",
       "country": "Overig",
-      "competition": "other",
+      "competition": "KANG Team Official ✅",
       "club": "Chivas de Guadalajara",
       "types": [],
       "images": [
@@ -640431,7 +640431,7 @@
       ],
       "coverUrl": "./assets/products/minkang/259451524/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:36.622Z"
+      "updatedAt": "2026-10-24T19:48:13.612Z"
     },
     {
       "source": "minkang",
@@ -640499,16 +640499,16 @@
       "sourceId": "259451568",
       "uniqueKey": "minkang:259451568",
       "title": "Chivas de Guadalajara 26/27 Third Away Player Version Jersey S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259451568?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259451568?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Overige voetbalproducten",
-      "subcategory": "other",
+      "subcategory": "KANG Team Official ✅",
       "country": "Overig",
-      "competition": "other",
+      "competition": "KANG Team Official ✅",
       "club": "Chivas de Guadalajara",
       "types": [
         "Player version"
@@ -640521,7 +640521,7 @@
       ],
       "coverUrl": "./assets/products/minkang/259451568/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:36.352Z"
+      "updatedAt": "2026-10-24T19:45:57.270Z"
     },
     {
       "source": "minkang",
@@ -641774,16 +641774,16 @@
       "sourceId": "259451616",
       "uniqueKey": "minkang:259451616",
       "title": "Club America 26/27 Yellow 110th Anniversary Edition Kids Kit Jersey Size 16-282",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259451616?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259451616?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Overige voetbalproducten",
-      "subcategory": "other",
+      "subcategory": "KANG Team Official ✅",
       "country": "Overig",
-      "competition": "other",
+      "competition": "KANG Team Official ✅",
       "club": "Club America",
       "types": [
         "Kids",
@@ -641797,7 +641797,7 @@
       ],
       "coverUrl": "./assets/products/minkang/259451616/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:36.080Z"
+      "updatedAt": "2026-10-24T19:46:20.180Z"
     },
     {
       "source": "minkang",
@@ -646505,16 +646505,16 @@
       "sourceId": "258844836",
       "uniqueKey": "minkang:258844836",
       "title": "Dinamo Bucarest 26/27 Third  Away Jersey S-4XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258844836?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258844836?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Overige voetbalproducten",
-      "subcategory": "other",
+      "subcategory": "KANG Team Official ✅",
       "country": "Overig",
-      "competition": "other",
+      "competition": "KANG Team Official ✅",
       "club": "Dinamo Bucarest",
       "types": [],
       "images": [
@@ -646525,7 +646525,7 @@
       ],
       "coverUrl": "./assets/products/minkang/258844836/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:51.389Z"
+      "updatedAt": "2026-10-24T19:46:08.533Z"
     },
     {
       "source": "popmo",
@@ -651056,16 +651056,16 @@
       "sourceId": "258675643",
       "uniqueKey": "minkang:258675643",
       "title": "Hertha BSC 09/10 Home Retro Jersey S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258675643?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258675643?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Overige voetbalproducten",
-      "subcategory": "other",
+      "subcategory": "KANG Team Official ✅",
       "country": "Overig",
-      "competition": "other",
+      "competition": "KANG Team Official ✅",
       "club": "Hertha BSC",
       "types": [
         "Retro"
@@ -651078,7 +651078,7 @@
       ],
       "coverUrl": "./assets/products/minkang/258675643/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:54.668Z"
+      "updatedAt": "2026-10-24T19:45:46.026Z"
     },
     {
       "source": "popmo",
@@ -653576,16 +653576,16 @@
       "sourceId": "258143768",
       "uniqueKey": "minkang:258143768",
       "title": "Joma FC Juárez 26/27 Home Player Version Jersey S-3XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258143768?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258143768?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Overige voetbalproducten",
-      "subcategory": "other",
+      "subcategory": "KANG Team Official ✅",
       "country": "Overig",
-      "competition": "other",
+      "competition": "KANG Team Official ✅",
       "club": "Joma FC Juárez",
       "types": [
         "Player version"
@@ -653598,7 +653598,7 @@
       ],
       "coverUrl": "./assets/products/minkang/258143768/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:13:09.539Z"
+      "updatedAt": "2026-10-24T19:45:57.271Z"
     },
     {
       "source": "minkang",
@@ -667643,16 +667643,16 @@
       "sourceId": "258147081",
       "uniqueKey": "minkang:258147081",
       "title": "Pachuca 26/27 Away Player Version Jersey S-3XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258147081?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258147081?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Overige voetbalproducten",
-      "subcategory": "other",
+      "subcategory": "KANG Team Official ✅",
       "country": "Overig",
-      "competition": "other",
+      "competition": "KANG Team Official ✅",
       "club": "Pachuca",
       "types": [
         "Player version"
@@ -667665,7 +667665,7 @@
       ],
       "coverUrl": "./assets/products/minkang/258147081/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:57.374Z"
+      "updatedAt": "2026-10-24T19:45:57.270Z"
     },
     {
       "source": "minkang",
@@ -667673,16 +667673,16 @@
       "sourceId": "258144295",
       "uniqueKey": "minkang:258144295",
       "title": "Pachuca 26/27 Home Jersey S-4XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258144295?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258144295?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Overige voetbalproducten",
-      "subcategory": "other",
+      "subcategory": "KANG Team Official ✅",
       "country": "Overig",
-      "competition": "other",
+      "competition": "KANG Team Official ✅",
       "club": "Pachuca",
       "types": [],
       "images": [
@@ -667693,7 +667693,7 @@
       ],
       "coverUrl": "./assets/products/minkang/258144295/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:57.642Z"
+      "updatedAt": "2026-10-24T19:48:13.612Z"
     },
     {
       "source": "minkang",
@@ -672970,16 +672970,16 @@
       "sourceId": "258677080",
       "uniqueKey": "minkang:258677080",
       "title": "River Plate 26/27 EQT White Retro Jersey S-4XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258677080?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258677080?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Overige voetbalproducten",
-      "subcategory": "other",
+      "subcategory": "KANG Team Official ✅",
       "country": "Overig",
-      "competition": "other",
+      "competition": "KANG Team Official ✅",
       "club": "River Plate",
       "types": [
         "Retro"
@@ -672992,7 +672992,7 @@
       ],
       "coverUrl": "./assets/products/minkang/258677080/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:54.131Z"
+      "updatedAt": "2026-10-24T19:45:46.026Z"
     },
     {
       "source": "minkang",
@@ -677619,16 +677619,16 @@
       "sourceId": "258583957",
       "uniqueKey": "minkang:258583957",
       "title": "Stade Brestois 29 26/27 Third Away Jersey S-4XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258583957?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258583957?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Overige voetbalproducten",
-      "subcategory": "other",
+      "subcategory": "KANG Team Official ✅",
       "country": "Overig",
-      "competition": "other",
+      "competition": "KANG Team Official ✅",
       "club": "Stade Brestois 29",
       "types": [],
       "images": [
@@ -677639,7 +677639,7 @@
       ],
       "coverUrl": "./assets/products/minkang/258583957/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:55.753Z"
+      "updatedAt": "2026-10-24T19:47:17.335Z"
     },
     {
       "source": "minkang",
@@ -678837,16 +678837,16 @@
       "sourceId": "258679031",
       "uniqueKey": "minkang:258679031",
       "title": "Tigres UANL 26/27 Third Away Player Version Jersey S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258679031?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258679031?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Overige voetbalproducten",
-      "subcategory": "other",
+      "subcategory": "KANG Team Official ✅",
       "country": "Overig",
-      "competition": "other",
+      "competition": "KANG Team Official ✅",
       "club": "Tigres UANL",
       "types": [
         "Player version"
@@ -678859,7 +678859,7 @@
       ],
       "coverUrl": "./assets/products/minkang/258679031/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:53.315Z"
+      "updatedAt": "2026-10-24T19:45:57.270Z"
     },
     {
       "source": "minkang",
@@ -679393,16 +679393,16 @@
       "sourceId": "258150405",
       "uniqueKey": "minkang:258150405",
       "title": "Trabzonspor 94/95 Third Away Retro Jersey S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258150405?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258150405?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Overige voetbalproducten",
-      "subcategory": "other",
+      "subcategory": "KANG Team Official ✅",
       "country": "Overig",
-      "competition": "other",
+      "competition": "KANG Team Official ✅",
       "club": "Trabzonspor",
       "types": [
         "Retro"
@@ -679415,7 +679415,7 @@
       ],
       "coverUrl": "./assets/products/minkang/258150405/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:57.102Z"
+      "updatedAt": "2026-10-24T19:46:08.533Z"
     },
     {
       "source": "minkang",
@@ -679423,16 +679423,16 @@
       "sourceId": "258150455",
       "uniqueKey": "minkang:258150455",
       "title": "Trabzonspor 98/99 Home Retro Jersey S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258150455?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258150455?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Overige voetbalproducten",
-      "subcategory": "other",
+      "subcategory": "KANG Team Official ✅",
       "country": "Overig",
-      "competition": "other",
+      "competition": "KANG Team Official ✅",
       "club": "Trabzonspor",
       "types": [
         "Retro"
@@ -679445,7 +679445,7 @@
       ],
       "coverUrl": "./assets/products/minkang/258150455/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:56.832Z"
+      "updatedAt": "2026-10-24T19:46:08.533Z"
     },
     {
       "source": "minkang",
@@ -681215,16 +681215,16 @@
       "sourceId": "258150618",
       "uniqueKey": "minkang:258150618",
       "title": "Vélez Sarsfield 96/97 Home Retro Jersey S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258150618?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258150618?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Overige voetbalproducten",
-      "subcategory": "other",
+      "subcategory": "KANG Team Official ✅",
       "country": "Overig",
-      "competition": "other",
+      "competition": "KANG Team Official ✅",
       "club": "Vélez Sarsfield",
       "types": [
         "Retro"
@@ -681237,7 +681237,7 @@
       ],
       "coverUrl": "./assets/products/minkang/258150618/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:56.560Z"
+      "updatedAt": "2026-10-24T19:46:08.533Z"
     },
     {
       "source": "minkang",
@@ -681245,16 +681245,16 @@
       "sourceId": "258150981",
       "uniqueKey": "minkang:258150981",
       "title": "Vélez Sarsfield 97/98 Home Retro Jersey S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258150981?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258150981?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Overige voetbalproducten",
-      "subcategory": "other",
+      "subcategory": "KANG Team Official ✅",
       "country": "Overig",
-      "competition": "other",
+      "competition": "KANG Team Official ✅",
       "club": "Vélez Sarsfield",
       "types": [
         "Retro"
@@ -681267,7 +681267,7 @@
       ],
       "coverUrl": "./assets/products/minkang/258150981/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:56.291Z"
+      "updatedAt": "2026-10-24T19:46:08.533Z"
     },
     {
       "source": "minkang",
@@ -681275,16 +681275,16 @@
       "sourceId": "258151252",
       "uniqueKey": "minkang:258151252",
       "title": "Vélez Sarsfield 98/99 Home Retro Jersey S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258151252?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258151252?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Overige voetbalproducten",
-      "subcategory": "other",
+      "subcategory": "KANG Team Official ✅",
       "country": "Overig",
-      "competition": "other",
+      "competition": "KANG Team Official ✅",
       "club": "Vélez Sarsfield",
       "types": [
         "Retro"
@@ -681297,37 +681297,7 @@
       ],
       "coverUrl": "./assets/products/minkang/258151252/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:56.021Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "257640420",
-      "uniqueKey": "minkang:257640420",
-      "title": "Vélez Sársfield 98/99 Home Retro Jersey S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/257640420?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Vélez Sársfield",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/257640420/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/04f7038966/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/257640420/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-24T00:13:06.083Z"
+      "updatedAt": "2026-10-24T19:45:46.026Z"
     },
     {
       "source": "yema007",
@@ -681885,16 +681855,16 @@
       "sourceId": "258680611",
       "uniqueKey": "minkang:258680611",
       "title": "West Bromwich Albion 02/03 Retro Home Jersey S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258680611?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "other",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258680611?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
       "section": "Voetbal",
       "category": "Overige voetbalproducten",
-      "subcategory": "other",
+      "subcategory": "KANG Team Official ✅",
       "country": "Overig",
-      "competition": "other",
+      "competition": "KANG Team Official ✅",
       "club": "West Bromwich Albion",
       "types": [
         "Retro"
@@ -681907,7 +681877,7 @@
       ],
       "coverUrl": "./assets/products/minkang/258680611/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-23T23:12:52.500Z"
+      "updatedAt": "2026-10-24T19:45:46.025Z"
     },
     {
       "source": "minkang",
