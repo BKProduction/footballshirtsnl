@@ -1,20 +1,20 @@
 {
-  "lastSync": "2026-10-24T20:54:47.523Z",
+  "lastSync": "2026-10-24T20:59:49.724Z",
   "syncState": {
     "status": "in-progress",
-    "label": "yema007 325/14191",
+    "label": "yema007 975/14191",
     "batchSize": 25,
     "maxImages": 1
   },
   "stats": {
     "discovered": 21655,
-    "added": 197,
+    "added": 209,
     "changed": 86,
-    "unchanged": 7501,
+    "unchanged": 8132,
     "repaired": 0,
-    "skipped": 5,
-    "duplicatesRemoved": 197,
-    "batchesSaved": 311
+    "skipped": 12,
+    "duplicatesRemoved": 209,
+    "batchesSaved": 337
   },
   "sources": [
     {
