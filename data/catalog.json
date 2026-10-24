@@ -1,20 +1,20 @@
 {
-  "lastSync": "2026-10-24T04:39:07.504Z",
+  "lastSync": "2026-10-24T04:43:44.695Z",
   "syncState": {
     "status": "in-progress",
-    "label": "yema007 12725/14191",
+    "label": "yema007 12875/14191",
     "batchSize": 25,
     "maxImages": 1
   },
   "stats": {
     "discovered": 21654,
-    "added": 19479,
+    "added": 19629,
     "changed": 695,
     "unchanged": 0,
     "repaired": 0,
     "skipped": 14,
-    "duplicatesRemoved": 373,
-    "batchesSaved": 807
+    "duplicatesRemoved": 374,
+    "batchesSaved": 813
   },
   "sources": [
     {
@@ -33,7 +33,7 @@
       "priority": 3
     }
   ],
-  "total": 19806,
+  "total": 19955,
   "sections": [
     "Nog te categoriseren",
     "Overige producten",
@@ -152,6 +152,7 @@
     "Racing 阿根廷竞技",
     "Rangers 流浪者",
     "RB Leipzig 莱比锡红牛",
+    "Real Betis 贝蒂斯",
     "Real Madrid 皇马",
     "Recife 累西腓",
     "Remo",
@@ -21602,6 +21603,36 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237487999",
+      "uniqueKey": "yema007:237487999",
+      "title": "00-01 Retro Real Betis Home S-XXL8",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237487999?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237487999/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/4319ba8bcb/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237487999/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:42:46.735Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237384021",
       "uniqueKey": "yema007:237384021",
       "title": "00-01 Roma away white10",
@@ -22323,6 +22354,34 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237481199",
+      "uniqueKey": "yema007:237481199",
+      "title": "01-02 Real Betis home9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237481199?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237481199/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/a5570edf91/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237481199/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:42:48.758Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237626210",
       "uniqueKey": "yema007:237626210",
       "title": "01-02 Real Madrid Away Retro Kit Vintage Shirt David Jersey Wholesale9",
@@ -22754,6 +22813,34 @@
       "coverUrl": "./assets/products/yema007/237683180/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T04:37:17.331Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237479083",
+      "uniqueKey": "yema007:237479083",
+      "title": "02-03 Atletico Madrid Centennial11",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237479083?uid=1&isSubCate=true&referrercate=876814",
+      "categoryId": "876814",
+      "collectionId": "876814",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Atletico Madrid 马竞",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Atlético Madrid",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237479083/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/89e87f6e41/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237479083/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:39:41.251Z"
     },
     {
       "source": "yema007",
@@ -24194,6 +24281,34 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237481074",
+      "uniqueKey": "yema007:237481074",
+      "title": "03-04 Real Betis home9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237481074?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237481074/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/b452dd9d4c/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237481074/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:42:49.377Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237600723",
       "uniqueKey": "yema007:237600723",
       "title": "03-04 Real Madrid Away Retro Kit Vintage Shirt David Jersey Dropship7",
@@ -24602,6 +24717,36 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237478913",
+      "uniqueKey": "yema007:237478913",
+      "title": "04-05 Atletico Madrid Away Kit Retro Football Vintage Uniform David Jersey Supply9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237478913?uid=1&isSubCate=true&referrercate=876814",
+      "categoryId": "876814",
+      "collectionId": "876814",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Atletico Madrid 马竞",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Atlético Madrid",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237478913/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/9596a0ade3/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237478913/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:39:42.568Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237551379",
       "uniqueKey": "yema007:237551379",
       "title": "04-05 Atletico Madrid Away Retro Kid Kits Youth Apparels Soccer David Jersey2",
@@ -24660,6 +24805,36 @@
       "coverUrl": "./assets/products/yema007/237551312/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T04:38:48.376Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237479268",
+      "uniqueKey": "yema007:237479268",
+      "title": "04-05 Atletico Madrid Home Kit Retro Football Vintage Uniform David Jersey Supply13",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237479268?uid=1&isSubCate=true&referrercate=876814",
+      "categoryId": "876814",
+      "collectionId": "876814",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Atletico Madrid 马竞",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Atlético Madrid",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237479268/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/a7af6102be/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237479268/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:39:40.654Z"
     },
     {
       "source": "yema007",
@@ -31898,6 +32073,36 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237793494",
+      "uniqueKey": "yema007:237793494",
+      "title": "11-12 Alaves Mens Home Retro Kit Vintage Soccer T-Shirt David Jersey Supply5",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237793494?uid=1&isSubCate=true&referrercate=876816",
+      "categoryId": "876816",
+      "collectionId": "876816",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Alaves 阿拉维斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Alavés",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237793494/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/6463be660c/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237793494/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:43:34.530Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237704077",
       "uniqueKey": "yema007:237704077",
       "title": "11-12 Arsenal Away Retro Kit Vintage Player Version Sino Shirt David Jersey Supply7",
@@ -32844,6 +33049,36 @@
       "coverUrl": "./assets/products/yema007/239335591/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T02:43:31.241Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237539081",
+      "uniqueKey": "yema007:237539081",
+      "title": "11-12 Real Betis Home Retro Kit Vintage Shirt David Jersey Supplier6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237539081?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237539081/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/201c713f9f/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237539081/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:42:09.979Z"
     },
     {
       "source": "yema007",
@@ -35240,6 +35475,62 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237479391",
+      "uniqueKey": "yema007:237479391",
+      "title": "13-14 Atletico Madrid home9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237479391?uid=1&isSubCate=true&referrercate=876814",
+      "categoryId": "876814",
+      "collectionId": "876814",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Atletico Madrid 马竞",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Atlético Madrid",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237479391/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/fcc1a94219/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237479391/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:39:39.886Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237479515",
+      "uniqueKey": "yema007:237479515",
+      "title": "13-14 Atletico Madrid yellow away17",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237479515?uid=1&isSubCate=true&referrercate=876814",
+      "categoryId": "876814",
+      "collectionId": "876814",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Atletico Madrid 马竞",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Atlético Madrid",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237479515/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/299ec12b4a/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237479515/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:39:39.214Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237379460",
       "uniqueKey": "yema007:237379460",
       "title": "13-14 Atletico Mineiro home11",
@@ -36360,6 +36651,34 @@
       "coverUrl": "./assets/products/yema007/237549746/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T01:26:01.344Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237479662",
+      "uniqueKey": "yema007:237479662",
+      "title": "14-15 Atletico Madrid home10",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237479662?uid=1&isSubCate=true&referrercate=876814",
+      "categoryId": "876814",
+      "collectionId": "876814",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Atletico Madrid 马竞",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Atlético Madrid",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237479662/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/41671358b7/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237479662/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:39:38.638Z"
     },
     {
       "source": "yema007",
@@ -39813,6 +40132,34 @@
       "coverUrl": "./assets/products/yema007/237384197/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T02:00:26.902Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237479809",
+      "uniqueKey": "yema007:237479809",
+      "title": "18-19 Atletico Madrid home vapormatch9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237479809?uid=1&isSubCate=true&referrercate=876814",
+      "categoryId": "876814",
+      "collectionId": "876814",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Atletico Madrid 马竞",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Atlético Madrid",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237479809/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/a437d0a3fb/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237479809/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:39:38.031Z"
     },
     {
       "source": "yema007",
@@ -50643,6 +50990,62 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237677278",
+      "uniqueKey": "yema007:237677278",
+      "title": "22-23 Alaves home11",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237677278?uid=1&isSubCate=true&referrercate=876816",
+      "categoryId": "876816",
+      "collectionId": "876816",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Alaves 阿拉维斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Alavés",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237677278/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/a5c3b094d0/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237677278/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:43:39.629Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237677719",
+      "uniqueKey": "yema007:237677719",
+      "title": "22-23 Alaves third away11",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237677719?uid=1&isSubCate=true&referrercate=876816",
+      "categoryId": "876816",
+      "collectionId": "876816",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Alaves 阿拉维斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Alavés",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237677719/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/278036e7d1/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237677719/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:43:38.567Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237591310",
       "uniqueKey": "yema007:237591310",
       "title": "22-23 Arsenal away | 414",
@@ -59975,6 +60378,351 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237632142",
+      "uniqueKey": "yema007:237632142",
+      "title": "22-23 Real Betis away12",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237632142?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237632142/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/549da2fa64/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237632142/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:41:52.562Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237628738",
+      "uniqueKey": "yema007:237628738",
+      "title": "22-23 Real Betis Copa del Rey Edition7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237628738?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237628738/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/375bba413c/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237628738/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:41:57.868Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237505097",
+      "uniqueKey": "yema007:237505097",
+      "title": "22-23 Real Betis Cup version home kids kit2",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237505097?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Kids"
+      ],
+      "images": [
+        "./assets/products/yema007/237505097/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/18a5276143/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237505097/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:42:35.711Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237629090",
+      "uniqueKey": "yema007:237629090",
+      "title": "22-23 Real Betis four away9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237629090?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237629090/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/cb6af115e2/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237629090/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:41:56.690Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237629364",
+      "uniqueKey": "yema007:237629364",
+      "title": "22-23 Real Betis green special edition15",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237629364?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/yema007/237629364/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/e097f774af/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237629364/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:41:56.075Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237632600",
+      "uniqueKey": "yema007:237632600",
+      "title": "22-23 Real Betis home11",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237632600?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237632600/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/78cb0d0dbe/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237632600/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:41:32.994Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237629637",
+      "uniqueKey": "yema007:237629637",
+      "title": "22-23 Real Betis home2",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237629637?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237629637/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/bf4008ca48/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237629637/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:41:55.373Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237483539",
+      "uniqueKey": "yema007:237483539",
+      "title": "22-23 Real Betis King Cup version home player version9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237483539?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237483539/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/bf330c4e89/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237483539/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:42:48.154Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237630184",
+      "uniqueKey": "yema007:237630184",
+      "title": "22-23 Real Betis King Cup version home15",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237630184?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237630184/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/389fd7684f/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237630184/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:41:54.567Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237630830",
+      "uniqueKey": "yema007:237630830",
+      "title": "22-23 Real Betis special edition green9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237630830?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/yema007/237630830/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/2e0e3f8680/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237630830/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:41:53.887Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237505196",
+      "uniqueKey": "yema007:237505196",
+      "title": "22-23 Real Betis special edition kids kit10",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237505196?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Kids",
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/yema007/237505196/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/8dcdfdc6ed/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237505196/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:42:34.846Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237631649",
+      "uniqueKey": "yema007:237631649",
+      "title": "22-23 Real Betis third away7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237631649?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237631649/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/dc6d175c5d/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237631649/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:41:53.287Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237515655",
       "uniqueKey": "yema007:237515655",
       "title": "22-23 Real Madrid 9#BENZEMA Golden commemorative number6",
@@ -67402,6 +68150,64 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237195780",
+      "uniqueKey": "yema007:237195780",
+      "title": "23-24 Atletico Madrid 120th Anniversary S-4XL best soccer jersey15",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237195780?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Atlético Madrid",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/yema007/237195780/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/5eaf896b97/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237195780/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:40:32.679Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237483435",
+      "uniqueKey": "yema007:237483435",
+      "title": "23-24 Atletico Madrid away player version10",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237483435?uid=1&isSubCate=true&referrercate=876814",
+      "categoryId": "876814",
+      "collectionId": "876814",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Atletico Madrid 马竞",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Atlético Madrid",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237483435/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/9d2b859cd0/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237483435/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:39:36.072Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237621511",
       "uniqueKey": "yema007:237621511",
       "title": "23-24 Atletico Madrid away9",
@@ -67426,6 +68232,90 @@
       "coverUrl": "./assets/products/yema007/237621511/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T04:38:16.589Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237225609",
+      "uniqueKey": "yema007:237225609",
+      "title": "23-24 Atletico Madrid Blue S-XXL Cheap Soccer Jerseys6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237225609?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Atlético Madrid",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237225609/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/6c5e9ec3a2/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237225609/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:40:30.969Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237483257",
+      "uniqueKey": "yema007:237483257",
+      "title": "23-24 Atletico Madrid home player version9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237483257?uid=1&isSubCate=true&referrercate=876814",
+      "categoryId": "876814",
+      "collectionId": "876814",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Atletico Madrid 马竞",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Atlético Madrid",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237483257/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/636c2edba6/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237483257/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:39:37.263Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237225614",
+      "uniqueKey": "yema007:237225614",
+      "title": "23-24 Atletico Madrid Home S-4XL Cheap Football Kit6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237225614?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Atlético Madrid",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237225614/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/37252ae69d/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237225614/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:40:30.292Z"
     },
     {
       "source": "yema007",
@@ -67580,6 +68470,68 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237230222",
+      "uniqueKey": "yema007:237230222",
+      "title": "23-24 Atletico Madrid Long Sleeve Green Zipper Training Suits Jersey Supplier4",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237230222?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Atlético Madrid",
+      "types": [
+        "Training",
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/yema007/237230222/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/259865f147/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237230222/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:40:25.431Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237230232",
+      "uniqueKey": "yema007:237230232",
+      "title": "23-24 Atletico Madrid Long Sleeve Kits Zipper Training Suits Jersey Supplier4",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237230232?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Atlético Madrid",
+      "types": [
+        "Training",
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/yema007/237230232/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/7b76faf483/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237230232/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:40:24.194Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237514036",
       "uniqueKey": "yema007:237514036",
       "title": "23-24 Atletico Madrid Long Sleeve Training Suit (1)2",
@@ -67704,6 +68656,90 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237225624",
+      "uniqueKey": "yema007:237225624",
+      "title": "23-24 Atletico Madrid Red S-XXL Cheap Soccer Jerseys6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237225624?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Atlético Madrid",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237225624/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/0a910025e8/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237225624/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:40:29.580Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237195808",
+      "uniqueKey": "yema007:237195808",
+      "title": "23-24 Atletico Madrid third away S-4XL best soccer jersey9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237195808?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Atlético Madrid",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237195808/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/36526e97c8/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237195808/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:40:31.601Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237225635",
+      "uniqueKey": "yema007:237225635",
+      "title": "23-24 Atletico Madrid Third Away S-4XL Cheap Soccer Jerseys6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237225635?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Atlético Madrid",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237225635/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/49fed37ceb/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237225635/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:40:28.752Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237627333",
       "uniqueKey": "yema007:237627333",
       "title": "23-24 Atletico Madrid Training Soccer Jerseys (1)3",
@@ -67760,6 +68796,66 @@
       "coverUrl": "./assets/products/yema007/237629431/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T04:38:10.381Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237194362",
+      "uniqueKey": "yema007:237194362",
+      "title": "23-24 Atletico Madrid Training Vest Kit S-XXL Soccer Jerseys | 33",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237194362?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Atlético Madrid",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/yema007/237194362/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/fd5cae2ac0/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237194362/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:40:34.234Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237194366",
+      "uniqueKey": "yema007:237194366",
+      "title": "23-24 Atletico Madrid Training Vest Kit S-XXL Soccer Jerseys3",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237194366?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Atlético Madrid",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/yema007/237194366/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/1bbf0a15cf/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237194366/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:40:33.563Z"
     },
     {
       "source": "yema007",
@@ -77709,6 +78805,66 @@
       "coverUrl": "./assets/products/yema007/237226719/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T02:01:01.392Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237226025",
+      "uniqueKey": "yema007:237226025",
+      "title": "23-24 Kids Atletico Madrid home size 16-28 Cheap Football Kit11",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237226025?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Atlético Madrid",
+      "types": [
+        "Kids"
+      ],
+      "images": [
+        "./assets/products/yema007/237226025/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/80b185bc00/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237226025/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:40:27.905Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237226728",
+      "uniqueKey": "yema007:237226728",
+      "title": "23-24 Kids Atletico Madrid Third Kits Size 16-286",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237226728?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Atlético Madrid",
+      "types": [
+        "Kids"
+      ],
+      "images": [
+        "./assets/products/yema007/237226728/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/ca64f575b4/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237226728/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:40:26.805Z"
     },
     {
       "source": "yema007",
@@ -88949,6 +90105,65 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237188143",
+      "uniqueKey": "yema007:237188143",
+      "title": "23-24 Real Betis home13",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237188143?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237188143/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/5695dc92c3/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237188143/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:43:33.754Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237229372",
+      "uniqueKey": "yema007:237229372",
+      "title": "23-24 Real Betis Long Sleeve Tracksuit Blue Training Suits Football David Jersey4",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237229372?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Training",
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/yema007/237229372/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/a51d54c31e/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237229372/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:43:32.809Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237228680",
       "uniqueKey": "yema007:237228680",
       "title": "23-24 Real Madrid Adults And Kids Long Sleeve Kits Yellow Training Suits Cheap Jerseys3",
@@ -100020,6 +101235,120 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237467938",
+      "uniqueKey": "yema007:237467938",
+      "title": "24-25 Alaves Away Kid Kits Youth Apparels Soccer David Jersey9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237467938?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Alavés",
+      "types": [
+        "Kids"
+      ],
+      "images": [
+        "./assets/products/yema007/237467938/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/f859d66fd8/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237467938/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:43:40.905Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237366569",
+      "uniqueKey": "yema007:237366569",
+      "title": "24-25 Alaves Away Kit Football Wears Sport David Jersey7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237366569?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Alavés",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237366569/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/500e46304a/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237366569/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:43:42.371Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237366527",
+      "uniqueKey": "yema007:237366527",
+      "title": "24-25 Alaves Home Kit Football Wears Sport David Jersey7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237366527?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Alavés",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237366527/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/f6ddabaed8/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237366527/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:43:43.258Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237366485",
+      "uniqueKey": "yema007:237366485",
+      "title": "24-25 Alaves Third Kit Football Apparels Sport David Jersey7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237366485?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Alavés",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237366485/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/c83be4ab80/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237366485/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:43:43.886Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237352694",
       "uniqueKey": "yema007:237352694",
       "title": "24-25 Arsenal Away Kid Kits Youth Apparels David Jersey Wholesale12",
@@ -102843,6 +104172,211 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237379195",
+      "uniqueKey": "yema007:237379195",
+      "title": "24-25 Atletico Madrid Away Kid Kit Youth Apparels Football David Jersey7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237379195?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Atlético Madrid",
+      "types": [
+        "Kids"
+      ],
+      "images": [
+        "./assets/products/yema007/237379195/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/39bdc684f7/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237379195/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:39:47.702Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237238608",
+      "uniqueKey": "yema007:237238608",
+      "title": "24-25 Atletico Madrid Away Kit Player Version Shirt Football David Jersey Supplier6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237238608?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Atlético Madrid",
+      "types": [
+        "Player version"
+      ],
+      "images": [
+        "./assets/products/yema007/237238608/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/bac5b53536/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237238608/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:39:55.614Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237350460",
+      "uniqueKey": "yema007:237350460",
+      "title": "24-25 Atletico Madrid Away Kit Soccer Uniform David Jersey Dropshiping6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237350460?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Atlético Madrid",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237350460/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/89c7085948/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237350460/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:39:51.796Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237238625",
+      "uniqueKey": "yema007:237238625",
+      "title": "24-25 Atletico Madrid Home Kit Football David Jersey Supplier7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237238625?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Atlético Madrid",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237238625/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/1250233a93/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237238625/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:39:54.908Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237238640",
+      "uniqueKey": "yema007:237238640",
+      "title": "24-25 Atletico Madrid Home Kit Player Version Shirt Football David Jersey Supplier7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237238640?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Atlético Madrid",
+      "types": [
+        "Player version"
+      ],
+      "images": [
+        "./assets/products/yema007/237238640/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/7732fa3a4a/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237238640/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:39:54.097Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237366155",
+      "uniqueKey": "yema007:237366155",
+      "title": "24-25 Atletico Madrid Home Long Sleeve Kit Player Version Shirt6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237366155?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Atlético Madrid",
+      "types": [
+        "Lange mouw",
+        "Player version"
+      ],
+      "images": [
+        "./assets/products/yema007/237366155/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/238526d911/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237366155/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:39:50.309Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237375093",
+      "uniqueKey": "yema007:237375093",
+      "title": "24-25 Atletico Madrid Home Shorts Football Trousers Soccer David Jersey4",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237375093?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Atlético Madrid",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237375093/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/a8eacab0a1/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237375093/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:39:49.323Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237648048",
       "uniqueKey": "yema007:237648048",
       "title": "24-25 Atletico Madrid Kids Training Soccer Jerseys Football Shirts(1)2",
@@ -102901,6 +104435,68 @@
       "coverUrl": "./assets/products/yema007/237648863/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T04:37:43.419Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237237467",
+      "uniqueKey": "yema007:237237467",
+      "title": "24-25 Atletico Madrid Long Sleeve Tracksuit Navy Training Suits Soccer Jerseys3",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237237467?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Atlético Madrid",
+      "types": [
+        "Training",
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/yema007/237237467/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/7f9ed93910/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237237467/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:39:57.357Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237237480",
+      "uniqueKey": "yema007:237237480",
+      "title": "24-25 Atletico Madrid Long Sleeve Tracksuit Pink Training Suits Soccer Jerseys3",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237237480?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Atlético Madrid",
+      "types": [
+        "Training",
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/yema007/237237480/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/85b844a643/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237237480/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:39:56.258Z"
     },
     {
       "source": "yema007",
@@ -103181,6 +104777,94 @@
       "coverUrl": "./assets/products/yema007/237630929/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T04:38:09.038Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237385260",
+      "uniqueKey": "yema007:237385260",
+      "title": "24-25 Atletico Madrid Third Kid Kit Youth Apparels David Jersey Supplier10",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237385260?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Atlético Madrid",
+      "types": [
+        "Kids"
+      ],
+      "images": [
+        "./assets/products/yema007/237385260/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/d2363da0c9/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237385260/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:39:46.941Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237366116",
+      "uniqueKey": "yema007:237366116",
+      "title": "24-25 Atletico Madrid Third Kit Football Apparels Sport David Jersey6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237366116?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Atlético Madrid",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237366116/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/931f759db6/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237366116/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:39:51.052Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237349376",
+      "uniqueKey": "yema007:237349376",
+      "title": "24-25 Atletico Madrid Third Kit Player Version Shirt Best Wholesale8",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237349376?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Atlético Madrid",
+      "types": [
+        "Player version"
+      ],
+      "images": [
+        "./assets/products/yema007/237349376/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/0ff6624945/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237349376/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:39:53.345Z"
     },
     {
       "source": "yema007",
@@ -128343,6 +130027,475 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237374225",
+      "uniqueKey": "yema007:237374225",
+      "title": "24-25 Real Betis Away Shirt Soccer Uniforms Soccer David Jersey6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237374225?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237374225/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/e34e58244a/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237374225/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:43:27.959Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237516914",
+      "uniqueKey": "yema007:237516914",
+      "title": "24-25 Real Betis Blue Goalkeeper Shirt Football Uniforms David Jersey Supply7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237516914?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Keepers"
+      ],
+      "images": [
+        "./assets/products/yema007/237516914/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/38de6d014c/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237516914/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:42:12.202Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237643863",
+      "uniqueKey": "yema007:237643863",
+      "title": "24-25 Real Betis Conference League Final Kid Kits Youth Apparels David Jersey Wholesale9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237643863?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Kids"
+      ],
+      "images": [
+        "./assets/products/yema007/237643863/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/5c7ba2222d/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237643863/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:41:26.267Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237653493",
+      "uniqueKey": "yema007:237653493",
+      "title": "24-25 Real Betis Conference League Final Kit Player Version Shirt David Jersey Wholesale5",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237653493?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Player version"
+      ],
+      "images": [
+        "./assets/products/yema007/237653493/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/b65b0e6e1a/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237653493/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:41:25.540Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237552793",
+      "uniqueKey": "yema007:237552793",
+      "title": "24-25 Real Betis Conference League Final Shirt Football Uniform David Jersey Wholesale8",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237552793?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237552793/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/e47b4efb63/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237552793/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:42:04.400Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237239432",
+      "uniqueKey": "yema007:237239432",
+      "title": "24-25 Real Betis FEKIR CANALES ISCO Special Edition Shirt Football David Jersey Supplier8",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237239432?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/yema007/237239432/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/c390a9c87e/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237239432/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:43:32.103Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237377022",
+      "uniqueKey": "yema007:237377022",
+      "title": "24-25 Real Betis Home Kid Kits Youth Apparels Football David Jersey9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237377022?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Kids"
+      ],
+      "images": [
+        "./assets/products/yema007/237377022/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/6f722d7ce4/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237377022/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:43:27.173Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237360090",
+      "uniqueKey": "yema007:237360090",
+      "title": "24-25 Real Betis Home Kit Football Uniform Sport David Jersey7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237360090?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237360090/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/9f596604f9/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237360090/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:43:30.191Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237537588",
+      "uniqueKey": "yema007:237537588",
+      "title": "24-25 Real Betis Home Kit Long Sleeve Shirt David Jersey Supplier6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237537588?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/yema007/237537588/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/27c0e93a40/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237537588/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:42:10.694Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237370524",
+      "uniqueKey": "yema007:237370524",
+      "title": "24-25 Real Betis Home Shirt Soccer Uniforms Soccer David Jersey5",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237370524?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237370524/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/b4fcc321c0/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237370524/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:43:28.627Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237477492",
+      "uniqueKey": "yema007:237477492",
+      "title": "24-25 Real Betis Home Shorts David Jersey Supplier4",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237477492?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237477492/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/813a902a87/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237477492/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:43:23.979Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237552693",
+      "uniqueKey": "yema007:237552693",
+      "title": "24-25 Real Betis Pre-Match Chinese New Year Special Edition Shirt Football David Jersey Wholesale9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237552693?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Training",
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/yema007/237552693/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/585381b88e/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237552693/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:42:05.079Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237382203",
+      "uniqueKey": "yema007:237382203",
+      "title": "24-25 Real Betis Pre-Match Green Shirt David Jersey Supplier5",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237382203?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/yema007/237382203/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/db0e233e30/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237382203/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:43:26.440Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237499868",
+      "uniqueKey": "yema007:237499868",
+      "title": "24-25 Real Betis Seaweed Theme Special Edition Shirt Football Uniforms David Jersey Dropship5",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237499868?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/yema007/237499868/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/dab99c63ac/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237499868/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:42:37.360Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237349770",
+      "uniqueKey": "yema007:237349770",
+      "title": "24-25 Real Betis Special Edition Kit Best Wholesale8",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237349770?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/yema007/237349770/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/dc08bc65e6/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237349770/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:43:30.904Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237370487",
+      "uniqueKey": "yema007:237370487",
+      "title": "24-25 Real Betis Third Shirt Soccer Uniforms Soccer David Jersey7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237370487?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237370487/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/f6d4db8690/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237370487/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:43:29.427Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237354648",
       "uniqueKey": "yema007:237354648",
       "title": "24-25 Real Madrid Away Kid Kits Youth Apparels David Jersey Wholesale6",
@@ -144204,6 +146357,62 @@
       "coverUrl": "./assets/products/yema007/237476267/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T01:54:29.123Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237717803",
+      "uniqueKey": "yema007:237717803",
+      "title": "25-26 Alaves Away Kit Shirt Football Apparels Sino David Jersey Supply8",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237717803?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Alavés",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237717803/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/eb646ec385/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237717803/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:43:36.258Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237693351",
+      "uniqueKey": "yema007:237693351",
+      "title": "25-26 Alaves Home Shirt Football Apparels Sino David Jersey Supply8",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237693351?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Alavés",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237693351/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/9301adbaf7/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237693351/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:43:37.937Z"
     },
     {
       "source": "yema007",
@@ -167488,6 +169697,37 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237689841",
+      "uniqueKey": "yema007:237689841",
+      "title": "25-26 kids Real Betis Special Edition kits Youth Apparels David Jersey Wholesale6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237689841?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Kids",
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/yema007/237689841/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/7cb5fb7d02/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237689841/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:41:24.845Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237686273",
       "uniqueKey": "yema007:237686273",
       "title": "25-26 Lazio 125th Anniversary Edition Soccer David Jersey6",
@@ -180635,6 +182875,62 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237721870",
+      "uniqueKey": "yema007:237721870",
+      "title": "25-26 Real Betis Away Kit Shirt Football Apparels David Jersey Supply6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237721870?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237721870/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/e8576675fe/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237721870/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:41:19.702Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237614292",
+      "uniqueKey": "yema007:237614292",
+      "title": "25-26 Real Betis Conference League Final Shirt Football Apparels David Jersey Supply7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237614292?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237614292/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/28c702709a/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237614292/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:41:58.631Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237694717",
       "uniqueKey": "yema007:237694717",
       "title": "25-26 Real Betis home baby Kit Sino David Jersey Dropship2",
@@ -180661,6 +182957,851 @@
       "coverUrl": "./assets/products/yema007/237694717/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T01:01:03.329Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237723376",
+      "uniqueKey": "yema007:237723376",
+      "title": "25-26 Real Betis Home Kid Kits Youth Apparels Football David Jersey Supply6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237723376?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Kids"
+      ],
+      "images": [
+        "./assets/products/yema007/237723376/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/57cbf4f285/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237723376/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:41:19.011Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237729401",
+      "uniqueKey": "yema007:237729401",
+      "title": "25-26 Real Betis Home Kit Long Sleeve Shirt Football Uniform David Jersey Dropship6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237729401?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/yema007/237729401/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/a92458eade/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237729401/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:41:18.318Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237721264",
+      "uniqueKey": "yema007:237721264",
+      "title": "25-26 Real Betis Home Kit Player Version Apparels David Jersey Wholesale5",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237721264?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Player version"
+      ],
+      "images": [
+        "./assets/products/yema007/237721264/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/688fcb69e7/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237721264/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:41:20.401Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237614130",
+      "uniqueKey": "yema007:237614130",
+      "title": "25-26 Real Betis Home Shirt Football Apparels David Jersey Supply7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237614130?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237614130/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/209546cb50/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237614130/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:41:59.565Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237692075",
+      "uniqueKey": "yema007:237692075",
+      "title": "25-26 Real Betis Home Women's Summer Player Version Kit Lady Vest Apparels David Jersey Supply4",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237692075?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Dames",
+        "Player version"
+      ],
+      "images": [
+        "./assets/products/yema007/237692075/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/f5c8d45f8b/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237692075/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:41:22.796Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237542412",
+      "uniqueKey": "yema007:237542412",
+      "title": "25-26 Real Betis Hummel x Limited-edition Naruto Kid Kits Youth Apparels David Jersey Wholesale6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237542412?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Kids"
+      ],
+      "images": [
+        "./assets/products/yema007/237542412/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/a8f31e086d/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237542412/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:42:07.937Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237798793",
+      "uniqueKey": "yema007:237798793",
+      "title": "25-26 Real Betis Mens Retro Kit Vintage Soccer T-Shirt David Jersey Supply7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237798793?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237798793/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/19c390a622/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237798793/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:40:46.025Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237510138",
+      "uniqueKey": "yema007:237510138",
+      "title": "25-26 Real Betis Naruto Special Edition Player Version Shirt David Jersey Supply6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237510138?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Player version",
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/yema007/237510138/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/ab96e593bc/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237510138/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:42:27.931Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237510074",
+      "uniqueKey": "yema007:237510074",
+      "title": "25-26 Real Betis Pink Special Edition Shirt Football Tee David Jersey Supply9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237510074?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/yema007/237510074/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/84bcee26d0/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237510074/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:42:28.624Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237732294",
+      "uniqueKey": "yema007:237732294",
+      "title": "25-26 Real Betis Pre-Match Kit Football Pre-Match T-Shirt David Jersey Supply5",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237732294?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/yema007/237732294/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/22a73c4d0a/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237732294/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:41:16.827Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237736234",
+      "uniqueKey": "yema007:237736234",
+      "title": "25-26 Real Betis Pre-Match Long Sleeve Football T-Shirt David Jersey Supply6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237736234?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Training",
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/yema007/237736234/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/d2f5b847b1/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237736234/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:41:14.097Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237613909",
+      "uniqueKey": "yema007:237613909",
+      "title": "25-26 Real Betis Purple Training Shirt Football Uniforms David Jersey Supply6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237613909?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/yema007/237613909/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/0c8f17b372/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237613909/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:42:00.372Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237613743",
+      "uniqueKey": "yema007:237613743",
+      "title": "25-26 Real Betis Retro Style Shirt Football Apparels David Jersey Supply6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237613743?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237613743/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/850480af27/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237613743/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:42:01.028Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237594388",
+      "uniqueKey": "yema007:237594388",
+      "title": "25-26 Real Betis Retro Style Special Edition Football T-Shirt Soccer David Jersey8",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237594388?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Retro",
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/yema007/237594388/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/a576c0e4a8/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237594388/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:42:02.913Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237639313",
+      "uniqueKey": "yema007:237639313",
+      "title": "25-26 Real Betis Special Edition Kid Kits Youth Apparels David Jersey Wholesale10",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237639313?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Kids",
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/yema007/237639313/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/48e4302063/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237639313/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:41:31.188Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237689876",
+      "uniqueKey": "yema007:237689876",
+      "title": "25-26 Real Betis Special Edition Kid Kits Youth Apparels David Jersey Wholesale4",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237689876?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Kids",
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/yema007/237689876/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/b1dd0e2ec1/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237689876/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:41:24.002Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237720551",
+      "uniqueKey": "yema007:237720551",
+      "title": "25-26 Real Betis Special Edition Kit Football Pre-Match T-Shirt David Jersey Supply6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237720551?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Training",
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/yema007/237720551/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/12a2a3bee4/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237720551/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:41:21.234Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237510005",
+      "uniqueKey": "yema007:237510005",
+      "title": "25-26 Real Betis Special Edition Kit Player Version Shirt David Jersey Supply5",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237510005?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Player version",
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/yema007/237510005/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/a85a6cbcbf/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237510005/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:42:29.415Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237542298",
+      "uniqueKey": "yema007:237542298",
+      "title": "25-26 Real Betis Special Edition Kit Player Version Shirt David Jersey Wholesale4",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237542298?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Player version",
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/yema007/237542298/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/4811a02c57/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237542298/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:42:08.619Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237731450",
+      "uniqueKey": "yema007:237731450",
+      "title": "25-26 Real Betis Special Edition Kit Soccer T-Shirt David Jersey Supply7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237731450?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/yema007/237731450/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/146fcada53/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237731450/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:41:17.544Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237490912",
+      "uniqueKey": "yema007:237490912",
+      "title": "25-26 Real Betis Special Edition Shirt Football Uniform David Jersey Dropship5",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237490912?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/yema007/237490912/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/ca2256409b/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237490912/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:42:45.358Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237542147",
+      "uniqueKey": "yema007:237542147",
+      "title": "25-26 Real Betis Special Edition Shirt Soccer Uniform David Jersey Wholesale6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237542147?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/yema007/237542147/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/a9f4263e98/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237542147/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:42:09.334Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237490812",
+      "uniqueKey": "yema007:237490812",
+      "title": "25-26 Real Betis Sustainability Special Edition Football T-Shirt David Jersey Dropship10",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237490812?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/yema007/237490812/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/07dd09d048/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237490812/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:42:46.092Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237732850",
+      "uniqueKey": "yema007:237732850",
+      "title": "25-26 Real Betis Training Kit Football T-Shirt David Jersey Supply5",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237732850?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/yema007/237732850/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/e6f7a92fa7/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237732850/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:41:16.051Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237509934",
+      "uniqueKey": "yema007:237509934",
+      "title": "25-26 Real Betis Vertical Stripes Special Edition Shirt Football Uniforms David Jersey Supply5",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237509934?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/yema007/237509934/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/f45ab9072d/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237509934/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:42:30.093Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237711555",
+      "uniqueKey": "yema007:237711555",
+      "title": "25-26 Real Betis White&Green Football Tracksuits Long Jacket Suits3",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237711555?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237711555/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/52c7f1301f/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237711555/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:41:22.170Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237509868",
+      "uniqueKey": "yema007:237509868",
+      "title": "25-26 Real Betis x Naruto Special Edition Kit Football T-Shirt David Jersey Supply7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237509868?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/yema007/237509868/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/6608abdaad/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237509868/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:42:31.611Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237639379",
+      "uniqueKey": "yema007:237639379",
+      "title": "25-26 Real Betis Yellow Goalkeeper Shirt Football Apparels David Jersey Supply7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237639379?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Keepers"
+      ],
+      "images": [
+        "./assets/products/yema007/237639379/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/11e5c4d593/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237639379/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:41:29.624Z"
     },
     {
       "source": "yema007",
@@ -204960,6 +208101,36 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "259878822",
+      "uniqueKey": "yema007:259878822",
+      "title": "26-27 Athletic Bilbao Home Shirt Player Version Soccer Clothes AAAAJersey Supply Yupoo15",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/259878822?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Athletic Bilbao",
+      "types": [
+        "Player version"
+      ],
+      "images": [
+        "./assets/products/yema007/259878822/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/9641561772/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/259878822/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:43:44.583Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "259879239",
       "uniqueKey": "yema007:259879239",
       "title": "26-27 Atletico Madrid Away Adult and Kids Kit Football Uniform AAAAJersey Supply Yupoo4",
@@ -218264,6 +221435,36 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237793122",
+      "uniqueKey": "yema007:237793122",
+      "title": "26-27 Mens Real Betis Balompié Forever Goalkeeper Kits Football T-Shirt David Jersey Supply9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237793122?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Keepers"
+      ],
+      "images": [
+        "./assets/products/yema007/237793122/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/c3c5ff03bd/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237793122/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:41:10.786Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237791008",
       "uniqueKey": "yema007:237791008",
       "title": "26-27 Mens Real Madrid Lifestyle Football Black T-Shirt David Jersey Wholesale7",
@@ -221573,6 +224774,329 @@
       "coverUrl": "./assets/products/yema007/259881073/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T00:58:38.914Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "259879071",
+      "uniqueKey": "yema007:259879071",
+      "title": "26-27 Real Betis Away Kids Kit Football Uniform AAAAJersey Supply Yupoo7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/259879071?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Kids"
+      ],
+      "images": [
+        "./assets/products/yema007/259879071/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/89a676deb1/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/259879071/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:40:36.359Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237797759",
+      "uniqueKey": "yema007:237797759",
+      "title": "26-27 Real Betis Bética Mens Kits Football T-Shirt David Jersey Supply5",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237797759?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237797759/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/60466034f7/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237797759/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:40:46.659Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237790161",
+      "uniqueKey": "yema007:237790161",
+      "title": "26-27 Real Betis Long Sleeve Kit Tracksuit Jacket7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237790161?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Training",
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/yema007/237790161/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/933823f1d0/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237790161/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:41:13.277Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "245136313",
+      "uniqueKey": "yema007:245136313",
+      "title": "26-27 Real Betis Mens Home Kit Soccer Player Version T-Shirt David Jersey Supply11",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/245136313?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Player version"
+      ],
+      "images": [
+        "./assets/products/yema007/245136313/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/7306315e73/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/245136313/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:40:41.492Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "242743358",
+      "uniqueKey": "yema007:242743358",
+      "title": "26-27 Real Betis Mens Home Kit Soccer Player Version T-Shirt David Jersey Supply8",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/242743358?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Player version"
+      ],
+      "images": [
+        "./assets/products/yema007/242743358/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/39dcc0f33d/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/242743358/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:40:42.768Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "241008091",
+      "uniqueKey": "yema007:241008091",
+      "title": "26-27 Real Betis Mens Home Kit Soccer T-Shirt David Jersey Supply6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/241008091?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/241008091/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/eed08d3985/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/241008091/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:40:43.751Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237800447",
+      "uniqueKey": "yema007:237800447",
+      "title": "26-27 Real Betis Mens Kit Football Pre-Match T-Shirt David Jersey Supply6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237800447?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/yema007/237800447/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/1df98ebf17/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237800447/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:40:45.106Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "259878288",
+      "uniqueKey": "yema007:259878288",
+      "title": "26-27 Real Betis Special Shirt Football Clothing AAAAJersey Supply Yupoo5",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/259878288?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/259878288/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/04a479c785/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/259878288/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:40:38.041Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "259879067",
+      "uniqueKey": "yema007:259879067",
+      "title": "26-27 Real Betis Third Kids Kit Football Uniform AAAAJersey Supply Yupoo6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/259879067?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Kids"
+      ],
+      "images": [
+        "./assets/products/yema007/259879067/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/c583d68efe/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/259879067/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:40:37.250Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "259877856",
+      "uniqueKey": "yema007:259877856",
+      "title": "26-27 Real Betis Third Shirt Player Version Soccer Clothes AAAAJersey Supply Yupoo12",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/259877856?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Player version"
+      ],
+      "images": [
+        "./assets/products/yema007/259877856/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/f24e80b121/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/259877856/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:40:38.950Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "259879798",
+      "uniqueKey": "yema007:259879798",
+      "title": "26-27 Real Betis Third Shirt Soccer Clothes AAAAJersey Supply Yupoo9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/259879798?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/259879798/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/c9ae575007/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/259879798/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:40:35.421Z"
     },
     {
       "source": "yema007",
@@ -226448,6 +229972,36 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237796262",
+      "uniqueKey": "yema007:237796262",
+      "title": "26-27 Womens Real Betis Bética Kits Football T-Shirt David Jersey Supply8",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237796262?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Dames"
+      ],
+      "images": [
+        "./assets/products/yema007/237796262/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/5b8ba0620d/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237796262/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:40:46.961Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "258525522",
       "uniqueKey": "yema007:258525522",
       "title": "26/27 Barcelona Black & Purple Lamine Yamal Style Casual Windbreaker Yupoo6",
@@ -226983,6 +230537,34 @@
       "coverUrl": "./assets/products/yema007/237472329/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T04:33:54.887Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237481314",
+      "uniqueKey": "yema007:237481314",
+      "title": "81-82 Alaves home8",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237481314?uid=1&isSubCate=true&referrercate=876816",
+      "categoryId": "876816",
+      "collectionId": "876816",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Alaves 阿拉维斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Alavés",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237481314/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/50d1710eda/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237481314/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:43:40.229Z"
     },
     {
       "source": "yema007",
@@ -227672,6 +231254,34 @@
       "coverUrl": "./assets/products/yema007/237519273/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T01:49:46.348Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237479946",
+      "uniqueKey": "yema007:237479946",
+      "title": "82-85 Real Betis home9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237479946?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237479946/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/492111c3ac/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237479946/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:43:23.296Z"
     },
     {
       "source": "yema007",
@@ -229483,6 +233093,34 @@
       "coverUrl": "./assets/products/yema007/237735658/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T01:58:27.361Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237499296",
+      "uniqueKey": "yema007:237499296",
+      "title": "88-89 Real Betis home Size:S-2XL Replica Jersey4",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237499296?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237499296/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/83cad44009/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237499296/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:42:38.058Z"
     },
     {
       "source": "yema007",
@@ -233077,6 +236715,36 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237494159",
+      "uniqueKey": "yema007:237494159",
+      "title": "93-94 Real Betis Retro Home S-XXL best soccer jersey7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237494159?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237494159/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/8ef3bb2f4e/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237494159/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:42:41.688Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237486146",
       "uniqueKey": "yema007:237486146",
       "title": "93-94 Retro Napoli Home S-XXL9",
@@ -233564,6 +237232,34 @@
       "coverUrl": "./assets/products/yema007/237528571/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T01:38:13.386Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237478317",
+      "uniqueKey": "yema007:237478317",
+      "title": "94-95 Atletico Madrid home10",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237478317?uid=1&isSubCate=true&referrercate=876814",
+      "categoryId": "876814",
+      "collectionId": "876814",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Atletico Madrid 马竞",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Atlético Madrid",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237478317/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/2cd4f9287a/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237478317/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:39:45.319Z"
     },
     {
       "source": "yema007",
@@ -234061,6 +237757,34 @@
       "coverUrl": "./assets/products/yema007/237519213/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T01:49:46.654Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237480096",
+      "uniqueKey": "yema007:237480096",
+      "title": "94-95 Real Betis home8",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237480096?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237480096/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/03913d3238/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237480096/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:43:22.518Z"
     },
     {
       "source": "yema007",
@@ -234757,6 +238481,34 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237478522",
+      "uniqueKey": "yema007:237478522",
+      "title": "95-96 Atletico Madrid home8",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237478522?uid=1&isSubCate=true&referrercate=876814",
+      "categoryId": "876814",
+      "collectionId": "876814",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Atletico Madrid 马竞",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Atlético Madrid",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237478522/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/a28033f274/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237478522/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:39:44.583Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237615451",
       "uniqueKey": "yema007:237615451",
       "title": "95-96 Atletico Madrid Third Retro Kit Vintage Shirt David Jersey7",
@@ -235219,6 +238971,66 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237518837",
+      "uniqueKey": "yema007:237518837",
+      "title": "95-96 Real Betis Home Retro Kit Vintage Shirt Sport David Jersey6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237518837?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237518837/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/70cb510651/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237518837/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:42:11.546Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237735704",
+      "uniqueKey": "yema007:237735704",
+      "title": "95-96 Real Betis Retro Windbreaker Jackets8",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237735704?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237735704/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/8e074d6dfb/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237735704/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:41:14.786Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237495555",
       "uniqueKey": "yema007:237495555",
       "title": "95-96 Retro Inter Milan Home S-XXL Cheap Soccer Jerseys6",
@@ -235276,6 +239088,36 @@
       "coverUrl": "./assets/products/yema007/237498502/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T01:26:23.766Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237487741",
+      "uniqueKey": "yema007:237487741",
+      "title": "95-96 Retro Real Betis Home S-XXL8",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237487741?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237487741/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/25ce30ce9c/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237487741/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:42:47.407Z"
     },
     {
       "source": "yema007",
@@ -235594,6 +239436,121 @@
       "coverUrl": "./assets/products/yema007/237495615/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T02:02:59.164Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237480282",
+      "uniqueKey": "yema007:237480282",
+      "title": "95-97 Real Betis away9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237480282?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237480282/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/5c39589089/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237480282/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:43:21.887Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237480568",
+      "uniqueKey": "yema007:237480568",
+      "title": "95-97 Real Betis home long sleeve8",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237480568?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237480568/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/975e4bcfcd/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237480568/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:42:52.174Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237511485",
+      "uniqueKey": "yema007:237511485",
+      "title": "95-97 Real Betis Home Retro Kid Kits Youth Apparels David Jersey Wholesale8",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237511485?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Retro",
+        "Kids"
+      ],
+      "images": [
+        "./assets/products/yema007/237511485/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/bc7feb165c/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237511485/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:42:12.875Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237480436",
+      "uniqueKey": "yema007:237480436",
+      "title": "95-97 Real Betis home9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237480436?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237480436/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/99166517ef/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237480436/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:42:53.565Z"
     },
     {
       "source": "yema007",
@@ -236065,6 +240022,62 @@
       "coverUrl": "./assets/products/yema007/237518539/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T04:38:59.713Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237478654",
+      "uniqueKey": "yema007:237478654",
+      "title": "96-97 Atletico Madrid black2",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237478654?uid=1&isSubCate=true&referrercate=876814",
+      "categoryId": "876814",
+      "collectionId": "876814",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Atletico Madrid 马竞",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Atlético Madrid",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237478654/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/6d7fa98fee/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237478654/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:39:43.906Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237478806",
+      "uniqueKey": "yema007:237478806",
+      "title": "96-97 Atletico Madrid home7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237478806?uid=1&isSubCate=true&referrercate=876814",
+      "categoryId": "876814",
+      "collectionId": "876814",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Atletico Madrid 马竞",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Atlético Madrid",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237478806/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/a0ebf4071a/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237478806/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:39:43.200Z"
     },
     {
       "source": "yema007",
@@ -236732,6 +240745,34 @@
       "coverUrl": "./assets/products/yema007/237373741/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T01:50:05.781Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237480669",
+      "uniqueKey": "yema007:237480669",
+      "title": "96-97 Real Betis home10",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237480669?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237480669/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/139f57254f/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237480669/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:42:50.859Z"
     },
     {
       "source": "yema007",
@@ -237907,6 +241948,36 @@
       "coverUrl": "./assets/products/yema007/237527217/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T02:07:41.027Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "248077945",
+      "uniqueKey": "yema007:248077945",
+      "title": "97-98 Real Betis Away Mens Retro Kit Vintage Football T-Shirt David Jersey Supply7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/248077945?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/248077945/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/884b6b3f65/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/248077945/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:40:40.505Z"
     },
     {
       "source": "yema007",
@@ -240394,6 +244465,34 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237480915",
+      "uniqueKey": "yema007:237480915",
+      "title": "98-99 Real Betis home greenwhite8",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237480915?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237480915/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/be5e2fdf96/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237480915/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:42:50.244Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237526942",
       "uniqueKey": "yema007:237526942",
       "title": "98-99 Real Madrid Away Long Sleeve Retro Kit Vintage Shirt David Jersey Supplier8",
@@ -241494,6 +245593,36 @@
       "coverUrl": "./assets/products/yema007/237518029/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T01:50:00.066Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237604523",
+      "uniqueKey": "yema007:237604523",
+      "title": "99-00 Real Betis Away Retro Kit Vintage Shirt David Jersey Supply5",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237604523?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "country": "Spanje",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237604523/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/aabcf3f143/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237604523/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:42:01.692Z"
     },
     {
       "source": "yema007",
@@ -469345,6 +473474,36 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237496327",
+      "uniqueKey": "yema007:237496327",
+      "title": "1993 Retro Betis Home S-XXL Cheap Soccer Jerseys4",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237496327?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Real Betis 贝蒂斯",
+      "country": "Overig",
+      "competition": "Real Betis 贝蒂斯",
+      "club": "Retro Betis Home",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237496327/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/1b54b6c6c5/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237496327/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:42:41.033Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237374469",
       "uniqueKey": "yema007:237374469",
       "title": "1994 Boca Juniors away2",
@@ -512003,6 +516162,36 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237639945",
+      "uniqueKey": "yema007:237639945",
+      "title": "25-26 Betis White Goalkeeper Shirt Football Apparels David Jersey Supply9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237639945?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "-26 Betis White",
+      "types": [
+        "Keepers"
+      ],
+      "images": [
+        "./assets/products/yema007/237639945/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/6113f20cb4/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237639945/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:41:28.533Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237717218",
       "uniqueKey": "yema007:237717218",
       "title": "25-26 Birmingham City F.C. Home Kit Football Uniform David Jersey Supplier6",
@@ -515768,6 +519957,64 @@
       "coverUrl": "./assets/products/yema007/237730201/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T01:51:22.288Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237641779",
+      "uniqueKey": "yema007:237641779",
+      "title": "25-26 Joaquín Exclusive Edition Kit Player Version Shirt David Jersey Wholesale7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237641779?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Real Betis 贝蒂斯",
+      "country": "Overig",
+      "competition": "Real Betis 贝蒂斯",
+      "club": "-26 Joaquín Exclusive",
+      "types": [
+        "Player version"
+      ],
+      "images": [
+        "./assets/products/yema007/237641779/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/c6e2582fd7/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237641779/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:41:27.180Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237545535",
+      "uniqueKey": "yema007:237545535",
+      "title": "25-26 Joaquín Exclusive Edition Shirt Football Uniform David Jersey Wholesale6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237545535?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "-26 Joaquín Exclusive",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237545535/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/fed21609ba/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237545535/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:42:06.417Z"
     },
     {
       "source": "yema007",
@@ -528269,6 +532516,36 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237496945",
+      "uniqueKey": "yema007:237496945",
+      "title": "88-89 Retro Betis Home S-XXL Best Soccer Jersey6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237496945?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Real Betis 贝蒂斯",
+      "country": "Overig",
+      "competition": "Real Betis 贝蒂斯",
+      "club": "-89 Retro Betis",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237496945/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/0a0fecaade/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237496945/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:42:40.242Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237498359",
       "uniqueKey": "yema007:237498359",
       "title": "88-89 Retro Soviet Union Home S-XXL6",
@@ -529508,6 +533785,37 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237508730",
+      "uniqueKey": "yema007:237508730",
+      "title": "95-97 Betis Home Retro Kid Kits Children Sets Soccer Jerseys2",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237508730?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Real Betis 贝蒂斯",
+      "country": "Overig",
+      "competition": "Real Betis 贝蒂斯",
+      "club": "-97 Betis Home",
+      "types": [
+        "Retro",
+        "Kids"
+      ],
+      "images": [
+        "./assets/products/yema007/237508730/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/930f94e1c3/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237508730/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:42:33.817Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237512105",
       "uniqueKey": "yema007:237512105",
       "title": "95-97 Celtics Home Retro Kit Vintage Shirt Best Wholesale5",
@@ -529590,6 +533898,37 @@
       "coverUrl": "./assets/products/yema007/237456087/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T01:36:53.834Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237491872",
+      "uniqueKey": "yema007:237491872",
+      "title": "95-97 Retro Betis Home Long Sleeve Size S-XXL Soccer Jerseys9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237491872?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Real Betis 贝蒂斯",
+      "country": "Overig",
+      "competition": "Real Betis 贝蒂斯",
+      "club": "-97 Retro Betis",
+      "types": [
+        "Retro",
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/yema007/237491872/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/3798cb280f/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237491872/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:42:42.355Z"
     },
     {
       "source": "yema007",
@@ -570083,6 +574422,34 @@
       "coverUrl": "./assets/products/yema007/237666826/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T02:27:36.883Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237633132",
+      "uniqueKey": "yema007:237633132",
+      "title": "Real Betis14",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237633132?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Real Betis 贝蒂斯",
+      "country": "Overig",
+      "competition": "Real Betis 贝蒂斯",
+      "club": "Real Betis14",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237633132/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/49133fb401/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237633132/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-24T04:41:32.333Z"
     },
     {
       "source": "minkang",
