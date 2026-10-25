@@ -1,20 +1,20 @@
 {
-  "lastSync": "2026-10-25T20:48:05.856Z",
+  "lastSync": "2026-10-25T20:52:17.697Z",
   "syncState": {
     "status": "in-progress",
-    "label": "aosendi 175/982",
+    "label": "aosendi 375/982",
     "batchSize": 25,
     "maxImages": 1
   },
   "stats": {
     "discovered": 27287,
-    "added": 2465,
+    "added": 2665,
     "changed": 21718,
     "unchanged": 2263,
     "repaired": 0,
     "skipped": 34,
-    "duplicatesRemoved": 544,
-    "batchesSaved": 1060
+    "duplicatesRemoved": 727,
+    "batchesSaved": 1068
   },
   "sources": [
     {
@@ -48,7 +48,7 @@
       "forcedSection": "Trainingskleding"
     }
   ],
-  "total": 25922,
+  "total": 25939,
   "sections": [
     "Mode & accessoires",
     "Nog te categoriseren",
@@ -115729,6 +115729,471 @@
       "updatedAt": "2026-10-25T20:31:44.674Z"
     },
     {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228749287",
+      "uniqueKey": "aosendi:228749287",
+      "title": "2526AC红色【迷彩款】19",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228749287?uid=1&isSubCate=false&referrercate=789575",
+      "categoryId": null,
+      "collectionId": "789575",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Overige trainingskleding",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2025/26",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/aosendi/228749287/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/9ba1270e/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228749287/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T20:50:49.666Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228749536",
+      "uniqueKey": "aosendi:228749536",
+      "title": "2526AC绿色【迷彩款】22",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228749536?uid=1&isSubCate=false&referrercate=789575",
+      "categoryId": null,
+      "collectionId": "789575",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Overige trainingskleding",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2025/26",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/aosendi/228749536/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/7c788c77/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228749536/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T20:50:47.115Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228749938",
+      "uniqueKey": "aosendi:228749938",
+      "title": "2526切尔西彩兰色【球员版】T90款18",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228749938?uid=1&isSubCate=false&referrercate=789575",
+      "categoryId": null,
+      "collectionId": "789575",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Overige trainingskleding",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2025/26",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/aosendi/228749938/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/f3f924c6/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228749938/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T20:50:28.449Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228749286",
+      "uniqueKey": "aosendi:228749286",
+      "title": "2526利物浦绿色24",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228749286?uid=1&isSubCate=false&referrercate=789575",
+      "categoryId": null,
+      "collectionId": "789575",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Overige trainingskleding",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2025/26",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/aosendi/228749286/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/0413ccbf/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228749286/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T20:50:50.079Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228748504",
+      "uniqueKey": "aosendi:228748504",
+      "title": "2526利物浦黑色25",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228748504?uid=1&isSubCate=false&referrercate=789575",
+      "categoryId": null,
+      "collectionId": "789575",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Overige trainingskleding",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2025/26",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/aosendi/228748504/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/db00b3bd/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228748504/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T20:51:21.878Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228749285",
+      "uniqueKey": "aosendi:228749285",
+      "title": "2526巴萨宝蓝色【球员版】T90款24",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228749285?uid=1&isSubCate=false&referrercate=789575",
+      "categoryId": null,
+      "collectionId": "789575",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Overige trainingskleding",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2025/26",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/aosendi/228749285/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/f5e6c705/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228749285/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T20:50:50.511Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228749288",
+      "uniqueKey": "aosendi:228749288",
+      "title": "2526巴萨宝蓝色【球员版】黄标款23",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228749288?uid=1&isSubCate=false&referrercate=789575",
+      "categoryId": null,
+      "collectionId": "789575",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Overige trainingskleding",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2025/26",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/aosendi/228749288/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/592a60f3/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228749288/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T20:50:49.237Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228749534",
+      "uniqueKey": "aosendi:228749534",
+      "title": "2526巴萨橙色【球员版】T90款25",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228749534?uid=1&isSubCate=false&referrercate=789575",
+      "categoryId": null,
+      "collectionId": "789575",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Overige trainingskleding",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2025/26",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/aosendi/228749534/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/e1698358/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228749534/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T20:50:47.957Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228750565",
+      "uniqueKey": "aosendi:228750565",
+      "title": "2526巴萨灰色【联名款】18",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228750565?uid=1&isSubCate=false&referrercate=789575",
+      "categoryId": null,
+      "collectionId": "789575",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Overige trainingskleding",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2025/26",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/aosendi/228750565/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/5adaaccc/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228750565/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T20:50:14.492Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228749072",
+      "uniqueKey": "aosendi:228749072",
+      "title": "2526法国黑色【球员版】21",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228749072?uid=1&isSubCate=false&referrercate=789575",
+      "categoryId": null,
+      "collectionId": "789575",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Overige trainingskleding",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2025/26",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/aosendi/228749072/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/f60f555b/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228749072/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T20:50:52.799Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228750270",
+      "uniqueKey": "aosendi:228750270",
+      "title": "2526皇马白色【黄标款】20",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228750270?uid=1&isSubCate=false&referrercate=789575",
+      "categoryId": null,
+      "collectionId": "789575",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Overige trainingskleding",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2025/26",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/aosendi/228750270/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/452c62a1/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228750270/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T20:50:17.229Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228748678",
+      "uniqueKey": "aosendi:228748678",
+      "title": "2526葡萄牙黑色22",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228748678?uid=1&isSubCate=false&referrercate=789575",
+      "categoryId": null,
+      "collectionId": "789575",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Overige trainingskleding",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2025/26",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/aosendi/228748678/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/32968fa1/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228748678/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T20:51:19.006Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228750717",
+      "uniqueKey": "aosendi:228750717",
+      "title": "2526阿森纳浅灰色【球员版】AD在左右袖口20",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228750717?uid=1&isSubCate=false&referrercate=789575",
+      "categoryId": null,
+      "collectionId": "789575",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Overige trainingskleding",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2025/26",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/aosendi/228750717/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/f39558cf/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228750717/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T20:50:18.182Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228750103",
+      "uniqueKey": "aosendi:228750103",
+      "title": "2526阿森纳红色19",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228750103?uid=1&isSubCate=false&referrercate=789575",
+      "categoryId": null,
+      "collectionId": "789575",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Overige trainingskleding",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2025/26",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/aosendi/228750103/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/172ad873/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228750103/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T20:50:22.984Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228750903",
+      "uniqueKey": "aosendi:228750903",
+      "title": "2526阿森纳绿色【球员版】AD在左右袖口21",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228750903?uid=1&isSubCate=false&referrercate=789575",
+      "categoryId": null,
+      "collectionId": "789575",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Overige trainingskleding",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2025/26",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/aosendi/228750903/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/9d8906ca/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228750903/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T20:50:19.138Z"
+    },
+    {
       "source": "dongshanstore",
       "sourcePriority": 4,
       "sourceId": "215473581",
@@ -119730,6 +120195,37 @@
     {
       "source": "aosendi",
       "sourcePriority": 5,
+      "sourceId": "228750714",
+      "uniqueKey": "aosendi:228750714",
+      "title": "2627哥伦比亚宝蓝色23",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228750714?uid=1&isSubCate=false&referrercate=789575",
+      "categoryId": null,
+      "collectionId": "789575",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Overige trainingskleding",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2026/27",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/aosendi/228750714/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/67c039ff/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228750714/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T20:49:53.234Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
       "sourceId": "255199142",
       "uniqueKey": "aosendi:255199142",
       "title": "2627巴萨紫迷彩色【联名款】17",
@@ -119850,6 +120346,37 @@
       "coverUrl": "./assets/products/aosendi/254457671/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T20:45:11.175Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "234393353",
+      "uniqueKey": "aosendi:234393353",
+      "title": "2627荷兰橙色14",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/234393353?uid=1&isSubCate=false&referrercate=789575",
+      "categoryId": null,
+      "collectionId": "789575",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Overige trainingskleding",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2026/27",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/aosendi/234393353/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/94c0282081/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/234393353/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T20:49:23.582Z"
     },
     {
       "source": "aosendi",
