@@ -1,20 +1,20 @@
 {
-  "lastSync": "2026-10-25T13:28:04.723Z",
+  "lastSync": "2026-10-25T13:32:58.231Z",
   "syncState": {
     "status": "in-progress",
-    "label": "minkang 4625/7464",
+    "label": "minkang 5225/7464",
     "batchSize": 25,
     "maxImages": 1
   },
   "stats": {
     "discovered": 7464,
-    "added": 106,
+    "added": 116,
     "changed": 0,
-    "unchanged": 4516,
+    "unchanged": 5106,
     "repaired": 0,
     "skipped": 3,
-    "duplicatesRemoved": 106,
-    "batchesSaved": 184
+    "duplicatesRemoved": 116,
+    "batchesSaved": 208
   },
   "sources": [
     {
