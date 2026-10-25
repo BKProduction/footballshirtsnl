@@ -1,36 +1,51 @@
 {
-  "lastSync": "2026-10-25T16:27:59.667Z",
+  "lastSync": "2026-10-25T16:53:08.282Z",
   "syncState": {
     "status": "in-progress",
-    "label": "popmo 1600/2782",
+    "label": "minkang 125/7464",
     "batchSize": 25,
     "maxImages": 1
   },
   "stats": {
-    "discovered": 24437,
-    "added": 408,
-    "changed": 0,
-    "unchanged": 22830,
+    "discovered": 7464,
+    "added": 1,
+    "changed": 84,
+    "unchanged": 40,
     "repaired": 0,
-    "skipped": 17,
-    "duplicatesRemoved": 408,
-    "batchesSaved": 930
+    "skipped": 0,
+    "duplicatesRemoved": 1,
+    "batchesSaved": 4
   },
   "sources": [
     {
       "key": "minkang",
       "base": "https://minkang.x.yupoo.com",
-      "priority": 1
+      "priority": 1,
+      "forcedSection": ""
     },
     {
       "key": "yema007",
       "base": "https://yema007.x.yupoo.com",
-      "priority": 2
+      "priority": 2,
+      "forcedSection": ""
     },
     {
       "key": "popmo",
       "base": "https://popmo.x.yupoo.com",
-      "priority": 3
+      "priority": 3,
+      "forcedSection": ""
+    },
+    {
+      "key": "dongshanstore",
+      "base": "https://dongshanstore.x.yupoo.com",
+      "priority": 4,
+      "forcedSection": "Trainingskleding"
+    },
+    {
+      "key": "aosendi",
+      "base": "https://aosendi.x.yupoo.com",
+      "priority": 5,
+      "forcedSection": "Trainingskleding"
     }
   ],
   "total": 24001,
@@ -84,6 +99,7 @@
     "Charlotte 夏洛特",
     "Chelsea 切尔西",
     "Chivas 芝华士",
+    "Clubteams",
     "Colo Colo",
     "Colo-Colo 科洛科洛",
     "Colombia 哥伦比亚",
@@ -244,8 +260,12 @@
     "2022",
     "2021/22",
     "2021",
+    "2020/26",
     "2020/23",
     "2020/21",
+    "2020/13",
+    "2020/08",
+    "2020/00",
     "2020",
     "2019/97",
     "2019/81",
@@ -20245,6 +20265,180 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "258449606",
+      "uniqueKey": "minkang:258449606",
+      "title": "Atlético Mineiro 26/27 Third Away Player Version S-3XL9",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258449606?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026/27",
+      "types": [],
+      "images": [
+        "./assets/albums/258449606/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/49d0c0483d/medium.jpg"
+      ],
+      "coverUrl": "./assets/albums/258449606/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:53:08.135Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "258450633",
+      "uniqueKey": "minkang:258450633",
+      "title": "Atlético Mineiro 26/27 Third Away S-4XL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258450633?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026/27",
+      "types": [],
+      "images": [
+        "./assets/albums/258450633/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/664c0a8996/medium.jpg"
+      ],
+      "coverUrl": "./assets/albums/258450633/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:53:08.134Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "259415460",
+      "uniqueKey": "minkang:259415460",
+      "title": "Atlético Mineiro 26/27 Women's Third Away S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259415460?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026/27",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/259415460/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/86117e216e/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/259415460/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:53:08.131Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "258449842",
+      "uniqueKey": "minkang:258449842",
+      "title": "Bahia 26/27 Third Away Player Version S-3XL9",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258449842?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026/27",
+      "types": [],
+      "images": [
+        "./assets/albums/258449842/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/d0fc732107/medium.jpg"
+      ],
+      "coverUrl": "./assets/albums/258449842/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:53:08.134Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "258450521",
+      "uniqueKey": "minkang:258450521",
+      "title": "Bahia 26/27 Third Away S-4XL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258450521?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026/27",
+      "types": [],
+      "images": [
+        "./assets/albums/258450521/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/acd7f6efba/medium.jpg"
+      ],
+      "coverUrl": "./assets/albums/258450521/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:53:08.134Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "259415609",
+      "uniqueKey": "minkang:259415609",
+      "title": "Bahia 26/27 Third Away Women's Away S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259415609?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026/27",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/259415609/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/fb94c06a17/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/259415609/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:53:08.128Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "253307070",
       "uniqueKey": "minkang:253307070",
       "title": "C.D. Guadalajara 26/27 Home Jersey9",
@@ -20357,6 +20551,35 @@
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:42:27.404Z",
       "season": "2026/27"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "258450071",
+      "uniqueKey": "minkang:258450071",
+      "title": "Corinthians 26/27 Third Away Player Version S-3XL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258450071?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026/27",
+      "types": [],
+      "images": [
+        "./assets/albums/258450071/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/03556c4e5a/medium.jpg"
+      ],
+      "coverUrl": "./assets/albums/258450071/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:53:08.134Z"
     },
     {
       "source": "minkang",
@@ -48037,37 +48260,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "257636291",
-      "uniqueKey": "minkang:257636291",
-      "title": "Atlético Mineiro 2000 Home Retro Jersey S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/257636291?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Brasileiro Série A",
-      "country": "Brazilië",
-      "competition": "Brasileiro Série A",
-      "club": "Atlético Mineiro",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/albums/257636291/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/3c342fb840/medium.jpg"
-      ],
-      "coverUrl": "./assets/albums/257636291/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:25.608Z",
-      "season": "2000"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "155076107",
       "uniqueKey": "minkang:155076107",
       "title": "Retro Atlético Mineiro 2003 Home S-XXL9",
@@ -48126,68 +48318,6 @@
       "season": "2008"
     },
     {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "257636400",
-      "uniqueKey": "minkang:257636400",
-      "title": "Atlético Mineiro 2008 Black Centenary Commemorative Jersey S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/257636400?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Brasileiro Série A",
-      "country": "Brazilië",
-      "competition": "Brasileiro Série A",
-      "club": "Atlético Mineiro",
-      "types": [
-        "Special edition"
-      ],
-      "images": [
-        "./assets/albums/257636400/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/ec750b6b63/medium.jpg"
-      ],
-      "coverUrl": "./assets/albums/257636400/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:25.608Z",
-      "season": "2008"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "257636455",
-      "uniqueKey": "minkang:257636455",
-      "title": "Atlético Mineiro 2008 Centenary Black and White Commemorative Jersey S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/257636455?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Brasileiro Série A",
-      "country": "Brazilië",
-      "competition": "Brasileiro Série A",
-      "club": "Atlético Mineiro",
-      "types": [
-        "Special edition"
-      ],
-      "images": [
-        "./assets/albums/257636455/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/6b5d12d848/medium.jpg"
-      ],
-      "coverUrl": "./assets/albums/257636455/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:25.608Z",
-      "season": "2008"
-    },
-    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237499137",
@@ -48216,37 +48346,6 @@
       "coverUrl": "./assets/products/yema007/237499137/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T02:14:01.356Z",
-      "season": "2013"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "257636509",
-      "uniqueKey": "minkang:257636509",
-      "title": "Atlético Mineiro 2013 Home Retro Jersey S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/257636509?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Brasileiro Série A",
-      "country": "Brazilië",
-      "competition": "Brasileiro Série A",
-      "club": "Atlético Mineiro",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/albums/257636509/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/26a1395137/medium.jpg"
-      ],
-      "coverUrl": "./assets/albums/257636509/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:25.608Z",
       "season": "2013"
     },
     {
@@ -50636,66 +50735,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "258449606",
-      "uniqueKey": "minkang:258449606",
-      "title": "Atlético Mineiro 26/27 Third Away Player Version S-3XL9",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258449606?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Brasileiro Série A",
-      "country": "Brazilië",
-      "competition": "Brasileiro Série A",
-      "club": "Atlético Mineiro",
-      "types": [
-        "Player version"
-      ],
-      "images": [
-        "./assets/albums/258449606/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/49d0c0483d/medium.jpg"
-      ],
-      "coverUrl": "./assets/albums/258449606/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:25.607Z",
-      "season": "2026/27"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "258450633",
-      "uniqueKey": "minkang:258450633",
-      "title": "Atlético Mineiro 26/27 Third Away S-4XL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258450633?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Brasileiro Série A",
-      "country": "Brazilië",
-      "competition": "Brasileiro Série A",
-      "club": "Atlético Mineiro",
-      "types": [],
-      "images": [
-        "./assets/albums/258450633/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/664c0a8996/medium.jpg"
-      ],
-      "coverUrl": "./assets/albums/258450633/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:25.607Z",
-      "season": "2026/27"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "231121582",
       "uniqueKey": "minkang:231121582",
       "title": "Atlético Mineiro 26/27 Training - Purple Jersey S-4XL7",
@@ -50753,37 +50792,6 @@
       "coverUrl": "./assets/products/minkang/231121629/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:18:44.098Z",
-      "season": "2026/27"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "259415460",
-      "uniqueKey": "minkang:259415460",
-      "title": "Atlético Mineiro 26/27 Women's Third Away S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259415460?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Brasileiro Série A",
-      "country": "Brazilië",
-      "competition": "Brasileiro Série A",
-      "club": "Atlético Mineiro",
-      "types": [
-        "Dames"
-      ],
-      "images": [
-        "./assets/products/minkang/259415460/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/86117e216e/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/259415460/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-24T19:44:03.471Z",
       "season": "2026/27"
     },
     {
@@ -53478,97 +53486,6 @@
       "coverUrl": "./assets/products/minkang/251850402/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:21:16.431Z",
-      "season": "2026/27"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "258449842",
-      "uniqueKey": "minkang:258449842",
-      "title": "Bahia 26/27 Third Away Player Version S-3XL9",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258449842?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Brasileiro Série A",
-      "country": "Brazilië",
-      "competition": "Brasileiro Série A",
-      "club": "Bahia",
-      "types": [
-        "Player version"
-      ],
-      "images": [
-        "./assets/albums/258449842/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/d0fc732107/medium.jpg"
-      ],
-      "coverUrl": "./assets/albums/258449842/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:25.607Z",
-      "season": "2026/27"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "258450521",
-      "uniqueKey": "minkang:258450521",
-      "title": "Bahia 26/27 Third Away S-4XL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258450521?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Brasileiro Série A",
-      "country": "Brazilië",
-      "competition": "Brasileiro Série A",
-      "club": "Bahia",
-      "types": [],
-      "images": [
-        "./assets/albums/258450521/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/acd7f6efba/medium.jpg"
-      ],
-      "coverUrl": "./assets/albums/258450521/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:25.607Z",
-      "season": "2026/27"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "259415609",
-      "uniqueKey": "minkang:259415609",
-      "title": "Bahia 26/27 Third Away Women's Away S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259415609?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Brasileiro Série A",
-      "country": "Brazilië",
-      "competition": "Brasileiro Série A",
-      "club": "Bahia",
-      "types": [
-        "Dames"
-      ],
-      "images": [
-        "./assets/products/minkang/259415609/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/fb94c06a17/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/259415609/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-24T19:44:03.471Z",
       "season": "2026/27"
     },
     {
@@ -63710,37 +63627,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "258450071",
-      "uniqueKey": "minkang:258450071",
-      "title": "Corinthians 26/27 Third Away Player Version S-3XL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258450071?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Brasileiro Série A",
-      "country": "Brazilië",
-      "competition": "Brasileiro Série A",
-      "club": "Corinthians",
-      "types": [
-        "Player version"
-      ],
-      "images": [
-        "./assets/albums/258450071/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/03556c4e5a/medium.jpg"
-      ],
-      "coverUrl": "./assets/albums/258450071/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:25.607Z",
-      "season": "2026/27"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "224860955",
       "uniqueKey": "minkang:224860955",
       "title": "Corinthians 26/27 Training - Maroon Jersey S-4XL6",
@@ -68004,37 +67890,6 @@
       "coverUrl": "./assets/products/minkang/225670034/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:20:02.016Z",
-      "season": "2026/27"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "258451059",
-      "uniqueKey": "minkang:258451059",
-      "title": "Cruzeiro 26/27 Women's Originals Blue T-shirt S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258451059?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Brasileiro Série A",
-      "country": "Brazilië",
-      "competition": "Brasileiro Série A",
-      "club": "Cruzeiro",
-      "types": [
-        "Dames"
-      ],
-      "images": [
-        "./assets/albums/258451059/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/283966d7ae/medium.jpg"
-      ],
-      "coverUrl": "./assets/albums/258451059/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:25.606Z",
       "season": "2026/27"
     },
     {
@@ -78986,68 +78841,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "258420752",
-      "uniqueKey": "minkang:258420752",
-      "title": "Flamengo 26/27 Champion Edition Black Player Version Jersey S-3XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258420752?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Brasileiro Série A",
-      "country": "Brazilië",
-      "competition": "Brasileiro Série A",
-      "club": "Flamengo",
-      "types": [
-        "Player version"
-      ],
-      "images": [
-        "./assets/albums/258420752/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/ba9f65c5d5/medium.jpg"
-      ],
-      "coverUrl": "./assets/albums/258420752/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:25.607Z",
-      "season": "2026/27"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "258420825",
-      "uniqueKey": "minkang:258420825",
-      "title": "Flamengo 26/27 Champion Edition White and Brown Player Version Jersey S-3XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258420825?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Brasileiro Série A",
-      "country": "Brazilië",
-      "competition": "Brasileiro Série A",
-      "club": "Flamengo",
-      "types": [
-        "Player version"
-      ],
-      "images": [
-        "./assets/albums/258420825/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/6ad461786c/medium.jpg"
-      ],
-      "coverUrl": "./assets/albums/258420825/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:25.607Z",
-      "season": "2026/27"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "255027789",
       "uniqueKey": "minkang:255027789",
       "title": "Flamengo 26/27 Dry Jacquard Jersey S-XXL1",
@@ -79072,100 +78865,6 @@
       "coverUrl": "./assets/products/minkang/255027789/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:13:12.496Z",
-      "season": "2026/27"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "259415120",
-      "uniqueKey": "minkang:259415120",
-      "title": "Flamengo 26/27 EQT red Retro Jersey S-4XL5",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259415120?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Brasileiro Série A",
-      "country": "Brazilië",
-      "competition": "Brasileiro Série A",
-      "club": "Flamengo",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/259415120/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/d583c52224/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/259415120/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-24T19:44:03.471Z",
-      "season": "2026/27"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "258582418",
-      "uniqueKey": "minkang:258582418",
-      "title": "Flamengo 26/27 EQT White Player Version Retro Jersey S-3XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258582418?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Brasileiro Série A",
-      "country": "Brazilië",
-      "competition": "Brasileiro Série A",
-      "club": "Flamengo",
-      "types": [
-        "Retro",
-        "Player version"
-      ],
-      "images": [
-        "./assets/albums/258582418/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/afe5776d3b/medium.jpg"
-      ],
-      "coverUrl": "./assets/albums/258582418/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:25.606Z",
-      "season": "2026/27"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "259414941",
-      "uniqueKey": "minkang:259414941",
-      "title": "Flamengo 26/27 EQT White Retro Jersey S-4XL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259414941?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Brasileiro Série A",
-      "country": "Brazilië",
-      "competition": "Brasileiro Série A",
-      "club": "Flamengo",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/259414941/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/480c5d716c/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/259414941/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-24T19:44:03.471Z",
       "season": "2026/27"
     },
     {
@@ -86981,37 +86680,6 @@
       "coverUrl": "./assets/products/minkang/255800238/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:18:05.464Z",
-      "season": "2026/27"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "258143635",
-      "uniqueKey": "minkang:258143635",
-      "title": "Gremio 26/27 Third Away Player Version Jersey S-4XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258143635?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Brasileiro Série A",
-      "country": "Brazilië",
-      "competition": "Brasileiro Série A",
-      "club": "Grêmio",
-      "types": [
-        "Player version"
-      ],
-      "images": [
-        "./assets/albums/258143635/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/357124a128/medium.jpg"
-      ],
-      "coverUrl": "./assets/albums/258143635/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:25.607Z",
       "season": "2026/27"
     },
     {
@@ -99862,35 +99530,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "259415299",
-      "uniqueKey": "minkang:259415299",
-      "title": "Santos 26/27 Third Away Player Edition Jersey S-3XL9",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259415299?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Brasileiro Série A",
-      "country": "Brazilië",
-      "competition": "Brasileiro Série A",
-      "club": "Santos",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/259415299/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/02af7a2004/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/259415299/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-24T19:44:03.471Z",
-      "season": "2026/27"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "231415791",
       "uniqueKey": "minkang:231415791",
       "title": "Santos 26/27 Training Beige Size S-4XL6",
@@ -109809,37 +109448,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "258845526",
-      "uniqueKey": "minkang:258845526",
-      "title": "Vasco da Gama 26/27 Cirio de Nazare Commemorative Jersey S-4XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258845526?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Brasileiro Série A",
-      "country": "Brazilië",
-      "competition": "Brasileiro Série A",
-      "club": "Vasco da Gama",
-      "types": [
-        "Special edition"
-      ],
-      "images": [
-        "./assets/albums/258845526/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/d4111ad58f/medium.jpg"
-      ],
-      "coverUrl": "./assets/albums/258845526/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:25.607Z",
-      "season": "2026/27"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "225669809",
       "uniqueKey": "minkang:225669809",
       "title": "Vasco da Gama 26/27 Home All sponsors Jersey S-4XL2",
@@ -110230,37 +109838,6 @@
       "coverUrl": "./assets/products/minkang/257335919/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:20:34.686Z",
-      "season": "2026/27"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "258450922",
-      "uniqueKey": "minkang:258450922",
-      "title": "Vasco da Gama 26/27 Third away Women's Jersey S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258450922?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Brasileiro Série A",
-      "country": "Brazilië",
-      "competition": "Brasileiro Série A",
-      "club": "Vasco da Gama",
-      "types": [
-        "Dames"
-      ],
-      "images": [
-        "./assets/albums/258450922/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/42bcb603af/medium.jpg"
-      ],
-      "coverUrl": "./assets/albums/258450922/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:25.606Z",
       "season": "2026/27"
     },
     {
@@ -111634,66 +111211,6 @@
       "coverUrl": "./assets/products/minkang/254287507/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T00:14:00.469Z",
-      "season": "2026/27"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "258151278",
-      "uniqueKey": "minkang:258151278",
-      "title": "Vitória SC 26/27 Third Away Jersey S-4XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258151278?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Brasileiro Série A",
-      "country": "Brazilië",
-      "competition": "Brasileiro Série A",
-      "club": "Vitória",
-      "types": [],
-      "images": [
-        "./assets/albums/258151278/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/9ad07e995f/medium.jpg"
-      ],
-      "coverUrl": "./assets/albums/258151278/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:25.607Z",
-      "season": "2026/27"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "257640476",
-      "uniqueKey": "minkang:257640476",
-      "title": "Vitória SC 26/27 Third Away Kids Kit Size 16-282",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/257640476?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Brasileiro Série A",
-      "country": "Brazilië",
-      "competition": "Brasileiro Série A",
-      "club": "Vitória",
-      "types": [
-        "Kids"
-      ],
-      "images": [
-        "./assets/albums/257640476/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/71202f7419/medium.jpg"
-      ],
-      "coverUrl": "./assets/albums/257640476/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:25.607Z",
       "season": "2026/27"
     },
     {
@@ -128111,6 +127628,662 @@
       "imageCount": 1,
       "updatedAt": "2026-10-24T23:07:55.431Z",
       "season": "2025/26"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "259922833",
+      "uniqueKey": "minkang:259922833",
+      "title": "Barcelona 26/27 Cyan Collaboration Jersey S-4XL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259922833?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Barcelona",
+      "season": "2026/27",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/259922833/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/896fac9110/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/259922833/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:45.342Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "258581800",
+      "uniqueKey": "minkang:258581800",
+      "title": "Barcelona 26/27 Dark Blue Special Edition Jersey S-3XL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258581800?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Barcelona",
+      "season": "2026/27",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/albums/258581800/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/f4d7ede508/medium.jpg"
+      ],
+      "coverUrl": "./assets/albums/258581800/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:45.345Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "258581860",
+      "uniqueKey": "minkang:258581860",
+      "title": "Barcelona 26/27 Home Basketball Vest Jersey S-XXL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258581860?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Barcelona",
+      "season": "2026/27",
+      "types": [],
+      "images": [
+        "./assets/albums/258581860/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/2ffe995247/medium.jpg"
+      ],
+      "coverUrl": "./assets/albums/258581860/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:45.345Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "258581929",
+      "uniqueKey": "minkang:258581929",
+      "title": "Barcelona 26/27 Off-White Special Edition Player Version Polo Jersey S-3XL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258581929?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Barcelona",
+      "season": "2026/27",
+      "types": [
+        "Player version",
+        "Special edition"
+      ],
+      "images": [
+        "./assets/albums/258581929/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/2d36bbf3a6/medium.jpg"
+      ],
+      "coverUrl": "./assets/albums/258581929/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:45.345Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "258581989",
+      "uniqueKey": "minkang:258581989",
+      "title": "Barcelona 26/27 Off-White Special Edition Polo Jersey S-4XL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258581989?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Barcelona",
+      "season": "2026/27",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/albums/258581989/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/d47ea069db/medium.jpg"
+      ],
+      "coverUrl": "./assets/albums/258581989/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:45.345Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "260080820",
+      "uniqueKey": "minkang:260080820",
+      "title": "Barcelona 26/27 Special Edition Polo Retro Jersey2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/260080820?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Barcelona",
+      "season": "2026/27",
+      "types": [
+        "Retro",
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/minkang/260080820/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/10c5032b96/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/260080820/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:33.811Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "258581751",
+      "uniqueKey": "minkang:258581751",
+      "title": "Barcelona 100th Anniversary Retro Jersey S-XXL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258581751?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Barcelona",
+      "season": "Onbekend seizoen",
+      "types": [
+        "Retro",
+        "Special edition"
+      ],
+      "images": [
+        "./assets/albums/258581751/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/ac7685baa3/medium.jpg"
+      ],
+      "coverUrl": "./assets/albums/258581751/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:45.345Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "258420752",
+      "uniqueKey": "minkang:258420752",
+      "title": "Flamengo 26/27 Champion Edition Black Player Version Jersey S-3XL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258420752?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Flamengo",
+      "season": "2026/27",
+      "types": [
+        "Player version"
+      ],
+      "images": [
+        "./assets/albums/258420752/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/ba9f65c5d5/medium.jpg"
+      ],
+      "coverUrl": "./assets/albums/258420752/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:53:08.135Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "258420825",
+      "uniqueKey": "minkang:258420825",
+      "title": "Flamengo 26/27 Champion Edition White and Brown Player Version Jersey S-3XL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258420825?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Flamengo",
+      "season": "2026/27",
+      "types": [
+        "Player version"
+      ],
+      "images": [
+        "./assets/albums/258420825/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/6ad461786c/medium.jpg"
+      ],
+      "coverUrl": "./assets/albums/258420825/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:53:08.135Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "259415120",
+      "uniqueKey": "minkang:259415120",
+      "title": "Flamengo 26/27 EQT red Retro Jersey S-4XL5",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259415120?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Flamengo",
+      "season": "2026/27",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/259415120/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/d583c52224/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/259415120/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:53:08.133Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "258582418",
+      "uniqueKey": "minkang:258582418",
+      "title": "Flamengo 26/27 EQT White Player Version Retro Jersey S-3XL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258582418?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Flamengo",
+      "season": "2026/27",
+      "types": [
+        "Retro",
+        "Player version"
+      ],
+      "images": [
+        "./assets/albums/258582418/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/afe5776d3b/medium.jpg"
+      ],
+      "coverUrl": "./assets/albums/258582418/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:53:08.133Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "259414941",
+      "uniqueKey": "minkang:259414941",
+      "title": "Flamengo 26/27 EQT White Retro Jersey S-4XL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259414941?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Flamengo",
+      "season": "2026/27",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/259414941/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/480c5d716c/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/259414941/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:53:08.133Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "258676906",
+      "uniqueKey": "minkang:258676906",
+      "title": "Real Madrid 22/23 Pre-match Jerseys S-XXL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258676906?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Real Madrid",
+      "season": "2022/23",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/minkang/258676906/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/e515a63e77/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/258676906/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:45.343Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "258583322",
+      "uniqueKey": "minkang:258583322",
+      "title": "Real Madrid 26/27 EQT Black Player Version Retro Jersey S-3XL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258583322?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Real Madrid",
+      "season": "2026/27",
+      "types": [
+        "Retro",
+        "Player version"
+      ],
+      "images": [
+        "./assets/albums/258583322/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/e1226a9c8b/medium.jpg"
+      ],
+      "coverUrl": "./assets/albums/258583322/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:45.344Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "258583352",
+      "uniqueKey": "minkang:258583352",
+      "title": "Real Madrid 26/27 EQT Purple Player Version Retro Jersey S-3XL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258583352?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Real Madrid",
+      "season": "2026/27",
+      "types": [
+        "Retro",
+        "Player version"
+      ],
+      "images": [
+        "./assets/albums/258583352/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/7cca46b913/medium.jpg"
+      ],
+      "coverUrl": "./assets/albums/258583352/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:45.344Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "258583380",
+      "uniqueKey": "minkang:258583380",
+      "title": "Real Madrid 26/27 EQT Purple Retro Jersey S-4XL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258583380?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Real Madrid",
+      "season": "2026/27",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/albums/258583380/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/9c4d845066/medium.jpg"
+      ],
+      "coverUrl": "./assets/albums/258583380/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:45.344Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "258583422",
+      "uniqueKey": "minkang:258583422",
+      "title": "Real Madrid 26/27 EQT White Basketball Retro Jersey S-4XL1",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258583422?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Real Madrid",
+      "season": "2026/27",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/albums/258583422/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/0794b115e2/medium.jpg"
+      ],
+      "coverUrl": "./assets/albums/258583422/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:45.344Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "258583461",
+      "uniqueKey": "minkang:258583461",
+      "title": "Real Madrid 26/27 EQT White Player Version Retro Jersey S-3XL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258583461?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Real Madrid",
+      "season": "2026/27",
+      "types": [
+        "Retro",
+        "Player version"
+      ],
+      "images": [
+        "./assets/albums/258583461/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/33bc5e448d/medium.jpg"
+      ],
+      "coverUrl": "./assets/albums/258583461/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:45.344Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "258583503",
+      "uniqueKey": "minkang:258583503",
+      "title": "Real Madrid 26/27 EQT White Retro Jersey S-4XL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258583503?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Real Madrid",
+      "season": "2026/27",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/albums/258583503/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/bb9633f84a/medium.jpg"
+      ],
+      "coverUrl": "./assets/albums/258583503/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:45.344Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "258845450",
+      "uniqueKey": "minkang:258845450",
+      "title": "Real Madrid 26/27 White Special Edition Player Version Retro Jersey S-XXL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258845450?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Real Madrid",
+      "season": "2026/27",
+      "types": [
+        "Retro",
+        "Player version",
+        "Special edition"
+      ],
+      "images": [
+        "./assets/albums/258845450/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/2d1a09131a/medium.jpg"
+      ],
+      "coverUrl": "./assets/albums/258845450/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:56.769Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "258583540",
+      "uniqueKey": "minkang:258583540",
+      "title": "Real Madrid Y3 Black Special Edition Jersey S-XXL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258583540?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Real Madrid",
+      "season": "Onbekend seizoen",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/albums/258583540/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/c48bfb851e/medium.jpg"
+      ],
+      "coverUrl": "./assets/albums/258583540/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:45.343Z"
     },
     {
       "source": "yema007",
@@ -175458,66 +175631,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "259922833",
-      "uniqueKey": "minkang:259922833",
-      "title": "Barcelona 26/27 Cyan Collaboration Jersey S-4XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259922833?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "La Liga",
-      "country": "Spanje",
-      "competition": "La Liga",
-      "club": "Barcelona",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/259922833/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/896fac9110/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/259922833/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-24T19:43:40.548Z",
-      "season": "2026/27"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "258581800",
-      "uniqueKey": "minkang:258581800",
-      "title": "Barcelona 26/27 Dark Blue Special Edition Jersey S-3XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258581800?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "La Liga",
-      "country": "Spanje",
-      "competition": "La Liga",
-      "club": "Barcelona",
-      "types": [
-        "Special edition"
-      ],
-      "images": [
-        "./assets/albums/258581800/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/f4d7ede508/medium.jpg"
-      ],
-      "coverUrl": "./assets/albums/258581800/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:04.713Z",
-      "season": "2026/27"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "257636556",
       "uniqueKey": "minkang:257636556",
       "title": "Barcelona 26/27 Fourth Away Kids Kit Size 16-282",
@@ -175725,35 +175838,6 @@
       "coverUrl": "./assets/albums/239478937/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:04:42.578Z",
-      "season": "2026/27"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "258581860",
-      "uniqueKey": "minkang:258581860",
-      "title": "Barcelona 26/27 Home Basketball Vest Jersey S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258581860?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "La Liga",
-      "country": "Spanje",
-      "competition": "La Liga",
-      "club": "Barcelona",
-      "types": [],
-      "images": [
-        "./assets/albums/258581860/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/2ffe995247/medium.jpg"
-      ],
-      "coverUrl": "./assets/albums/258581860/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:04.713Z",
       "season": "2026/27"
     },
     {
@@ -176028,69 +176112,6 @@
       "coverUrl": "./assets/products/minkang/226515335/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:07:22.867Z",
-      "season": "2026/27"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "258581929",
-      "uniqueKey": "minkang:258581929",
-      "title": "Barcelona 26/27 Off-White Special Edition Player Version Polo Jersey S-3XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258581929?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "La Liga",
-      "country": "Spanje",
-      "competition": "La Liga",
-      "club": "Barcelona",
-      "types": [
-        "Player version",
-        "Special edition"
-      ],
-      "images": [
-        "./assets/albums/258581929/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/2d36bbf3a6/medium.jpg"
-      ],
-      "coverUrl": "./assets/albums/258581929/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:04.713Z",
-      "season": "2026/27"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "258581989",
-      "uniqueKey": "minkang:258581989",
-      "title": "Barcelona 26/27 Off-White Special Edition Polo Jersey S-4XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258581989?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "La Liga",
-      "country": "Spanje",
-      "competition": "La Liga",
-      "club": "Barcelona",
-      "types": [
-        "Special edition"
-      ],
-      "images": [
-        "./assets/albums/258581989/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/d47ea069db/medium.jpg"
-      ],
-      "coverUrl": "./assets/albums/258581989/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:04.713Z",
       "season": "2026/27"
     },
     {
@@ -176374,38 +176395,6 @@
       "coverUrl": "./assets/products/minkang/238460625/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:07:05.450Z",
-      "season": "2026/27"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "260080820",
-      "uniqueKey": "minkang:260080820",
-      "title": "Barcelona 26/27 Special Edition Polo Retro Jersey2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/260080820?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "La Liga",
-      "country": "Spanje",
-      "competition": "La Liga",
-      "club": "Barcelona",
-      "types": [
-        "Retro",
-        "Special edition"
-      ],
-      "images": [
-        "./assets/products/minkang/260080820/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/10c5032b96/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/260080820/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-24T19:43:29.459Z",
       "season": "2026/27"
     },
     {
@@ -177077,38 +177066,6 @@
       "coverUrl": "./assets/products/minkang/214510321/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:07:57.970Z",
-      "season": "Onbekend seizoen"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "258581751",
-      "uniqueKey": "minkang:258581751",
-      "title": "Barcelona 100th Anniversary Retro Jersey S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258581751?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "La Liga",
-      "country": "Spanje",
-      "competition": "La Liga",
-      "club": "Barcelona",
-      "types": [
-        "Retro",
-        "Special edition"
-      ],
-      "images": [
-        "./assets/albums/258581751/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/ac7685baa3/medium.jpg"
-      ],
-      "coverUrl": "./assets/albums/258581751/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:04.713Z",
       "season": "Onbekend seizoen"
     },
     {
@@ -177921,37 +177878,6 @@
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:08:51.706Z",
       "season": "Onbekend seizoen"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "259451486",
-      "uniqueKey": "minkang:259451486",
-      "title": "Celta Vigo 98/99 Home Champions League Retro Jersey S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259451486?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "La Liga",
-      "country": "Spanje",
-      "competition": "La Liga",
-      "club": "Celta Vigo",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/259451486/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/c1701eae7f/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/259451486/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-24T19:43:40.548Z",
-      "season": "1998/99"
     },
     {
       "source": "yema007",
@@ -179788,37 +179714,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "258446448",
-      "uniqueKey": "minkang:258446448",
-      "title": "RCD Espanyol 26/27 Home Kids Kit Size 16-282",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258446448?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "La Liga",
-      "country": "Spanje",
-      "competition": "La Liga",
-      "club": "Espanyol",
-      "types": [
-        "Kids"
-      ],
-      "images": [
-        "./assets/albums/258446448/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/1d70f82dce/medium.jpg"
-      ],
-      "coverUrl": "./assets/albums/258446448/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:04.713Z",
-      "season": "2026/27"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "254281703",
       "uniqueKey": "minkang:254281703",
       "title": "RCD Espanyol 26/27 Third away Jersey S-4XL2",
@@ -180330,37 +180225,6 @@
       "coverUrl": "./assets/products/minkang/256215576/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T00:01:28.770Z",
-      "season": "2026/27"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "258675577",
-      "uniqueKey": "minkang:258675577",
-      "title": "Getafe CF 26/27 UEFA Conference League Special Edition Jersey S-4XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258675577?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "La Liga",
-      "country": "Spanje",
-      "competition": "La Liga",
-      "club": "Getafe",
-      "types": [
-        "Special edition"
-      ],
-      "images": [
-        "./assets/albums/258675577/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/ecbeec07d1/medium.jpg"
-      ],
-      "coverUrl": "./assets/albums/258675577/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:01:54.260Z",
       "season": "2026/27"
     },
     {
@@ -189485,37 +189349,6 @@
       "coverUrl": "./assets/products/minkang/253957029/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:57:10.725Z",
-      "season": "2026/27"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "259116408",
-      "uniqueKey": "minkang:259116408",
-      "title": "Real Betis 26/27 Green Windbreaker Training Kit S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259116408?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "La Liga",
-      "country": "Spanje",
-      "competition": "La Liga",
-      "club": "Real Betis",
-      "types": [
-        "Training"
-      ],
-      "images": [
-        "./assets/products/minkang/259116408/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/bd724e9e4e/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/259116408/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-24T19:43:40.548Z",
       "season": "2026/27"
     },
     {
@@ -204234,37 +204067,6 @@
       "coverUrl": "./assets/products/minkang/213143947/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:54:01.224Z",
-      "season": "2022/23"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "258676906",
-      "uniqueKey": "minkang:258676906",
-      "title": "Real Madrid 22/23 Pre-match Jerseys S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258676906?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "La Liga",
-      "country": "Spanje",
-      "competition": "La Liga",
-      "club": "Real Madrid",
-      "types": [
-        "Training"
-      ],
-      "images": [
-        "./assets/products/minkang/258676906/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/e515a63e77/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/258676906/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-24T19:43:40.548Z",
       "season": "2022/23"
     },
     {
@@ -232458,38 +232260,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "258583322",
-      "uniqueKey": "minkang:258583322",
-      "title": "Real Madrid 26/27 EQT Black Player Version Retro Jersey S-3XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258583322?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "La Liga",
-      "country": "Spanje",
-      "competition": "La Liga",
-      "club": "Real Madrid",
-      "types": [
-        "Retro",
-        "Player version"
-      ],
-      "images": [
-        "./assets/albums/258583322/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/e1226a9c8b/medium.jpg"
-      ],
-      "coverUrl": "./assets/albums/258583322/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:04.713Z",
-      "season": "2026/27"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "256428277",
       "uniqueKey": "minkang:256428277",
       "title": "Real Madrid 26/27 EQT Black Retro Jersey S-4XL2",
@@ -232516,163 +232286,6 @@
       "coverUrl": "./assets/products/minkang/256428277/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:51:34.932Z",
-      "season": "2026/27"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "258583352",
-      "uniqueKey": "minkang:258583352",
-      "title": "Real Madrid 26/27 EQT Purple Player Version Retro Jersey S-3XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258583352?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "La Liga",
-      "country": "Spanje",
-      "competition": "La Liga",
-      "club": "Real Madrid",
-      "types": [
-        "Retro",
-        "Player version"
-      ],
-      "images": [
-        "./assets/albums/258583352/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/7cca46b913/medium.jpg"
-      ],
-      "coverUrl": "./assets/albums/258583352/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:04.713Z",
-      "season": "2026/27"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "258583380",
-      "uniqueKey": "minkang:258583380",
-      "title": "Real Madrid 26/27 EQT Purple Retro Jersey S-4XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258583380?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "La Liga",
-      "country": "Spanje",
-      "competition": "La Liga",
-      "club": "Real Madrid",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/albums/258583380/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/9c4d845066/medium.jpg"
-      ],
-      "coverUrl": "./assets/albums/258583380/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:04.712Z",
-      "season": "2026/27"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "258583422",
-      "uniqueKey": "minkang:258583422",
-      "title": "Real Madrid 26/27 EQT White Basketball Retro Jersey S-4XL1",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258583422?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "La Liga",
-      "country": "Spanje",
-      "competition": "La Liga",
-      "club": "Real Madrid",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/albums/258583422/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/0794b115e2/medium.jpg"
-      ],
-      "coverUrl": "./assets/albums/258583422/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:04.713Z",
-      "season": "2026/27"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "258583461",
-      "uniqueKey": "minkang:258583461",
-      "title": "Real Madrid 26/27 EQT White Player Version Retro Jersey S-3XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258583461?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "La Liga",
-      "country": "Spanje",
-      "competition": "La Liga",
-      "club": "Real Madrid",
-      "types": [
-        "Retro",
-        "Player version"
-      ],
-      "images": [
-        "./assets/albums/258583461/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/33bc5e448d/medium.jpg"
-      ],
-      "coverUrl": "./assets/albums/258583461/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:04.712Z",
-      "season": "2026/27"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "258583503",
-      "uniqueKey": "minkang:258583503",
-      "title": "Real Madrid 26/27 EQT White Retro Jersey S-4XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258583503?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "La Liga",
-      "country": "Spanje",
-      "competition": "La Liga",
-      "club": "Real Madrid",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/albums/258583503/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/bb9633f84a/medium.jpg"
-      ],
-      "coverUrl": "./assets/albums/258583503/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:04.712Z",
       "season": "2026/27"
     },
     {
@@ -233897,39 +233510,6 @@
       "coverUrl": "./assets/products/minkang/252314988/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:52:11.907Z",
-      "season": "2026/27"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "258845450",
-      "uniqueKey": "minkang:258845450",
-      "title": "Real Madrid 26/27 White Special Edition Player Version Retro Jersey S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258845450?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "La Liga",
-      "country": "Spanje",
-      "competition": "La Liga",
-      "club": "Real Madrid",
-      "types": [
-        "Retro",
-        "Player version",
-        "Special edition"
-      ],
-      "images": [
-        "./assets/albums/258845450/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/2d1a09131a/medium.jpg"
-      ],
-      "coverUrl": "./assets/albums/258845450/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:04.713Z",
       "season": "2026/27"
     },
     {
@@ -235197,37 +234777,6 @@
       "coverUrl": "./assets/products/popmo/208466438/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T13:28:32.083Z",
-      "season": "Onbekend seizoen"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "258583540",
-      "uniqueKey": "minkang:258583540",
-      "title": "Real Madrid Y3 Black Special Edition Jersey S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258583540?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "La Liga",
-      "country": "Spanje",
-      "competition": "La Liga",
-      "club": "Real Madrid",
-      "types": [
-        "Special edition"
-      ],
-      "images": [
-        "./assets/albums/258583540/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/c48bfb851e/medium.jpg"
-      ],
-      "coverUrl": "./assets/albums/258583540/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:04.712Z",
       "season": "Onbekend seizoen"
     },
     {
@@ -452404,6 +451953,37 @@
       "season": "2020"
     },
     {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "259922913",
+      "uniqueKey": "minkang:259922913",
+      "title": "Brazil 2026 Dark Green Special Edition Jersey S-4XL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259922913?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Brazil",
+      "competition": "WK & landenteams",
+      "club": "Brazil",
+      "season": "2020/26",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/minkang/259922913/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/f450fb5f7c/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/259922913/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:53:08.137Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237528978",
@@ -462508,37 +462088,6 @@
       "coverUrl": "./assets/albums/252314431/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:03:08.342Z",
-      "season": "2026"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "259922913",
-      "uniqueKey": "minkang:259922913",
-      "title": "Brazil 2026 Dark Green Special Edition Jersey S-4XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259922913?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Brazil",
-      "competition": "WK & landenteams",
-      "club": "Brazil",
-      "types": [
-        "Special edition"
-      ],
-      "images": [
-        "./assets/products/minkang/259922913/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/f450fb5f7c/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/259922913/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-24T19:44:03.471Z",
       "season": "2026"
     },
     {
@@ -497821,6 +497370,68 @@
       "season": "2020/21"
     },
     {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "259923289",
+      "uniqueKey": "minkang:259923289",
+      "title": "Germany 2026 EQT Green Long-Sleeve Crew Neck Sweatshirt S-4XL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259923289?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Germany",
+      "competition": "WK & landenteams",
+      "club": "Germany",
+      "season": "2020/26",
+      "types": [
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/minkang/259923289/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/3defdd5af1/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/259923289/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:45.342Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "259923325",
+      "uniqueKey": "minkang:259923325",
+      "title": "Germany 2026 Third Away Kids Kit Jersey Size 16-282",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259923325?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Germany",
+      "competition": "WK & landenteams",
+      "club": "Germany",
+      "season": "2020/26",
+      "types": [
+        "Kids"
+      ],
+      "images": [
+        "./assets/products/minkang/259923325/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/6c837ea0a3/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/259923325/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:45.342Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237529478",
@@ -504192,37 +503803,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "259923289",
-      "uniqueKey": "minkang:259923289",
-      "title": "Germany 2026 EQT Green Long-Sleeve Crew Neck Sweatshirt S-4XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259923289?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Germany",
-      "competition": "WK & landenteams",
-      "club": "Germany",
-      "types": [
-        "Lange mouw"
-      ],
-      "images": [
-        "./assets/products/minkang/259923289/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/3defdd5af1/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/259923289/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-24T19:43:40.547Z",
-      "season": "2026"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "223116322",
       "uniqueKey": "minkang:223116322",
       "title": "Germany 2026 GK- Green Jersey S-4XL7",
@@ -504903,37 +504483,6 @@
       "coverUrl": "./assets/products/minkang/256508790/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T00:13:26.780Z",
-      "season": "2026"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "259923325",
-      "uniqueKey": "minkang:259923325",
-      "title": "Germany 2026 Third Away Kids Kit Jersey Size 16-282",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259923325?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Germany",
-      "competition": "WK & landenteams",
-      "club": "Germany",
-      "types": [
-        "Kids"
-      ],
-      "images": [
-        "./assets/products/minkang/259923325/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/6c837ea0a3/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/259923325/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-24T19:43:40.547Z",
       "season": "2026"
     },
     {
@@ -508277,6 +507826,37 @@
       "imageCount": 1,
       "updatedAt": "2026-10-24T03:16:04.415Z",
       "season": "2020/21"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "259923375",
+      "uniqueKey": "minkang:259923375",
+      "title": "Italy 2026 EQT White Retro Jersey S-XXL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259923375?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Italy",
+      "competition": "WK & landenteams",
+      "club": "Italy",
+      "season": "2020/26",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/259923375/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/ba47569745/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/259923375/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:33.813Z"
     },
     {
       "source": "yema007",
@@ -512992,37 +512572,6 @@
       "coverUrl": "./assets/products/minkang/235528045/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T00:19:57.281Z",
-      "season": "2026"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "259923375",
-      "uniqueKey": "minkang:259923375",
-      "title": "Italy 2026 EQT White Retro Jersey S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259923375?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Italy",
-      "competition": "WK & landenteams",
-      "club": "Italy",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/259923375/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/ba47569745/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/259923375/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-24T19:43:29.460Z",
       "season": "2026"
     },
     {
@@ -527112,6 +526661,66 @@
       "season": "2014"
     },
     {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "259923571",
+      "uniqueKey": "minkang:259923571",
+      "title": "Mexico 2026 100th Anniversary Red Commemorative Jersey S-4XL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259923571?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Mexico",
+      "competition": "WK & landenteams",
+      "club": "Mexico",
+      "season": "2020/26",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/minkang/259923571/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/a8bcc97588/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/259923571/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:33.812Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "259923603",
+      "uniqueKey": "minkang:259923603",
+      "title": "Mexico 2026 x Willy Chavarria AO (with name and number) Green Jersey S-4XL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259923603?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Mexico",
+      "competition": "WK & landenteams",
+      "club": "Mexico",
+      "season": "2020/26",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/259923603/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/dbac8f1c32/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/259923603/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:33.812Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237458755",
@@ -531993,37 +531602,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "259923571",
-      "uniqueKey": "minkang:259923571",
-      "title": "Mexico 2026 100th Anniversary Red Commemorative Jersey S-4XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259923571?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Mexico",
-      "competition": "WK & landenteams",
-      "club": "Mexico",
-      "types": [
-        "Special edition"
-      ],
-      "images": [
-        "./assets/products/minkang/259923571/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/a8bcc97588/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/259923571/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-24T19:43:29.460Z",
-      "season": "2026"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "247787092",
       "uniqueKey": "minkang:247787092",
       "title": "Mexico 2026 All Weather Jacket Windbreaker - Black S-XXL8",
@@ -533192,35 +532770,6 @@
       "coverUrl": "./assets/products/minkang/226515916/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T00:22:36.359Z",
-      "season": "2026"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "259923603",
-      "uniqueKey": "minkang:259923603",
-      "title": "Mexico 2026 x Willy Chavarria AO (with name and number) Green Jersey S-4XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259923603?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Mexico",
-      "competition": "WK & landenteams",
-      "club": "Mexico",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/259923603/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/dbac8f1c32/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/259923603/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-24T19:43:29.460Z",
       "season": "2026"
     },
     {
@@ -542228,6 +541777,37 @@
       "season": "1998/99"
     },
     {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "259923645",
+      "uniqueKey": "minkang:259923645",
+      "title": "Norway 2026 Black (with Name Haaland #9) Special Edition Jersey S-4XL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259923645?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Norway",
+      "competition": "WK & landenteams",
+      "club": "Norway",
+      "season": "2020/26",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/minkang/259923645/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/ffa73a2a05/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/259923645/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:33.812Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237237880",
@@ -542585,37 +542165,6 @@
       "coverUrl": "./assets/products/minkang/234182293/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T00:20:19.985Z",
-      "season": "2026"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "259923645",
-      "uniqueKey": "minkang:259923645",
-      "title": "Norway 2026 Black (with Name Haaland #9) Special Edition Jersey S-4XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259923645?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Norway",
-      "competition": "WK & landenteams",
-      "club": "Norway",
-      "types": [
-        "Special edition"
-      ],
-      "images": [
-        "./assets/products/minkang/259923645/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/ffa73a2a05/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/259923645/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-24T19:43:29.460Z",
       "season": "2026"
     },
     {
@@ -546681,6 +546230,37 @@
       "imageCount": 1,
       "updatedAt": "2026-10-24T00:24:26.122Z",
       "season": "2020/21"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "259923734",
+      "uniqueKey": "minkang:259923734",
+      "title": "Portugal 2026 Black Special Edition Jersey S-4XL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259923734?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Portugal",
+      "competition": "WK & landenteams",
+      "club": "Portugal",
+      "season": "2020/26",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/minkang/259923734/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/bee14af884/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/259923734/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:33.812Z"
     },
     {
       "source": "yema007",
@@ -553225,37 +552805,6 @@
       "coverUrl": "./assets/products/minkang/217110948/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T00:26:59.394Z",
-      "season": "2026"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "259923734",
-      "uniqueKey": "minkang:259923734",
-      "title": "Portugal 2026 Black Special Edition Jersey S-4XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259923734?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Portugal",
-      "competition": "WK & landenteams",
-      "club": "Portugal",
-      "types": [
-        "Special edition"
-      ],
-      "images": [
-        "./assets/products/minkang/259923734/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/bee14af884/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/259923734/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-24T19:43:29.460Z",
       "season": "2026"
     },
     {
@@ -562094,6 +561643,685 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "248186871",
+      "uniqueKey": "minkang:248186871",
+      "title": "Spain 2026 2 Stars Special Edition Jersey - Blue S-4XL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/248186871?uid=1&isSubCate=false&referrercate=5211803",
+      "categoryId": null,
+      "collectionId": "5211803",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Spain",
+      "competition": "WK & landenteams",
+      "club": "Spain",
+      "season": "2020/26",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/albums/248186871/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/949face737/medium.jpg"
+      ],
+      "coverUrl": "./assets/albums/248186871/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:56.770Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "246422169",
+      "uniqueKey": "minkang:246422169",
+      "title": "Spain 2026 Away 2-Star Champion Edition Jersey S-4XL10",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/246422169?uid=1&isSubCate=false&referrercate=5211803",
+      "categoryId": null,
+      "collectionId": "5211803",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Spain",
+      "competition": "WK & landenteams",
+      "club": "Spain",
+      "season": "2020/26",
+      "types": [],
+      "images": [
+        "./assets/albums/246422169/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/046e58318a/medium.png"
+      ],
+      "coverUrl": "./assets/albums/246422169/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:56.771Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "246424210",
+      "uniqueKey": "minkang:246424210",
+      "title": "Spain 2026 Away 2-Star Champion Edition Kids Kit Jersey Size 16-2811",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/246424210?uid=1&isSubCate=false&referrercate=5211803",
+      "categoryId": null,
+      "collectionId": "5211803",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Spain",
+      "competition": "WK & landenteams",
+      "club": "Spain",
+      "season": "2020/26",
+      "types": [
+        "Kids"
+      ],
+      "images": [
+        "./assets/albums/246424210/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/a5f8c07ff6/medium.png"
+      ],
+      "coverUrl": "./assets/albums/246424210/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:56.770Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "246527524",
+      "uniqueKey": "minkang:246527524",
+      "title": "Spain 2026 Away 2-Star Champion Edition Long Sleeve Jersey S-3XL10",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/246527524?uid=1&isSubCate=false&referrercate=5211803",
+      "categoryId": null,
+      "collectionId": "5211803",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Spain",
+      "competition": "WK & landenteams",
+      "club": "Spain",
+      "season": "2020/26",
+      "types": [
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/albums/246527524/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/17fc3879db/medium.png"
+      ],
+      "coverUrl": "./assets/albums/246527524/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:56.771Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "246422285",
+      "uniqueKey": "minkang:246422285",
+      "title": "Spain 2026 Away 2-Star Champion Edition Player Version Jersey S-4XL11",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/246422285?uid=1&isSubCate=false&referrercate=5211803",
+      "categoryId": null,
+      "collectionId": "5211803",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Spain",
+      "competition": "WK & landenteams",
+      "club": "Spain",
+      "season": "2020/26",
+      "types": [
+        "Player version"
+      ],
+      "images": [
+        "./assets/albums/246422285/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/37ead63a62/medium.png"
+      ],
+      "coverUrl": "./assets/albums/246422285/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:56.771Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "246655466",
+      "uniqueKey": "minkang:246655466",
+      "title": "Spain 2026 Away 2-Star Champion Edition Player Version Long sleeves Jersey S-4XL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/246655466?uid=1&isSubCate=false&referrercate=5211803",
+      "categoryId": null,
+      "collectionId": "5211803",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Spain",
+      "competition": "WK & landenteams",
+      "club": "Spain",
+      "season": "2020/26",
+      "types": [
+        "Player version"
+      ],
+      "images": [
+        "./assets/albums/246655466/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/2fa3597223/medium.png"
+      ],
+      "coverUrl": "./assets/albums/246655466/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:56.772Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "246960661",
+      "uniqueKey": "minkang:246960661",
+      "title": "Spain 2026 Away 2-Star Champion Edition Womens Crop Jersey S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/246960661?uid=1&isSubCate=false&referrercate=5211803",
+      "categoryId": null,
+      "collectionId": "5211803",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Spain",
+      "competition": "WK & landenteams",
+      "club": "Spain",
+      "season": "2020/26",
+      "types": [
+        "Dames"
+      ],
+      "images": [
+        "./assets/albums/246960661/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/ead3c32908/medium.jpg"
+      ],
+      "coverUrl": "./assets/albums/246960661/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:56.770Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "231476896",
+      "uniqueKey": "minkang:231476896",
+      "title": "Spain 2026 Away Jersey S-4XL10",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/231476896?uid=1&isSubCate=false&referrercate=5211803",
+      "categoryId": null,
+      "collectionId": "5211803",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Spain",
+      "competition": "WK & landenteams",
+      "club": "Spain",
+      "season": "2020/26",
+      "types": [],
+      "images": [
+        "./assets/albums/231476896/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/e35a9d7267/medium.png"
+      ],
+      "coverUrl": "./assets/albums/231476896/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:56.771Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "234793692",
+      "uniqueKey": "minkang:234793692",
+      "title": "Spain 2026 Away Kids Kit Jersey Size 16-2813",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/234793692?uid=1&isSubCate=false&referrercate=5211803",
+      "categoryId": null,
+      "collectionId": "5211803",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Spain",
+      "competition": "WK & landenteams",
+      "club": "Spain",
+      "season": "2020/26",
+      "types": [
+        "Kids"
+      ],
+      "images": [
+        "./assets/albums/234793692/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/f8feb60a44/medium.png"
+      ],
+      "coverUrl": "./assets/albums/234793692/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:56.770Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "233498495",
+      "uniqueKey": "minkang:233498495",
+      "title": "Spain 2026 Away Long Sleeve Jersey S-3XL10",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/233498495?uid=1&isSubCate=false&referrercate=5211803",
+      "categoryId": null,
+      "collectionId": "5211803",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Spain",
+      "competition": "WK & landenteams",
+      "club": "Spain",
+      "season": "2020/26",
+      "types": [
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/albums/233498495/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/0abff05870/medium.png"
+      ],
+      "coverUrl": "./assets/albums/233498495/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:56.771Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "231421137",
+      "uniqueKey": "minkang:231421137",
+      "title": "Spain 2026 Away Player Version Jersey S-4XL12",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/231421137?uid=1&isSubCate=false&referrercate=5211803",
+      "categoryId": null,
+      "collectionId": "5211803",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Spain",
+      "competition": "WK & landenteams",
+      "club": "Spain",
+      "season": "2020/26",
+      "types": [
+        "Player version"
+      ],
+      "images": [
+        "./assets/albums/231421137/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/62e3fb7a3e/medium.png"
+      ],
+      "coverUrl": "./assets/albums/231421137/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:56.771Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "234793843",
+      "uniqueKey": "minkang:234793843",
+      "title": "Spain 2026 Away Player Version Long Sleeve Jersey S-4XL10",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/234793843?uid=1&isSubCate=false&referrercate=5211803",
+      "categoryId": null,
+      "collectionId": "5211803",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Spain",
+      "competition": "WK & landenteams",
+      "club": "Spain",
+      "season": "2020/26",
+      "types": [
+        "Lange mouw",
+        "Player version"
+      ],
+      "images": [
+        "./assets/albums/234793843/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/355ddeb1dc/medium.png"
+      ],
+      "coverUrl": "./assets/albums/234793843/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:56.771Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "232206457",
+      "uniqueKey": "minkang:232206457",
+      "title": "Spain 2026 Away Women's Jersey S-XXL10",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/232206457?uid=1&isSubCate=false&referrercate=5211803",
+      "categoryId": null,
+      "collectionId": "5211803",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Spain",
+      "competition": "WK & landenteams",
+      "club": "Spain",
+      "season": "2020/26",
+      "types": [
+        "Dames"
+      ],
+      "images": [
+        "./assets/albums/232206457/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/35b84ae99b/medium.png"
+      ],
+      "coverUrl": "./assets/albums/232206457/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:56.770Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "259923814",
+      "uniqueKey": "minkang:259923814",
+      "title": "Spain 2026 EQT Navy Blue Long-Sleeve Crew Neck Sweatshirt S-4XL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259923814?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Spain",
+      "competition": "WK & landenteams",
+      "club": "Spain",
+      "season": "2020/26",
+      "types": [
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/minkang/259923814/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/a839044380/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/259923814/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:33.812Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "246423815",
+      "uniqueKey": "minkang:246423815",
+      "title": "Spain 2026 Home 2-Star Champion Edition Kids Kit Jersey Size 16-2814",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/246423815?uid=1&isSubCate=false&referrercate=5211803",
+      "categoryId": null,
+      "collectionId": "5211803",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Spain",
+      "competition": "WK & landenteams",
+      "club": "Spain",
+      "season": "2020/26",
+      "types": [
+        "Kids"
+      ],
+      "images": [
+        "./assets/albums/246423815/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/3343ea825c/medium.png"
+      ],
+      "coverUrl": "./assets/albums/246423815/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:56.772Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "247099773",
+      "uniqueKey": "minkang:247099773",
+      "title": "Spain 2026 Home 2-Star Champion Edition Womens Crop Jersey S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/247099773?uid=1&isSubCate=false&referrercate=5211803",
+      "categoryId": null,
+      "collectionId": "5211803",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Spain",
+      "competition": "WK & landenteams",
+      "club": "Spain",
+      "season": "2020/26",
+      "types": [
+        "Dames"
+      ],
+      "images": [
+        "./assets/albums/247099773/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/791dc7aa21/medium.jpg"
+      ],
+      "coverUrl": "./assets/albums/247099773/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:53:08.125Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "259923907",
+      "uniqueKey": "minkang:259923907",
+      "title": "Spain 2026 Home Blue Player Version Shorts S-XXL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259923907?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Spain",
+      "competition": "WK & landenteams",
+      "club": "Spain",
+      "season": "2020/26",
+      "types": [
+        "Player version"
+      ],
+      "images": [
+        "./assets/products/minkang/259923907/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/f28f65b436/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/259923907/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:33.812Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "217630124",
+      "uniqueKey": "minkang:217630124",
+      "title": "Spain 2026 Home Kids Kit Jersey Size 16-2813",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/217630124?uid=1&isSubCate=false&referrercate=5211803",
+      "categoryId": null,
+      "collectionId": "5211803",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Spain",
+      "competition": "WK & landenteams",
+      "club": "Spain",
+      "season": "2020/26",
+      "types": [
+        "Kids"
+      ],
+      "images": [
+        "./assets/albums/217630124/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/5dc34448d1/medium.png"
+      ],
+      "coverUrl": "./assets/albums/217630124/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:56.772Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "247790610",
+      "uniqueKey": "minkang:247790610",
+      "title": "Spain 2026 Special Edition 2-Star - Black Jersey S-4XL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/247790610?uid=1&isSubCate=false&referrercate=5211803",
+      "categoryId": null,
+      "collectionId": "5211803",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Spain",
+      "competition": "WK & landenteams",
+      "club": "Spain",
+      "season": "2020/26",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/albums/247790610/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/4fd68f2371/medium.jpg"
+      ],
+      "coverUrl": "./assets/albums/247790610/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:56.770Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "247790784",
+      "uniqueKey": "minkang:247790784",
+      "title": "Spain 2026 Special Edition 2-Star - Red Jersey S-4XL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/247790784?uid=1&isSubCate=false&referrercate=5211803",
+      "categoryId": null,
+      "collectionId": "5211803",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Spain",
+      "competition": "WK & landenteams",
+      "club": "Spain",
+      "season": "2020/26",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/albums/247790784/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/f7b1b4cbe1/medium.jpg"
+      ],
+      "coverUrl": "./assets/albums/247790784/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:56.770Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "246422107",
+      "uniqueKey": "minkang:246422107",
+      "title": "Spain 2026 Women's Away 2-Star Champion Edition Jersey S-XXL10",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/246422107?uid=1&isSubCate=false&referrercate=5211803",
+      "categoryId": null,
+      "collectionId": "5211803",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Spain",
+      "competition": "WK & landenteams",
+      "club": "Spain",
+      "season": "2020/26",
+      "types": [
+        "Dames"
+      ],
+      "images": [
+        "./assets/albums/246422107/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/993f831e11/medium.png"
+      ],
+      "coverUrl": "./assets/albums/246422107/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:56.771Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "259923849",
+      "uniqueKey": "minkang:259923849",
+      "title": "Spain 2026 x Spiderman Black Special Edition Jersey S-XXL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259923849?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Spain",
+      "competition": "WK & landenteams",
+      "club": "Spain",
+      "season": "2020/26",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/minkang/259923849/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/792e27bbae/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/259923849/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:33.812Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "222043287",
       "uniqueKey": "minkang:222043287",
       "title": "Spain 2021 Away Retro Jersey S-XXL8",
@@ -566509,37 +566737,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "248186871",
-      "uniqueKey": "minkang:248186871",
-      "title": "Spain 2026 2 Stars Special Edition Jersey - Blue S-4XL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/248186871?uid=1&isSubCate=false&referrercate=5211803",
-      "categoryId": null,
-      "collectionId": "5211803",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Spain",
-      "competition": "WK & landenteams",
-      "club": "Spain",
-      "types": [
-        "Special edition"
-      ],
-      "images": [
-        "./assets/albums/248186871/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/949face737/medium.jpg"
-      ],
-      "coverUrl": "./assets/albums/248186871/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:15.122Z",
-      "season": "2026"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "251868489",
       "uniqueKey": "minkang:251868489",
       "title": "Spain 2026 2 Stars Special Edition Womens Jersey - Maroon S-XXL2",
@@ -566601,190 +566798,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "246422169",
-      "uniqueKey": "minkang:246422169",
-      "title": "Spain 2026 Away 2-Star Champion Edition Jersey S-4XL10",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/246422169?uid=1&isSubCate=false&referrercate=5211803",
-      "categoryId": null,
-      "collectionId": "5211803",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Spain",
-      "competition": "WK & landenteams",
-      "club": "Spain",
-      "types": [],
-      "images": [
-        "./assets/albums/246422169/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/046e58318a/medium.png"
-      ],
-      "coverUrl": "./assets/albums/246422169/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:15.123Z",
-      "season": "2026"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "246424210",
-      "uniqueKey": "minkang:246424210",
-      "title": "Spain 2026 Away 2-Star Champion Edition Kids Kit Jersey Size 16-2811",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/246424210?uid=1&isSubCate=false&referrercate=5211803",
-      "categoryId": null,
-      "collectionId": "5211803",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Spain",
-      "competition": "WK & landenteams",
-      "club": "Spain",
-      "types": [
-        "Kids"
-      ],
-      "images": [
-        "./assets/albums/246424210/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/a5f8c07ff6/medium.png"
-      ],
-      "coverUrl": "./assets/albums/246424210/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:15.122Z",
-      "season": "2026"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "246527524",
-      "uniqueKey": "minkang:246527524",
-      "title": "Spain 2026 Away 2-Star Champion Edition Long Sleeve Jersey S-3XL10",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/246527524?uid=1&isSubCate=false&referrercate=5211803",
-      "categoryId": null,
-      "collectionId": "5211803",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Spain",
-      "competition": "WK & landenteams",
-      "club": "Spain",
-      "types": [
-        "Lange mouw"
-      ],
-      "images": [
-        "./assets/albums/246527524/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/17fc3879db/medium.png"
-      ],
-      "coverUrl": "./assets/albums/246527524/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:15.123Z",
-      "season": "2026"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "246422285",
-      "uniqueKey": "minkang:246422285",
-      "title": "Spain 2026 Away 2-Star Champion Edition Player Version Jersey S-4XL11",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/246422285?uid=1&isSubCate=false&referrercate=5211803",
-      "categoryId": null,
-      "collectionId": "5211803",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Spain",
-      "competition": "WK & landenteams",
-      "club": "Spain",
-      "types": [
-        "Player version"
-      ],
-      "images": [
-        "./assets/albums/246422285/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/37ead63a62/medium.png"
-      ],
-      "coverUrl": "./assets/albums/246422285/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:15.123Z",
-      "season": "2026"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "246655466",
-      "uniqueKey": "minkang:246655466",
-      "title": "Spain 2026 Away 2-Star Champion Edition Player Version Long sleeves Jersey S-4XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/246655466?uid=1&isSubCate=false&referrercate=5211803",
-      "categoryId": null,
-      "collectionId": "5211803",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Spain",
-      "competition": "WK & landenteams",
-      "club": "Spain",
-      "types": [
-        "Player version"
-      ],
-      "images": [
-        "./assets/albums/246655466/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/2fa3597223/medium.png"
-      ],
-      "coverUrl": "./assets/albums/246655466/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:15.123Z",
-      "season": "2026"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "246960661",
-      "uniqueKey": "minkang:246960661",
-      "title": "Spain 2026 Away 2-Star Champion Edition Womens Crop Jersey S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/246960661?uid=1&isSubCate=false&referrercate=5211803",
-      "categoryId": null,
-      "collectionId": "5211803",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Spain",
-      "competition": "WK & landenteams",
-      "club": "Spain",
-      "types": [
-        "Dames"
-      ],
-      "images": [
-        "./assets/albums/246960661/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/ead3c32908/medium.jpg"
-      ],
-      "coverUrl": "./assets/albums/246960661/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:15.122Z",
-      "season": "2026"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "238633142",
       "uniqueKey": "minkang:238633142",
       "title": "Spain 2026 Away Club Entrance Jacket S-XXL9",
@@ -566809,97 +566822,6 @@
       "coverUrl": "./assets/products/minkang/238633142/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T00:17:42.968Z",
-      "season": "2026"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "231476896",
-      "uniqueKey": "minkang:231476896",
-      "title": "Spain 2026 Away Jersey S-4XL10",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/231476896?uid=1&isSubCate=false&referrercate=5211803",
-      "categoryId": null,
-      "collectionId": "5211803",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Spain",
-      "competition": "WK & landenteams",
-      "club": "Spain",
-      "types": [],
-      "images": [
-        "./assets/albums/231476896/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/e35a9d7267/medium.png"
-      ],
-      "coverUrl": "./assets/albums/231476896/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:15.123Z",
-      "season": "2026"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "234793692",
-      "uniqueKey": "minkang:234793692",
-      "title": "Spain 2026 Away Kids Kit Jersey Size 16-2813",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/234793692?uid=1&isSubCate=false&referrercate=5211803",
-      "categoryId": null,
-      "collectionId": "5211803",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Spain",
-      "competition": "WK & landenteams",
-      "club": "Spain",
-      "types": [
-        "Kids"
-      ],
-      "images": [
-        "./assets/albums/234793692/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/f8feb60a44/medium.png"
-      ],
-      "coverUrl": "./assets/albums/234793692/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:15.122Z",
-      "season": "2026"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "233498495",
-      "uniqueKey": "minkang:233498495",
-      "title": "Spain 2026 Away Long Sleeve Jersey S-3XL10",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/233498495?uid=1&isSubCate=false&referrercate=5211803",
-      "categoryId": null,
-      "collectionId": "5211803",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Spain",
-      "competition": "WK & landenteams",
-      "club": "Spain",
-      "types": [
-        "Lange mouw"
-      ],
-      "images": [
-        "./assets/albums/233498495/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/0abff05870/medium.png"
-      ],
-      "coverUrl": "./assets/albums/233498495/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:15.123Z",
       "season": "2026"
     },
     {
@@ -566937,69 +566859,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "231421137",
-      "uniqueKey": "minkang:231421137",
-      "title": "Spain 2026 Away Player Version Jersey S-4XL12",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/231421137?uid=1&isSubCate=false&referrercate=5211803",
-      "categoryId": null,
-      "collectionId": "5211803",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Spain",
-      "competition": "WK & landenteams",
-      "club": "Spain",
-      "types": [
-        "Player version"
-      ],
-      "images": [
-        "./assets/albums/231421137/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/62e3fb7a3e/medium.png"
-      ],
-      "coverUrl": "./assets/albums/231421137/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:15.123Z",
-      "season": "2026"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "234793843",
-      "uniqueKey": "minkang:234793843",
-      "title": "Spain 2026 Away Player Version Long Sleeve Jersey S-4XL10",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/234793843?uid=1&isSubCate=false&referrercate=5211803",
-      "categoryId": null,
-      "collectionId": "5211803",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Spain",
-      "competition": "WK & landenteams",
-      "club": "Spain",
-      "types": [
-        "Lange mouw",
-        "Player version"
-      ],
-      "images": [
-        "./assets/albums/234793843/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/355ddeb1dc/medium.png"
-      ],
-      "coverUrl": "./assets/albums/234793843/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:15.123Z",
-      "season": "2026"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "231426214",
       "uniqueKey": "minkang:231426214",
       "title": "Spain 2026 Away Shorts S-XXL7",
@@ -567024,37 +566883,6 @@
       "coverUrl": "./assets/products/minkang/231426214/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T00:20:58.904Z",
-      "season": "2026"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "232206457",
-      "uniqueKey": "minkang:232206457",
-      "title": "Spain 2026 Away Women's Jersey S-XXL10",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/232206457?uid=1&isSubCate=false&referrercate=5211803",
-      "categoryId": null,
-      "collectionId": "5211803",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Spain",
-      "competition": "WK & landenteams",
-      "club": "Spain",
-      "types": [
-        "Dames"
-      ],
-      "images": [
-        "./assets/albums/232206457/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/35b84ae99b/medium.png"
-      ],
-      "coverUrl": "./assets/albums/232206457/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:15.122Z",
       "season": "2026"
     },
     {
@@ -567179,37 +567007,6 @@
       "coverUrl": "./assets/products/minkang/252958202/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T00:14:19.560Z",
-      "season": "2026"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "259923814",
-      "uniqueKey": "minkang:259923814",
-      "title": "Spain 2026 EQT Navy Blue Long-Sleeve Crew Neck Sweatshirt S-4XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259923814?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Spain",
-      "competition": "WK & landenteams",
-      "club": "Spain",
-      "types": [
-        "Lange mouw"
-      ],
-      "images": [
-        "./assets/products/minkang/259923814/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/a839044380/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/259923814/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-24T19:43:29.460Z",
       "season": "2026"
     },
     {
@@ -567452,37 +567249,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "246423815",
-      "uniqueKey": "minkang:246423815",
-      "title": "Spain 2026 Home 2-Star Champion Edition Kids Kit Jersey Size 16-2814",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/246423815?uid=1&isSubCate=false&referrercate=5211803",
-      "categoryId": null,
-      "collectionId": "5211803",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Spain",
-      "competition": "WK & landenteams",
-      "club": "Spain",
-      "types": [
-        "Kids"
-      ],
-      "images": [
-        "./assets/albums/246423815/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/3343ea825c/medium.png"
-      ],
-      "coverUrl": "./assets/albums/246423815/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:15.123Z",
-      "season": "2026"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "246527863",
       "uniqueKey": "minkang:246527863",
       "title": "Spain 2026 Home 2-Star Champion Edition Long Sleeve Jersey S-3XL11",
@@ -567571,99 +567337,6 @@
       "coverUrl": "./assets/products/minkang/246655760/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T00:40:20.672Z",
-      "season": "2026"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "247099773",
-      "uniqueKey": "minkang:247099773",
-      "title": "Spain 2026 Home 2-Star Champion Edition Womens Crop Jersey S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/247099773?uid=1&isSubCate=false&referrercate=5211803",
-      "categoryId": null,
-      "collectionId": "5211803",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Spain",
-      "competition": "WK & landenteams",
-      "club": "Spain",
-      "types": [
-        "Dames"
-      ],
-      "images": [
-        "./assets/albums/247099773/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/791dc7aa21/medium.jpg"
-      ],
-      "coverUrl": "./assets/albums/247099773/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:15.123Z",
-      "season": "2026"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "259923907",
-      "uniqueKey": "minkang:259923907",
-      "title": "Spain 2026 Home Blue Player Version Shorts S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259923907?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Spain",
-      "competition": "WK & landenteams",
-      "club": "Spain",
-      "types": [
-        "Player version"
-      ],
-      "images": [
-        "./assets/products/minkang/259923907/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/f28f65b436/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/259923907/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-24T19:43:29.460Z",
-      "season": "2026"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "217630124",
-      "uniqueKey": "minkang:217630124",
-      "title": "Spain 2026 Home Kids Kit Jersey Size 16-2813",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/217630124?uid=1&isSubCate=false&referrercate=5211803",
-      "categoryId": null,
-      "collectionId": "5211803",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Spain",
-      "competition": "WK & landenteams",
-      "club": "Spain",
-      "types": [
-        "Kids"
-      ],
-      "images": [
-        "./assets/albums/217630124/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/5dc34448d1/medium.png"
-      ],
-      "coverUrl": "./assets/albums/217630124/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:15.123Z",
       "season": "2026"
     },
     {
@@ -568263,68 +567936,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "247790610",
-      "uniqueKey": "minkang:247790610",
-      "title": "Spain 2026 Special Edition 2-Star - Black Jersey S-4XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/247790610?uid=1&isSubCate=false&referrercate=5211803",
-      "categoryId": null,
-      "collectionId": "5211803",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Spain",
-      "competition": "WK & landenteams",
-      "club": "Spain",
-      "types": [
-        "Special edition"
-      ],
-      "images": [
-        "./assets/albums/247790610/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/4fd68f2371/medium.jpg"
-      ],
-      "coverUrl": "./assets/albums/247790610/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:15.122Z",
-      "season": "2026"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "247790784",
-      "uniqueKey": "minkang:247790784",
-      "title": "Spain 2026 Special Edition 2-Star - Red Jersey S-4XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/247790784?uid=1&isSubCate=false&referrercate=5211803",
-      "categoryId": null,
-      "collectionId": "5211803",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Spain",
-      "competition": "WK & landenteams",
-      "club": "Spain",
-      "types": [
-        "Special edition"
-      ],
-      "images": [
-        "./assets/albums/247790784/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/f7b1b4cbe1/medium.jpg"
-      ],
-      "coverUrl": "./assets/albums/247790784/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:15.122Z",
-      "season": "2026"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "243939774",
       "uniqueKey": "minkang:243939774",
       "title": "Spain 2026 Special Edition Jersey S-4XL2",
@@ -568598,37 +568209,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "246422107",
-      "uniqueKey": "minkang:246422107",
-      "title": "Spain 2026 Women's Away 2-Star Champion Edition Jersey S-XXL10",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/246422107?uid=1&isSubCate=false&referrercate=5211803",
-      "categoryId": null,
-      "collectionId": "5211803",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Spain",
-      "competition": "WK & landenteams",
-      "club": "Spain",
-      "types": [
-        "Dames"
-      ],
-      "images": [
-        "./assets/albums/246422107/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/993f831e11/medium.png"
-      ],
-      "coverUrl": "./assets/albums/246422107/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:15.123Z",
-      "season": "2026"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "246421069",
       "uniqueKey": "minkang:246421069",
       "title": "Spain 2026 Women's Home 2-Star Champion Edition Jersey S-XXL13",
@@ -568744,37 +568324,6 @@
       "coverUrl": "./assets/products/popmo/246436881/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T12:40:34.553Z",
-      "season": "2026"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "259923849",
-      "uniqueKey": "minkang:259923849",
-      "title": "Spain 2026 x Spiderman Black Special Edition Jersey S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259923849?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Spain",
-      "competition": "WK & landenteams",
-      "club": "Spain",
-      "types": [
-        "Special edition"
-      ],
-      "images": [
-        "./assets/products/minkang/259923849/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/792e27bbae/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/259923849/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-24T19:43:29.460Z",
       "season": "2026"
     },
     {
@@ -660814,37 +660363,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "258665450",
-      "uniqueKey": "minkang:258665450",
-      "title": "CD Tenerife 26/27 Home Kids Kit Size 16-282",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258665450?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "CD Tenerife",
-      "types": [
-        "Kids"
-      ],
-      "images": [
-        "./assets/albums/258665450/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/c3f6276532/medium.jpg"
-      ],
-      "coverUrl": "./assets/albums/258665450/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:01:54.261Z",
-      "season": "2026/27"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "229893811",
       "uniqueKey": "minkang:229893811",
       "title": "Celta de Vigo 84/85 Home Retro Jersey S-4XL7",
@@ -661634,38 +661152,6 @@
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:51:31.644Z",
       "season": "2026/27"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "259923014",
-      "uniqueKey": "minkang:259923014",
-      "title": "Chivas 94/95 Away Long-Sleeve Retro Jersey S-3XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259923014?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Chivas",
-      "types": [
-        "Retro",
-        "Lange mouw"
-      ],
-      "images": [
-        "./assets/products/minkang/259923014/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/3498e44de7/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/259923014/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-24T19:43:40.547Z",
-      "season": "1994/95"
     },
     {
       "source": "minkang",
@@ -675040,37 +674526,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "14188124",
-      "uniqueKey": "minkang:14188124",
-      "title": "kids kit shirt2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/14188124?uid=1&isSubCate=false&referrercate=664377",
-      "categoryId": null,
-      "collectionId": "664377",
-      "sourceCollection": "Menu",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "kids kit shirt2",
-      "types": [
-        "Kids"
-      ],
-      "images": [
-        "./assets/albums/14188124/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/9b4dd076ea/medium.png"
-      ],
-      "coverUrl": "./assets/albums/14188124/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:01:43.772Z",
-      "season": "Onbekend seizoen"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "213792166",
       "uniqueKey": "minkang:213792166",
       "title": "Köln 80/81 Home Retro Jersey S-XXL7",
@@ -681710,35 +681165,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "259923456",
-      "uniqueKey": "minkang:259923456",
-      "title": "Malaysia 2026 Away Jersey S-4XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259923456?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Malaysia",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/259923456/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/f50f363446/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/259923456/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-24T19:43:29.460Z",
-      "season": "2026"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "226511507",
       "uniqueKey": "minkang:226511507",
       "title": "Mali 24/25 Away Player Version Jersey S-XXL6",
@@ -682039,35 +681465,6 @@
       "imageCount": 1,
       "updatedAt": "2026-10-24T00:22:53.343Z",
       "season": "2025/26"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "259923534",
-      "uniqueKey": "minkang:259923534",
-      "title": "Mali 26/27 Third Away Jersey S-4XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259923534?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Mali",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/259923534/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/ac3089e150/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/259923534/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-24T19:43:29.460Z",
-      "season": "2026/27"
     },
     {
       "source": "minkang",
@@ -686107,6 +685504,799 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "258680759",
+      "uniqueKey": "minkang:258680759",
+      "title": "Zaragoza 86/87 Home Retro Jersey S-XXL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258680759?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "1986/87",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/258680759/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/e49d26fc41/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/258680759/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:45.343Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "259923014",
+      "uniqueKey": "minkang:259923014",
+      "title": "Chivas 94/95 Away Long-Sleeve Retro Jersey S-3XL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259923014?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "1994/95",
+      "types": [
+        "Retro",
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/minkang/259923014/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/3498e44de7/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/259923014/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:45.342Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "259451486",
+      "uniqueKey": "minkang:259451486",
+      "title": "Celta Vigo 98/99 Home Champions League Retro Jersey S-XXL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259451486?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "1998/99",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/259451486/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/c1701eae7f/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/259451486/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:45.343Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "257636291",
+      "uniqueKey": "minkang:257636291",
+      "title": "Atlético Mineiro 2000 Home Retro Jersey S-XXL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257636291?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2020/00",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/albums/257636291/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/3c342fb840/medium.jpg"
+      ],
+      "coverUrl": "./assets/albums/257636291/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:53:08.137Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "257636400",
+      "uniqueKey": "minkang:257636400",
+      "title": "Atlético Mineiro 2008 Black Centenary Commemorative Jersey S-XXL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257636400?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2020/08",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/albums/257636400/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/ec750b6b63/medium.jpg"
+      ],
+      "coverUrl": "./assets/albums/257636400/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:53:08.137Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "257636455",
+      "uniqueKey": "minkang:257636455",
+      "title": "Atlético Mineiro 2008 Centenary Black and White Commemorative Jersey S-XXL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257636455?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2020/08",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/albums/257636455/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/6b5d12d848/medium.jpg"
+      ],
+      "coverUrl": "./assets/albums/257636455/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:53:08.137Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "257636509",
+      "uniqueKey": "minkang:257636509",
+      "title": "Atlético Mineiro 2013 Home Retro Jersey S-XXL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257636509?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2020/13",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/albums/257636509/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/26a1395137/medium.jpg"
+      ],
+      "coverUrl": "./assets/albums/257636509/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:53:08.136Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "259923456",
+      "uniqueKey": "minkang:259923456",
+      "title": "Malaysia 2026 Away Jersey S-4XL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259923456?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2020/26",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/259923456/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/f50f363446/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/259923456/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:33.813Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "258665450",
+      "uniqueKey": "minkang:258665450",
+      "title": "CD Tenerife 26/27 Home Kids Kit Size 16-282",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258665450?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2026/27",
+      "types": [
+        "Kids"
+      ],
+      "images": [
+        "./assets/albums/258665450/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/c3f6276532/medium.jpg"
+      ],
+      "coverUrl": "./assets/albums/258665450/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:45.343Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "258451059",
+      "uniqueKey": "minkang:258451059",
+      "title": "Cruzeiro 26/27 Women's Originals Blue T-shirt S-XXL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258451059?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2026/27",
+      "types": [
+        "Dames"
+      ],
+      "images": [
+        "./assets/albums/258451059/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/283966d7ae/medium.jpg"
+      ],
+      "coverUrl": "./assets/albums/258451059/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:53:08.133Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "258675577",
+      "uniqueKey": "minkang:258675577",
+      "title": "Getafe CF 26/27 UEFA Conference League Special Edition Jersey S-4XL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258675577?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2026/27",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/albums/258675577/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/ecbeec07d1/medium.jpg"
+      ],
+      "coverUrl": "./assets/albums/258675577/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:45.343Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "258143635",
+      "uniqueKey": "minkang:258143635",
+      "title": "Gremio 26/27 Third Away Player Version Jersey S-4XL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258143635?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2026/27",
+      "types": [
+        "Player version"
+      ],
+      "images": [
+        "./assets/albums/258143635/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/357124a128/medium.jpg"
+      ],
+      "coverUrl": "./assets/albums/258143635/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:53:08.136Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "259923534",
+      "uniqueKey": "minkang:259923534",
+      "title": "Mali 26/27 Third Away Jersey S-4XL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259923534?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2026/27",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/259923534/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/ac3089e150/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/259923534/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:33.812Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "259923702",
+      "uniqueKey": "minkang:259923702",
+      "title": "Palermo FC 26/27 Third Away Jersey S-4XL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259923702?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2026/27",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/259923702/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/7d0b8d9caf/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/259923702/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:33.812Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "258446448",
+      "uniqueKey": "minkang:258446448",
+      "title": "RCD Espanyol 26/27 Home Kids Kit Size 16-282",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258446448?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2026/27",
+      "types": [
+        "Kids"
+      ],
+      "images": [
+        "./assets/albums/258446448/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/1d70f82dce/medium.jpg"
+      ],
+      "coverUrl": "./assets/albums/258446448/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:56.769Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "259116408",
+      "uniqueKey": "minkang:259116408",
+      "title": "Real Betis 26/27 Green Windbreaker Training Kit S-XXL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259116408?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2026/27",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/minkang/259116408/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/bd724e9e4e/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/259116408/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:45.343Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "258146213",
+      "uniqueKey": "minkang:258146213",
+      "title": "Real Murcia CF 26/27 Away Jersey S-4XL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258146213?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2026/27",
+      "types": [],
+      "images": [
+        "./assets/albums/258146213/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/a86ca97623/medium.jpg"
+      ],
+      "coverUrl": "./assets/albums/258146213/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:56.769Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "259415299",
+      "uniqueKey": "minkang:259415299",
+      "title": "Santos 26/27 Third Away Player Edition Jersey S-3XL9",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259415299?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2026/27",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/259415299/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/02af7a2004/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/259415299/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:53:08.132Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "259923786",
+      "uniqueKey": "minkang:259923786",
+      "title": "Slovakia National Team 26/27 Away Jersey S-4XL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/259923786?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2026/27",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/259923786/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/49ec2783d2/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/259923786/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:33.812Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "258845526",
+      "uniqueKey": "minkang:258845526",
+      "title": "Vasco da Gama 26/27 Cirio de Nazare Commemorative Jersey S-4XL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258845526?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2026/27",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/albums/258845526/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/d4111ad58f/medium.jpg"
+      ],
+      "coverUrl": "./assets/albums/258845526/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:53:08.135Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "258450922",
+      "uniqueKey": "minkang:258450922",
+      "title": "Vasco da Gama 26/27 Third away Women's Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258450922?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2026/27",
+      "types": [
+        "Dames"
+      ],
+      "images": [
+        "./assets/albums/258450922/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/42bcb603af/medium.jpg"
+      ],
+      "coverUrl": "./assets/albums/258450922/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:53:08.133Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "258151278",
+      "uniqueKey": "minkang:258151278",
+      "title": "Vitória SC 26/27 Third Away Jersey S-4XL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258151278?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2026/27",
+      "types": [],
+      "images": [
+        "./assets/albums/258151278/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/9ad07e995f/medium.jpg"
+      ],
+      "coverUrl": "./assets/albums/258151278/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:53:08.136Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "257640476",
+      "uniqueKey": "minkang:257640476",
+      "title": "Vitória SC 26/27 Third Away Kids Kit Size 16-282",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257640476?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2026/27",
+      "types": [
+        "Kids"
+      ],
+      "images": [
+        "./assets/albums/257640476/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/71202f7419/medium.jpg"
+      ],
+      "coverUrl": "./assets/albums/257640476/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:53:08.136Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "14188124",
+      "uniqueKey": "minkang:14188124",
+      "title": "kids kit shirt2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/14188124?uid=1&isSubCate=false&referrercate=664377",
+      "categoryId": null,
+      "collectionId": "664377",
+      "sourceCollection": "Menu",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "Onbekend seizoen",
+      "types": [
+        "Kids"
+      ],
+      "images": [
+        "./assets/albums/14188124/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/9b4dd076ea/medium.png"
+      ],
+      "coverUrl": "./assets/albums/14188124/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:22.526Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "14151248",
+      "uniqueKey": "minkang:14151248",
+      "title": "Training suit kit2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/14151248?uid=1&isSubCate=false&referrercate=664377",
+      "categoryId": null,
+      "collectionId": "664377",
+      "sourceCollection": "Menu",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "Onbekend seizoen",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/albums/14151248/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/5e38c6f6ce/medium.png"
+      ],
+      "coverUrl": "./assets/albums/14151248/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:22.526Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "86596843",
+      "uniqueKey": "minkang:86596843",
+      "title": "Windbreaker/Training Top2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/86596843?uid=1&isSubCate=false&referrercate=664377",
+      "categoryId": null,
+      "collectionId": "664377",
+      "sourceCollection": "Menu",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "Onbekend seizoen",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/albums/86596843/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/aacfc2902b/medium.png"
+      ],
+      "coverUrl": "./assets/albums/86596843/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T16:52:22.526Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "258147081",
       "uniqueKey": "minkang:258147081",
       "title": "Pachuca 26/27 Away Player Version Jersey S-3XL2",
@@ -686287,35 +686477,6 @@
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:05:03.662Z",
       "season": "2012/13"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "259923702",
-      "uniqueKey": "minkang:259923702",
-      "title": "Palermo FC 26/27 Third Away Jersey S-4XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259923702?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Palermo FC",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/259923702/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/7d0b8d9caf/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/259923702/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-24T19:43:29.460Z",
-      "season": "2026/27"
     },
     {
       "source": "minkang",
@@ -688857,35 +689018,6 @@
       "coverUrl": "./assets/products/minkang/256216201/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T00:03:26.433Z",
-      "season": "2026/27"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "258146213",
-      "uniqueKey": "minkang:258146213",
-      "title": "Real Murcia CF 26/27 Away Jersey S-4XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258146213?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Real Murcia CF",
-      "types": [],
-      "images": [
-        "./assets/albums/258146213/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/a86ca97623/medium.jpg"
-      ],
-      "coverUrl": "./assets/albums/258146213/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:02:04.713Z",
       "season": "2026/27"
     },
     {
@@ -693191,35 +693323,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "259923786",
-      "uniqueKey": "minkang:259923786",
-      "title": "Slovakia National Team 26/27 Away Jersey S-4XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/259923786?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Slovakia National Team",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/259923786/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/49ec2783d2/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/259923786/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-24T19:43:29.460Z",
-      "season": "2026/27"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "239061753",
       "uniqueKey": "minkang:239061753",
       "title": "Slovenia 2026 Home Jersey S-4XL8",
@@ -696070,37 +696173,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "14151248",
-      "uniqueKey": "minkang:14151248",
-      "title": "Training suit kit2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/14151248?uid=1&isSubCate=false&referrercate=664377",
-      "categoryId": null,
-      "collectionId": "664377",
-      "sourceCollection": "Menu",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Training suit kit2",
-      "types": [
-        "Training"
-      ],
-      "images": [
-        "./assets/albums/14151248/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/5e38c6f6ce/medium.png"
-      ],
-      "coverUrl": "./assets/albums/14151248/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:01:43.772Z",
-      "season": "Onbekend seizoen"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "257640229",
       "uniqueKey": "minkang:257640229",
       "title": "Travis Scott Cactus Jack xNK Korea Total 90 Retro Jersey S-4XL2",
@@ -697820,37 +697892,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "86596843",
-      "uniqueKey": "minkang:86596843",
-      "title": "Windbreaker/Training Top2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/86596843?uid=1&isSubCate=false&referrercate=664377",
-      "categoryId": null,
-      "collectionId": "664377",
-      "sourceCollection": "Menu",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Windbreaker/Training Top2",
-      "types": [
-        "Training"
-      ],
-      "images": [
-        "./assets/albums/86596843/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/aacfc2902b/medium.png"
-      ],
-      "coverUrl": "./assets/albums/86596843/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:01:43.772Z",
-      "season": "Onbekend seizoen"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "237391704",
       "uniqueKey": "minkang:237391704",
       "title": "2026 World Cup Special Edition Player Version Jersey S-2XL7",
@@ -698144,37 +698185,6 @@
       "imageCount": 1,
       "updatedAt": "2026-10-24T00:00:19.472Z",
       "season": "1983/84"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "258680759",
-      "uniqueKey": "minkang:258680759",
-      "title": "Zaragoza 86/87 Home Retro Jersey S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/258680759?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Zaragoza",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/258680759/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/e49d26fc41/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/258680759/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-24T19:43:40.548Z",
-      "season": "1986/87"
     },
     {
       "source": "minkang",
