@@ -1,65 +1,97 @@
-let catalog = { products: [] };
+let catalog = {
+  products: []
+};
 
 let section = "";
 let category = "";
 let subcategory = "";
 let club = "";
+let season = "";
 
 let visibleLimit = 120;
 
 const PAGE_SIZE = 120;
 
-const grid = document.querySelector("#grid");
-const detail = document.querySelector("#detail");
-const query = document.querySelector("#q");
-const categories = document.querySelector("#cats");
-const heading = document.querySelector("#heading");
-const meta = document.querySelector("#meta");
+const grid =
+  document.querySelector("#grid");
+
+const detail =
+  document.querySelector("#detail");
+
+const query =
+  document.querySelector("#q");
+
+const categories =
+  document.querySelector("#cats");
+
+const heading =
+  document.querySelector("#heading");
+
+const meta =
+  document.querySelector("#meta");
 
 const esc = value =>
   String(value ?? "").replace(
     /[&<>"']/g,
-    char =>
+    character =>
       ({
         "&": "&amp;",
         "<": "&lt;",
         ">": "&gt;",
         '"': "&quot;",
         "'": "&#39;"
-      })[char]
+      })[character]
   );
 
 function products() {
-  if (Array.isArray(catalog.products)) {
+  if (
+    Array.isArray(
+      catalog.products
+    )
+  ) {
     return catalog.products;
   }
 
-  if (Array.isArray(catalog.albums)) {
+  if (
+    Array.isArray(
+      catalog.albums
+    )
+  ) {
     return catalog.albums;
   }
 
   return [];
 }
 
-function productSection(product) {
+function productSection(
+  product
+) {
   return (
     product.section ||
-    (product.competition
-      ? "Voetbal"
-      : "Overige producten")
+    (
+      product.competition
+        ? "Voetbal"
+        : "Overige producten"
+    )
   );
 }
 
-function productCategory(product) {
+function productCategory(
+  product
+) {
   return (
     product.category ||
-    (product.club
-      ? "Clubteams"
-      : "Overige producten")
+    (
+      product.club
+        ? "Clubteams"
+        : "Overige producten"
+    )
   );
 }
 
-function productSubcategory(product) {
+function productSubcategory(
+  product
+) {
   return (
     product.subcategory ||
     product.competition ||
@@ -69,35 +101,238 @@ function productSubcategory(product) {
   );
 }
 
-function formatNumber(value) {
-  return Number(value || 0).toLocaleString("nl-NL");
+function fullYear(
+  shortYear
+) {
+  const numericYear =
+    Number(shortYear);
+
+  if (
+    !Number.isFinite(numericYear)
+  ) {
+    return "";
+  }
+
+  if (
+    numericYear >= 70
+  ) {
+    return String(
+      1900 + numericYear
+    );
+  }
+
+  return String(
+    2000 + numericYear
+  );
 }
 
-function productMatches(product, filters = {}) {
+function productSeason(
+  product
+) {
+  if (
+    typeof product.season ===
+      "string" &&
+    product.season.trim()
+  ) {
+    return product.season.trim();
+  }
+
+  if (
+    typeof product.year ===
+      "string" &&
+    product.year.trim()
+  ) {
+    return product.year.trim();
+  }
+
+  const title =
+    String(
+      product.title || ""
+    )
+      .replace(/[–—]/g, "-")
+      .trim();
+
+  /*
+   * Herkent bijvoorbeeld:
+   * 2025/26
+   * 2025-26
+   * 2025 26
+   */
+  const longShort =
+    title.match(
+      /\b((?:19|20)\d{2})\s*[\/\-]\s*(\d{2})\b/
+    );
+
+  if (longShort) {
+    return (
+      `${longShort[1]}/` +
+      `${longShort[2]}`
+    );
+  }
+
+  /*
+   * Herkent bijvoorbeeld:
+   * 2025/2026
+   * 2025-2026
+   */
+  const longLong =
+    title.match(
+      /\b((?:19|20)\d{2})\s*[\/\-]\s*((?:19|20)\d{2})\b/
+    );
+
+  if (longLong) {
+    return (
+      `${longLong[1]}/` +
+      `${longLong[2].slice(-2)}`
+    );
+  }
+
+  /*
+   * Herkent bijvoorbeeld:
+   * 25/26
+   * 98/99
+   */
+  const shortShort =
+    title.match(
+      /\b(\d{2})\s*[\/\-]\s*(\d{2})\b/
+    );
+
+  if (shortShort) {
+    const firstYear =
+      fullYear(
+        shortShort[1]
+      );
+
+    if (firstYear) {
+      return (
+        `${firstYear}/` +
+        `${shortShort[2]}`
+      );
+    }
+  }
+
+  /*
+   * Herkent één los jaartal:
+   * 1998
+   * 2009
+   * 2025
+   */
+  const singleYear =
+    title.match(
+      /\b((?:19|20)\d{2})\b/
+    );
+
+  if (singleYear) {
+    return singleYear[1];
+  }
+
+  return "Onbekend seizoen";
+}
+
+function seasonStartYear(
+  seasonName
+) {
+  const match =
+    String(
+      seasonName || ""
+    ).match(
+      /\b((?:19|20)\d{2})\b/
+    );
+
+  return match
+    ? Number(match[1])
+    : 0;
+}
+
+function sortSeasons(
+  first,
+  second
+) {
+  if (
+    first ===
+    "Onbekend seizoen"
+  ) {
+    return 1;
+  }
+
+  if (
+    second ===
+    "Onbekend seizoen"
+  ) {
+    return -1;
+  }
+
+  const firstYear =
+    seasonStartYear(first);
+
+  const secondYear =
+    seasonStartYear(second);
+
+  if (
+    firstYear !== secondYear
+  ) {
+    return (
+      secondYear -
+      firstYear
+    );
+  }
+
+  return second.localeCompare(
+    first,
+    "nl"
+  );
+}
+
+function formatNumber(
+  value
+) {
+  return Number(
+    value || 0
+  ).toLocaleString(
+    "nl-NL"
+  );
+}
+
+function productMatches(
+  product,
+  filters = {}
+) {
   if (
     filters.section &&
-    productSection(product) !== filters.section
+    productSection(product) !==
+      filters.section
   ) {
     return false;
   }
 
   if (
     filters.category &&
-    productCategory(product) !== filters.category
+    productCategory(product) !==
+      filters.category
   ) {
     return false;
   }
 
   if (
     filters.subcategory &&
-    productSubcategory(product) !== filters.subcategory
+    productSubcategory(product) !==
+      filters.subcategory
   ) {
     return false;
   }
 
   if (
     filters.club &&
-    (product.club || "") !== filters.club
+    (product.club || "") !==
+      filters.club
+  ) {
+    return false;
+  }
+
+  if (
+    filters.season &&
+    productSeason(product) !==
+      filters.season
   ) {
     return false;
   }
@@ -105,11 +340,20 @@ function productMatches(product, filters = {}) {
   return true;
 }
 
-function countProducts(filters = {}) {
+function countProducts(
+  filters = {}
+) {
   let count = 0;
 
-  for (const product of products()) {
-    if (productMatches(product, filters)) {
+  for (
+    const product of products()
+  ) {
+    if (
+      productMatches(
+        product,
+        filters
+      )
+    ) {
       count++;
     }
   }
@@ -118,61 +362,188 @@ function countProducts(filters = {}) {
 }
 
 function groupedProducts() {
-  const groups = new Map();
+  const groups =
+    new Map();
 
-  for (const product of products()) {
-    const sectionName = productSection(product);
-    const categoryName = productCategory(product);
-    const subcategoryName = productSubcategory(product);
-    const clubName = product.club || "";
+  for (
+    const product of products()
+  ) {
+    const sectionName =
+      productSection(product);
 
-    if (!groups.has(sectionName)) {
-      groups.set(sectionName, new Map());
+    const categoryName =
+      productCategory(product);
+
+    const subcategoryName =
+      productSubcategory(product);
+
+    const clubName =
+      product.club || "";
+
+    const seasonName =
+      productSeason(product);
+
+    if (
+      !groups.has(
+        sectionName
+      )
+    ) {
+      groups.set(
+        sectionName,
+        new Map()
+      );
     }
 
-    const sectionGroup = groups.get(sectionName);
+    const sectionGroup =
+      groups.get(
+        sectionName
+      );
 
-    if (!sectionGroup.has(categoryName)) {
-      sectionGroup.set(categoryName, new Map());
+    if (
+      !sectionGroup.has(
+        categoryName
+      )
+    ) {
+      sectionGroup.set(
+        categoryName,
+        new Map()
+      );
     }
 
-    const categoryGroup = sectionGroup.get(categoryName);
+    const categoryGroup =
+      sectionGroup.get(
+        categoryName
+      );
 
-    if (!categoryGroup.has(subcategoryName)) {
-      categoryGroup.set(subcategoryName, new Set());
+    if (
+      !categoryGroup.has(
+        subcategoryName
+      )
+    ) {
+      categoryGroup.set(
+        subcategoryName,
+        new Map()
+      );
     }
 
-    if (clubName) {
-      categoryGroup.get(subcategoryName).add(clubName);
+    const subcategoryGroup =
+      categoryGroup.get(
+        subcategoryName
+      );
+
+    const displayedClub =
+      clubName ||
+      "Overige producten";
+
+    if (
+      !subcategoryGroup.has(
+        displayedClub
+      )
+    ) {
+      subcategoryGroup.set(
+        displayedClub,
+        new Set()
+      );
     }
+
+    subcategoryGroup
+      .get(displayedClub)
+      .add(seasonName);
   }
 
-  return [...groups.entries()]
-    .sort(([a], [b]) =>
-      a.localeCompare(b, "nl")
-    )
-    .map(([sectionName, categoryMap]) => [
-      sectionName,
-
-      [...categoryMap.entries()]
-        .sort(([a], [b]) =>
-          a.localeCompare(b, "nl")
+  return [
+    ...groups.entries()
+  ]
+    .sort(
+      ([first], [second]) =>
+        first.localeCompare(
+          second,
+          "nl"
         )
-        .map(([categoryName, subcategoryMap]) => [
-          categoryName,
+    )
+    .map(
+      ([
+        sectionName,
+        categoryMap
+      ]) => [
+        sectionName,
 
-          [...subcategoryMap.entries()]
-            .sort(([a], [b]) =>
-              a.localeCompare(b, "nl")
-            )
-            .map(([subcategoryName, clubs]) => [
-              subcategoryName,
-              [...clubs].sort((a, b) =>
-                a.localeCompare(b, "nl")
+        [
+          ...categoryMap.entries()
+        ]
+          .sort(
+            ([
+              first
+            ], [
+              second
+            ]) =>
+              first.localeCompare(
+                second,
+                "nl"
               )
-            ])
-        ])
-    ]);
+          )
+          .map(
+            ([
+              categoryName,
+              subcategoryMap
+            ]) => [
+              categoryName,
+
+              [
+                ...subcategoryMap.entries()
+              ]
+                .sort(
+                  ([
+                    first
+                  ], [
+                    second
+                  ]) =>
+                    first.localeCompare(
+                      second,
+                      "nl"
+                    )
+                )
+                .map(
+                  ([
+                    subcategoryName,
+                    clubMap
+                  ]) => [
+                    subcategoryName,
+
+                    [
+                      ...clubMap.entries()
+                    ]
+                      .sort(
+                        ([
+                          first
+                        ], [
+                          second
+                        ]) =>
+                          first.localeCompare(
+                            second,
+                            "nl"
+                          )
+                      )
+                      .map(
+                        ([
+                          clubName,
+                          seasons
+                        ]) => [
+                          clubName,
+
+                          [
+                            ...seasons
+                          ].sort(
+                            sortSeasons
+                          )
+                        ]
+                      )
+                  ]
+                )
+            ]
+          )
+      ]
+    );
 }
 
 function navButton(
@@ -181,33 +552,52 @@ function navButton(
   active = false,
   count = null
 ) {
-  const attributes = Object.entries(data)
-    .map(
-      ([key, value]) =>
-        `data-${key}="${esc(value)}"`
-    )
-    .join(" ");
+  const attributes =
+    Object.entries(data)
+      .map(
+        ([
+          key,
+          value
+        ]) =>
+          `data-${key}="${esc(
+            value
+          )}"`
+      )
+      .join(" ");
 
   const countText =
     count !== null
-      ? `<span>${formatNumber(count)}</span>`
+      ? `
+        <span>
+          ${formatNumber(count)}
+        </span>
+      `
       : "";
 
   return `
     <button
-      class="nav-pill${active ? " active" : ""}"
+      class="nav-pill${
+        active
+          ? " active"
+          : ""
+      }"
       ${attributes}
     >
-      <span>${esc(label)}</span>
+      <span>
+        ${esc(label)}
+      </span>
+
       ${countText}
     </button>
   `;
 }
 
 function renderNavigation() {
-  const groups = groupedProducts();
+  const groups =
+    groupedProducts();
 
-  const totalProducts = products().length;
+  const totalProducts =
+    products().length;
 
   categories.innerHTML = [
     navButton(
@@ -216,25 +606,39 @@ function renderNavigation() {
       !section &&
         !category &&
         !subcategory &&
-        !club,
+        !club &&
+        !season,
       totalProducts
     ),
 
     ...groups.map(
-      ([sectionName, categoryGroups]) => {
-        const sectionCount = countProducts({
-          section: sectionName
-        });
+      ([
+        sectionName,
+        categoryGroups
+      ]) => {
+        const sectionCount =
+          countProducts({
+            section:
+              sectionName
+          });
 
         return `
           <details
             class="nav-group"
-            ${section === sectionName ? "open" : ""}
+            ${
+              section ===
+              sectionName
+                ? "open"
+                : ""
+            }
           >
             <summary>
               ${esc(sectionName)}
+
               <span>
-                ${formatNumber(sectionCount)}
+                ${formatNumber(
+                  sectionCount
+                )}
               </span>
             </summary>
 
@@ -243,35 +647,49 @@ function renderNavigation() {
               ${navButton(
                 `Alles binnen ${sectionName}`,
                 {
-                  section: sectionName
+                  section:
+                    sectionName
                 },
-                section === sectionName &&
+                section ===
+                  sectionName &&
                   !category,
                 sectionCount
               )}
 
               ${categoryGroups
                 .map(
-                  ([categoryName, subcategoryGroups]) => {
+                  ([
+                    categoryName,
+                    subcategoryGroups
+                  ]) => {
                     const categoryCount =
                       countProducts({
-                        section: sectionName,
-                        category: categoryName
+                        section:
+                          sectionName,
+                        category:
+                          categoryName
                       });
 
                     return `
                       <details
                         ${
-                          section === sectionName &&
-                          category === categoryName
+                          section ===
+                            sectionName &&
+                          category ===
+                            categoryName
                             ? "open"
                             : ""
                         }
                       >
                         <summary>
-                          ${esc(categoryName)}
+                          ${esc(
+                            categoryName
+                          )}
+
                           <span>
-                            ${formatNumber(categoryCount)}
+                            ${formatNumber(
+                              categoryCount
+                            )}
                           </span>
                         </summary>
 
@@ -280,37 +698,53 @@ function renderNavigation() {
                           ${navButton(
                             `Alles binnen ${categoryName}`,
                             {
-                              section: sectionName,
-                              category: categoryName
+                              section:
+                                sectionName,
+                              category:
+                                categoryName
                             },
-                            section === sectionName &&
-                              category === categoryName &&
+                            section ===
+                              sectionName &&
+                              category ===
+                                categoryName &&
                               !subcategory,
                             categoryCount
                           )}
 
                           ${subcategoryGroups
                             .map(
-                              ([subcategoryName, clubs]) => {
+                              ([
+                                subcategoryName,
+                                clubGroups
+                              ]) => {
                                 const subcategoryCount =
                                   countProducts({
-                                    section: sectionName,
-                                    category: categoryName,
-                                    subcategory: subcategoryName
+                                    section:
+                                      sectionName,
+                                    category:
+                                      categoryName,
+                                    subcategory:
+                                      subcategoryName
                                   });
 
                                 return `
                                   <details
                                     ${
-                                      section === sectionName &&
-                                      category === categoryName &&
-                                      subcategory === subcategoryName
+                                      section ===
+                                        sectionName &&
+                                      category ===
+                                        categoryName &&
+                                      subcategory ===
+                                        subcategoryName
                                         ? "open"
                                         : ""
                                     }
                                   >
                                     <summary>
-                                      ${esc(subcategoryName)}
+                                      ${esc(
+                                        subcategoryName
+                                      )}
+
                                       <span>
                                         ${formatNumber(
                                           subcategoryCount
@@ -323,56 +757,163 @@ function renderNavigation() {
                                       ${navButton(
                                         `Alles binnen ${subcategoryName}`,
                                         {
-                                          section: sectionName,
-                                          category: categoryName,
+                                          section:
+                                            sectionName,
+                                          category:
+                                            categoryName,
                                           subcategory:
                                             subcategoryName
                                         },
-                                        section === sectionName &&
-                                          category === categoryName &&
+                                        section ===
+                                          sectionName &&
+                                          category ===
+                                            categoryName &&
                                           subcategory ===
                                             subcategoryName &&
                                           !club,
                                         subcategoryCount
                                       )}
 
-                                      ${clubs
-                                        .map(clubName => {
-                                          const clubCount =
-                                            countProducts({
-                                              section:
-                                                sectionName,
-                                              category:
-                                                categoryName,
-                                              subcategory:
-                                                subcategoryName,
-                                              club:
-                                                clubName
-                                            });
-
-                                          return navButton(
+                                      ${clubGroups
+                                        .map(
+                                          ([
                                             clubName,
-                                            {
+                                            seasons
+                                          ]) => {
+                                            const storedClub =
+                                              clubName ===
+                                              "Overige producten"
+                                                ? ""
+                                                : clubName;
+
+                                            const clubFilters = {
                                               section:
                                                 sectionName,
                                               category:
                                                 categoryName,
                                               subcategory:
-                                                subcategoryName,
-                                              club:
-                                                clubName
-                                            },
-                                            section ===
-                                              sectionName &&
+                                                subcategoryName
+                                            };
+
+                                            if (
+                                              storedClub
+                                            ) {
+                                              clubFilters.club =
+                                                storedClub;
+                                            }
+
+                                            const clubCount =
+                                              countProducts(
+                                                clubFilters
+                                              );
+
+                                            const clubIsOpen =
+                                              section ===
+                                                sectionName &&
                                               category ===
                                                 categoryName &&
                                               subcategory ===
                                                 subcategoryName &&
-                                              club ===
-                                                clubName,
-                                            clubCount
-                                          );
-                                        })
+                                              (
+                                                storedClub
+                                                  ? club ===
+                                                    storedClub
+                                                  : !club
+                                              );
+
+                                            return `
+                                              <details
+                                                ${
+                                                  clubIsOpen
+                                                    ? "open"
+                                                    : ""
+                                                }
+                                              >
+                                                <summary>
+                                                  ${esc(
+                                                    clubName
+                                                  )}
+
+                                                  <span>
+                                                    ${formatNumber(
+                                                      clubCount
+                                                    )}
+                                                  </span>
+                                                </summary>
+
+                                                <div class="nav-level">
+
+                                                  ${navButton(
+                                                    `Alle seizoenen van ${clubName}`,
+                                                    {
+                                                      section:
+                                                        sectionName,
+                                                      category:
+                                                        categoryName,
+                                                      subcategory:
+                                                        subcategoryName,
+                                                      club:
+                                                        storedClub
+                                                    },
+                                                    clubIsOpen &&
+                                                      !season,
+                                                    clubCount
+                                                  )}
+
+                                                  ${seasons
+                                                    .map(
+                                                      seasonName => {
+                                                        const seasonFilters = {
+                                                          section:
+                                                            sectionName,
+                                                          category:
+                                                            categoryName,
+                                                          subcategory:
+                                                            subcategoryName,
+                                                          season:
+                                                            seasonName
+                                                        };
+
+                                                        if (
+                                                          storedClub
+                                                        ) {
+                                                          seasonFilters.club =
+                                                            storedClub;
+                                                        }
+
+                                                        const seasonCount =
+                                                          countProducts(
+                                                            seasonFilters
+                                                          );
+
+                                                        return navButton(
+                                                          seasonName,
+                                                          {
+                                                            section:
+                                                              sectionName,
+                                                            category:
+                                                              categoryName,
+                                                            subcategory:
+                                                              subcategoryName,
+                                                            club:
+                                                              storedClub,
+                                                            season:
+                                                              seasonName
+                                                          },
+                                                          clubIsOpen &&
+                                                            season ===
+                                                              seasonName,
+                                                          seasonCount
+                                                        );
+                                                      }
+                                                    )
+                                                    .join("")}
+
+                                                </div>
+                                              </details>
+                                            `;
+                                          }
+                                        )
                                         .join("")}
 
                                     </div>
@@ -397,35 +938,55 @@ function renderNavigation() {
   ].join("");
 
   categories
-    .querySelectorAll("button")
-    .forEach(button => {
-      button.onclick = () => {
-        section =
-          button.dataset.section || "";
+    .querySelectorAll(
+      "button"
+    )
+    .forEach(
+      button => {
+        button.onclick = () => {
+          section =
+            button.dataset
+              .section ||
+            "";
 
-        category =
-          button.dataset.category || "";
+          category =
+            button.dataset
+              .category ||
+            "";
 
-        subcategory =
-          button.dataset.subcategory || "";
+          subcategory =
+            button.dataset
+              .subcategory ||
+            "";
 
-        club =
-          button.dataset.club || "";
+          club =
+            button.dataset
+              .club ||
+            "";
 
-        visibleLimit = PAGE_SIZE;
+          season =
+            button.dataset
+              .season ||
+            "";
 
-        renderNavigation();
-        renderProducts();
+          visibleLimit =
+            PAGE_SIZE;
 
-        window.scrollTo({
-          top: 0,
-          behavior: "smooth"
-        });
-      };
-    });
+          renderNavigation();
+          renderProducts();
+
+          window.scrollTo({
+            top: 0,
+            behavior: "smooth"
+          });
+        };
+      }
+    );
 }
 
-function searchableText(product) {
+function searchableText(
+  product
+) {
   return [
     product.title,
     product.section,
@@ -435,6 +996,7 @@ function searchableText(product) {
     product.competition,
     product.club,
     product.source,
+    productSeason(product),
     ...(product.types || [])
   ]
     .filter(Boolean)
@@ -448,36 +1010,46 @@ function filteredProducts() {
       .trim()
       .toLowerCase();
 
-  return products().filter(product => {
-    if (
-      !productMatches(product, {
-        section,
-        category,
-        subcategory,
-        club
-      })
-    ) {
-      return false;
-    }
+  return products().filter(
+    product => {
+      if (
+        !productMatches(
+          product,
+          {
+            section,
+            category,
+            subcategory,
+            club,
+            season
+          }
+        )
+      ) {
+        return false;
+      }
 
-    if (
-      term &&
-      !searchableText(product).includes(term)
-    ) {
-      return false;
-    }
+      if (
+        term &&
+        !searchableText(
+          product
+        ).includes(term)
+      ) {
+        return false;
+      }
 
-    return true;
-  });
+      return true;
+    }
+  );
 }
 
 function renderProducts() {
   detail.hidden = true;
   grid.hidden = false;
 
-  const filtered = filteredProducts();
+  const filtered =
+    filteredProducts();
 
   const currentHeading =
+    season ||
     club ||
     subcategory ||
     category ||
@@ -488,13 +1060,17 @@ function renderProducts() {
     currentHeading;
 
   meta.textContent =
-    `${formatNumber(filtered.length)} ${
+    `${formatNumber(
+      filtered.length
+    )} ${
       filtered.length === 1
         ? "product"
         : "producten"
     }`;
 
-  if (!filtered.length) {
+  if (
+    !filtered.length
+  ) {
     grid.innerHTML = `
       <p class="empty-state">
         Geen producten gevonden binnen deze selectie.
@@ -505,85 +1081,110 @@ function renderProducts() {
   }
 
   const visible =
-    filtered.slice(0, visibleLimit);
+    filtered.slice(
+      0,
+      visibleLimit
+    );
 
-  const cards = visible
-    .map(product => {
-      const id =
-        product.uniqueKey ||
-        `${
-          product.source || "minkang"
-        }:${product.sourceId}`;
+  const cards =
+    visible
+      .map(
+        product => {
+          const id =
+            product.uniqueKey ||
+            `${
+              product.source ||
+              "minkang"
+            }:${
+              product.sourceId
+            }`;
 
-      const image =
-        product.coverUrl ||
-        product.images?.[0] ||
-        "";
+          const image =
+            product.coverUrl ||
+            product.images?.[0] ||
+            "";
 
-      const label = [
-        productSubcategory(product),
-        product.club
-      ]
-        .filter(Boolean)
-        .join(" · ");
+          const label = [
+            product.club,
+            productSeason(
+              product
+            )
+          ]
+            .filter(Boolean)
+            .join(" · ");
 
-      const imageCount =
-        product.imageCount ||
-        product.images?.length ||
-        0;
+          const imageCount =
+            product.imageCount ||
+            product.images
+              ?.length ||
+            0;
 
-      return `
-        <article
-          class="card"
-          data-id="${esc(id)}"
-        >
-          ${
-            image
-              ? `
-                <img
-                  class="album-cover"
-                  loading="lazy"
-                  decoding="async"
-                  src="${esc(image)}"
-                  alt="${esc(product.title)}"
-                >
-              `
-              : `
-                <div class="album-cover no-image">
-                  Geen foto
-                </div>
-              `
-          }
-
-          <div class="card-copy">
-
-            <span>
-              ${esc(
-                label ||
-                  productCategory(product)
-              )}
-            </span>
-
-            <strong>
-              ${esc(product.title)}
-            </strong>
-
-            <small>
-              ${esc(imageCount)} foto's${
-                product.source
-                  ? ` · ${esc(product.source)}`
-                  : ""
+          return `
+            <article
+              class="card"
+              data-id="${esc(id)}"
+            >
+              ${
+                image
+                  ? `
+                    <img
+                      class="album-cover"
+                      loading="lazy"
+                      decoding="async"
+                      src="${esc(image)}"
+                      alt="${esc(
+                        product.title
+                      )}"
+                    >
+                  `
+                  : `
+                    <div
+                      class="album-cover no-image"
+                    >
+                      Geen foto
+                    </div>
+                  `
               }
-            </small>
 
-          </div>
-        </article>
-      `;
-    })
-    .join("");
+              <div class="card-copy">
+
+                <span>
+                  ${esc(
+                    label ||
+                    productSubcategory(
+                      product
+                    )
+                  )}
+                </span>
+
+                <strong>
+                  ${esc(
+                    product.title
+                  )}
+                </strong>
+
+                <small>
+                  ${esc(
+                    imageCount
+                  )} foto's${
+                    product.source
+                      ? ` · ${esc(
+                          product.source
+                        )}`
+                      : ""
+                  }
+                </small>
+
+              </div>
+            </article>
+          `;
+        }
+      )
+      .join("");
 
   const moreButton =
-    visible.length < filtered.length
+    visible.length <
+    filtered.length
       ? `
         <div
           class="load-more-wrap"
@@ -614,38 +1215,55 @@ function renderProducts() {
       : "";
 
   grid.innerHTML =
-    cards + moreButton;
+    cards +
+    moreButton;
 
   grid
-    .querySelectorAll(".card")
-    .forEach(card => {
-      card.onclick = () =>
-        openProduct(
-          card.dataset.id
-        );
-    });
+    .querySelectorAll(
+      ".card"
+    )
+    .forEach(
+      card => {
+        card.onclick = () =>
+          openProduct(
+            card.dataset.id
+          );
+      }
+    );
 
   const loadMore =
-    document.querySelector("#loadMore");
+    document.querySelector(
+      "#loadMore"
+    );
 
   if (loadMore) {
     loadMore.onclick = () => {
-      visibleLimit += PAGE_SIZE;
+      visibleLimit +=
+        PAGE_SIZE;
+
       renderProducts();
     };
   }
 }
 
-function openProduct(id) {
-  const product = products().find(item => {
-    const itemId =
-      item.uniqueKey ||
-      `${
-        item.source || "minkang"
-      }:${item.sourceId}`;
+function openProduct(
+  id
+) {
+  const product =
+    products().find(
+      item => {
+        const itemId =
+          item.uniqueKey ||
+          `${
+            item.source ||
+            "minkang"
+          }:${
+            item.sourceId
+          }`;
 
-    return itemId === id;
-  });
+        return itemId === id;
+      }
+    );
 
   if (!product) {
     return;
@@ -655,15 +1273,26 @@ function openProduct(id) {
   detail.hidden = false;
 
   const images =
-    Array.isArray(product.images)
+    Array.isArray(
+      product.images
+    )
       ? product.images
       : [];
 
   const breadcrumb = [
-    productSection(product),
-    productCategory(product),
-    productSubcategory(product),
-    product.club
+    productSection(
+      product
+    ),
+    productCategory(
+      product
+    ),
+    productSubcategory(
+      product
+    ),
+    product.club,
+    productSeason(
+      product
+    )
   ]
     .filter(Boolean)
     .join(" › ");
@@ -684,12 +1313,25 @@ function openProduct(id) {
       ${esc(product.title)}
     </h1>
 
+    <p>
+      Seizoen:
+      <strong>
+        ${esc(
+          productSeason(
+            product
+          )
+        )}
+      </strong>
+    </p>
+
     ${
       product.types?.length
         ? `
           <p>
             ${esc(
-              product.types.join(" · ")
+              product.types.join(
+                " · "
+              )
             )}
           </p>
         `
@@ -702,11 +1344,16 @@ function openProduct(id) {
         images.length
           ? images
               .map(
-                (src, index) => `
+                (
+                  image,
+                  index
+                ) => `
                   <img
                     loading="lazy"
                     decoding="async"
-                    src="${esc(src)}"
+                    src="${esc(
+                      image
+                    )}"
                     alt="${esc(
                       product.title
                     )} foto ${
@@ -726,16 +1373,18 @@ function openProduct(id) {
     </div>
   `;
 
-  detail.querySelector(
-    ".back"
-  ).onclick = () => {
-    renderProducts();
+  detail
+    .querySelector(
+      ".back"
+    )
+    .onclick = () => {
+      renderProducts();
 
-    window.scrollTo({
-      top: 0,
-      behavior: "smooth"
-    });
-  };
+      window.scrollTo({
+        top: 0,
+        behavior: "smooth"
+      });
+    };
 
   window.scrollTo({
     top: 0,
@@ -743,7 +1392,9 @@ function openProduct(id) {
   });
 }
 
-function showLoadError(error) {
+function showLoadError(
+  error
+) {
   console.error(
     "Catalogusfout:",
     error
@@ -765,14 +1416,17 @@ function showLoadError(error) {
 
 async function loadCatalog() {
   try {
-    const response = await fetch(
-      `./data/catalog.json?v=${Date.now()}`,
-      {
-        cache: "no-store"
-      }
-    );
+    const response =
+      await fetch(
+        `./data/catalog.json?v=${Date.now()}`,
+        {
+          cache: "no-store"
+        }
+      );
 
-    if (!response.ok) {
+    if (
+      !response.ok
+    ) {
       throw new Error(
         `HTTP ${response.status}`
       );
@@ -795,7 +1449,9 @@ async function loadCatalog() {
 }
 
 query.oninput = () => {
-  visibleLimit = PAGE_SIZE;
+  visibleLimit =
+    PAGE_SIZE;
+
   renderProducts();
 };
 
