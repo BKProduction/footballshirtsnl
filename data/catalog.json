@@ -1,20 +1,20 @@
 {
-  "lastSync": "2026-10-25T21:03:15.069Z",
+  "lastSync": "2026-10-25T21:08:05.199Z",
   "syncState": {
-    "status": "in-progress",
-    "label": "aosendi 775/982",
+    "status": "completed",
+    "label": "voltooid",
     "batchSize": 25,
     "maxImages": 1
   },
   "stats": {
     "discovered": 27287,
-    "added": 3065,
+    "added": 3272,
     "changed": 21718,
     "unchanged": 2263,
     "repaired": 0,
     "skipped": 34,
-    "duplicatesRemoved": 1090,
-    "batchesSaved": 1084
+    "duplicatesRemoved": 1256,
+    "batchesSaved": 1094
   },
   "sources": [
     {
@@ -48,7 +48,7 @@
       "forcedSection": "Trainingskleding"
     }
   ],
-  "total": 25976,
+  "total": 26017,
   "sections": [
     "Mode & accessoires",
     "Nog te categoriseren",
@@ -94605,6 +94605,1158 @@
       "updatedAt": "2026-10-25T20:46:49.309Z"
     },
     {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228724938",
+      "uniqueKey": "aosendi:228724938",
+      "title": "2223短袖巴黎白色18",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228724938?uid=1&isSubCate=false&referrercate=3926493",
+      "categoryId": null,
+      "collectionId": "3926493",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Korte mouw",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2022/23",
+      "types": [
+        "Training",
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/aosendi/228724938/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/77e5e939/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228724938/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:07:54.493Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228724807",
+      "uniqueKey": "aosendi:228724807",
+      "title": "2223短袖阿森纳白色24",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228724807?uid=1&isSubCate=false&referrercate=3926493",
+      "categoryId": null,
+      "collectionId": "3926493",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Korte mouw",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2022/23",
+      "types": [
+        "Training",
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/aosendi/228724807/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/4774e1ef/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228724807/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:08:03.399Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228725142",
+      "uniqueKey": "aosendi:228725142",
+      "title": "2324短袖巴萨宝蓝【迷彩款】21",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228725142?uid=1&isSubCate=false&referrercate=3926493",
+      "categoryId": null,
+      "collectionId": "3926493",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Korte mouw",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2023/24",
+      "types": [
+        "Training",
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/aosendi/228725142/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/a587ac32/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228725142/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:07:49.708Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228725141",
+      "uniqueKey": "aosendi:228725141",
+      "title": "2324短袖巴萨宝蓝色22",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228725141?uid=1&isSubCate=false&referrercate=3926493",
+      "categoryId": null,
+      "collectionId": "3926493",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Korte mouw",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2023/24",
+      "types": [
+        "Training",
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/aosendi/228725141/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/f83616dd/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228725141/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:07:50.467Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228724935",
+      "uniqueKey": "aosendi:228724935",
+      "title": "2324短袖巴黎浅灰配绿色袖17",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228724935?uid=1&isSubCate=false&referrercate=3926493",
+      "categoryId": null,
+      "collectionId": "3926493",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Korte mouw",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2023/24",
+      "types": [
+        "Training",
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/aosendi/228724935/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/e4936711/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228724935/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:08:00.133Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228724937",
+      "uniqueKey": "aosendi:228724937",
+      "title": "2324短袖巴黎黑色19",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228724937?uid=1&isSubCate=false&referrercate=3926493",
+      "categoryId": null,
+      "collectionId": "3926493",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Korte mouw",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2023/24",
+      "types": [
+        "Training",
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/aosendi/228724937/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/9b65b3b7/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228724937/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:08:00.966Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228725475",
+      "uniqueKey": "aosendi:228725475",
+      "title": "2324短袖皇马【迷彩款】18",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228725475?uid=1&isSubCate=false&referrercate=3926493",
+      "categoryId": null,
+      "collectionId": "3926493",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Korte mouw",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2023/24",
+      "types": [
+        "Training",
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/aosendi/228725475/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/92cd34da/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228725475/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:07:47.284Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228726732",
+      "uniqueKey": "aosendi:228726732",
+      "title": "2425短袖乔丹巴黎白色17",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228726732?uid=1&isSubCate=false&referrercate=3926493",
+      "categoryId": null,
+      "collectionId": "3926493",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Korte mouw",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2024/25",
+      "types": [
+        "Training",
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/aosendi/228726732/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/2fb25819/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228726732/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:07:30.768Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228725704",
+      "uniqueKey": "aosendi:228725704",
+      "title": "2425短袖切尔西粉色16",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228725704?uid=1&isSubCate=false&referrercate=3926493",
+      "categoryId": null,
+      "collectionId": "3926493",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Korte mouw",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2024/25",
+      "types": [
+        "Training",
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/aosendi/228725704/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/b82e42db/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228725704/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:07:45.091Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228726986",
+      "uniqueKey": "aosendi:228726986",
+      "title": "2425短袖皇马白配紫色23",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228726986?uid=1&isSubCate=false&referrercate=3926493",
+      "categoryId": null,
+      "collectionId": "3926493",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Korte mouw",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2024/25",
+      "types": [
+        "Training",
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/aosendi/228726986/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/622b47ac/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228726986/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:07:13.169Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228726731",
+      "uniqueKey": "aosendi:228726731",
+      "title": "2425短袖皇马胡兰色18",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228726731?uid=1&isSubCate=false&referrercate=3926493",
+      "categoryId": null,
+      "collectionId": "3926493",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Korte mouw",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2024/25",
+      "types": [
+        "Training",
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/aosendi/228726731/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/32e0fb8f/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228726731/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:07:31.852Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228726987",
+      "uniqueKey": "aosendi:228726987",
+      "title": "2425短袖皇马黑配紫色19",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228726987?uid=1&isSubCate=false&referrercate=3926493",
+      "categoryId": null,
+      "collectionId": "3926493",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Korte mouw",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2024/25",
+      "types": [
+        "Training",
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/aosendi/228726987/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/479eb789/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228726987/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:07:14.436Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228726983",
+      "uniqueKey": "aosendi:228726983",
+      "title": "2425短袖阿森纳紫色22",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228726983?uid=1&isSubCate=false&referrercate=3926493",
+      "categoryId": null,
+      "collectionId": "3926493",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Korte mouw",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2024/25",
+      "types": [
+        "Training",
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/aosendi/228726983/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/3fba31cf/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228726983/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:07:15.320Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228730902",
+      "uniqueKey": "aosendi:228730902",
+      "title": "2526短袖切尔西彩兰色【T90款】有XS22",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228730902?uid=1&isSubCate=false&referrercate=3926493",
+      "categoryId": null,
+      "collectionId": "3926493",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Korte mouw",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2025/26",
+      "types": [
+        "Training",
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/aosendi/228730902/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/2984d573/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228730902/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:06:15.384Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228731145",
+      "uniqueKey": "aosendi:228731145",
+      "title": "2526短袖巴萨宝蓝色【T90款】有XS21",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228731145?uid=1&isSubCate=false&referrercate=3926493",
+      "categoryId": null,
+      "collectionId": "3926493",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Korte mouw",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2025/26",
+      "types": [
+        "Training",
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/aosendi/228731145/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/d4198860/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228731145/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:06:00.737Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228731149",
+      "uniqueKey": "aosendi:228731149",
+      "title": "2526短袖巴萨宝蓝色【迷彩款】T90款18",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228731149?uid=1&isSubCate=false&referrercate=3926493",
+      "categoryId": null,
+      "collectionId": "3926493",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Korte mouw",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2025/26",
+      "types": [
+        "Training",
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/aosendi/228731149/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/f169fa37/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228731149/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:05:56.893Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228730891",
+      "uniqueKey": "aosendi:228730891",
+      "title": "2526短袖巴萨橙色【T90款】有XS19",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228730891?uid=1&isSubCate=false&referrercate=3926493",
+      "categoryId": null,
+      "collectionId": "3926493",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Korte mouw",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2025/26",
+      "types": [
+        "Training",
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/aosendi/228730891/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/cbf09023/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228730891/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:06:17.969Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228730889",
+      "uniqueKey": "aosendi:228730889",
+      "title": "2526短袖巴萨黑色【联名款】有XS19",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228730889?uid=1&isSubCate=false&referrercate=3926493",
+      "categoryId": null,
+      "collectionId": "3926493",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Korte mouw",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2025/26",
+      "types": [
+        "Training",
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/aosendi/228730889/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/c453a12e/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228730889/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:06:19.173Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228731150",
+      "uniqueKey": "aosendi:228731150",
+      "title": "2526短袖巴西蓝绿色【迷彩款】有XS21",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228731150?uid=1&isSubCate=false&referrercate=3926493",
+      "categoryId": null,
+      "collectionId": "3926493",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Korte mouw",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2025/26",
+      "types": [
+        "Training",
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/aosendi/228731150/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/3f994744/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228731150/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:06:00.199Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228730899",
+      "uniqueKey": "aosendi:228730899",
+      "title": "2526短袖巴西黄色【有XS】21",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228730899?uid=1&isSubCate=false&referrercate=3926493",
+      "categoryId": null,
+      "collectionId": "3926493",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Korte mouw",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2025/26",
+      "types": [
+        "Training",
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/aosendi/228730899/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/c93f3efb/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228730899/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:06:17.213Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228730518",
+      "uniqueKey": "aosendi:228730518",
+      "title": "2526短袖巴西黑色【有XS】20",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228730518?uid=1&isSubCate=false&referrercate=3926493",
+      "categoryId": null,
+      "collectionId": "3926493",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Korte mouw",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2025/26",
+      "types": [
+        "Training",
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/aosendi/228730518/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/e301647f/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228730518/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:06:22.613Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228730532",
+      "uniqueKey": "aosendi:228730532",
+      "title": "2526短袖巴黎黑色【T90款】有XS23",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228730532?uid=1&isSubCate=false&referrercate=3926493",
+      "categoryId": null,
+      "collectionId": "3926493",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Korte mouw",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2025/26",
+      "types": [
+        "Training",
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/aosendi/228730532/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/07918cc2/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228730532/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:06:20.993Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228728185",
+      "uniqueKey": "aosendi:228728185",
+      "title": "2526短袖日本浅灰色【有XS】22",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228728185?uid=1&isSubCate=false&referrercate=3926493",
+      "categoryId": null,
+      "collectionId": "3926493",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Korte mouw",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2025/26",
+      "types": [
+        "Training",
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/aosendi/228728185/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/9d76641f/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228728185/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:07:03.298Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228730248",
+      "uniqueKey": "aosendi:228730248",
+      "title": "2526短袖曼联白配紫色23",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228730248?uid=1&isSubCate=false&referrercate=3926493",
+      "categoryId": null,
+      "collectionId": "3926493",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Korte mouw",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2025/26",
+      "types": [
+        "Training",
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/aosendi/228730248/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/c721e345/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228730248/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:06:25.039Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228730037",
+      "uniqueKey": "aosendi:228730037",
+      "title": "2526短袖热刺灰色【有XS】18",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228730037?uid=1&isSubCate=false&referrercate=3926493",
+      "categoryId": null,
+      "collectionId": "3926493",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Korte mouw",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2025/26",
+      "types": [
+        "Training",
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/aosendi/228730037/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/b72e2c4e/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228730037/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:06:26.671Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228729501",
+      "uniqueKey": "aosendi:228729501",
+      "title": "2526短袖皇马卡其色【有XS】17",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228729501?uid=1&isSubCate=false&referrercate=3926493",
+      "categoryId": null,
+      "collectionId": "3926493",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Korte mouw",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2025/26",
+      "types": [
+        "Training",
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/aosendi/228729501/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/250ea8fe/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228729501/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:06:33.847Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228731434",
+      "uniqueKey": "aosendi:228731434",
+      "title": "2526短袖皇马宝蓝色【有XS】19",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228731434?uid=1&isSubCate=false&referrercate=3926493",
+      "categoryId": null,
+      "collectionId": "3926493",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Korte mouw",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2025/26",
+      "types": [
+        "Training",
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/aosendi/228731434/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/139862e9/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228731434/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:05:53.811Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228728186",
+      "uniqueKey": "aosendi:228728186",
+      "title": "2526短袖皇马深灰色【有XS】23",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228728186?uid=1&isSubCate=false&referrercate=3926493",
+      "categoryId": null,
+      "collectionId": "3926493",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Korte mouw",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2025/26",
+      "types": [
+        "Training",
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/aosendi/228728186/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/60f6cc8d/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228728186/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:07:02.487Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228731694",
+      "uniqueKey": "aosendi:228731694",
+      "title": "2526短袖皇马白色【黄标款】21",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228731694?uid=1&isSubCate=false&referrercate=3926493",
+      "categoryId": null,
+      "collectionId": "3926493",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Korte mouw",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2025/26",
+      "types": [
+        "Training",
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/aosendi/228731694/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/6a18a3ed/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228731694/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:05:52.530Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228731433",
+      "uniqueKey": "aosendi:228731433",
+      "title": "2526短袖皇马紫色19",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228731433?uid=1&isSubCate=false&referrercate=3926493",
+      "categoryId": null,
+      "collectionId": "3926493",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Korte mouw",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2025/26",
+      "types": [
+        "Training",
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/aosendi/228731433/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/4748ce06/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228731433/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:05:55.247Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228728858",
+      "uniqueKey": "aosendi:228728858",
+      "title": "2526短袖皇马黄兰【迷彩款】有XS17",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228728858?uid=1&isSubCate=false&referrercate=3926493",
+      "categoryId": null,
+      "collectionId": "3926493",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Korte mouw",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2025/26",
+      "types": [
+        "Training",
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/aosendi/228728858/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/9a8b4787/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228728858/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:06:53.909Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228732114",
+      "uniqueKey": "aosendi:228732114",
+      "title": "2526短袖皇马黄白色【漫威联名款】有XS18",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228732114?uid=1&isSubCate=false&referrercate=3926493",
+      "categoryId": null,
+      "collectionId": "3926493",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Korte mouw",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2025/26",
+      "types": [
+        "Training",
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/aosendi/228732114/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/053ec143/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228732114/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:05:43.908Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228731907",
+      "uniqueKey": "aosendi:228731907",
+      "title": "2526短袖皇马黑色【漫威联名款】17",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228731907?uid=1&isSubCate=false&referrercate=3926493",
+      "categoryId": null,
+      "collectionId": "3926493",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Korte mouw",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2025/26",
+      "types": [
+        "Training",
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/aosendi/228731907/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/f4b8f155/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228731907/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:05:49.487Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228730249",
+      "uniqueKey": "aosendi:228730249",
+      "title": "2526短袖那不勒斯黑灰色【迷彩款】有XS22",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228730249?uid=1&isSubCate=false&referrercate=3926493",
+      "categoryId": null,
+      "collectionId": "3926493",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Korte mouw",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2025/26",
+      "types": [
+        "Training",
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/aosendi/228730249/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/0672f583/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228730249/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:06:24.199Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228729781",
+      "uniqueKey": "aosendi:228729781",
+      "title": "2526短袖阿森纳浅灰色【有XS】24",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228729781?uid=1&isSubCate=false&referrercate=3926493",
+      "categoryId": null,
+      "collectionId": "3926493",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Korte mouw",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2025/26",
+      "types": [
+        "Training",
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/aosendi/228729781/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/761e1335/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228729781/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:06:27.424Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228728188",
+      "uniqueKey": "aosendi:228728188",
+      "title": "2526短袖阿森纳绿色【有XS】25",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228728188?uid=1&isSubCate=false&referrercate=3926493",
+      "categoryId": null,
+      "collectionId": "3926493",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Korte mouw",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2025/26",
+      "types": [
+        "Training",
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/aosendi/228728188/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/30e9d911/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228728188/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:07:00.876Z"
+    },
+    {
       "source": "dongshanstore",
       "sourcePriority": 4,
       "sourceId": "255655586",
@@ -94671,6 +95823,38 @@
     {
       "source": "aosendi",
       "sourcePriority": 5,
+      "sourceId": "228731905",
+      "uniqueKey": "aosendi:228731905",
+      "title": "2627短袖巴西彩兰色17",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228731905?uid=1&isSubCate=false&referrercate=3926493",
+      "categoryId": null,
+      "collectionId": "3926493",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Korte mouw",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2026/27",
+      "types": [
+        "Training",
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/aosendi/228731905/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/d5a73e56/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228731905/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:05:27.733Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
       "sourceId": "256099545",
       "uniqueKey": "aosendi:256099545",
       "title": "2627短袖皇马宝蓝配黄色20",
@@ -94699,6 +95883,38 @@
       "coverUrl": "./assets/products/aosendi/256099545/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T20:45:58.245Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "247606862",
+      "uniqueKey": "aosendi:247606862",
+      "title": "2627短袖西班牙白色【双星款】15",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/247606862?uid=1&isSubCate=false&referrercate=3926493",
+      "categoryId": null,
+      "collectionId": "3926493",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Korte mouw",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2026/27",
+      "types": [
+        "Training",
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/aosendi/247606862/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/dcb6226f35/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/247606862/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:04:13.838Z"
     },
     {
       "source": "aosendi",
@@ -129852,6 +131068,37 @@
     {
       "source": "aosendi",
       "sourcePriority": 5,
+      "sourceId": "255015525",
+      "uniqueKey": "aosendi:255015525",
+      "title": "2627连帽风衣曼联黑色【三边款】6",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/255015525?uid=1&isSubCate=false&referrercate=5334682",
+      "categoryId": null,
+      "collectionId": "5334682",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Windjacks",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2026/27",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/aosendi/255015525/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/2cc56fb165/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/255015525/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:03:39.080Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
       "sourceId": "255032632",
       "uniqueKey": "aosendi:255032632",
       "title": "2627连帽风衣曼联黑色【全黑款】7",
@@ -129879,6 +131126,37 @@
       "coverUrl": "./assets/products/aosendi/255032632/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T21:03:11.821Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "257326437",
+      "uniqueKey": "aosendi:257326437",
+      "title": "2627连帽风衣玫红色【单AD款】三边款6",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/257326437?uid=1&isSubCate=false&referrercate=5334682",
+      "categoryId": null,
+      "collectionId": "5334682",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Windjacks",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2026/27",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/aosendi/257326437/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/dc8ff8fec6/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/257326437/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:03:34.094Z"
     },
     {
       "source": "aosendi",
@@ -129941,6 +131219,37 @@
       "coverUrl": "./assets/products/aosendi/259606759/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T20:45:36.803Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "256617567",
+      "uniqueKey": "aosendi:256617567",
+      "title": "2627连帽风衣黑配浅灰色【单AD款】三边款7",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/256617567?uid=1&isSubCate=false&referrercate=5334682",
+      "categoryId": null,
+      "collectionId": "5334682",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Windjacks",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2026/27",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/aosendi/256617567/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/88f20bf7e3/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/256617567/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:03:29.802Z"
     },
     {
       "source": "aosendi",
