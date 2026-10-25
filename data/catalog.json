@@ -1,20 +1,20 @@
 {
-  "lastSync": "2026-10-25T20:57:50.622Z",
+  "lastSync": "2026-10-25T21:03:15.069Z",
   "syncState": {
     "status": "in-progress",
-    "label": "aosendi 575/982",
+    "label": "aosendi 775/982",
     "batchSize": 25,
     "maxImages": 1
   },
   "stats": {
     "discovered": 27287,
-    "added": 2865,
+    "added": 3065,
     "changed": 21718,
     "unchanged": 2263,
     "repaired": 0,
     "skipped": 34,
-    "duplicatesRemoved": 906,
-    "batchesSaved": 1076
+    "duplicatesRemoved": 1090,
+    "batchesSaved": 1084
   },
   "sources": [
     {
@@ -48,7 +48,7 @@
       "forcedSection": "Trainingskleding"
     }
   ],
-  "total": 25960,
+  "total": 25976,
   "sections": [
     "Mode & accessoires",
     "Nog te categoriseren",
@@ -93550,6 +93550,486 @@
     {
       "source": "aosendi",
       "sourcePriority": 5,
+      "sourceId": "228732615",
+      "uniqueKey": "aosendi:228732615",
+      "title": "儿童2122巴萨黑【球员版】1",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228732615?uid=1&isSubCate=false&referrercate=3371977",
+      "categoryId": null,
+      "collectionId": "3371977",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Kids",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2021/22",
+      "types": [
+        "Training",
+        "Kids"
+      ],
+      "images": [
+        "./assets/products/aosendi/228732615/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/696a1457/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228732615/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:03:08.874Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228732826",
+      "uniqueKey": "aosendi:228732826",
+      "title": "儿童2223阿森纳白色1",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228732826?uid=1&isSubCate=false&referrercate=3371977",
+      "categoryId": null,
+      "collectionId": "3371977",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Kids",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2022/23",
+      "types": [
+        "Training",
+        "Kids"
+      ],
+      "images": [
+        "./assets/products/aosendi/228732826/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/be7ff1c6/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228732826/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:03:02.131Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228732983",
+      "uniqueKey": "aosendi:228732983",
+      "title": "儿童2324切尔西白色2",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228732983?uid=1&isSubCate=false&referrercate=3371977",
+      "categoryId": null,
+      "collectionId": "3371977",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Kids",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2023/24",
+      "types": [
+        "Training",
+        "Kids"
+      ],
+      "images": [
+        "./assets/products/aosendi/228732983/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/7c2e5af5/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228732983/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:02:53.172Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228733260",
+      "uniqueKey": "aosendi:228733260",
+      "title": "儿童2324巴萨宝蓝色【球员版】1",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228733260?uid=1&isSubCate=false&referrercate=3371977",
+      "categoryId": null,
+      "collectionId": "3371977",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Kids",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2023/24",
+      "types": [
+        "Training",
+        "Kids"
+      ],
+      "images": [
+        "./assets/products/aosendi/228733260/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/90df2769/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228733260/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:02:46.975Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228734351",
+      "uniqueKey": "aosendi:228734351",
+      "title": "儿童2425AC灰色2",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228734351?uid=1&isSubCate=false&referrercate=3371977",
+      "categoryId": null,
+      "collectionId": "3371977",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Kids",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2024/25",
+      "types": [
+        "Training",
+        "Kids"
+      ],
+      "images": [
+        "./assets/products/aosendi/228734351/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/4f85a9ae/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228734351/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:01:19.852Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228734528",
+      "uniqueKey": "aosendi:228734528",
+      "title": "儿童2425乔丹巴黎白色【球员版】3",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228734528?uid=1&isSubCate=false&referrercate=3371977",
+      "categoryId": null,
+      "collectionId": "3371977",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Kids",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2024/25",
+      "types": [
+        "Training",
+        "Kids"
+      ],
+      "images": [
+        "./assets/products/aosendi/228734528/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/431f2b3e/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228734528/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:01:14.830Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228734755",
+      "uniqueKey": "aosendi:228734755",
+      "title": "儿童2425利物浦红色【球员版】1",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228734755?uid=1&isSubCate=false&referrercate=3371977",
+      "categoryId": null,
+      "collectionId": "3371977",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Kids",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2024/25",
+      "types": [
+        "Training",
+        "Kids"
+      ],
+      "images": [
+        "./assets/products/aosendi/228734755/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/011ef19d/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228734755/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:00:56.646Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228735055",
+      "uniqueKey": "aosendi:228735055",
+      "title": "儿童2425利物浦黑色【球员版】2",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228735055?uid=1&isSubCate=false&referrercate=3371977",
+      "categoryId": null,
+      "collectionId": "3371977",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Kids",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2024/25",
+      "types": [
+        "Training",
+        "Kids"
+      ],
+      "images": [
+        "./assets/products/aosendi/228735055/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/80253db5/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228735055/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:00:36.207Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228740381",
+      "uniqueKey": "aosendi:228740381",
+      "title": "儿童2526AC绿色【迷彩款】2",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228740381?uid=1&isSubCate=false&referrercate=3371977",
+      "categoryId": null,
+      "collectionId": "3371977",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Kids",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2025/26",
+      "types": [
+        "Training",
+        "Kids"
+      ],
+      "images": [
+        "./assets/products/aosendi/228740381/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/459239d9/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228740381/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T20:58:38.270Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228739271",
+      "uniqueKey": "aosendi:228739271",
+      "title": "儿童2526AC黑色【迷彩款】1",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228739271?uid=1&isSubCate=false&referrercate=3371977",
+      "categoryId": null,
+      "collectionId": "3371977",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Kids",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2025/26",
+      "types": [
+        "Training",
+        "Kids"
+      ],
+      "images": [
+        "./assets/products/aosendi/228739271/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/693e7e45/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228739271/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T20:58:47.585Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228740634",
+      "uniqueKey": "aosendi:228740634",
+      "title": "儿童2526乔丹巴黎黑色【球员版】2",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228740634?uid=1&isSubCate=false&referrercate=3371977",
+      "categoryId": null,
+      "collectionId": "3371977",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Kids",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2025/26",
+      "types": [
+        "Training",
+        "Kids"
+      ],
+      "images": [
+        "./assets/products/aosendi/228740634/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/97c98709/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228740634/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T20:58:08.426Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228740497",
+      "uniqueKey": "aosendi:228740497",
+      "title": "儿童2526切尔西彩兰色【球员版】T90款3",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228740497?uid=1&isSubCate=false&referrercate=3371977",
+      "categoryId": null,
+      "collectionId": "3371977",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Kids",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2025/26",
+      "types": [
+        "Training",
+        "Kids"
+      ],
+      "images": [
+        "./assets/products/aosendi/228740497/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/0ac3a8ee/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228740497/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T20:58:18.762Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228739998",
+      "uniqueKey": "aosendi:228739998",
+      "title": "儿童2526巴萨橙色【球员版】T90款2",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228739998?uid=1&isSubCate=false&referrercate=3371977",
+      "categoryId": null,
+      "collectionId": "3371977",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Kids",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2025/26",
+      "types": [
+        "Training",
+        "Kids"
+      ],
+      "images": [
+        "./assets/products/aosendi/228739998/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/677bf42e/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228739998/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T20:58:40.210Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228740656",
+      "uniqueKey": "aosendi:228740656",
+      "title": "儿童2526巴萨黑色【联名款】彩蓝标1",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228740656?uid=1&isSubCate=false&referrercate=3371977",
+      "categoryId": null,
+      "collectionId": "3371977",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Kids",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2025/26",
+      "types": [
+        "Training",
+        "Kids"
+      ],
+      "images": [
+        "./assets/products/aosendi/228740656/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/eea59ac2/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228740656/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T20:58:08.703Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "228741280",
+      "uniqueKey": "aosendi:228741280",
+      "title": "儿童2526阿森纳绿色【球员版】AD在左右袖口2",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228741280?uid=1&isSubCate=false&referrercate=3371977",
+      "categoryId": null,
+      "collectionId": "3371977",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Kids",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2025/26",
+      "types": [
+        "Training",
+        "Kids"
+      ],
+      "images": [
+        "./assets/products/aosendi/228741280/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/840566b1/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/228741280/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T20:58:10.381Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
       "sourceId": "253181163",
       "uniqueKey": "aosendi:253181163",
       "title": "儿童2627AC金色2",
@@ -129368,6 +129848,37 @@
       "coverUrl": "./assets/products/aosendi/259606945/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T20:45:36.516Z"
+    },
+    {
+      "source": "aosendi",
+      "sourcePriority": 5,
+      "sourceId": "255032632",
+      "uniqueKey": "aosendi:255032632",
+      "title": "2627连帽风衣曼联黑色【全黑款】7",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/255032632?uid=1&isSubCate=false&referrercate=5334682",
+      "categoryId": null,
+      "collectionId": "5334682",
+      "sourceCollection": "more",
+      "sourceCategory": "aosendi",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Windjacks",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2026/27",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/aosendi/255032632/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/aosendi/7656d1d268/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/aosendi/255032632/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-25T21:03:11.821Z"
     },
     {
       "source": "aosendi",
