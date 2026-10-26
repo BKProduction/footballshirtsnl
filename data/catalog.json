@@ -1,20 +1,20 @@
 {
-  "lastSync": "2026-10-26T19:07:43.350Z",
+  "lastSync": "2026-10-26T19:12:40.305Z",
   "syncState": {
     "status": "in-progress",
-    "label": "popmo 25/2714",
+    "label": "popmo 450/2714",
     "batchSize": 25,
     "maxImages": 1
   },
   "stats": {
     "discovered": 24369,
-    "added": 394,
+    "added": 416,
     "changed": 0,
-    "unchanged": 21270,
+    "unchanged": 21673,
     "repaired": 0,
     "skipped": 16,
-    "duplicatesRemoved": 394,
-    "batchesSaved": 867
+    "duplicatesRemoved": 396,
+    "batchesSaved": 884
   },
   "sources": [
     {
@@ -48,7 +48,7 @@
       "forcedSection": "Trainingskleding"
     }
   ],
-  "total": 26018,
+  "total": 26038,
   "sections": [
     "Mode & accessoires",
     "Nog te categoriseren",
@@ -38526,6 +38526,35 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "260280265",
+      "uniqueKey": "popmo:260280265",
+      "title": "2026 CF Monterrey KING Long Sleeve Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/260280265?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2020/26",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/260280265/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/fc4cee508d/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/260280265/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T19:08:13.821Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "232761003",
       "uniqueKey": "popmo:232761003",
       "title": "2026 Cordoba Retro Green and White S-4XL3",
@@ -38667,6 +38696,35 @@
       "coverUrl": "./assets/products/popmo/228845409/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:57:55.938Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "260279746",
+      "uniqueKey": "popmo:260279746",
+      "title": "2026 Espanyol - Eleven Archive Polo Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/260279746?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2020/26",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/260279746/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/c7d0863677/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/260279746/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T19:08:17.401Z"
     },
     {
       "source": "popmo",
@@ -61871,6 +61929,35 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "260283380",
+      "uniqueKey": "popmo:260283380",
+      "title": "26-27 CF Monterrey away third jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/260283380?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026/27",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/260283380/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/0d2840d5c1/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/260283380/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T19:08:07.247Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "247883342",
       "uniqueKey": "popmo:247883342",
       "title": "26-27 Chivas Away Fan Jersey2",
@@ -61896,6 +61983,35 @@
       "imageCount": 1,
       "updatedAt": "2026-10-24T12:50:00.199Z",
       "season": "2026/27"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "260285075",
+      "uniqueKey": "popmo:260285075",
+      "title": "26-27 Chivas de Guadalajara Retro Energy Jersey1",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/260285075?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026/27",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/260285075/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/a15cfd100b/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/260285075/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T19:08:05.951Z"
     },
     {
       "source": "popmo",
@@ -65695,6 +65811,35 @@
       "imageCount": 1,
       "updatedAt": "2026-10-24T13:19:08.872Z",
       "season": "2026/27"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "260285670",
+      "uniqueKey": "popmo:260285670",
+      "title": "26-27 Querétaro Away Men Fan Jersey1",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/260285670?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026/27",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/260285670/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/74d6f4a9f1/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/260285670/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T19:08:03.289Z"
     },
     {
       "source": "popmo",
@@ -233794,6 +233939,35 @@
       "updatedAt": "2026-10-25T18:14:12.718Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "260296657",
+      "uniqueKey": "popmo:260296657",
+      "title": "26-27 Chelsea Away Short Men Soccer Set2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/260296657?uid=1&isSubCate=false&referrercate=4954873",
+      "categoryId": null,
+      "collectionId": "4954873",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Chelsea",
+      "season": "2026/27",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/260296657/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/58498d92f1/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/260296657/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T19:09:46.663Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "246915145",
@@ -262313,6 +262487,37 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "260297844",
+      "uniqueKey": "popmo:260297844",
+      "title": "26-27 Inter Milan Away Fan Long Sleeve Soccer Jersey (Sizes S-4XL)2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/260297844?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Inter Milan",
+      "season": "2026/27",
+      "types": [
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/popmo/260297844/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/0e5860451c/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/260297844/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T19:08:01.947Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "258499763",
       "uniqueKey": "popmo:258499763",
       "title": "26-27 Inter Milan Away Fan Soccer Jersey (Sizes S-4XL)2",
@@ -276362,6 +276567,35 @@
       "coverUrl": "./assets/products/popmo/257370711/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:54:15.078Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "260294983",
+      "uniqueKey": "popmo:260294983",
+      "title": "26-27 Manchester City Third Men Set2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/260294983?uid=1&isSubCate=false&referrercate=4954873",
+      "categoryId": null,
+      "collectionId": "4954873",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Manchester City",
+      "season": "2026/27",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/260294983/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/6dbba09a37/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/260294983/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T19:09:29.547Z"
     },
     {
       "source": "yema007",
@@ -353767,6 +354001,35 @@
       "updatedAt": "2026-10-25T19:27:38.658Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "260279961",
+      "uniqueKey": "popmo:260279961",
+      "title": "2026 Camiseta Real Madrid - Eleven Archive Polo Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/260279961?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Real Madrid",
+      "season": "2020/26",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/260279961/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/434e7cd992/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/260279961/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T19:08:15.664Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "259881247",
@@ -397994,6 +398257,37 @@
       "updatedAt": "2026-10-25T17:11:52.459Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "260293691",
+      "uniqueKey": "popmo:260293691",
+      "title": "26-27 Tottenham Away Kid Set2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/260293691?uid=1&isSubCate=false&referrercate=4954868",
+      "categoryId": null,
+      "collectionId": "4954868",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Tottenham",
+      "season": "2026/27",
+      "types": [
+        "Kids"
+      ],
+      "images": [
+        "./assets/products/popmo/260293691/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/e1739052d9/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/260293691/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T19:09:48.506Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "259877976",
@@ -398021,6 +398315,37 @@
       "coverUrl": "./assets/products/yema007/259877976/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T18:16:15.240Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "260293647",
+      "uniqueKey": "popmo:260293647",
+      "title": "26-27 Tottenham Home Kid Set2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/260293647?uid=1&isSubCate=false&referrercate=4954868",
+      "categoryId": null,
+      "collectionId": "4954868",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Tottenham",
+      "season": "2026/27",
+      "types": [
+        "Kids"
+      ],
+      "images": [
+        "./assets/products/popmo/260293647/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/21605534f9/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/260293647/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T19:09:50.058Z"
     },
     {
       "source": "yema007",
@@ -398513,6 +398838,35 @@
       "coverUrl": "./assets/products/popmo/228843658/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:58:06.983Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "260293111",
+      "uniqueKey": "popmo:260293111",
+      "title": "26-27 Tottenham Third Set2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/260293111?uid=1&isSubCate=false&referrercate=4954868",
+      "categoryId": null,
+      "collectionId": "4954868",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Tottenham",
+      "season": "2026/27",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/260293111/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/0cbac1619b/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/260293111/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T19:09:51.594Z"
     },
     {
       "source": "minkang",
@@ -412543,6 +412897,35 @@
       "imageCount": 1,
       "updatedAt": "2026-10-24T00:13:06.639Z",
       "season": "Onbekend seizoen"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "260279105",
+      "uniqueKey": "popmo:260279105",
+      "title": "Argentina White EQT Jersey S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/260279105?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Argentina",
+      "competition": "WK & landenteams",
+      "club": "Argentina",
+      "season": "Onbekend seizoen",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/260279105/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/2dc66e592e/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/260279105/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T19:08:20.614Z"
     },
     {
       "source": "yema007",
@@ -442728,6 +443111,35 @@
       "imageCount": 1,
       "updatedAt": "2026-10-24T00:21:53.589Z",
       "season": "Onbekend seizoen"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "260278816",
+      "uniqueKey": "popmo:260278816",
+      "title": "Colombia White EQT Jersey S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/260278816?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Colombia",
+      "competition": "WK & landenteams",
+      "club": "Colombia",
+      "season": "Onbekend seizoen",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/260278816/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/6d7afc6959/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/260278816/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T19:08:22.006Z"
     },
     {
       "source": "minkang",
@@ -497892,6 +498304,35 @@
       "coverUrl": "./assets/products/yema007/254286309/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T18:00:39.280Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "260279338",
+      "uniqueKey": "popmo:260279338",
+      "title": "2026 Mexico Terrace Icons White Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/260279338?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Mexico",
+      "competition": "WK & landenteams",
+      "club": "Mexico",
+      "season": "2020/26",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/260279338/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/ef10a4460f/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/260279338/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T19:08:19.142Z"
     },
     {
       "source": "yema007",
@@ -763117,6 +763558,35 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "260282511",
+      "uniqueKey": "popmo:260282511",
+      "title": "26-27  Club de Fútbol Pachuca home soccer jersey1",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/260282511?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "QIQIYG.COM POPMO Official: +84 775508751",
+      "club": "Overig",
+      "season": "2026/27",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/260282511/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/fc1657bb6b/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/260282511/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T19:08:10.022Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "259831111",
       "uniqueKey": "popmo:259831111",
       "title": "26-27 AEK Athens Away Men Fan Soccer Jersey Yupoo2",
@@ -763229,6 +763699,35 @@
       "coverUrl": "./assets/products/popmo/251044195/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:49:03.301Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "260281199",
+      "uniqueKey": "popmo:260281199",
+      "title": "26-27 Al-Nassr Home Away Third Men Fan Soccer Jersey3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/260281199?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "QIQIYG.COM POPMO Official: +84 775508751",
+      "club": "Overig",
+      "season": "2026/27",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/260281199/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/2de39b9558/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/260281199/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T19:08:12.404Z"
     },
     {
       "source": "popmo",
@@ -763628,6 +764127,37 @@
       "coverUrl": "./assets/products/popmo/256638186/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:54:15.078Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "260281947",
+      "uniqueKey": "popmo:260281947",
+      "title": "26-27 Atlas F.C. special-edition 110th-anniversary black and gold soccer jersey1",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/260281947?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "QIQIYG.COM POPMO Official: +84 775508751",
+      "club": "Overig",
+      "season": "2026/27",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/popmo/260281947/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/e4fa41ed99/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/260281947/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T19:08:11.169Z"
     },
     {
       "source": "popmo",
@@ -764959,6 +765489,35 @@
       "coverUrl": "./assets/products/popmo/232763965/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:57:13.151Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "260282868",
+      "uniqueKey": "popmo:260282868",
+      "title": "26-27 Club Puebla Home Men Soccer Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/260282868?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "QIQIYG.COM POPMO Official: +84 775508751",
+      "club": "Overig",
+      "season": "2026/27",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/260282868/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/4109332cc8/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/260282868/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T19:08:08.654Z"
     },
     {
       "source": "popmo",
@@ -766651,6 +767210,35 @@
       "coverUrl": "./assets/products/popmo/236251746/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:56:41.284Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "260285400",
+      "uniqueKey": "popmo:260285400",
+      "title": "26-27 Juarez Home Men Soccer Fan Jersey1",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/260285400?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "QIQIYG.COM POPMO Official: +84 775508751",
+      "club": "Overig",
+      "season": "2026/27",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/260285400/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/0975c7d618/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/260285400/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T19:08:04.483Z"
     },
     {
       "source": "popmo",
