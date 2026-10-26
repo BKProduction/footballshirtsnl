@@ -1,20 +1,20 @@
 {
-  "lastSync": "2026-10-26T02:47:20.438Z",
+  "lastSync": "2026-10-26T02:52:16.788Z",
   "syncState": {
     "status": "in-progress",
-    "label": "popmo 775/2782",
+    "label": "popmo 1350/2782",
     "batchSize": 25,
     "maxImages": 1
   },
   "stats": {
     "discovered": 24437,
-    "added": 397,
+    "added": 401,
     "changed": 7,
-    "unchanged": 22009,
+    "unchanged": 22580,
     "repaired": 0,
     "skipped": 17,
-    "duplicatesRemoved": 397,
-    "batchesSaved": 897
+    "duplicatesRemoved": 401,
+    "batchesSaved": 920
   },
   "sources": [
     {
