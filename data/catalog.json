@@ -1,8 +1,8 @@
 {
-  "lastSync": "2026-10-26T03:12:19.253Z",
+  "lastSync": "2026-10-26T03:17:21.360Z",
   "syncState": {
     "status": "in-progress",
-    "label": "dongshanstore 850/1868",
+    "label": "dongshanstore 1375/1868",
     "batchSize": 25,
     "maxImages": 1
   },
@@ -10,11 +10,11 @@
     "discovered": 26305,
     "added": 421,
     "changed": 7,
-    "unchanged": 24842,
+    "unchanged": 25365,
     "repaired": 0,
-    "skipped": 17,
+    "skipped": 19,
     "duplicatesRemoved": 421,
-    "batchesSaved": 1012
+    "batchesSaved": 1033
   },
   "sources": [
     {
