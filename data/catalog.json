@@ -1,20 +1,20 @@
 {
-  "lastSync": "2026-10-26T03:27:16.082Z",
+  "lastSync": "2026-10-26T03:32:00.210Z",
   "syncState": {
     "status": "in-progress",
-    "label": "aosendi 75/680",
+    "label": "aosendi 250/680",
     "batchSize": 25,
     "maxImages": 1
   },
   "stats": {
     "discovered": 26985,
-    "added": 479,
+    "added": 620,
     "changed": 15,
-    "unchanged": 25867,
+    "unchanged": 25901,
     "repaired": 0,
     "skipped": 19,
-    "duplicatesRemoved": 478,
-    "batchesSaved": 1056
+    "duplicatesRemoved": 619,
+    "batchesSaved": 1063
   },
   "sources": [
     {
