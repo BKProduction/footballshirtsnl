@@ -1,20 +1,20 @@
 {
-  "lastSync": "2026-10-26T19:12:40.305Z",
+  "lastSync": "2026-10-26T19:17:33.896Z",
   "syncState": {
     "status": "in-progress",
-    "label": "popmo 450/2714",
+    "label": "popmo 925/2714",
     "batchSize": 25,
     "maxImages": 1
   },
   "stats": {
     "discovered": 24369,
-    "added": 416,
-    "changed": 0,
-    "unchanged": 21673,
+    "added": 417,
+    "changed": 1,
+    "unchanged": 22143,
     "repaired": 0,
-    "skipped": 16,
-    "duplicatesRemoved": 396,
-    "batchesSaved": 884
+    "skipped": 19,
+    "duplicatesRemoved": 397,
+    "batchesSaved": 903
   },
   "sources": [
     {
@@ -62221,7 +62221,7 @@
       "sourcePriority": 3,
       "sourceId": "253907785",
       "uniqueKey": "popmo:253907785",
-      "title": "26-27 Club León Home Men Fan Jersey2",
+      "title": "26-27 Club León Home Away Men Fan Jersey3",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/253907785?uid=1&isSubCate=false&referrercate=4911752",
       "categoryId": null,
       "collectionId": "4911752",
@@ -62233,6 +62233,7 @@
       "country": "Overig",
       "competition": "",
       "club": "",
+      "season": "2026/27",
       "types": [],
       "images": [
         "./assets/products/popmo/253907785/01.webp"
@@ -62242,8 +62243,7 @@
       ],
       "coverUrl": "./assets/products/popmo/253907785/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-24T12:49:52.286Z",
-      "season": "2026/27"
+      "updatedAt": "2026-10-26T19:12:55.572Z"
     },
     {
       "source": "popmo",
