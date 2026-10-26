@@ -1,20 +1,20 @@
 {
-  "lastSync": "2026-10-26T13:41:02.822Z",
+  "lastSync": "2026-10-26T14:12:32.698Z",
   "syncState": {
     "status": "in-progress",
-    "label": "yema007 11875/14191",
+    "label": "minkang 325/7464",
     "batchSize": 25,
     "maxImages": 1
   },
   "stats": {
-    "discovered": 21655,
-    "added": 356,
+    "discovered": 7464,
+    "added": 2,
     "changed": 0,
-    "unchanged": 18967,
+    "unchanged": 323,
     "repaired": 0,
-    "skipped": 16,
-    "duplicatesRemoved": 356,
-    "batchesSaved": 773
+    "skipped": 0,
+    "duplicatesRemoved": 2,
+    "batchesSaved": 12
   },
   "sources": [
     {
