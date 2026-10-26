@@ -1,20 +1,20 @@
 {
-  "lastSync": "2026-10-26T02:42:18.057Z",
+  "lastSync": "2026-10-26T02:47:20.438Z",
   "syncState": {
     "status": "in-progress",
-    "label": "popmo 75/2782",
+    "label": "popmo 775/2782",
     "batchSize": 25,
     "maxImages": 1
   },
   "stats": {
     "discovered": 24437,
-    "added": 394,
-    "changed": 0,
-    "unchanged": 21322,
+    "added": 397,
+    "changed": 7,
+    "unchanged": 22009,
     "repaired": 0,
-    "skipped": 14,
-    "duplicatesRemoved": 394,
-    "batchesSaved": 869
+    "skipped": 17,
+    "duplicatesRemoved": 397,
+    "batchesSaved": 897
   },
   "sources": [
     {
@@ -137,7 +137,6 @@
     "KANG Team Official ✅",
     "Kawasaki Frontale 川崎前锋",
     "La Católica 天主教大学",
-    "La Liga",
     "Las Palmas 拉斯帕尔马斯",
     "Lazio",
     "Lazio 拉齐奥",
@@ -180,7 +179,6 @@
     "Peñarol 佩纳罗尔",
     "Philadelphia Union 费城联",
     "Portland Timbers 伐木者",
-    "Premier League",
     "Puebla 普埃布拉",
     "Pumas 美洲狮",
     "QIQIYG.COM POPMO Official: +84 775508751",
@@ -242,6 +240,7 @@
     "2065/66",
     "2054/85",
     "2045/14",
+    "2042/15",
     "2041/30",
     "2041/18",
     "2028/70",
@@ -442,6 +441,7 @@
     "2019/09",
     "2019/07",
     "2019/01",
+    "2018/94",
     "2018/19",
     "2017/18",
     "2016/28",
@@ -453,6 +453,7 @@
     "2012/14",
     "2012/13",
     "2011/12",
+    "2010/17",
     "2010/12",
     "2010/11",
     "2010/07",
@@ -1956,6 +1957,93 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "241325501",
+      "uniqueKey": "popmo:241325501",
+      "title": "HOKA ONE CLIFTON 1017",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/241325501?uid=1&isSubCate=false&referrercate=5242887",
+      "categoryId": null,
+      "collectionId": "5242887",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2010/17",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/241325501/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/86316d37a7/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/241325501/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T02:45:41.246Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "241326847",
+      "uniqueKey": "popmo:241326847",
+      "title": "NIKE AIR ZOOM VOMERO 1894",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/241326847?uid=1&isSubCate=false&referrercate=5242887",
+      "categoryId": null,
+      "collectionId": "5242887",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2018/94",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/241326847/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/a05368490a/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/241326847/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T02:45:41.245Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "241328723",
+      "uniqueKey": "popmo:241328723",
+      "title": "NEW BALANCE 2002R27",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/241328723?uid=1&isSubCate=false&referrercate=5242887",
+      "categoryId": null,
+      "collectionId": "5242887",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2020/02",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/241328723/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/533b23bc33/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/241328723/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T02:45:41.245Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "208267865",
       "uniqueKey": "popmo:208267865",
       "title": "2013 Málaga home away S-2XL4",
@@ -2213,6 +2301,35 @@
       "coverUrl": "./assets/products/popmo/241303318/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:53:13.355Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "241327955",
+      "uniqueKey": "popmo:241327955",
+      "title": "NIKE AIR ZOOM PEGASUS 4215",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/241327955?uid=1&isSubCate=false&referrercate=5242887",
+      "categoryId": null,
+      "collectionId": "5242887",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2042/15",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/241327955/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/33db3f9fb7/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/241327955/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T02:45:41.245Z"
     },
     {
       "source": "popmo",
@@ -2536,35 +2653,6 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
-      "sourceId": "241325501",
-      "uniqueKey": "popmo:241325501",
-      "title": "HOKA ONE CLIFTON 1017",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/241325501?uid=1&isSubCate=false&referrercate=5242887",
-      "categoryId": null,
-      "collectionId": "5242887",
-      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/241325501/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/86316d37a7/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/241325501/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-24T12:52:07.714Z",
-      "season": "Onbekend seizoen"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
       "sourceId": "193422983",
       "uniqueKey": "popmo:193422983",
       "title": "Inter Milan23",
@@ -2768,35 +2856,6 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
-      "sourceId": "241328723",
-      "uniqueKey": "popmo:241328723",
-      "title": "NEW BALANCE 2002R27",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/241328723?uid=1&isSubCate=false&referrercate=5242887",
-      "categoryId": null,
-      "collectionId": "5242887",
-      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/241328723/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/533b23bc33/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/241328723/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-24T12:52:03.020Z",
-      "season": "Onbekend seizoen"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
       "sourceId": "193422473",
       "uniqueKey": "popmo:193422473",
       "title": "Newcastle United6",
@@ -2821,64 +2880,6 @@
       "coverUrl": "./assets/products/popmo/193422473/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-24T12:43:03.277Z",
-      "season": "Onbekend seizoen"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "241327955",
-      "uniqueKey": "popmo:241327955",
-      "title": "NIKE AIR ZOOM PEGASUS 4215",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/241327955?uid=1&isSubCate=false&referrercate=5242887",
-      "categoryId": null,
-      "collectionId": "5242887",
-      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/241327955/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/33db3f9fb7/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/241327955/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-24T12:52:05.089Z",
-      "season": "Onbekend seizoen"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "241326847",
-      "uniqueKey": "popmo:241326847",
-      "title": "NIKE AIR ZOOM VOMERO 1894",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/241326847?uid=1&isSubCate=false&referrercate=5242887",
-      "categoryId": null,
-      "collectionId": "5242887",
-      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/241326847/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/a05368490a/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/241326847/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-24T12:52:05.781Z",
       "season": "Onbekend seizoen"
     },
     {
@@ -166038,6 +166039,38 @@
       "coverUrl": "./assets/products/popmo/239405163/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:47:24.811Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "238420024",
+      "uniqueKey": "popmo:238420024",
+      "title": "26-27 Arsenal Home Away Short Sleeve Women Jersey S-2XL4",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/238420024?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Arsenal",
+      "season": "2026/27",
+      "types": [
+        "Dames",
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/popmo/238420024/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/99d9141c20/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/238420024/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T02:45:41.245Z"
     },
     {
       "source": "yema007",
@@ -380897,6 +380930,37 @@
       "updatedAt": "2026-10-25T18:02:50.483Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "249023063",
+      "uniqueKey": "popmo:249023063",
+      "title": "26-27 Real Madrid Home Women Jersye2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/249023063?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Real Madrid",
+      "season": "2026/27",
+      "types": [
+        "Dames"
+      ],
+      "images": [
+        "./assets/products/popmo/249023063/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/f2c2d5d4ec/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/249023063/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T02:45:30.426Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237788332",
@@ -398900,68 +398964,6 @@
       "coverUrl": "./assets/products/popmo/193422500/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:47:57.638Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "249023063",
-      "uniqueKey": "popmo:249023063",
-      "title": "26-27 Real Madrid Home Women Jersye2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/249023063?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "La Liga",
-      "country": "Spanje",
-      "competition": "La Liga",
-      "club": "Real Madrid",
-      "types": [
-        "Dames"
-      ],
-      "images": [
-        "./assets/products/popmo/249023063/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/f2c2d5d4ec/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/249023063/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-24T12:51:41.796Z",
-      "season": "2026/27"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "238420024",
-      "uniqueKey": "popmo:238420024",
-      "title": "26-27 Arsenal Home Away Short Sleeve Women Jersey S-2XL4",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/238420024?uid=1&isSubCate=false&referrercate=4911721",
-      "categoryId": null,
-      "collectionId": "4911721",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Premier League",
-      "country": "Engeland",
-      "competition": "Premier League",
-      "club": "Arsenal",
-      "types": [
-        "Dames"
-      ],
-      "images": [
-        "./assets/products/popmo/238420024/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/99d9141c20/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/238420024/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-24T12:51:57.053Z",
-      "season": "2026/27"
     },
     {
       "source": "yema007",
@@ -544363,7 +544365,8 @@
       "competition": "WK & landenteams",
       "club": "USA",
       "types": [
-        "Dames"
+        "Dames",
+        "Korte mouw"
       ],
       "images": [
         "./assets/products/popmo/236119956/01.webp"
@@ -758858,37 +758861,6 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
-      "sourceId": "242410236",
-      "uniqueKey": "popmo:242410236",
-      "title": "26-27 Panama Home Women Jersey [2026 FIFA WORLD CUP]2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/242410236?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "QIQIYG.COM POPMO Official: +84 775508751",
-      "club": "-27 Panama Home Women Jersey [",
-      "types": [
-        "Dames"
-      ],
-      "images": [
-        "./assets/products/popmo/242410236/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/bf76377a80/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/242410236/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-24T12:51:42.477Z",
-      "season": "2026/27"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
       "sourceId": "241446956",
       "uniqueKey": "popmo:241446956",
       "title": "1999-2000 Rayo Vallecano Home Short Sleeve Jersey S-4XL4",
@@ -768095,6 +768067,37 @@
       "coverUrl": "./assets/products/popmo/234894013/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:56:52.097Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "242410236",
+      "uniqueKey": "popmo:242410236",
+      "title": "26-27 Panama Home Women Jersey [2026 FIFA WORLD CUP]2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/242410236?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "QIQIYG.COM POPMO Official: +84 775508751",
+      "club": "Overig",
+      "season": "2026/27",
+      "types": [
+        "Dames"
+      ],
+      "images": [
+        "./assets/products/popmo/242410236/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/bf76377a80/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/242410236/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T02:45:30.426Z"
     },
     {
       "source": "popmo",
