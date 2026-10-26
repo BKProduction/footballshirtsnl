@@ -1,20 +1,20 @@
 {
-  "lastSync": "2026-10-26T19:36:27.724Z",
+  "lastSync": "2026-10-26T19:42:43.008Z",
   "syncState": {
     "status": "in-progress",
-    "label": "popmo 2714/2714",
+    "label": "dongshanstore 500/1868",
     "batchSize": 25,
     "maxImages": 1
   },
   "stats": {
-    "discovered": 24369,
+    "discovered": 26237,
     "added": 440,
     "changed": 2,
-    "unchanged": 23908,
+    "unchanged": 24408,
     "repaired": 0,
     "skipped": 19,
     "duplicatesRemoved": 420,
-    "batchesSaved": 975
+    "batchesSaved": 995
   },
   "sources": [
     {
