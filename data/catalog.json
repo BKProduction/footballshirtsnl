@@ -1,20 +1,20 @@
 {
-  "lastSync": "2026-10-26T19:02:43.062Z",
+  "lastSync": "2026-10-26T19:07:43.350Z",
   "syncState": {
     "status": "in-progress",
-    "label": "yema007 13950/14191",
+    "label": "popmo 25/2714",
     "batchSize": 25,
     "maxImages": 1
   },
   "stats": {
-    "discovered": 21655,
-    "added": 392,
+    "discovered": 24369,
+    "added": 394,
     "changed": 0,
-    "unchanged": 21006,
+    "unchanged": 21270,
     "repaired": 0,
     "skipped": 16,
-    "duplicatesRemoved": 392,
-    "batchesSaved": 856
+    "duplicatesRemoved": 394,
+    "batchesSaved": 867
   },
   "sources": [
     {
