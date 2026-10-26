@@ -1,20 +1,20 @@
 {
-  "lastSync": "2026-10-26T03:37:17.220Z",
+  "lastSync": "2026-10-26T03:37:41.018Z",
   "syncState": {
-    "status": "in-progress",
-    "label": "aosendi 650/680",
+    "status": "completed",
+    "label": "voltooid",
     "batchSize": 25,
     "maxImages": 1
   },
   "stats": {
     "discovered": 26985,
-    "added": 970,
+    "added": 992,
     "changed": 15,
-    "unchanged": 25950,
+    "unchanged": 25958,
     "repaired": 0,
     "skipped": 20,
-    "duplicatesRemoved": 969,
-    "batchesSaved": 1079
+    "duplicatesRemoved": 991,
+    "batchesSaved": 1082
   },
   "sources": [
     {
