@@ -1,20 +1,20 @@
 {
-  "lastSync": "2026-10-26T19:27:40.475Z",
+  "lastSync": "2026-10-26T19:32:36.301Z",
   "syncState": {
     "status": "in-progress",
-    "label": "popmo 1825/2714",
+    "label": "popmo 2325/2714",
     "batchSize": 25,
     "maxImages": 1
   },
   "stats": {
     "discovered": 24369,
-    "added": 427,
-    "changed": 1,
-    "unchanged": 23033,
+    "added": 432,
+    "changed": 2,
+    "unchanged": 23527,
     "repaired": 0,
     "skipped": 19,
-    "duplicatesRemoved": 407,
-    "batchesSaved": 939
+    "duplicatesRemoved": 412,
+    "batchesSaved": 959
   },
   "sources": [
     {
@@ -56473,35 +56473,6 @@
       "coverUrl": "./assets/products/popmo/218690395/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:59:49.124Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "206521298",
-      "uniqueKey": "popmo:206521298",
-      "title": "25-26 Santos Home S-4XL2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/206521298?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2025/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/206521298/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/81e6df34/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/206521298/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T20:03:38.662Z"
     },
     {
       "source": "popmo",
@@ -769768,6 +769739,35 @@
       "coverUrl": "./assets/products/popmo/236150202/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:56:41.285Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "206521298",
+      "uniqueKey": "popmo:206521298",
+      "title": "26-27 Santos Laguna Home Men Fan Soccer Jersey S-2XL1",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/206521298?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "QIQIYG.COM POPMO Official: +84 775508751",
+      "club": "Overig",
+      "season": "2026/27",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/206521298/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/c0f344e97b/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/206521298/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T19:29:11.352Z"
     },
     {
       "source": "popmo",
