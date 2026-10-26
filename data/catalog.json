@@ -1,20 +1,20 @@
 {
-  "lastSync": "2026-10-26T03:17:21.360Z",
+  "lastSync": "2026-10-26T03:22:16.202Z",
   "syncState": {
     "status": "in-progress",
-    "label": "dongshanstore 1375/1868",
+    "label": "dongshanstore 1700/1868",
     "batchSize": 25,
     "maxImages": 1
   },
   "stats": {
     "discovered": 26305,
-    "added": 421,
+    "added": 422,
     "changed": 7,
-    "unchanged": 25365,
+    "unchanged": 25689,
     "repaired": 0,
     "skipped": 19,
     "duplicatesRemoved": 421,
-    "batchesSaved": 1033
+    "batchesSaved": 1046
   },
   "sources": [
     {
@@ -48,7 +48,7 @@
       "forcedSection": "Trainingskleding"
     }
   ],
-  "total": 26017,
+  "total": 26018,
   "sections": [
     "Mode & accessoires",
     "Nog te categoriseren",
@@ -116681,6 +116681,37 @@
       "coverUrl": "./assets/products/dongshanstore/164176102/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T20:39:03.298Z"
+    },
+    {
+      "source": "dongshanstore",
+      "sourcePriority": 4,
+      "sourceId": "164176151",
+      "uniqueKey": "dongshanstore:164176151",
+      "title": "F574# 2425长拉帽子法国花灰8",
+      "sourceUrl": "https://dongshanstore.x.yupoo.com/albums/164176151?uid=1&isSubCate=false&referrercate=347310",
+      "categoryId": null,
+      "collectionId": "347310",
+      "sourceCollection": "more",
+      "sourceCategory": "DongshanSports",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Overige trainingskleding",
+      "country": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "season": "2024/25",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/dongshanstore/164176151/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/dongshanstore/cdc78225/medium.png"
+      ],
+      "coverUrl": "./assets/products/dongshanstore/164176151/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T03:20:49.589Z"
     },
     {
       "source": "dongshanstore",
