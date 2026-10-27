@@ -1,14 +1,14 @@
 {
-  "lastSync": "2026-10-27T03:40:13.680Z",
+  "lastSync": "2026-10-27T03:45:08.292Z",
   "syncState": {
     "status": "in-progress",
-    "label": "yema007 11650/14191",
+    "label": "yema007 12175/14191",
     "batchSize": 25,
     "maxImages": 1
   },
   "syncProgress": {
     "currentSource": "yema007",
-    "nextIndex": 11650,
+    "nextIndex": 12175,
     "totalForSource": 14191,
     "completedSources": [
       "minkang"
@@ -16,13 +16,13 @@
   },
   "stats": {
     "discovered": 21657,
-    "added": 358,
-    "changed": 5133,
-    "unchanged": 13607,
+    "added": 371,
+    "changed": 5136,
+    "unchanged": 14116,
     "repaired": 0,
     "skipped": 18,
-    "duplicatesRemoved": 355,
-    "batchesSaved": 765
+    "duplicatesRemoved": 368,
+    "batchesSaved": 786
   },
   "sources": [
     {
@@ -178476,6 +178476,37 @@
       "updatedAt": "2026-10-25T16:57:54.066Z"
     },
     {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "248077980",
+      "uniqueKey": "yema007:248077980",
+      "title": "1998 Barcelona Retro Jacket Mens Kit Windbreaker5",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/248077980?uid=1&isSubCate=true&referrercate=876813",
+      "categoryId": "876813",
+      "collectionId": "876813",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Barcelona 巴萨",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Barcelona",
+      "season": "1998",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/248077980/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/4bbf4ed729/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/248077980/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T03:43:31.138Z"
+    },
+    {
       "source": "minkang",
       "sourcePriority": 1,
       "sourceId": "255031486",
@@ -184694,37 +184725,6 @@
       "coverUrl": "./assets/products/minkang/111657329/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T16:58:51.452Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "248077980",
-      "uniqueKey": "yema007:248077980",
-      "title": "1998 Barcelona Retro Jacket Mens Kit Windbreaker5",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/248077980?uid=1&isSubCate=true&referrercate=876813",
-      "categoryId": "876813",
-      "collectionId": "876813",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Barcelona 巴萨",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Barcelona",
-      "season": "2019/98",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/yema007/248077980/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/4bbf4ed729/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/248077980/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:28:33.545Z"
     },
     {
       "source": "yema007",
@@ -354691,66 +354691,6 @@
       "updatedAt": "2026-10-25T17:22:46.750Z"
     },
     {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237367470",
-      "uniqueKey": "yema007:237367470",
-      "title": "2024 Real Madrid Blue&Beige Trench Coat Reversible Windbreaker Jacket Soccer David Jersey7",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237367470?uid=1&isSubCate=false&referrercate=5217438",
-      "categoryId": null,
-      "collectionId": "5217438",
-      "sourceCollection": "more",
-      "sourceCategory": "David jersey",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Real Madrid",
-      "season": "2020/24",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237367470/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/5d5d6665a9/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237367470/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:27:27.883Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237351504",
-      "uniqueKey": "yema007:237351504",
-      "title": "2024 Real Madrid Golden Dragon Special Edition Kit Soccer Uniform David Jersey Dropshiping6",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237351504?uid=1&isSubCate=false&referrercate=5217438",
-      "categoryId": null,
-      "collectionId": "5217438",
-      "sourceCollection": "more",
-      "sourceCategory": "David jersey",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Real Madrid",
-      "season": "2020/24",
-      "types": [
-        "Special edition"
-      ],
-      "images": [
-        "./assets/products/yema007/237351504/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/c5d609c752/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237351504/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:27:38.658Z"
-    },
-    {
       "source": "popmo",
       "sourcePriority": 3,
       "sourceId": "260279961",
@@ -361405,6 +361345,66 @@
       "coverUrl": "./assets/products/minkang/213142752/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:23:41.149Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237367470",
+      "uniqueKey": "yema007:237367470",
+      "title": "2024 Real Madrid Blue&Beige Trench Coat Reversible Windbreaker Jacket Soccer David Jersey7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237367470?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Real Madrid",
+      "season": "2024",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237367470/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/5d5d6665a9/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237367470/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T03:42:07.877Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237351504",
+      "uniqueKey": "yema007:237351504",
+      "title": "2024 Real Madrid Golden Dragon Special Edition Kit Soccer Uniform David Jersey Dropshiping6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237351504?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Real Madrid",
+      "season": "2024",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/yema007/237351504/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/c5d609c752/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237351504/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T03:42:22.136Z"
     },
     {
       "source": "yema007",
