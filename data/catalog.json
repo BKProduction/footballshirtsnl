@@ -1,14 +1,14 @@
 {
-  "lastSync": "2026-10-27T03:35:01.470Z",
+  "lastSync": "2026-10-27T03:40:13.680Z",
   "syncState": {
     "status": "in-progress",
-    "label": "yema007 11175/14191",
+    "label": "yema007 11650/14191",
     "batchSize": 25,
     "maxImages": 1
   },
   "syncProgress": {
     "currentSource": "yema007",
-    "nextIndex": 11175,
+    "nextIndex": 11650,
     "totalForSource": 14191,
     "completedSources": [
       "minkang"
@@ -16,13 +16,13 @@
   },
   "stats": {
     "discovered": 21657,
-    "added": 357,
-    "changed": 5132,
-    "unchanged": 13134,
+    "added": 358,
+    "changed": 5133,
+    "unchanged": 13607,
     "repaired": 0,
     "skipped": 18,
-    "duplicatesRemoved": 354,
-    "batchesSaved": 746
+    "duplicatesRemoved": 355,
+    "batchesSaved": 765
   },
   "sources": [
     {
@@ -389,7 +389,6 @@
     "2020/25",
     "2020/24",
     "2020/23",
-    "2020/22",
     "2020/21",
     "2020/14",
     "2020/13",
@@ -354694,37 +354693,6 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
-      "sourceId": "237526445",
-      "uniqueKey": "yema007:237526445",
-      "title": "2022 Real Madrid Captain America Special Edition Size S-XXL8",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237526445?uid=1&isSubCate=true&referrercate=876812",
-      "categoryId": "876812",
-      "collectionId": "876812",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Real Madrid 皇马",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Real Madrid",
-      "season": "2020/22",
-      "types": [
-        "Special edition"
-      ],
-      "images": [
-        "./assets/products/yema007/237526445/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/782d6887a6/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237526445/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:25:14.309Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
       "sourceId": "237367470",
       "uniqueKey": "yema007:237367470",
       "title": "2024 Real Madrid Blue&Beige Trench Coat Reversible Windbreaker Jacket Soccer David Jersey7",
@@ -355354,6 +355322,37 @@
       "coverUrl": "./assets/products/minkang/212258252/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:23:30.183Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237526445",
+      "uniqueKey": "yema007:237526445",
+      "title": "2022 Real Madrid Captain America Special Edition Size S-XXL8",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237526445?uid=1&isSubCate=true&referrercate=876812",
+      "categoryId": "876812",
+      "collectionId": "876812",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Madrid 皇马",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Real Madrid",
+      "season": "2022",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/yema007/237526445/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/782d6887a6/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237526445/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T03:39:15.636Z"
     },
     {
       "source": "minkang",
