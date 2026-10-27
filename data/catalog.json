@@ -1,14 +1,14 @@
 {
-  "lastSync": "2026-10-27T03:50:15.965Z",
+  "lastSync": "2026-10-27T03:55:07.151Z",
   "syncState": {
     "status": "in-progress",
-    "label": "yema007 12725/14191",
+    "label": "yema007 13250/14191",
     "batchSize": 25,
     "maxImages": 1
   },
   "syncProgress": {
     "currentSource": "yema007",
-    "nextIndex": 12725,
+    "nextIndex": 13250,
     "totalForSource": 14191,
     "completedSources": [
       "minkang"
@@ -16,13 +16,13 @@
   },
   "stats": {
     "discovered": 21657,
-    "added": 375,
-    "changed": 5137,
-    "unchanged": 14661,
+    "added": 376,
+    "changed": 5143,
+    "unchanged": 15179,
     "repaired": 0,
     "skipped": 18,
-    "duplicatesRemoved": 372,
-    "batchesSaved": 808
+    "duplicatesRemoved": 373,
+    "batchesSaved": 829
   },
   "sources": [
     {
@@ -407,7 +407,6 @@
     "2019/96",
     "2019/95",
     "2019/94",
-    "2019/93",
     "2019/90",
     "2019/86",
     "2019/84",
@@ -69355,6 +69354,35 @@
       "coverUrl": "./assets/products/yema007/237604349/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T02:56:38.293Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237628738",
+      "uniqueKey": "yema007:237628738",
+      "title": "22-23 Real Betis Copa del Rey Edition7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237628738?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Schoenen",
+      "category": "Voetbalschoenen",
+      "subcategory": "Overige merken",
+      "country": "Overig",
+      "competition": "",
+      "club": "Copa",
+      "season": "2022/23",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237628738/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/375bba413c/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237628738/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T03:51:11.478Z"
     },
     {
       "source": "yema007",
@@ -555874,6 +555902,37 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237512525",
+      "uniqueKey": "yema007:237512525",
+      "title": "1984 Athletic Bilbao Home Retro Kit Best Wholesale6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237512525?uid=1&isSubCate=true&referrercate=876817",
+      "categoryId": "876817",
+      "collectionId": "876817",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Bilbao 毕尔巴",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Bilbao 毕尔巴",
+      "country": "Overig",
+      "competition": "Bilbao 毕尔巴",
+      "club": "Overig",
+      "season": "1984",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237512525/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/836f85bdcb/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237512525/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T03:51:53.045Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237511358",
       "uniqueKey": "yema007:237511358",
       "title": "95-57 Athletic Bilbao Home Retro Kid Kits Youth Apparels David Jersey Wholesale8",
@@ -556236,37 +556295,6 @@
         "https://photo.yupoo.com/yema007/c9108937c0/medium.jpg"
       ],
       "coverUrl": "./assets/products/yema007/237597955/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:35:10.939Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237512525",
-      "uniqueKey": "yema007:237512525",
-      "title": "1984 Athletic Bilbao Home Retro Kit Best Wholesale6",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237512525?uid=1&isSubCate=true&referrercate=876817",
-      "categoryId": "876817",
-      "collectionId": "876817",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Bilbao 毕尔巴",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Bilbao 毕尔巴",
-      "country": "Overig",
-      "competition": "Bilbao 毕尔巴",
-      "club": "Overig",
-      "season": "2019/84",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/yema007/237512525/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/836f85bdcb/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237512525/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:35:10.939Z"
     },
@@ -748627,6 +748655,37 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237542717",
+      "uniqueKey": "yema007:237542717",
+      "title": "2013 Malaga Away Retro Kit Vintage Shirt Soccer David Jersey2",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237542717?uid=1&isSubCate=true&referrercate=876829",
+      "categoryId": "876829",
+      "collectionId": "876829",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Malaga 马拉加",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Malaga 马拉加",
+      "country": "Overig",
+      "competition": "Malaga 马拉加",
+      "club": "Overig",
+      "season": "2013",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237542717/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/dbc2270588/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237542717/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T03:53:57.468Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237793668",
       "uniqueKey": "yema007:237793668",
       "title": "13-14 Malaga Mens Third Away Retro Kit Vintage Soccer T-Shirt David Jersey Supply6",
@@ -748652,37 +748711,6 @@
         "https://photo.yupoo.com/yema007/ea2301c4b4/medium.jpg"
       ],
       "coverUrl": "./assets/products/yema007/237793668/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:36:53.796Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237542717",
-      "uniqueKey": "yema007:237542717",
-      "title": "2013 Malaga Away Retro Kit Vintage Shirt Soccer David Jersey2",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237542717?uid=1&isSubCate=true&referrercate=876829",
-      "categoryId": "876829",
-      "collectionId": "876829",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Malaga 马拉加",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Malaga 马拉加",
-      "country": "Overig",
-      "competition": "Malaga 马拉加",
-      "club": "Overig",
-      "season": "2020/13",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/yema007/237542717/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/dbc2270588/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237542717/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:36:53.796Z"
     },
@@ -773694,6 +773722,37 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237496327",
+      "uniqueKey": "yema007:237496327",
+      "title": "1993 Retro Betis Home S-XXL Cheap Soccer Jerseys4",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237496327?uid=1&isSubCate=true&referrercate=876815",
+      "categoryId": "876815",
+      "collectionId": "876815",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Betis 贝蒂斯",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Real Betis 贝蒂斯",
+      "country": "Overig",
+      "competition": "Real Betis 贝蒂斯",
+      "club": "Overig",
+      "season": "1993",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237496327/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/1b54b6c6c5/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237496327/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T03:51:25.575Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237494159",
       "uniqueKey": "yema007:237494159",
       "title": "93-94 Real Betis Retro Home S-XXL best soccer jersey7",
@@ -774270,37 +774329,6 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
-      "sourceId": "237496327",
-      "uniqueKey": "yema007:237496327",
-      "title": "1993 Retro Betis Home S-XXL Cheap Soccer Jerseys4",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237496327?uid=1&isSubCate=true&referrercate=876815",
-      "categoryId": "876815",
-      "collectionId": "876815",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Real Betis 贝蒂斯",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Real Betis 贝蒂斯",
-      "country": "Overig",
-      "competition": "Real Betis 贝蒂斯",
-      "club": "Overig",
-      "season": "2019/93",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/yema007/237496327/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/1b54b6c6c5/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237496327/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:34:49.017Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
       "sourceId": "237632142",
       "uniqueKey": "yema007:237632142",
       "title": "22-23 Real Betis away12",
@@ -774324,35 +774352,6 @@
         "https://photo.yupoo.com/yema007/549da2fa64/medium.jpg"
       ],
       "coverUrl": "./assets/products/yema007/237632142/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:34:38.016Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237628738",
-      "uniqueKey": "yema007:237628738",
-      "title": "22-23 Real Betis Copa del Rey Edition7",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237628738?uid=1&isSubCate=true&referrercate=876815",
-      "categoryId": "876815",
-      "collectionId": "876815",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Real Betis 贝蒂斯",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Real Betis 贝蒂斯",
-      "country": "Overig",
-      "competition": "Real Betis 贝蒂斯",
-      "club": "Overig",
-      "season": "2022/23",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237628738/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/375bba413c/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237628738/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:34:38.016Z"
     },
@@ -775579,6 +775578,37 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237631034",
+      "uniqueKey": "yema007:237631034",
+      "title": "2004 Zaragoza Home Retro Kit Vintage Shirt Soccer David Jersey8",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237631034?uid=1&isSubCate=true&referrercate=876831",
+      "categoryId": "876831",
+      "collectionId": "876831",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Real Zaragoza 皇家萨拉戈萨",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Real Zaragoza 皇家萨拉戈萨",
+      "country": "Overig",
+      "competition": "Real Zaragoza 皇家萨拉戈萨",
+      "club": "Overig",
+      "season": "2004",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237631034/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/991eaa4736/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237631034/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T03:54:11.623Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237798871",
       "uniqueKey": "yema007:237798871",
       "title": "04-05 Retro Zaragoza Away Retro Kit Vintage Soccer T-Shirt David Jersey Supply7",
@@ -775635,37 +775665,6 @@
         "https://photo.yupoo.com/yema007/e74cbebcf3/medium.jpg"
       ],
       "coverUrl": "./assets/products/yema007/237619388/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:37:04.936Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237631034",
-      "uniqueKey": "yema007:237631034",
-      "title": "2004 Zaragoza Home Retro Kit Vintage Shirt Soccer David Jersey8",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237631034?uid=1&isSubCate=true&referrercate=876831",
-      "categoryId": "876831",
-      "collectionId": "876831",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Real Zaragoza 皇家萨拉戈萨",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Real Zaragoza 皇家萨拉戈萨",
-      "country": "Overig",
-      "competition": "Real Zaragoza 皇家萨拉戈萨",
-      "club": "Overig",
-      "season": "2020/04",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/yema007/237631034/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/991eaa4736/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237631034/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:37:04.936Z"
     },
@@ -786669,6 +786668,37 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237545195",
+      "uniqueKey": "yema007:237545195",
+      "title": "1984 Real Valladolid Home Retro Kit Vintage Shirt Soccer David Jersey6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237545195?uid=1&isSubCate=true&referrercate=876819",
+      "categoryId": "876819",
+      "collectionId": "876819",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Valladolid 瓦利亚多利德",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Valladolid 瓦利亚多利德",
+      "country": "Overig",
+      "competition": "Valladolid 瓦利亚多利德",
+      "club": "Overig",
+      "season": "1984",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237545195/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/c773a8111b/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237545195/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T03:52:20.580Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237529816",
       "uniqueKey": "yema007:237529816",
       "title": "84-85 Valladolid Home Retro Kit Vintage Shirt David Jersey Supplier6",
@@ -786694,37 +786724,6 @@
         "https://photo.yupoo.com/yema007/12ca72d00d/medium.jpg"
       ],
       "coverUrl": "./assets/products/yema007/237529816/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:35:33.310Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237545195",
-      "uniqueKey": "yema007:237545195",
-      "title": "1984 Real Valladolid Home Retro Kit Vintage Shirt Soccer David Jersey6",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237545195?uid=1&isSubCate=true&referrercate=876819",
-      "categoryId": "876819",
-      "collectionId": "876819",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Valladolid 瓦利亚多利德",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Valladolid 瓦利亚多利德",
-      "country": "Overig",
-      "competition": "Valladolid 瓦利亚多利德",
-      "club": "Overig",
-      "season": "2019/84",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/yema007/237545195/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/c773a8111b/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237545195/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:35:33.310Z"
     },
