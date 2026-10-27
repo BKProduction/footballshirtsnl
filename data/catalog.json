@@ -1,14 +1,14 @@
 {
-  "lastSync": "2026-10-27T02:30:05.542Z",
+  "lastSync": "2026-10-27T02:35:16.152Z",
   "syncState": {
     "status": "in-progress",
-    "label": "yema007 5300/14191",
+    "label": "yema007 5825/14191",
     "batchSize": 25,
     "maxImages": 1
   },
   "syncProgress": {
     "currentSource": "yema007",
-    "nextIndex": 5300,
+    "nextIndex": 5825,
     "totalForSource": 14191,
     "completedSources": [
       "minkang"
@@ -16,13 +16,13 @@
   },
   "stats": {
     "discovered": 21657,
-    "added": 232,
-    "changed": 2147,
-    "unchanged": 10371,
+    "added": 234,
+    "changed": 2158,
+    "unchanged": 10881,
     "repaired": 0,
-    "skipped": 16,
-    "duplicatesRemoved": 229,
-    "batchesSaved": 511
+    "skipped": 18,
+    "duplicatesRemoved": 231,
+    "batchesSaved": 532
   },
   "sources": [
     {
@@ -553286,6 +553286,69 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237515669",
+      "uniqueKey": "yema007:237515669",
+      "title": "1988 Bahia Retro Commemorative Edition Kit Vintage Shirt David Jersey Wholesale6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237515669?uid=1&isSubCate=true&referrercate=876751",
+      "categoryId": "876751",
+      "collectionId": "876751",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Bahia 巴伊亚",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Bahia 巴伊亚",
+      "country": "Overig",
+      "competition": "Bahia 巴伊亚",
+      "club": "Overig",
+      "season": "1988",
+      "types": [
+        "Retro",
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/yema007/237515669/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/04cd8f171e/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237515669/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:32:14.577Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237490961",
+      "uniqueKey": "yema007:237490961",
+      "title": "1996 Retro Bahia Away S-XXL10",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237490961?uid=1&isSubCate=true&referrercate=876751",
+      "categoryId": "876751",
+      "collectionId": "876751",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Bahia 巴伊亚",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Bahia 巴伊亚",
+      "country": "Overig",
+      "competition": "Bahia 巴伊亚",
+      "club": "Overig",
+      "season": "1996",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237490961/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/14e4b28b92/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237490961/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:32:14.577Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237534782",
       "uniqueKey": "yema007:237534782",
       "title": "96-97 Bahia Away Retro Kit Vintage Shirt David Jersey Supplier6",
@@ -553348,6 +553411,35 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237380056",
+      "uniqueKey": "yema007:237380056",
+      "title": "1998 Bahia home8",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237380056?uid=1&isSubCate=true&referrercate=876751",
+      "categoryId": "876751",
+      "collectionId": "876751",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Bahia 巴伊亚",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Bahia 巴伊亚",
+      "country": "Overig",
+      "competition": "Bahia 巴伊亚",
+      "club": "Overig",
+      "season": "1998",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237380056/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/59dfd1d358/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237380056/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:32:14.577Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237538432",
       "uniqueKey": "yema007:237538432",
       "title": "13-14 Bahia Home Retro Kit Vintage Shirt David Jersey Supplier7",
@@ -553375,98 +553467,6 @@
       "coverUrl": "./assets/products/yema007/237538432/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T18:40:47.248Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237515669",
-      "uniqueKey": "yema007:237515669",
-      "title": "1988 Bahia Retro Commemorative Edition Kit Vintage Shirt David Jersey Wholesale6",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237515669?uid=1&isSubCate=true&referrercate=876751",
-      "categoryId": "876751",
-      "collectionId": "876751",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Bahia 巴伊亚",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Bahia 巴伊亚",
-      "country": "Overig",
-      "competition": "Bahia 巴伊亚",
-      "club": "Overig",
-      "season": "2019/88",
-      "types": [
-        "Retro",
-        "Special edition"
-      ],
-      "images": [
-        "./assets/products/yema007/237515669/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/04cd8f171e/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237515669/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:40:47.248Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237490961",
-      "uniqueKey": "yema007:237490961",
-      "title": "1996 Retro Bahia Away S-XXL10",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237490961?uid=1&isSubCate=true&referrercate=876751",
-      "categoryId": "876751",
-      "collectionId": "876751",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Bahia 巴伊亚",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Bahia 巴伊亚",
-      "country": "Overig",
-      "competition": "Bahia 巴伊亚",
-      "club": "Overig",
-      "season": "2019/96",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/yema007/237490961/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/14e4b28b92/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237490961/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:40:47.249Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237380056",
-      "uniqueKey": "yema007:237380056",
-      "title": "1998 Bahia home8",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237380056?uid=1&isSubCate=true&referrercate=876751",
-      "categoryId": "876751",
-      "collectionId": "876751",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Bahia 巴伊亚",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Bahia 巴伊亚",
-      "country": "Overig",
-      "competition": "Bahia 巴伊亚",
-      "club": "Overig",
-      "season": "2019/98",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237380056/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/59dfd1d358/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237380056/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:40:47.249Z"
     },
     {
       "source": "yema007",
@@ -553974,68 +553974,6 @@
       "coverUrl": "./assets/products/yema007/237515304/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T18:43:10.615Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "251707107",
-      "uniqueKey": "yema007:251707107",
-      "title": "2026 Bayern Aldult Kit Football Training Tracksuit Yupoo10",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/251707107?uid=1&isSubCate=true&referrercate=876767",
-      "categoryId": "876767",
-      "collectionId": "876767",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Bayern 拜仁",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Bayern 拜仁",
-      "country": "Overig",
-      "competition": "Bayern 拜仁",
-      "club": "Overig",
-      "season": "2020/26",
-      "types": [
-        "Training"
-      ],
-      "images": [
-        "./assets/products/yema007/251707107/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/e8bf352182/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/251707107/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:42:04.695Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "251707102",
-      "uniqueKey": "yema007:251707102",
-      "title": "2026 Bayern Aldult Kit Football Training Tracksuit Yupoo9",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/251707102?uid=1&isSubCate=true&referrercate=876767",
-      "categoryId": "876767",
-      "collectionId": "876767",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Bayern 拜仁",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Bayern 拜仁",
-      "country": "Overig",
-      "competition": "Bayern 拜仁",
-      "club": "Overig",
-      "season": "2020/26",
-      "types": [
-        "Training"
-      ],
-      "images": [
-        "./assets/products/yema007/251707102/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/6d01388224/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/251707102/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:42:04.695Z"
     },
     {
       "source": "yema007",
@@ -555434,6 +555372,68 @@
       "coverUrl": "./assets/products/yema007/237738518/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T18:42:15.781Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "251707107",
+      "uniqueKey": "yema007:251707107",
+      "title": "2026 Bayern Aldult Kit Football Training Tracksuit Yupoo10",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/251707107?uid=1&isSubCate=true&referrercate=876767",
+      "categoryId": "876767",
+      "collectionId": "876767",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Bayern 拜仁",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Bayern 拜仁",
+      "country": "Overig",
+      "competition": "Bayern 拜仁",
+      "club": "Overig",
+      "season": "2026",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/yema007/251707107/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/e8bf352182/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/251707107/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:33:53.751Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "251707102",
+      "uniqueKey": "yema007:251707102",
+      "title": "2026 Bayern Aldult Kit Football Training Tracksuit Yupoo9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/251707102?uid=1&isSubCate=true&referrercate=876767",
+      "categoryId": "876767",
+      "collectionId": "876767",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Bayern 拜仁",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Bayern 拜仁",
+      "country": "Overig",
+      "competition": "Bayern 拜仁",
+      "club": "Overig",
+      "season": "2026",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/yema007/251707102/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/6d01388224/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/251707102/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:33:53.751Z"
     },
     {
       "source": "yema007",
@@ -666270,7 +666270,7 @@
       "country": "Overig",
       "competition": "Internacional 巴西国际",
       "club": "Overig",
-      "season": "2020/06",
+      "season": "2006",
       "types": [],
       "images": [
         "./assets/products/yema007/237379915/01.webp"
@@ -666280,7 +666280,7 @@
       ],
       "coverUrl": "./assets/products/yema007/237379915/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T18:39:52.233Z"
+      "updatedAt": "2026-10-27T02:30:56.860Z"
     },
     {
       "source": "yema007",
@@ -666357,7 +666357,7 @@
       "country": "Overig",
       "competition": "Internacional 巴西国际",
       "club": "Overig",
-      "season": "2020/22",
+      "season": "2022",
       "types": [],
       "images": [
         "./assets/products/yema007/237538289/01.webp"
@@ -666367,7 +666367,7 @@
       ],
       "coverUrl": "./assets/products/yema007/237538289/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T18:39:41.192Z"
+      "updatedAt": "2026-10-27T02:30:37.624Z"
     },
     {
       "source": "yema007",
@@ -786967,6 +786967,122 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237379942",
+      "uniqueKey": "yema007:237379942",
+      "title": "1998 Vasco da Gama away9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237379942?uid=1&isSubCate=true&referrercate=876750",
+      "categoryId": "876750",
+      "collectionId": "876750",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Vasco da Gama 达伽马",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Vasco da Gama 达伽马",
+      "country": "Overig",
+      "competition": "Vasco da Gama 达伽马",
+      "club": "Overig",
+      "season": "1998",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237379942/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/cfca0a8c77/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237379942/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:31:44.430Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237379965",
+      "uniqueKey": "yema007:237379965",
+      "title": "2000 Vasco da Gama away9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237379965?uid=1&isSubCate=true&referrercate=876750",
+      "categoryId": "876750",
+      "collectionId": "876750",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Vasco da Gama 达伽马",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Vasco da Gama 达伽马",
+      "country": "Overig",
+      "competition": "Vasco da Gama 达伽马",
+      "club": "Overig",
+      "season": "2000",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237379965/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/6e75cd57c2/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237379965/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:31:44.427Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237379984",
+      "uniqueKey": "yema007:237379984",
+      "title": "2000 Vasco da Gama black11",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237379984?uid=1&isSubCate=true&referrercate=876750",
+      "categoryId": "876750",
+      "collectionId": "876750",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Vasco da Gama 达伽马",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Vasco da Gama 达伽马",
+      "country": "Overig",
+      "competition": "Vasco da Gama 达伽马",
+      "club": "Overig",
+      "season": "2000",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237379984/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/bde6f77c9b/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237379984/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:31:44.426Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237380012",
+      "uniqueKey": "yema007:237380012",
+      "title": "2000 Vasco da Gama white11",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237380012?uid=1&isSubCate=true&referrercate=876750",
+      "categoryId": "876750",
+      "collectionId": "876750",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Vasco da Gama 达伽马",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Vasco da Gama 达伽马",
+      "country": "Overig",
+      "competition": "Vasco da Gama 达伽马",
+      "club": "Overig",
+      "season": "2000",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237380012/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/4b37f97cef/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237380012/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:31:44.420Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237628971",
       "uniqueKey": "yema007:237628971",
       "title": "00-01 Vasco da Gama away10",
@@ -787023,122 +787139,6 @@
       "coverUrl": "./assets/products/yema007/237726987/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T18:40:03.189Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237379942",
-      "uniqueKey": "yema007:237379942",
-      "title": "1998 Vasco da Gama away9",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237379942?uid=1&isSubCate=true&referrercate=876750",
-      "categoryId": "876750",
-      "collectionId": "876750",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Vasco da Gama 达伽马",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Vasco da Gama 达伽马",
-      "country": "Overig",
-      "competition": "Vasco da Gama 达伽马",
-      "club": "Overig",
-      "season": "2019/98",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237379942/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/cfca0a8c77/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237379942/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:40:25.338Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237379965",
-      "uniqueKey": "yema007:237379965",
-      "title": "2000 Vasco da Gama away9",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237379965?uid=1&isSubCate=true&referrercate=876750",
-      "categoryId": "876750",
-      "collectionId": "876750",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Vasco da Gama 达伽马",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Vasco da Gama 达伽马",
-      "country": "Overig",
-      "competition": "Vasco da Gama 达伽马",
-      "club": "Overig",
-      "season": "2020/00",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237379965/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/6e75cd57c2/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237379965/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:40:25.337Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237379984",
-      "uniqueKey": "yema007:237379984",
-      "title": "2000 Vasco da Gama black11",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237379984?uid=1&isSubCate=true&referrercate=876750",
-      "categoryId": "876750",
-      "collectionId": "876750",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Vasco da Gama 达伽马",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Vasco da Gama 达伽马",
-      "country": "Overig",
-      "competition": "Vasco da Gama 达伽马",
-      "club": "Overig",
-      "season": "2020/00",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237379984/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/bde6f77c9b/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237379984/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:40:25.337Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237380012",
-      "uniqueKey": "yema007:237380012",
-      "title": "2000 Vasco da Gama white11",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237380012?uid=1&isSubCate=true&referrercate=876750",
-      "categoryId": "876750",
-      "collectionId": "876750",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Vasco da Gama 达伽马",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Vasco da Gama 达伽马",
-      "country": "Overig",
-      "competition": "Vasco da Gama 达伽马",
-      "club": "Overig",
-      "season": "2020/00",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237380012/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/4b37f97cef/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237380012/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:40:25.337Z"
     },
     {
       "source": "yema007",
