@@ -1,26 +1,26 @@
 {
-  "lastSync": "2026-10-27T00:19:59.914Z",
+  "lastSync": "2026-10-27T00:25:01.070Z",
   "syncState": {
     "status": "in-progress",
-    "label": "minkang 3800/7466",
+    "label": "minkang 4250/7466",
     "batchSize": 25,
     "maxImages": 1
   },
   "syncProgress": {
     "currentSource": "minkang",
-    "nextIndex": 3800,
+    "nextIndex": 4250,
     "totalForSource": 7466,
     "completedSources": []
   },
   "stats": {
     "discovered": 7466,
-    "added": 83,
-    "changed": 425,
-    "unchanged": 3287,
+    "added": 107,
+    "changed": 430,
+    "unchanged": 3708,
     "repaired": 0,
     "skipped": 5,
-    "duplicatesRemoved": 80,
-    "batchesSaved": 151
+    "duplicatesRemoved": 104,
+    "batchesSaved": 169
   },
   "sources": [
     {
@@ -264328,6 +264328,37 @@
       "updatedAt": "2026-10-25T17:21:38.733Z"
     },
     {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "113916206",
+      "uniqueKey": "minkang:113916206",
+      "title": "Retro LA Galaxy 2012 HOME S-XXL9",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/113916206?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "LA Galaxy",
+      "season": "2012",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/113916206/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/6d9ca5b5/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/113916206/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:21:06.786Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237376896",
@@ -264384,37 +264415,6 @@
       "coverUrl": "./assets/products/yema007/237376937/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:40:30.225Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "113916206",
-      "uniqueKey": "minkang:113916206",
-      "title": "Retro LA Galaxy 2012 HOME S-XXL9",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/113916206?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "LA Galaxy",
-      "season": "2020/12",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/113916206/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/6d9ca5b5/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/113916206/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:21:38.733Z"
     },
     {
       "source": "yema007",
@@ -294614,6 +294614,68 @@
       "updatedAt": "2026-10-25T18:09:14.943Z"
     },
     {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212241476",
+      "uniqueKey": "minkang:212241476",
+      "title": "Olympique de Marseille 1990 Away Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212241476?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Marseille",
+      "season": "1990",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/212241476/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/5249c369/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212241476/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:20:34.659Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212240411",
+      "uniqueKey": "minkang:212240411",
+      "title": "Olympique de Marseille 1990 Home Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212240411?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Marseille",
+      "season": "1990",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/212240411/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/7bcefcf6/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212240411/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:20:34.659Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237380832",
@@ -295241,68 +295303,6 @@
       "coverUrl": "./assets/products/yema007/237615836/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T18:50:55.264Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "212241476",
-      "uniqueKey": "minkang:212241476",
-      "title": "Olympique de Marseille 1990 Away Retro Jersey S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/212241476?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Marseille",
-      "season": "2019/90",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/212241476/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/5249c369/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/212241476/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:21:16.075Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "212240411",
-      "uniqueKey": "minkang:212240411",
-      "title": "Olympique de Marseille 1990 Home Retro Jersey S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/212240411?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Marseille",
-      "season": "2019/90",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/212240411/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/7bcefcf6/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/212240411/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:21:16.075Z"
     },
     {
       "source": "yema007",
@@ -342298,6 +342298,37 @@
       "updatedAt": "2026-10-25T17:23:41.150Z"
     },
     {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "215727398",
+      "uniqueKey": "minkang:215727398",
+      "title": "Real Madrid 1988 Home Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/215727398?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Real Madrid",
+      "season": "1988",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/215727398/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/f790317b/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/215727398/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:24:26.606Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237515467",
@@ -346469,39 +346500,6 @@
       "coverUrl": "./assets/products/minkang/212822204/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:23:19.371Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "212823181",
-      "uniqueKey": "minkang:212823181",
-      "title": "Real Madrid 0910 Home Long Sleeve Player Version Retro Jersey S-3XL9",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/212823181?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Real Madrid",
-      "season": "2009/10",
-      "types": [
-        "Retro",
-        "Lange mouw",
-        "Player version"
-      ],
-      "images": [
-        "./assets/products/minkang/212823181/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/25ad8d52/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/212823181/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:23:41.150Z"
     },
     {
       "source": "minkang",
@@ -353530,37 +353528,6 @@
       "coverUrl": "./assets/products/minkang/212824534/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:24:03.289Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "215727398",
-      "uniqueKey": "minkang:215727398",
-      "title": "Real Madrid 1988 Home Retro Jersey S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/215727398?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Real Madrid",
-      "season": "2019/88",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/215727398/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/f790317b/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/215727398/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:23:52.136Z"
     },
     {
       "source": "yema007",
@@ -386141,6 +386108,39 @@
       "coverUrl": "./assets/products/popmo/205811024/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T20:04:02.425Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212823181",
+      "uniqueKey": "minkang:212823181",
+      "title": "Real Madrid 0910 Home Long Sleeve Player Version Retro Jersey S-3XL9",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212823181?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Real Madrid",
+      "season": "Onbekend seizoen",
+      "types": [
+        "Retro",
+        "Lange mouw",
+        "Player version"
+      ],
+      "images": [
+        "./assets/products/minkang/212823181/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/25ad8d52/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212823181/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:24:09.960Z"
     },
     {
       "source": "minkang",
