@@ -1,14 +1,14 @@
 {
-  "lastSync": "2026-10-27T02:20:05.873Z",
+  "lastSync": "2026-10-27T02:25:14.729Z",
   "syncState": {
     "status": "in-progress",
-    "label": "yema007 4450/14191",
+    "label": "yema007 4875/14191",
     "batchSize": 25,
     "maxImages": 1
   },
   "syncProgress": {
     "currentSource": "yema007",
-    "nextIndex": 4450,
+    "nextIndex": 4875,
     "totalForSource": 14191,
     "completedSources": [
       "minkang"
@@ -16,13 +16,13 @@
   },
   "stats": {
     "discovered": 21657,
-    "added": 227,
-    "changed": 2067,
-    "unchanged": 9606,
+    "added": 228,
+    "changed": 2106,
+    "unchanged": 9991,
     "repaired": 0,
     "skipped": 16,
-    "duplicatesRemoved": 224,
-    "batchesSaved": 477
+    "duplicatesRemoved": 225,
+    "batchesSaved": 494
   },
   "sources": [
     {
@@ -237674,6 +237674,35 @@
       "updatedAt": "2026-10-25T18:32:50.452Z"
     },
     {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237377816",
+      "uniqueKey": "yema007:237377816",
+      "title": "1982 Flamenco home red and black11",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237377816?uid=1&isSubCate=true&referrercate=876738",
+      "categoryId": "876738",
+      "collectionId": "876738",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Flamengo 弗拉门戈",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Flamengo",
+      "season": "1982",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237377816/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/5a69a347f9/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237377816/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:21:10.594Z"
+    },
+    {
       "source": "minkang",
       "sourcePriority": 1,
       "sourceId": "75389420",
@@ -237705,6 +237734,68 @@
       "updatedAt": "2026-10-26T23:54:06.197Z"
     },
     {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237505894",
+      "uniqueKey": "yema007:237505894",
+      "title": "1986 Flamengo Retro Away Kit Best Jerseys6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237505894?uid=1&isSubCate=true&referrercate=876738",
+      "categoryId": "876738",
+      "collectionId": "876738",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Flamengo 弗拉门戈",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Flamengo",
+      "season": "1986",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237505894/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/2c8596dce9/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237505894/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:20:22.942Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237505947",
+      "uniqueKey": "yema007:237505947",
+      "title": "1986 Flamengo Retro Home Kit Best Jerseys7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237505947?uid=1&isSubCate=true&referrercate=876738",
+      "categoryId": "876738",
+      "collectionId": "876738",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Flamengo 弗拉门戈",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Flamengo",
+      "season": "1986",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237505947/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/4bf59fafc1/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237505947/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:20:22.942Z"
+    },
+    {
       "source": "minkang",
       "sourcePriority": 1,
       "sourceId": "146306000",
@@ -237734,6 +237825,35 @@
       "coverUrl": "./assets/products/minkang/146306000/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-26T23:54:06.194Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237377856",
+      "uniqueKey": "yema007:237377856",
+      "title": "1990 Flamengo home red black13",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237377856?uid=1&isSubCate=true&referrercate=876738",
+      "categoryId": "876738",
+      "collectionId": "876738",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Flamengo 弗拉门戈",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Flamengo",
+      "season": "1990",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237377856/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/28e93674e6/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237377856/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:21:10.594Z"
     },
     {
       "source": "minkang",
@@ -237825,6 +237945,37 @@
       "coverUrl": "./assets/products/yema007/237377778/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T18:33:36.008Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237377906",
+      "uniqueKey": "yema007:237377906",
+      "title": "1994 Flamengo 100th Anniversary Edition home9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237377906?uid=1&isSubCate=true&referrercate=876738",
+      "categoryId": "876738",
+      "collectionId": "876738",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Flamengo 弗拉门戈",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Flamengo",
+      "season": "1994",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/yema007/237377906/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/e45ce82743/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237377906/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:21:10.594Z"
     },
     {
       "source": "minkang",
@@ -237951,6 +238102,93 @@
       "coverUrl": "./assets/products/minkang/212194555/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:02:04.392Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237377985",
+      "uniqueKey": "yema007:237377985",
+      "title": "1995 Flamengo away168440621100010",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237377985?uid=1&isSubCate=true&referrercate=876738",
+      "categoryId": "876738",
+      "collectionId": "876738",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Flamengo 弗拉门戈",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Flamengo",
+      "season": "1995",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237377985/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/4d8da7b52b/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237377985/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:21:10.594Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237377943",
+      "uniqueKey": "yema007:237377943",
+      "title": "1995 Flamengo away9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237377943?uid=1&isSubCate=true&referrercate=876738",
+      "categoryId": "876738",
+      "collectionId": "876738",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Flamengo 弗拉门戈",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Flamengo",
+      "season": "1995",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237377943/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/2713866a24/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237377943/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:21:10.594Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237378030",
+      "uniqueKey": "yema007:237378030",
+      "title": "1995 Flamengo home10",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237378030?uid=1&isSubCate=true&referrercate=876738",
+      "categoryId": "876738",
+      "collectionId": "876738",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Flamengo 弗拉门戈",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Flamengo",
+      "season": "1995",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237378030/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/b82118907b/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237378030/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:21:10.594Z"
     },
     {
       "source": "minkang",
@@ -238265,6 +238503,35 @@
       "updatedAt": "2026-10-25T17:02:04.391Z"
     },
     {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237378072",
+      "uniqueKey": "yema007:237378072",
+      "title": "1999 Flamengo home9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237378072?uid=1&isSubCate=true&referrercate=876738",
+      "categoryId": "876738",
+      "collectionId": "876738",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Flamengo 弗拉门戈",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Flamengo",
+      "season": "1999",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237378072/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/94c5386fc6/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237378072/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:21:10.594Z"
+    },
+    {
       "source": "minkang",
       "sourcePriority": 1,
       "sourceId": "255027669",
@@ -238482,6 +238749,35 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237378109",
+      "uniqueKey": "yema007:237378109",
+      "title": "2001 Flamengo away9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237378109?uid=1&isSubCate=true&referrercate=876738",
+      "categoryId": "876738",
+      "collectionId": "876738",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Flamengo 弗拉门戈",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Flamengo",
+      "season": "2001",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237378109/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/f6a232247b/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237378109/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:21:10.593Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237507603",
       "uniqueKey": "yema007:237507603",
       "title": "01-02 Flamengo Away Retro Kit Football David Jersey7",
@@ -238540,6 +238836,66 @@
       "coverUrl": "./assets/products/minkang/212194115/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:02:04.391Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237483310",
+      "uniqueKey": "yema007:237483310",
+      "title": "2002 Flamengo away11",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237483310?uid=1&isSubCate=true&referrercate=876738",
+      "categoryId": "876738",
+      "collectionId": "876738",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Flamengo 弗拉门戈",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Flamengo",
+      "season": "2002",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237483310/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/563c1e9962/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237483310/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:20:51.161Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237483912",
+      "uniqueKey": "yema007:237483912",
+      "title": "Retro Flamengo 2002 Home S-XXL8",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237483912?uid=1&isSubCate=true&referrercate=876738",
+      "categoryId": "876738",
+      "collectionId": "876738",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Flamengo 弗拉门戈",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Flamengo",
+      "season": "2002",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237483912/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/9648b53ebc/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237483912/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:20:51.161Z"
     },
     {
       "source": "yema007",
@@ -239191,6 +239547,35 @@
       "updatedAt": "2026-10-25T17:02:04.391Z"
     },
     {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237378146",
+      "uniqueKey": "yema007:237378146",
+      "title": "2014 Flamengo red11",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237378146?uid=1&isSubCate=true&referrercate=876738",
+      "categoryId": "876738",
+      "collectionId": "876738",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Flamengo 弗拉门戈",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Flamengo",
+      "season": "2014",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237378146/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/42763f34a1/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237378146/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:21:10.593Z"
+    },
+    {
       "source": "minkang",
       "sourcePriority": 1,
       "sourceId": "212194576",
@@ -239682,391 +240067,6 @@
       "coverUrl": "./assets/products/minkang/255027583/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:01:06.229Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237377816",
-      "uniqueKey": "yema007:237377816",
-      "title": "1982 Flamenco home red and black11",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237377816?uid=1&isSubCate=true&referrercate=876738",
-      "categoryId": "876738",
-      "collectionId": "876738",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Flamengo 弗拉门戈",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Flamengo",
-      "season": "2019/82",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237377816/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/5a69a347f9/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237377816/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:33:36.008Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237505894",
-      "uniqueKey": "yema007:237505894",
-      "title": "1986 Flamengo Retro Away Kit Best Jerseys6",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237505894?uid=1&isSubCate=true&referrercate=876738",
-      "categoryId": "876738",
-      "collectionId": "876738",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Flamengo 弗拉门戈",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Flamengo",
-      "season": "2019/86",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/yema007/237505894/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/2c8596dce9/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237505894/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:33:12.497Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237505947",
-      "uniqueKey": "yema007:237505947",
-      "title": "1986 Flamengo Retro Home Kit Best Jerseys7",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237505947?uid=1&isSubCate=true&referrercate=876738",
-      "categoryId": "876738",
-      "collectionId": "876738",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Flamengo 弗拉门戈",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Flamengo",
-      "season": "2019/86",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/yema007/237505947/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/4bf59fafc1/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237505947/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:33:12.497Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237377856",
-      "uniqueKey": "yema007:237377856",
-      "title": "1990 Flamengo home red black13",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237377856?uid=1&isSubCate=true&referrercate=876738",
-      "categoryId": "876738",
-      "collectionId": "876738",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Flamengo 弗拉门戈",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Flamengo",
-      "season": "2019/90",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237377856/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/28e93674e6/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237377856/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:33:36.008Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237377906",
-      "uniqueKey": "yema007:237377906",
-      "title": "1994 Flamengo 100th Anniversary Edition home9",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237377906?uid=1&isSubCate=true&referrercate=876738",
-      "categoryId": "876738",
-      "collectionId": "876738",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Flamengo 弗拉门戈",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Flamengo",
-      "season": "2019/94",
-      "types": [
-        "Special edition"
-      ],
-      "images": [
-        "./assets/products/yema007/237377906/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/e45ce82743/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237377906/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:33:36.008Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237377985",
-      "uniqueKey": "yema007:237377985",
-      "title": "1995 Flamengo away168440621100010",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237377985?uid=1&isSubCate=true&referrercate=876738",
-      "categoryId": "876738",
-      "collectionId": "876738",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Flamengo 弗拉门戈",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Flamengo",
-      "season": "2019/95",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237377985/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/4d8da7b52b/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237377985/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:33:36.007Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237377943",
-      "uniqueKey": "yema007:237377943",
-      "title": "1995 Flamengo away9",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237377943?uid=1&isSubCate=true&referrercate=876738",
-      "categoryId": "876738",
-      "collectionId": "876738",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Flamengo 弗拉门戈",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Flamengo",
-      "season": "2019/95",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237377943/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/2713866a24/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237377943/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:33:36.007Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237378030",
-      "uniqueKey": "yema007:237378030",
-      "title": "1995 Flamengo home10",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237378030?uid=1&isSubCate=true&referrercate=876738",
-      "categoryId": "876738",
-      "collectionId": "876738",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Flamengo 弗拉门戈",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Flamengo",
-      "season": "2019/95",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237378030/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/b82118907b/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237378030/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:33:36.007Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237378072",
-      "uniqueKey": "yema007:237378072",
-      "title": "1999 Flamengo home9",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237378072?uid=1&isSubCate=true&referrercate=876738",
-      "categoryId": "876738",
-      "collectionId": "876738",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Flamengo 弗拉门戈",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Flamengo",
-      "season": "2019/99",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237378072/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/94c5386fc6/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237378072/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:33:36.007Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237378109",
-      "uniqueKey": "yema007:237378109",
-      "title": "2001 Flamengo away9",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237378109?uid=1&isSubCate=true&referrercate=876738",
-      "categoryId": "876738",
-      "collectionId": "876738",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Flamengo 弗拉门戈",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Flamengo",
-      "season": "2020/01",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237378109/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/f6a232247b/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237378109/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:33:36.007Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237483310",
-      "uniqueKey": "yema007:237483310",
-      "title": "2002 Flamengo away11",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237483310?uid=1&isSubCate=true&referrercate=876738",
-      "categoryId": "876738",
-      "collectionId": "876738",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Flamengo 弗拉门戈",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Flamengo",
-      "season": "2020/02",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237483310/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/563c1e9962/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237483310/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:33:23.842Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237483912",
-      "uniqueKey": "yema007:237483912",
-      "title": "Retro Flamengo 2002 Home S-XXL8",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237483912?uid=1&isSubCate=true&referrercate=876738",
-      "categoryId": "876738",
-      "collectionId": "876738",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Flamengo 弗拉门戈",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Flamengo",
-      "season": "2020/02",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/yema007/237483912/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/9648b53ebc/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237483912/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:33:23.842Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237378146",
-      "uniqueKey": "yema007:237378146",
-      "title": "2014 Flamengo red11",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237378146?uid=1&isSubCate=true&referrercate=876738",
-      "categoryId": "876738",
-      "collectionId": "876738",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Flamengo 弗拉门戈",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Flamengo",
-      "season": "2020/14",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237378146/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/42763f34a1/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237378146/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:33:36.007Z"
     },
     {
       "source": "minkang",
@@ -307405,6 +307405,37 @@
       "updatedAt": "2026-10-25T18:34:43.528Z"
     },
     {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237507934",
+      "uniqueKey": "yema007:237507934",
+      "title": "1980 Palmeiras Home Retro Kit Football David Jersey6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237507934?uid=1&isSubCate=true&referrercate=876739",
+      "categoryId": "876739",
+      "collectionId": "876739",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Palmeiras 帕尔梅拉斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Palmeiras",
+      "season": "1980",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237507934/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/a6baeb551d/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237507934/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:22:40.224Z"
+    },
+    {
       "source": "minkang",
       "sourcePriority": 1,
       "sourceId": "189879653",
@@ -307562,6 +307593,35 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237378490",
+      "uniqueKey": "yema007:237378490",
+      "title": "1992 Palmeiras home8",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237378490?uid=1&isSubCate=true&referrercate=876739",
+      "categoryId": "876739",
+      "collectionId": "876739",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Palmeiras 帕尔梅拉斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Palmeiras",
+      "season": "1992",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237378490/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/135a0b611d/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237378490/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:22:59.570Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237378425",
       "uniqueKey": "yema007:237378425",
       "title": "92-93 Palmeiras home11",
@@ -307680,6 +307740,68 @@
       "coverUrl": "./assets/products/minkang/84386660/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:02:37.729Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237488239",
+      "uniqueKey": "yema007:237488239",
+      "title": "1993 Retro Palmeiras home long-sleeved size S-4XL10",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237488239?uid=1&isSubCate=true&referrercate=876739",
+      "categoryId": "876739",
+      "collectionId": "876739",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Palmeiras 帕尔梅拉斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Palmeiras",
+      "season": "1993",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237488239/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/706d0974db/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237488239/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:22:40.224Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237488171",
+      "uniqueKey": "yema007:237488171",
+      "title": "1993 Retro Palmeiras home Size S-4XL11",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237488171?uid=1&isSubCate=true&referrercate=876739",
+      "categoryId": "876739",
+      "collectionId": "876739",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Palmeiras 帕尔梅拉斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Palmeiras",
+      "season": "1993",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237488171/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/7ebae7cbd8/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237488171/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:22:59.570Z"
     },
     {
       "source": "minkang",
@@ -307865,6 +307987,66 @@
       "coverUrl": "./assets/products/minkang/231122336/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:02:37.728Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237624865",
+      "uniqueKey": "yema007:237624865",
+      "title": "1996 Palmeiras home9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237624865?uid=1&isSubCate=true&referrercate=876739",
+      "categoryId": "876739",
+      "collectionId": "876739",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Palmeiras 帕尔梅拉斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Palmeiras",
+      "season": "1996",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237624865/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/ad452be48c/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237624865/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:22:06.297Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237507994",
+      "uniqueKey": "yema007:237507994",
+      "title": "1996 Palmeiras Third Retro Kit Football David Jersey8",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237507994?uid=1&isSubCate=true&referrercate=876739",
+      "categoryId": "876739",
+      "collectionId": "876739",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Palmeiras 帕尔梅拉斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Palmeiras",
+      "season": "1996",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237507994/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/dba5b7f8c5/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237507994/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:22:40.224Z"
     },
     {
       "source": "minkang",
@@ -308053,6 +308235,37 @@
       "updatedAt": "2026-10-25T18:34:32.405Z"
     },
     {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237505979",
+      "uniqueKey": "yema007:237505979",
+      "title": "1997 Palmeiras Retro Third Kit Best Jerseys9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237505979?uid=1&isSubCate=true&referrercate=876739",
+      "categoryId": "876739",
+      "collectionId": "876739",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Palmeiras 帕尔梅拉斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Palmeiras",
+      "season": "1997",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237505979/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/142d792155/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237505979/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:22:40.224Z"
+    },
+    {
       "source": "minkang",
       "sourcePriority": 1,
       "sourceId": "181079594",
@@ -308206,6 +308419,66 @@
       "coverUrl": "./assets/products/minkang/255027996/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:02:26.466Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237543955",
+      "uniqueKey": "yema007:237543955",
+      "title": "1999 Palmeiras Home Retro Kit Vintage Shirt Soccer David Jersey2",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237543955?uid=1&isSubCate=true&referrercate=876739",
+      "categoryId": "876739",
+      "collectionId": "876739",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Palmeiras 帕尔梅拉斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Palmeiras",
+      "season": "1999",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237543955/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/46ac7d5df4/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237543955/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:22:24.106Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237378521",
+      "uniqueKey": "yema007:237378521",
+      "title": "1999 Palmeiras Liberator Cup Champion10",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237378521?uid=1&isSubCate=true&referrercate=876739",
+      "categoryId": "876739",
+      "collectionId": "876739",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Palmeiras 帕尔梅拉斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Palmeiras",
+      "season": "1999",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237378521/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/c372e88c4b/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237378521/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:22:59.570Z"
     },
     {
       "source": "minkang",
@@ -308547,6 +308820,37 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237499229",
+      "uniqueKey": "yema007:237499229",
+      "title": "2014 Retro Palmeiras Green S-4XL7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237499229?uid=1&isSubCate=true&referrercate=876739",
+      "categoryId": "876739",
+      "collectionId": "876739",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Palmeiras 帕尔梅拉斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Palmeiras",
+      "season": "2014",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237499229/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/0e6e0bb71d/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237499229/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:22:40.224Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237378360",
       "uniqueKey": "yema007:237378360",
       "title": "14-15 Palmeiras 100th Anniversary Edition8",
@@ -308636,6 +308940,37 @@
       "updatedAt": "2026-10-25T18:34:32.405Z"
     },
     {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237492381",
+      "uniqueKey": "yema007:237492381",
+      "title": "2015 Retro Palmeiras size S-2XL Soccer Jerseys12",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237492381?uid=1&isSubCate=true&referrercate=876739",
+      "categoryId": "876739",
+      "collectionId": "876739",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Palmeiras 帕尔梅拉斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Palmeiras",
+      "season": "2015",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237492381/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/df39369e9f/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237492381/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:22:40.224Z"
+    },
+    {
       "source": "minkang",
       "sourcePriority": 1,
       "sourceId": "212194699",
@@ -308670,341 +309005,6 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
-      "sourceId": "237507934",
-      "uniqueKey": "yema007:237507934",
-      "title": "1980 Palmeiras Home Retro Kit Football David Jersey6",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237507934?uid=1&isSubCate=true&referrercate=876739",
-      "categoryId": "876739",
-      "collectionId": "876739",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Palmeiras 帕尔梅拉斯",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Palmeiras",
-      "season": "2019/80",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/yema007/237507934/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/a6baeb551d/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237507934/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:34:32.405Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237378490",
-      "uniqueKey": "yema007:237378490",
-      "title": "1992 Palmeiras home8",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237378490?uid=1&isSubCate=true&referrercate=876739",
-      "categoryId": "876739",
-      "collectionId": "876739",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Palmeiras 帕尔梅拉斯",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Palmeiras",
-      "season": "2019/92",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237378490/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/135a0b611d/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237378490/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:34:43.528Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237488239",
-      "uniqueKey": "yema007:237488239",
-      "title": "1993 Retro Palmeiras home long-sleeved size S-4XL10",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237488239?uid=1&isSubCate=true&referrercate=876739",
-      "categoryId": "876739",
-      "collectionId": "876739",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Palmeiras 帕尔梅拉斯",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Palmeiras",
-      "season": "2019/93",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/yema007/237488239/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/706d0974db/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237488239/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:34:32.406Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237488171",
-      "uniqueKey": "yema007:237488171",
-      "title": "1993 Retro Palmeiras home Size S-4XL11",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237488171?uid=1&isSubCate=true&referrercate=876739",
-      "categoryId": "876739",
-      "collectionId": "876739",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Palmeiras 帕尔梅拉斯",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Palmeiras",
-      "season": "2019/93",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/yema007/237488171/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/7ebae7cbd8/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237488171/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:34:43.528Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237624865",
-      "uniqueKey": "yema007:237624865",
-      "title": "1996 Palmeiras home9",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237624865?uid=1&isSubCate=true&referrercate=876739",
-      "categoryId": "876739",
-      "collectionId": "876739",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Palmeiras 帕尔梅拉斯",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Palmeiras",
-      "season": "2019/96",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237624865/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/ad452be48c/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237624865/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:34:10.123Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237507994",
-      "uniqueKey": "yema007:237507994",
-      "title": "1996 Palmeiras Third Retro Kit Football David Jersey8",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237507994?uid=1&isSubCate=true&referrercate=876739",
-      "categoryId": "876739",
-      "collectionId": "876739",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Palmeiras 帕尔梅拉斯",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Palmeiras",
-      "season": "2019/96",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/yema007/237507994/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/dba5b7f8c5/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237507994/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:34:32.405Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237505979",
-      "uniqueKey": "yema007:237505979",
-      "title": "1997 Palmeiras Retro Third Kit Best Jerseys9",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237505979?uid=1&isSubCate=true&referrercate=876739",
-      "categoryId": "876739",
-      "collectionId": "876739",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Palmeiras 帕尔梅拉斯",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Palmeiras",
-      "season": "2019/97",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/yema007/237505979/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/142d792155/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237505979/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:34:32.405Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237543955",
-      "uniqueKey": "yema007:237543955",
-      "title": "1999 Palmeiras Home Retro Kit Vintage Shirt Soccer David Jersey2",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237543955?uid=1&isSubCate=true&referrercate=876739",
-      "categoryId": "876739",
-      "collectionId": "876739",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Palmeiras 帕尔梅拉斯",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Palmeiras",
-      "season": "2019/99",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/yema007/237543955/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/46ac7d5df4/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237543955/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:34:21.343Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237378521",
-      "uniqueKey": "yema007:237378521",
-      "title": "1999 Palmeiras Liberator Cup Champion10",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237378521?uid=1&isSubCate=true&referrercate=876739",
-      "categoryId": "876739",
-      "collectionId": "876739",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Palmeiras 帕尔梅拉斯",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Palmeiras",
-      "season": "2019/99",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237378521/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/c372e88c4b/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237378521/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:34:43.528Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237499229",
-      "uniqueKey": "yema007:237499229",
-      "title": "2014 Retro Palmeiras Green S-4XL7",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237499229?uid=1&isSubCate=true&referrercate=876739",
-      "categoryId": "876739",
-      "collectionId": "876739",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Palmeiras 帕尔梅拉斯",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Palmeiras",
-      "season": "2020/14",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/yema007/237499229/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/0e6e0bb71d/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237499229/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:34:32.405Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237492381",
-      "uniqueKey": "yema007:237492381",
-      "title": "2015 Retro Palmeiras size S-2XL Soccer Jerseys12",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237492381?uid=1&isSubCate=true&referrercate=876739",
-      "categoryId": "876739",
-      "collectionId": "876739",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Palmeiras 帕尔梅拉斯",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Palmeiras",
-      "season": "2020/15",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/yema007/237492381/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/df39369e9f/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237492381/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:34:32.405Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
       "sourceId": "237483629",
       "uniqueKey": "yema007:237483629",
       "title": "2019 Palmeiras11",
@@ -309019,7 +309019,7 @@
       "country": "Overig",
       "competition": "Clubteams",
       "club": "Palmeiras",
-      "season": "2020/19",
+      "season": "2019",
       "types": [],
       "images": [
         "./assets/products/yema007/237483629/01.webp"
@@ -309029,7 +309029,7 @@
       ],
       "coverUrl": "./assets/products/yema007/237483629/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T18:34:43.528Z"
+      "updatedAt": "2026-10-27T02:22:59.570Z"
     },
     {
       "source": "yema007",
@@ -309048,7 +309048,7 @@
       "country": "Overig",
       "competition": "Clubteams",
       "club": "Palmeiras",
-      "season": "2020/19",
+      "season": "2019",
       "types": [
         "Retro",
         "Lange mouw"
@@ -309061,7 +309061,7 @@
       ],
       "coverUrl": "./assets/products/yema007/237491141/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T18:34:32.406Z"
+      "updatedAt": "2026-10-27T02:22:40.224Z"
     },
     {
       "source": "yema007",
@@ -309142,7 +309142,7 @@
       "country": "Overig",
       "competition": "Clubteams",
       "club": "Palmeiras",
-      "season": "2020/22",
+      "season": "2022",
       "types": [],
       "images": [
         "./assets/products/yema007/237535126/01.webp"
@@ -309152,7 +309152,7 @@
       ],
       "coverUrl": "./assets/products/yema007/237535126/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T18:34:21.343Z"
+      "updatedAt": "2026-10-27T02:22:24.106Z"
     },
     {
       "source": "yema007",
@@ -565749,6 +565749,37 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237498668",
+      "uniqueKey": "yema007:237498668",
+      "title": "1994 Retro Corinthians Home S-XXL5",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237498668?uid=1&isSubCate=true&referrercate=876740",
+      "categoryId": "876740",
+      "collectionId": "876740",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Corinthians 科林蒂安",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Corinthians 科林蒂安",
+      "country": "Overig",
+      "competition": "Corinthians 科林蒂安",
+      "club": "Overig",
+      "season": "1994",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237498668/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/2dbfc80df3/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237498668/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:24:07.511Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237507806",
       "uniqueKey": "yema007:237507806",
       "title": "95-96 Corinthians Away Retro Kit Football David Jersey8",
@@ -565776,6 +565807,37 @@
       "coverUrl": "./assets/products/yema007/237507806/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T18:35:27.782Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237498949",
+      "uniqueKey": "yema007:237498949",
+      "title": "1997 Retro Corinthians Home S-XXL6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237498949?uid=1&isSubCate=true&referrercate=876740",
+      "categoryId": "876740",
+      "collectionId": "876740",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Corinthians 科林蒂安",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Corinthians 科林蒂安",
+      "country": "Overig",
+      "competition": "Corinthians 科林蒂安",
+      "club": "Overig",
+      "season": "1997",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237498949/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/36eabbe900/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237498949/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:24:07.511Z"
     },
     {
       "source": "yema007",
@@ -565842,6 +565904,66 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237484968",
+      "uniqueKey": "yema007:237484968",
+      "title": "2000 Corinthians home10",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237484968?uid=1&isSubCate=true&referrercate=876740",
+      "categoryId": "876740",
+      "collectionId": "876740",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Corinthians 科林蒂安",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Corinthians 科林蒂安",
+      "country": "Overig",
+      "competition": "Corinthians 科林蒂安",
+      "club": "Overig",
+      "season": "2000",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237484968/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/6c8a6df356/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237484968/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:24:07.512Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237492265",
+      "uniqueKey": "yema007:237492265",
+      "title": "2000 Retro Corinthians Away S-XXL Soccer Jerseys8",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237492265?uid=1&isSubCate=true&referrercate=876740",
+      "categoryId": "876740",
+      "collectionId": "876740",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Corinthians 科林蒂安",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Corinthians 科林蒂安",
+      "country": "Overig",
+      "competition": "Corinthians 科林蒂安",
+      "club": "Overig",
+      "season": "2000",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237492265/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/8479351b34/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237492265/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:24:07.511Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237378559",
       "uniqueKey": "yema007:237378559",
       "title": "09-10 Corinthians away7",
@@ -565867,6 +565989,69 @@
       "coverUrl": "./assets/products/yema007/237378559/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T18:35:38.769Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237378671",
+      "uniqueKey": "yema007:237378671",
+      "title": "2010 Corinthians 100th Anniversary Beige14",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237378671?uid=1&isSubCate=true&referrercate=876740",
+      "categoryId": "876740",
+      "collectionId": "876740",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Corinthians 科林蒂安",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Corinthians 科林蒂安",
+      "country": "Overig",
+      "competition": "Corinthians 科林蒂安",
+      "club": "Overig",
+      "season": "2010",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/yema007/237378671/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/fd6a44b699/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237378671/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:24:24.470Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237496715",
+      "uniqueKey": "yema007:237496715",
+      "title": "2010 Retro Corinthians 100th Anniversary S-XXL Cheap Football Kit7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237496715?uid=1&isSubCate=true&referrercate=876740",
+      "categoryId": "876740",
+      "collectionId": "876740",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Corinthians 科林蒂安",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Corinthians 科林蒂安",
+      "country": "Overig",
+      "competition": "Corinthians 科林蒂安",
+      "club": "Overig",
+      "season": "2010",
+      "types": [
+        "Retro",
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/yema007/237496715/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/11639905b5/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237496715/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:24:07.511Z"
     },
     {
       "source": "yema007",
@@ -565990,6 +566175,125 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237487192",
+      "uniqueKey": "yema007:237487192",
+      "title": "2012 Corinthians away size S-XXL12",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237487192?uid=1&isSubCate=true&referrercate=876740",
+      "categoryId": "876740",
+      "collectionId": "876740",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Corinthians 科林蒂安",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Corinthians 科林蒂安",
+      "country": "Overig",
+      "competition": "Corinthians 科林蒂安",
+      "club": "Overig",
+      "season": "2012",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237487192/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/064f63fc00/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237487192/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:24:07.511Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237378699",
+      "uniqueKey": "yema007:237378699",
+      "title": "2012 Corinthians home12",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237378699?uid=1&isSubCate=true&referrercate=876740",
+      "categoryId": "876740",
+      "collectionId": "876740",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Corinthians 科林蒂安",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Corinthians 科林蒂安",
+      "country": "Overig",
+      "competition": "Corinthians 科林蒂安",
+      "club": "Overig",
+      "season": "2012",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237378699/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/f97d35ae5e/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237378699/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:24:24.470Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237378730",
+      "uniqueKey": "yema007:237378730",
+      "title": "2012 Corinthians home168440727800011",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237378730?uid=1&isSubCate=true&referrercate=876740",
+      "categoryId": "876740",
+      "collectionId": "876740",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Corinthians 科林蒂安",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Corinthians 科林蒂安",
+      "country": "Overig",
+      "competition": "Corinthians 科林蒂安",
+      "club": "Overig",
+      "season": "2012",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237378730/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/76984f135d/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237378730/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:24:24.470Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237741703",
+      "uniqueKey": "yema007:237741703",
+      "title": "2012 Corinthians Special Edition Retro Kit Vintage Futbol Shirt David Jersey Supplier8",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237741703?uid=1&isSubCate=true&referrercate=876740",
+      "categoryId": "876740",
+      "collectionId": "876740",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Corinthians 科林蒂安",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Corinthians 科林蒂安",
+      "country": "Overig",
+      "competition": "Corinthians 科林蒂安",
+      "club": "Overig",
+      "season": "2012",
+      "types": [
+        "Retro",
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/yema007/237741703/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/edfcbb0cd3/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237741703/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:23:34.867Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237484457",
       "uniqueKey": "yema007:237484457",
       "title": "14-15 Corinthians goalkeeper11",
@@ -566075,310 +566379,6 @@
       "coverUrl": "./assets/products/yema007/237505821/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T18:35:27.782Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237498668",
-      "uniqueKey": "yema007:237498668",
-      "title": "1994 Retro Corinthians Home S-XXL5",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237498668?uid=1&isSubCate=true&referrercate=876740",
-      "categoryId": "876740",
-      "collectionId": "876740",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Corinthians 科林蒂安",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Corinthians 科林蒂安",
-      "country": "Overig",
-      "competition": "Corinthians 科林蒂安",
-      "club": "Overig",
-      "season": "2019/94",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/yema007/237498668/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/2dbfc80df3/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237498668/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:35:27.782Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237498949",
-      "uniqueKey": "yema007:237498949",
-      "title": "1997 Retro Corinthians Home S-XXL6",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237498949?uid=1&isSubCate=true&referrercate=876740",
-      "categoryId": "876740",
-      "collectionId": "876740",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Corinthians 科林蒂安",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Corinthians 科林蒂安",
-      "country": "Overig",
-      "competition": "Corinthians 科林蒂安",
-      "club": "Overig",
-      "season": "2019/97",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/yema007/237498949/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/36eabbe900/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237498949/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:35:27.782Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237484968",
-      "uniqueKey": "yema007:237484968",
-      "title": "2000 Corinthians home10",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237484968?uid=1&isSubCate=true&referrercate=876740",
-      "categoryId": "876740",
-      "collectionId": "876740",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Corinthians 科林蒂安",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Corinthians 科林蒂安",
-      "country": "Overig",
-      "competition": "Corinthians 科林蒂安",
-      "club": "Overig",
-      "season": "2020/00",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237484968/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/6c8a6df356/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237484968/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:35:27.783Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237492265",
-      "uniqueKey": "yema007:237492265",
-      "title": "2000 Retro Corinthians Away S-XXL Soccer Jerseys8",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237492265?uid=1&isSubCate=true&referrercate=876740",
-      "categoryId": "876740",
-      "collectionId": "876740",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Corinthians 科林蒂安",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Corinthians 科林蒂安",
-      "country": "Overig",
-      "competition": "Corinthians 科林蒂安",
-      "club": "Overig",
-      "season": "2020/00",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/yema007/237492265/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/8479351b34/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237492265/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:35:27.783Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237378671",
-      "uniqueKey": "yema007:237378671",
-      "title": "2010 Corinthians 100th Anniversary Beige14",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237378671?uid=1&isSubCate=true&referrercate=876740",
-      "categoryId": "876740",
-      "collectionId": "876740",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Corinthians 科林蒂安",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Corinthians 科林蒂安",
-      "country": "Overig",
-      "competition": "Corinthians 科林蒂安",
-      "club": "Overig",
-      "season": "2020/10",
-      "types": [
-        "Special edition"
-      ],
-      "images": [
-        "./assets/products/yema007/237378671/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/fd6a44b699/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237378671/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:35:38.769Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237496715",
-      "uniqueKey": "yema007:237496715",
-      "title": "2010 Retro Corinthians 100th Anniversary S-XXL Cheap Football Kit7",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237496715?uid=1&isSubCate=true&referrercate=876740",
-      "categoryId": "876740",
-      "collectionId": "876740",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Corinthians 科林蒂安",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Corinthians 科林蒂安",
-      "country": "Overig",
-      "competition": "Corinthians 科林蒂安",
-      "club": "Overig",
-      "season": "2020/10",
-      "types": [
-        "Retro",
-        "Special edition"
-      ],
-      "images": [
-        "./assets/products/yema007/237496715/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/11639905b5/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237496715/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:35:27.782Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237487192",
-      "uniqueKey": "yema007:237487192",
-      "title": "2012 Corinthians away size S-XXL12",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237487192?uid=1&isSubCate=true&referrercate=876740",
-      "categoryId": "876740",
-      "collectionId": "876740",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Corinthians 科林蒂安",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Corinthians 科林蒂安",
-      "country": "Overig",
-      "competition": "Corinthians 科林蒂安",
-      "club": "Overig",
-      "season": "2020/12",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237487192/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/064f63fc00/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237487192/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:35:27.783Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237378699",
-      "uniqueKey": "yema007:237378699",
-      "title": "2012 Corinthians home12",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237378699?uid=1&isSubCate=true&referrercate=876740",
-      "categoryId": "876740",
-      "collectionId": "876740",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Corinthians 科林蒂安",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Corinthians 科林蒂安",
-      "country": "Overig",
-      "competition": "Corinthians 科林蒂安",
-      "club": "Overig",
-      "season": "2020/12",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237378699/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/f97d35ae5e/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237378699/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:35:38.769Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237378730",
-      "uniqueKey": "yema007:237378730",
-      "title": "2012 Corinthians home168440727800011",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237378730?uid=1&isSubCate=true&referrercate=876740",
-      "categoryId": "876740",
-      "collectionId": "876740",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Corinthians 科林蒂安",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Corinthians 科林蒂安",
-      "country": "Overig",
-      "competition": "Corinthians 科林蒂安",
-      "club": "Overig",
-      "season": "2020/12",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237378730/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/76984f135d/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237378730/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:35:38.769Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237741703",
-      "uniqueKey": "yema007:237741703",
-      "title": "2012 Corinthians Special Edition Retro Kit Vintage Futbol Shirt David Jersey Supplier8",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237741703?uid=1&isSubCate=true&referrercate=876740",
-      "categoryId": "876740",
-      "collectionId": "876740",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Corinthians 科林蒂安",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Corinthians 科林蒂安",
-      "country": "Overig",
-      "competition": "Corinthians 科林蒂安",
-      "club": "Overig",
-      "season": "2020/12",
-      "types": [
-        "Retro",
-        "Special edition"
-      ],
-      "images": [
-        "./assets/products/yema007/237741703/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/edfcbb0cd3/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237741703/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:35:05.661Z"
     },
     {
       "source": "yema007",
@@ -570685,6 +570685,37 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237187773",
+      "uniqueKey": "yema007:237187773",
+      "title": "Retro Corinthians 2010 Away9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237187773?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Overig",
+      "season": "2010",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237187773/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/a9ed23eb8a/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237187773/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:24:40.916Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "259880273",
       "uniqueKey": "yema007:259880273",
       "title": "2012 Santos Black Retro Kit Long Sleeve Vintage Shirt AAAAJersey Wholesale Yupoo11",
@@ -570994,37 +571025,6 @@
       "coverUrl": "./assets/products/yema007/237485837/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:43:41.811Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237187773",
-      "uniqueKey": "yema007:237187773",
-      "title": "Retro Corinthians 2010 Away9",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237187773?uid=1&isSubCate=false&referrercate=5217438",
-      "categoryId": null,
-      "collectionId": "5217438",
-      "sourceCollection": "more",
-      "sourceCategory": "David jersey",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "David jersey",
-      "country": "Overig",
-      "competition": "David jersey",
-      "club": "Overig",
-      "season": "2020/10",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/yema007/237187773/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/a9ed23eb8a/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237187773/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:35:49.607Z"
     },
     {
       "source": "yema007",
@@ -571829,35 +571829,6 @@
       "coverUrl": "./assets/products/yema007/237237649/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:18:03.383Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237368173",
-      "uniqueKey": "yema007:237368173",
-      "title": "2024 Corinthians Trench Coat Reversible Windbreaker Double-Sides Jacket Soccer David Jersey9",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237368173?uid=1&isSubCate=false&referrercate=5217438",
-      "categoryId": null,
-      "collectionId": "5217438",
-      "sourceCollection": "more",
-      "sourceCategory": "David jersey",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "David jersey",
-      "country": "Overig",
-      "competition": "David jersey",
-      "club": "Overig",
-      "season": "2020/24",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237368173/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/1a37f53044/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237368173/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:35:38.769Z"
     },
     {
       "source": "yema007",
@@ -586981,6 +586952,35 @@
       "coverUrl": "./assets/products/yema007/237368214/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T02:01:18.876Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237368173",
+      "uniqueKey": "yema007:237368173",
+      "title": "2024 Corinthians Trench Coat Reversible Windbreaker Double-Sides Jacket Soccer David Jersey9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237368173?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Overig",
+      "season": "2024",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237368173/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/1a37f53044/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237368173/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:24:24.470Z"
     },
     {
       "source": "yema007",
