@@ -1,14 +1,14 @@
 {
-  "lastSync": "2026-10-27T02:15:13.884Z",
+  "lastSync": "2026-10-27T02:20:05.873Z",
   "syncState": {
     "status": "in-progress",
-    "label": "yema007 4075/14191",
+    "label": "yema007 4450/14191",
     "batchSize": 25,
     "maxImages": 1
   },
   "syncProgress": {
     "currentSource": "yema007",
-    "nextIndex": 4075,
+    "nextIndex": 4450,
     "totalForSource": 14191,
     "completedSources": [
       "minkang"
@@ -16,13 +16,13 @@
   },
   "stats": {
     "discovered": 21657,
-    "added": 221,
-    "changed": 2062,
-    "unchanged": 9242,
+    "added": 227,
+    "changed": 2067,
+    "unchanged": 9606,
     "repaired": 0,
     "skipped": 16,
-    "duplicatesRemoved": 218,
-    "batchesSaved": 462
+    "duplicatesRemoved": 224,
+    "batchesSaved": 477
   },
   "sources": [
     {
@@ -551053,6 +551053,35 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237384573",
+      "uniqueKey": "yema007:237384573",
+      "title": "1991 Atalanta home blue13",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237384573?uid=1&isSubCate=true&referrercate=876788",
+      "categoryId": "876788",
+      "collectionId": "876788",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Atalanta 亚特兰大",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Atalanta 亚特兰大",
+      "country": "Overig",
+      "competition": "Atalanta 亚特兰大",
+      "club": "Overig",
+      "season": "1991",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237384573/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/d865952bea/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237384573/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:17:05.979Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237384548",
       "uniqueKey": "yema007:237384548",
       "title": "96-97 Atalanta home8",
@@ -551078,35 +551107,6 @@
       "coverUrl": "./assets/products/yema007/237384548/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T18:31:33.575Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237384573",
-      "uniqueKey": "yema007:237384573",
-      "title": "1991 Atalanta home blue13",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237384573?uid=1&isSubCate=true&referrercate=876788",
-      "categoryId": "876788",
-      "collectionId": "876788",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Atalanta 亚特兰大",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Atalanta 亚特兰大",
-      "country": "Overig",
-      "competition": "Atalanta 亚特兰大",
-      "club": "Overig",
-      "season": "2019/91",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237384573/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/d865952bea/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237384573/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:31:22.622Z"
     },
     {
       "source": "yema007",
@@ -657798,6 +657798,38 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237492842",
+      "uniqueKey": "yema007:237492842",
+      "title": "1998 Retro long sleeve Fiorentina home S-XXL8",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237492842?uid=1&isSubCate=true&referrercate=876791",
+      "categoryId": "876791",
+      "collectionId": "876791",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Fiorentina 佛罗伦萨",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Fiorentina 佛罗伦萨",
+      "country": "Overig",
+      "competition": "Fiorentina 佛罗伦萨",
+      "club": "Overig",
+      "season": "1998",
+      "types": [
+        "Retro",
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/yema007/237492842/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/99e5237cd7/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237492842/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:17:46.280Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237545922",
       "uniqueKey": "yema007:237545922",
       "title": "98-99 Fiorentina Away Retro Kid Kits Youth Apparels Soccer David Jersey3",
@@ -658062,38 +658094,6 @@
         "https://photo.yupoo.com/yema007/df08973690/medium.jpg"
       ],
       "coverUrl": "./assets/products/yema007/237384882/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:31:44.558Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237492842",
-      "uniqueKey": "yema007:237492842",
-      "title": "1998 Retro long sleeve Fiorentina home S-XXL8",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237492842?uid=1&isSubCate=true&referrercate=876791",
-      "categoryId": "876791",
-      "collectionId": "876791",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Fiorentina 佛罗伦萨",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Fiorentina 佛罗伦萨",
-      "country": "Overig",
-      "competition": "Fiorentina 佛罗伦萨",
-      "club": "Overig",
-      "season": "2019/98",
-      "types": [
-        "Retro",
-        "Lange mouw"
-      ],
-      "images": [
-        "./assets/products/yema007/237492842/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/99e5237cd7/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237492842/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T18:31:44.558Z"
     },
@@ -744386,6 +744386,66 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237384394",
+      "uniqueKey": "yema007:237384394",
+      "title": "1989 Lazio home blue2",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237384394?uid=1&isSubCate=true&referrercate=876786",
+      "categoryId": "876786",
+      "collectionId": "876786",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Lazio 拉齐奥",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Lazio 拉齐奥",
+      "country": "Overig",
+      "competition": "Lazio 拉齐奥",
+      "club": "Overig",
+      "season": "1989",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237384394/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/81aa8c821c/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237384394/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:16:24.140Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237486597",
+      "uniqueKey": "yema007:237486597",
+      "title": "1991 Retro Lazio Home Size S-XXL8",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237486597?uid=1&isSubCate=true&referrercate=876786",
+      "categoryId": "876786",
+      "collectionId": "876786",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Lazio 拉齐奥",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Lazio 拉齐奥",
+      "country": "Overig",
+      "competition": "Lazio 拉齐奥",
+      "club": "Overig",
+      "season": "1991",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237486597/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/0e284114ce/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237486597/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:16:24.140Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237722357",
       "uniqueKey": "yema007:237722357",
       "title": "91-92 Lazio Away Yellow Retro Kit Vintage Shirt David Jersey Dropship6",
@@ -744473,6 +744533,35 @@
       "coverUrl": "./assets/products/yema007/237594537/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T18:30:49.504Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237384414",
+      "uniqueKey": "yema007:237384414",
+      "title": "1995 Lazio away2",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237384414?uid=1&isSubCate=true&referrercate=876786",
+      "categoryId": "876786",
+      "collectionId": "876786",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Lazio 拉齐奥",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Lazio 拉齐奥",
+      "country": "Overig",
+      "competition": "Lazio 拉齐奥",
+      "club": "Overig",
+      "season": "1995",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237384414/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/ff670f2dbd/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237384414/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:16:24.140Z"
     },
     {
       "source": "yema007",
@@ -744887,95 +744976,6 @@
         "https://photo.yupoo.com/yema007/8615d3567d/medium.jpg"
       ],
       "coverUrl": "./assets/products/yema007/237384514/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:31:00.410Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237384394",
-      "uniqueKey": "yema007:237384394",
-      "title": "1989 Lazio home blue2",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237384394?uid=1&isSubCate=true&referrercate=876786",
-      "categoryId": "876786",
-      "collectionId": "876786",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Lazio 拉齐奥",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Lazio 拉齐奥",
-      "country": "Overig",
-      "competition": "Lazio 拉齐奥",
-      "club": "Overig",
-      "season": "2019/89",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237384394/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/81aa8c821c/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237384394/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:31:00.410Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237486597",
-      "uniqueKey": "yema007:237486597",
-      "title": "1991 Retro Lazio Home Size S-XXL8",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237486597?uid=1&isSubCate=true&referrercate=876786",
-      "categoryId": "876786",
-      "collectionId": "876786",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Lazio 拉齐奥",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Lazio 拉齐奥",
-      "country": "Overig",
-      "competition": "Lazio 拉齐奥",
-      "club": "Overig",
-      "season": "2019/91",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/yema007/237486597/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/0e284114ce/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237486597/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:31:00.410Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237384414",
-      "uniqueKey": "yema007:237384414",
-      "title": "1995 Lazio away2",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237384414?uid=1&isSubCate=true&referrercate=876786",
-      "categoryId": "876786",
-      "collectionId": "876786",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Lazio 拉齐奥",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Lazio 拉齐奥",
-      "country": "Overig",
-      "competition": "Lazio 拉齐奥",
-      "club": "Overig",
-      "season": "2019/95",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237384414/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/ff670f2dbd/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237384414/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T18:31:00.410Z"
     },
