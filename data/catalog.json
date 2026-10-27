@@ -1,14 +1,14 @@
 {
-  "lastSync": "2026-10-27T01:45:04.793Z",
+  "lastSync": "2026-10-27T01:50:07.041Z",
   "syncState": {
     "status": "in-progress",
-    "label": "yema007 1600/14191",
+    "label": "yema007 1975/14191",
     "batchSize": 25,
     "maxImages": 1
   },
   "syncProgress": {
     "currentSource": "yema007",
-    "nextIndex": 1600,
+    "nextIndex": 1975,
     "totalForSource": 14191,
     "completedSources": [
       "minkang"
@@ -16,13 +16,13 @@
   },
   "stats": {
     "discovered": 21657,
-    "added": 213,
-    "changed": 2009,
-    "unchanged": 6828,
+    "added": 214,
+    "changed": 2013,
+    "unchanged": 7198,
     "repaired": 0,
     "skipped": 16,
-    "duplicatesRemoved": 210,
-    "batchesSaved": 363
+    "duplicatesRemoved": 211,
+    "batchesSaved": 378
   },
   "sources": [
     {
@@ -151411,6 +151411,37 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237708291",
+      "uniqueKey": "yema007:237708291",
+      "title": "1991 Arsenal Retro Trench Coat Reversible Windbreaker Double-Sides Jacket8",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237708291?uid=1&isSubCate=true&referrercate=876798",
+      "categoryId": "876798",
+      "collectionId": "876798",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Arsenal 阿森纳",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Arsenal",
+      "season": "1991",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237708291/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/500237d498/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237708291/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:45:23.952Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237387269",
       "uniqueKey": "yema007:237387269",
       "title": "91-93 Arsenal away9",
@@ -151531,6 +151562,38 @@
       "coverUrl": "./assets/products/minkang/151794634/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:11:06.761Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237553377",
+      "uniqueKey": "yema007:237553377",
+      "title": "1992 Arsenal Home Retro Kid Kits Youth Apparels David Jersey Supplier12",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237553377?uid=1&isSubCate=true&referrercate=876798",
+      "categoryId": "876798",
+      "collectionId": "876798",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Arsenal 阿森纳",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Arsenal",
+      "season": "1992",
+      "types": [
+        "Retro",
+        "Kids"
+      ],
+      "images": [
+        "./assets/products/yema007/237553377/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/f78b5f0ac8/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237553377/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:47:12.512Z"
     },
     {
       "source": "yema007",
@@ -152366,6 +152429,38 @@
       "coverUrl": "./assets/products/minkang/166257530/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:11:06.762Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237553285",
+      "uniqueKey": "yema007:237553285",
+      "title": "1997 Arsenal Away Retro Kid Kits Youth Apparels David Jersey Supplier14",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237553285?uid=1&isSubCate=true&referrercate=876798",
+      "categoryId": "876798",
+      "collectionId": "876798",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Arsenal 阿森纳",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Arsenal",
+      "season": "1997",
+      "types": [
+        "Retro",
+        "Kids"
+      ],
+      "images": [
+        "./assets/products/yema007/237553285/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/1c31301136/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237553285/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:47:12.512Z"
     },
     {
       "source": "yema007",
@@ -155022,101 +155117,6 @@
       "coverUrl": "./assets/products/minkang/184675096/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:11:17.809Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237708291",
-      "uniqueKey": "yema007:237708291",
-      "title": "1991 Arsenal Retro Trench Coat Reversible Windbreaker Double-Sides Jacket8",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237708291?uid=1&isSubCate=true&referrercate=876798",
-      "categoryId": "876798",
-      "collectionId": "876798",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Arsenal 阿森纳",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Arsenal",
-      "season": "2019/91",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/yema007/237708291/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/500237d498/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237708291/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:12:00.124Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237553377",
-      "uniqueKey": "yema007:237553377",
-      "title": "1992 Arsenal Home Retro Kid Kits Youth Apparels David Jersey Supplier12",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237553377?uid=1&isSubCate=true&referrercate=876798",
-      "categoryId": "876798",
-      "collectionId": "876798",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Arsenal 阿森纳",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Arsenal",
-      "season": "2019/92",
-      "types": [
-        "Retro",
-        "Kids"
-      ],
-      "images": [
-        "./assets/products/yema007/237553377/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/f78b5f0ac8/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237553377/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:13:06.431Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237553285",
-      "uniqueKey": "yema007:237553285",
-      "title": "1997 Arsenal Away Retro Kid Kits Youth Apparels David Jersey Supplier14",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237553285?uid=1&isSubCate=true&referrercate=876798",
-      "categoryId": "876798",
-      "collectionId": "876798",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Arsenal 阿森纳",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Arsenal",
-      "season": "2019/97",
-      "types": [
-        "Retro",
-        "Kids"
-      ],
-      "images": [
-        "./assets/products/yema007/237553285/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/1c31301136/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237553285/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:13:06.431Z"
     },
     {
       "source": "yema007",
@@ -158366,35 +158366,6 @@
       "coverUrl": "./assets/products/minkang/133709428/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:11:40.062Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237611158",
-      "uniqueKey": "yema007:237611158",
-      "title": "2324 Arsenal Jackets3",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237611158?uid=1&isSubCate=true&referrercate=876798",
-      "categoryId": "876798",
-      "collectionId": "876798",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Arsenal 阿森纳",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Arsenal",
-      "season": "2023/24",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237611158/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/7d9b3f0e9b/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237611158/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:12:33.140Z"
     },
     {
       "source": "minkang",
@@ -168875,6 +168846,35 @@
       "coverUrl": "./assets/albums/258844522/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T16:55:49.794Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237611158",
+      "uniqueKey": "yema007:237611158",
+      "title": "2324 Arsenal Jackets3",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237611158?uid=1&isSubCate=true&referrercate=876798",
+      "categoryId": "876798",
+      "collectionId": "876798",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Arsenal 阿森纳",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Arsenal",
+      "season": "Onbekend seizoen",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237611158/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/7d9b3f0e9b/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237611158/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:46:20.040Z"
     },
     {
       "source": "minkang",
