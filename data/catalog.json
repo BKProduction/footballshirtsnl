@@ -1,29 +1,29 @@
 {
-  "lastSync": "2026-10-27T04:03:54.136Z",
+  "lastSync": "2026-10-27T04:10:17.825Z",
   "syncState": {
     "status": "in-progress",
-    "label": "yema007 voltooid",
+    "label": "popmo 500/2721",
     "batchSize": 25,
     "maxImages": 1
   },
   "syncProgress": {
-    "currentSource": "",
-    "nextIndex": 0,
-    "totalForSource": 0,
+    "currentSource": "popmo",
+    "nextIndex": 500,
+    "totalForSource": 2721,
     "completedSources": [
       "minkang",
       "yema007"
     ]
   },
   "stats": {
-    "discovered": 21657,
-    "added": 397,
-    "changed": 5204,
-    "unchanged": 16037,
+    "discovered": 24378,
+    "added": 406,
+    "changed": 5258,
+    "unchanged": 16474,
     "repaired": 0,
     "skipped": 19,
-    "duplicatesRemoved": 394,
-    "batchesSaved": 868
+    "duplicatesRemoved": 396,
+    "batchesSaved": 888
   },
   "sources": [
     {
@@ -57,7 +57,7 @@
       "forcedSection": "Trainingskleding"
     }
   ],
-  "total": 26041,
+  "total": 26048,
   "sections": [
     "Mode & accessoires",
     "Nog te categoriseren",
@@ -390,9 +390,6 @@
     "2020/25",
     "2020/23",
     "2020/21",
-    "2020/14",
-    "2020/13",
-    "2020/12",
     "2020/10",
     "2020/07",
     "2020/06",
@@ -403,8 +400,6 @@
     "2020",
     "2019/97",
     "2019/96",
-    "2019/95",
-    "2019/94",
     "2019/86",
     "2019/81",
     "2019/80",
@@ -2015,6 +2010,35 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "208267865",
+      "uniqueKey": "popmo:208267865",
+      "title": "2013 Málaga home away S-2XL4",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/208267865?uid=1&isSubCate=false&referrercate=4962099",
+      "categoryId": null,
+      "collectionId": "4962099",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2013",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/208267865/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/5ab3427a/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/208267865/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:07:55.567Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "241326847",
       "uniqueKey": "popmo:241326847",
       "title": "NIKE AIR ZOOM VOMERO 1894",
@@ -2069,35 +2093,6 @@
       "coverUrl": "./assets/products/popmo/241328723/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-26T02:45:41.245Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "208267865",
-      "uniqueKey": "popmo:208267865",
-      "title": "2013 Málaga home away S-2XL4",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/208267865?uid=1&isSubCate=false&referrercate=4962099",
-      "categoryId": null,
-      "collectionId": "4962099",
-      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/13",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/208267865/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/5ab3427a/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/208267865/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:47:57.638Z"
     },
     {
       "source": "popmo",
@@ -37859,93 +37854,6 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
-      "sourceId": "205202090",
-      "uniqueKey": "popmo:205202090",
-      "title": "2025 Boca Juniors Terrace Blue Icons Jersey2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/205202090?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/25",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/205202090/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/3876f924/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/205202090/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:49:49.250Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "202323876",
-      "uniqueKey": "popmo:202323876",
-      "title": "2025 Estudiantes de La Plata Away Jersey2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/202323876?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/25",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/202323876/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/0a39b2d9/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/202323876/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:49:49.250Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "202323495",
-      "uniqueKey": "popmo:202323495",
-      "title": "2025 Estudiantes de La Plata Home Jersey2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/202323495?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/25",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/202323495/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/8932e96c/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/202323495/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:49:49.250Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
       "sourceId": "209646345",
       "uniqueKey": "popmo:209646345",
       "title": "2025 Finland Away Jersey2",
@@ -38062,35 +37970,6 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
-      "sourceId": "209452437",
-      "uniqueKey": "popmo:209452437",
-      "title": "2025 Los Angeles Home4",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/209452437?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/25",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/209452437/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/bb16a01c/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/209452437/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:48:52.251Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
       "sourceId": "202327023",
       "uniqueKey": "popmo:202327023",
       "title": "2025 Olympiacos FC 100th Anniversary Jersey2",
@@ -38143,35 +38022,6 @@
         "https://photo.yupoo.com/popmo/2453459d/medium.jpeg"
       ],
       "coverUrl": "./assets/products/popmo/201451821/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:49:26.619Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "200936716",
-      "uniqueKey": "popmo:200936716",
-      "title": "Al-Hilal World Cup 2025 Home Jersey2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/200936716?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/25",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/200936716/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/b356d783/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/200936716/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:49:26.619Z"
     },
@@ -38290,35 +38140,6 @@
       "coverUrl": "./assets/products/popmo/225218720/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:58:27.213Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "228443178",
-      "uniqueKey": "popmo:228443178",
-      "title": "2026 Atletico Nacional Away S-2XL8",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/228443178?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/228443178/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/bed85650/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/228443178/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:49:03.302Z"
     },
     {
       "source": "popmo",
@@ -38555,35 +38376,6 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
-      "sourceId": "260280265",
-      "uniqueKey": "popmo:260280265",
-      "title": "2026 CF Monterrey KING Long Sleeve Jersey2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/260280265?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/260280265/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/fc4cee508d/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/260280265/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-26T19:08:13.821Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
       "sourceId": "232761003",
       "uniqueKey": "popmo:232761003",
       "title": "2026 Cordoba Retro Green and White S-4XL3",
@@ -38725,64 +38517,6 @@
       "coverUrl": "./assets/products/popmo/228845409/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:57:55.938Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "260279746",
-      "uniqueKey": "popmo:260279746",
-      "title": "2026 Espanyol - Eleven Archive Polo Jersey2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/260279746?uid=1&isSubCate=false&referrercate=4911722",
-      "categoryId": null,
-      "collectionId": "4911722",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/260279746/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/c7d0863677/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/260279746/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-26T19:08:17.401Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "233594531",
-      "uniqueKey": "popmo:233594531",
-      "title": "2026 FIFA WORLD CUP1",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/233594531?uid=1&isSubCate=false&referrercate=4728458",
-      "categoryId": null,
-      "collectionId": "4728458",
-      "sourceCollection": "ABOUT US",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/233594531/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/bdd35e36f1/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/233594531/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:46:19.143Z"
     },
     {
       "source": "popmo",
@@ -39280,35 +39014,6 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
-      "sourceId": "230217671",
-      "uniqueKey": "popmo:230217671",
-      "title": "2026 San Diego FC Away2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/230217671?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/230217671/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/8534fa63/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/230217671/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:48:52.251Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
       "sourceId": "236292536",
       "uniqueKey": "popmo:236292536",
       "title": "2026 Santander Retro S-4XL4",
@@ -39740,35 +39445,6 @@
       "coverUrl": "./assets/products/popmo/230703064/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:57:34.702Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "244668806",
-      "uniqueKey": "popmo:244668806",
-      "title": "O'Neills Bohemian F.C. x Kneecap 2026 Third Jersey1",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/244668806?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/244668806/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/045eeb0fc1/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/244668806/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:49:03.302Z"
     },
     {
       "source": "popmo",
@@ -40581,6 +40257,151 @@
       "imageCount": 1,
       "updatedAt": "2026-10-24T23:15:20.133Z",
       "season": "2024/25"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "205202090",
+      "uniqueKey": "popmo:205202090",
+      "title": "2025 Boca Juniors Terrace Blue Icons Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/205202090?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2025",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/205202090/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/3876f924/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/205202090/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:10:03.405Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "202323876",
+      "uniqueKey": "popmo:202323876",
+      "title": "2025 Estudiantes de La Plata Away Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/202323876?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2025",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/202323876/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/0a39b2d9/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/202323876/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:10:03.405Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "202323495",
+      "uniqueKey": "popmo:202323495",
+      "title": "2025 Estudiantes de La Plata Home Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/202323495?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2025",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/202323495/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/8932e96c/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/202323495/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:10:03.405Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "209452437",
+      "uniqueKey": "popmo:209452437",
+      "title": "2025 Los Angeles Home4",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/209452437?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2025",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/209452437/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/bb16a01c/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/209452437/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:09:04.409Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "200936716",
+      "uniqueKey": "popmo:200936716",
+      "title": "Al-Hilal World Cup 2025 Home Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/200936716?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2025",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/200936716/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/b356d783/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/200936716/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:09:44.744Z"
     },
     {
       "source": "popmo",
@@ -60450,6 +60271,180 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "228443178",
+      "uniqueKey": "popmo:228443178",
+      "title": "2026 Atletico Nacional Away S-2XL8",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/228443178?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/228443178/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/bed85650/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/228443178/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:09:31.480Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "260280265",
+      "uniqueKey": "popmo:260280265",
+      "title": "2026 CF Monterrey KING Long Sleeve Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/260280265?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/260280265/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/fc4cee508d/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/260280265/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:06:03.090Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "260279746",
+      "uniqueKey": "popmo:260279746",
+      "title": "2026 Espanyol - Eleven Archive Polo Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/260279746?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/260279746/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/c7d0863677/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/260279746/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:06:03.090Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "233594531",
+      "uniqueKey": "popmo:233594531",
+      "title": "2026 FIFA WORLD CUP1",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/233594531?uid=1&isSubCate=false&referrercate=4728458",
+      "categoryId": null,
+      "collectionId": "4728458",
+      "sourceCollection": "ABOUT US",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/233594531/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/bdd35e36f1/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/233594531/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:05:41.405Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "230217671",
+      "uniqueKey": "popmo:230217671",
+      "title": "2026 San Diego FC Away2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/230217671?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/230217671/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/8534fa63/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/230217671/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:09:04.409Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "244668806",
+      "uniqueKey": "popmo:244668806",
+      "title": "O'Neills Bohemian F.C. x Kneecap 2026 Third Jersey1",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/244668806?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/244668806/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/045eeb0fc1/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/244668806/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:09:18.213Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "256154837",
       "uniqueKey": "popmo:256154837",
       "title": "26-27  Hamburger SV eSports jersey2",
@@ -68711,6 +68706,35 @@
       "imageCount": 1,
       "updatedAt": "2026-10-24T13:20:41.055Z",
       "season": "Onbekend seizoen"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "260396707",
+      "uniqueKey": "popmo:260396707",
+      "title": "Oasis Tour 3-Stripes Longsleeve Tee in black2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/260396707?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "Onbekend seizoen",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/260396707/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/bf758b9951/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/260396707/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:05:56.755Z"
     },
     {
       "source": "popmo",
@@ -205540,6 +205564,37 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "260396477",
+      "uniqueKey": "popmo:260396477",
+      "title": "26-27 FC Barcelona x GOLF WANG Home Women Jersey3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/260396477?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Barcelona",
+      "season": "2026/27",
+      "types": [
+        "Dames"
+      ],
+      "images": [
+        "./assets/products/popmo/260396477/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/27ac0e2f26/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/260396477/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:05:58.317Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "254821365",
       "uniqueKey": "popmo:254821365",
       "title": "26-27 FC Barcelona x Spider-Man2",
@@ -218986,35 +219041,6 @@
       "updatedAt": "2026-10-25T17:15:03.080Z"
     },
     {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "239549863",
-      "uniqueKey": "popmo:239549863",
-      "title": "2026 Benfica Away Jersey Off White2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/239549863?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Benfica",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/239549863/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/676424135a/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/239549863/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:48:41.058Z"
-    },
-    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237793251",
@@ -222657,6 +222683,35 @@
       "coverUrl": "./assets/products/minkang/220231104/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:14:51.980Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "239549863",
+      "uniqueKey": "popmo:239549863",
+      "title": "2026 Benfica Away Jersey Off White2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/239549863?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Benfica",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/239549863/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/676424135a/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/239549863/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:08:50.746Z"
     },
     {
       "source": "popmo",
@@ -265811,7 +265866,7 @@
       "country": "Overig",
       "competition": "Clubteams",
       "club": "Liverpool",
-      "season": "2019/95",
+      "season": "1995",
       "types": [
         "Special edition"
       ],
@@ -265823,7 +265878,7 @@
       ],
       "coverUrl": "./assets/products/popmo/229555341/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T19:47:57.638Z"
+      "updatedAt": "2026-10-27T04:07:55.567Z"
     },
     {
       "source": "popmo",
@@ -307192,6 +307247,37 @@
       "coverUrl": "./assets/products/yema007/259877580/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T18:29:21.214Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "260395272",
+      "uniqueKey": "popmo:260395272",
+      "title": "26-27 Napoli Away Women Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/260395272?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Napoli",
+      "season": "2026/27",
+      "types": [
+        "Dames"
+      ],
+      "images": [
+        "./assets/products/popmo/260395272/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/d83cee6a2f/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/260395272/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:06:03.090Z"
     },
     {
       "source": "popmo",
@@ -354743,35 +354829,6 @@
       "updatedAt": "2026-10-25T17:22:46.750Z"
     },
     {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "260279961",
-      "uniqueKey": "popmo:260279961",
-      "title": "2026 Camiseta Real Madrid - Eleven Archive Polo Jersey2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/260279961?uid=1&isSubCate=false&referrercate=4911722",
-      "categoryId": null,
-      "collectionId": "4911722",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Real Madrid",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/260279961/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/434e7cd992/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/260279961/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-26T19:08:15.664Z"
-    },
-    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "259881247",
@@ -380411,6 +380468,35 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "260279961",
+      "uniqueKey": "popmo:260279961",
+      "title": "2026 Camiseta Real Madrid - Eleven Archive Polo Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/260279961?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Real Madrid",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/260279961/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/434e7cd992/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/260279961/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:06:03.090Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "247509793",
       "uniqueKey": "popmo:247509793",
       "title": "[PLAYER VERSION] 26-27 Real Madrid Away Short Sleeve Jersey S-2XL11",
@@ -400946,6 +401032,35 @@
       "updatedAt": "2026-10-27T02:57:25.224Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "259839757",
+      "uniqueKey": "popmo:259839757",
+      "title": "1994 Argentina Sweatshirt, Blue-Black, Sizes S–2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/259839757?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Argentina",
+      "competition": "WK & landenteams",
+      "club": "Argentina",
+      "season": "1994",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/259839757/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/9cd4ccd4f9/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/259839757/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:08:23.043Z"
+    },
+    {
       "source": "minkang",
       "sourcePriority": 1,
       "sourceId": "213002670",
@@ -402740,35 +402855,6 @@
       "coverUrl": "./assets/products/yema007/237736845/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T01:27:54.816Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "259839757",
-      "uniqueKey": "popmo:259839757",
-      "title": "1994 Argentina Sweatshirt, Blue-Black, Sizes S–2XL2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/259839757?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Argentina",
-      "competition": "WK & landenteams",
-      "club": "Argentina",
-      "season": "2019/94",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/259839757/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/9cd4ccd4f9/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/259839757/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:46:29.714Z"
     },
     {
       "source": "minkang",
@@ -412454,6 +412540,37 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "260396098",
+      "uniqueKey": "popmo:260396098",
+      "title": "26-27 Argentina Despedida Messi Women Soccer Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/260396098?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Argentina",
+      "competition": "WK & landenteams",
+      "club": "Argentina",
+      "season": "2026/27",
+      "types": [
+        "Dames"
+      ],
+      "images": [
+        "./assets/products/popmo/260396098/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/be2bab3e88/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/260396098/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:06:00.387Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "258505888",
       "uniqueKey": "popmo:258505888",
       "title": "26-27 Argentina Goalkeeper Kit (Dark Green) Kid Set2",
@@ -413519,6 +413636,37 @@
       "imageCount": 1,
       "updatedAt": "2026-10-24T12:41:24.202Z",
       "season": "Onbekend seizoen"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "260395593",
+      "uniqueKey": "popmo:260395593",
+      "title": "Argentina Messi 26 Pre Match Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/260395593?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Argentina",
+      "competition": "WK & landenteams",
+      "club": "Argentina",
+      "season": "Onbekend seizoen",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/popmo/260395593/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/f2511fb3cf/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/260395593/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:06:02.222Z"
     },
     {
       "source": "popmo",
@@ -420014,161 +420162,6 @@
       "coverUrl": "./assets/products/minkang/212390220/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T00:57:01.680Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "244370276",
-      "uniqueKey": "popmo:244370276",
-      "title": "Casemiro #5 Brazil National Team World Cup 2026 Home Short Sleeve Football Jersey2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/244370276?uid=1&isSubCate=false&referrercate=5260610",
-      "categoryId": null,
-      "collectionId": "5260610",
-      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Brazil",
-      "competition": "WK & landenteams",
-      "club": "Brazil",
-      "season": "2020/26",
-      "types": [
-        "Korte mouw"
-      ],
-      "images": [
-        "./assets/products/popmo/244370276/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/b356ed8244/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/244370276/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:48:19.290Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "244371722",
-      "uniqueKey": "popmo:244371722",
-      "title": "Marquinhos #4 Brazil National Team World Cup 2026 Away Long Sleeve Football Jersey2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/244371722?uid=1&isSubCate=false&referrercate=5260610",
-      "categoryId": null,
-      "collectionId": "5260610",
-      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Brazil",
-      "competition": "WK & landenteams",
-      "club": "Brazil",
-      "season": "2020/26",
-      "types": [
-        "Lange mouw"
-      ],
-      "images": [
-        "./assets/products/popmo/244371722/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/33439e6f2b/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/244371722/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:48:19.289Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "244371163",
-      "uniqueKey": "popmo:244371163",
-      "title": "Marquinhos #4 Brazil National Team World Cup 2026 Home Short Sleeve Football Jersey2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/244371163?uid=1&isSubCate=false&referrercate=5260610",
-      "categoryId": null,
-      "collectionId": "5260610",
-      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Brazil",
-      "competition": "WK & landenteams",
-      "club": "Brazil",
-      "season": "2020/26",
-      "types": [
-        "Korte mouw"
-      ],
-      "images": [
-        "./assets/products/popmo/244371163/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/69b7bfdee8/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/244371163/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:48:19.290Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "244369935",
-      "uniqueKey": "popmo:244369935",
-      "title": "Raphinha #11 Brazil National Team World Cup 2026 Home Short Sleeve Football Jersey2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/244369935?uid=1&isSubCate=false&referrercate=5260610",
-      "categoryId": null,
-      "collectionId": "5260610",
-      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Brazil",
-      "competition": "WK & landenteams",
-      "club": "Brazil",
-      "season": "2020/26",
-      "types": [
-        "Korte mouw"
-      ],
-      "images": [
-        "./assets/products/popmo/244369935/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/790ed8f70f/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/244369935/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:48:19.290Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "244370656",
-      "uniqueKey": "popmo:244370656",
-      "title": "Wesley #2 Brazil National Team World Cup 2026 Home Short Sleeve Football Jersey2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/244370656?uid=1&isSubCate=false&referrercate=5260610",
-      "categoryId": null,
-      "collectionId": "5260610",
-      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Brazil",
-      "competition": "WK & landenteams",
-      "club": "Brazil",
-      "season": "2020/26",
-      "types": [
-        "Korte mouw"
-      ],
-      "images": [
-        "./assets/products/popmo/244370656/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/20b4d35431/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/244370656/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:48:19.290Z"
     },
     {
       "source": "yema007",
@@ -431196,6 +431189,161 @@
       "updatedAt": "2026-10-27T00:46:15.169Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "244370276",
+      "uniqueKey": "popmo:244370276",
+      "title": "Casemiro #5 Brazil National Team World Cup 2026 Home Short Sleeve Football Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/244370276?uid=1&isSubCate=false&referrercate=5260610",
+      "categoryId": null,
+      "collectionId": "5260610",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Brazil",
+      "competition": "WK & landenteams",
+      "club": "Brazil",
+      "season": "2026",
+      "types": [
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/popmo/244370276/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/b356ed8244/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/244370276/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:08:23.043Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "244371722",
+      "uniqueKey": "popmo:244371722",
+      "title": "Marquinhos #4 Brazil National Team World Cup 2026 Away Long Sleeve Football Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/244371722?uid=1&isSubCate=false&referrercate=5260610",
+      "categoryId": null,
+      "collectionId": "5260610",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Brazil",
+      "competition": "WK & landenteams",
+      "club": "Brazil",
+      "season": "2026",
+      "types": [
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/popmo/244371722/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/33439e6f2b/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/244371722/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:08:23.043Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "244371163",
+      "uniqueKey": "popmo:244371163",
+      "title": "Marquinhos #4 Brazil National Team World Cup 2026 Home Short Sleeve Football Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/244371163?uid=1&isSubCate=false&referrercate=5260610",
+      "categoryId": null,
+      "collectionId": "5260610",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Brazil",
+      "competition": "WK & landenteams",
+      "club": "Brazil",
+      "season": "2026",
+      "types": [
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/popmo/244371163/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/69b7bfdee8/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/244371163/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:08:23.043Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "244369935",
+      "uniqueKey": "popmo:244369935",
+      "title": "Raphinha #11 Brazil National Team World Cup 2026 Home Short Sleeve Football Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/244369935?uid=1&isSubCate=false&referrercate=5260610",
+      "categoryId": null,
+      "collectionId": "5260610",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Brazil",
+      "competition": "WK & landenteams",
+      "club": "Brazil",
+      "season": "2026",
+      "types": [
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/popmo/244369935/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/790ed8f70f/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/244369935/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:08:23.043Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "244370656",
+      "uniqueKey": "popmo:244370656",
+      "title": "Wesley #2 Brazil National Team World Cup 2026 Home Short Sleeve Football Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/244370656?uid=1&isSubCate=false&referrercate=5260610",
+      "categoryId": null,
+      "collectionId": "5260610",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Brazil",
+      "competition": "WK & landenteams",
+      "club": "Brazil",
+      "season": "2026",
+      "types": [
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/popmo/244370656/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/20b4d35431/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/244370656/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:08:23.043Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237794893",
@@ -433889,192 +434037,6 @@
       "updatedAt": "2026-10-25T20:00:41.068Z"
     },
     {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "244386085",
-      "uniqueKey": "popmo:244386085",
-      "title": "Cyle Larin #9 Canada National Team World Cup 2026 Home Short Sleeve Football Jersey2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/244386085?uid=1&isSubCate=false&referrercate=5260610",
-      "categoryId": null,
-      "collectionId": "5260610",
-      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Canada",
-      "competition": "WK & landenteams",
-      "club": "Canada",
-      "season": "2020/26",
-      "types": [
-        "Korte mouw"
-      ],
-      "images": [
-        "./assets/products/popmo/244386085/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/3f8c957d76/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/244386085/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:48:08.411Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "244386303",
-      "uniqueKey": "popmo:244386303",
-      "title": "Ismaël Koné #8 Canada National Team World Cup 2026 Home Short Sleeve Football Jersey2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/244386303?uid=1&isSubCate=false&referrercate=5260610",
-      "categoryId": null,
-      "collectionId": "5260610",
-      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Canada",
-      "competition": "WK & landenteams",
-      "club": "Canada",
-      "season": "2020/26",
-      "types": [
-        "Korte mouw"
-      ],
-      "images": [
-        "./assets/products/popmo/244386303/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/82a8d49832/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/244386303/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:48:08.411Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "244384134",
-      "uniqueKey": "popmo:244384134",
-      "title": "Jonathan David #10 Canada National Team World Cup 2026 Home Short Sleeve Football Jersey2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/244384134?uid=1&isSubCate=false&referrercate=5260610",
-      "categoryId": null,
-      "collectionId": "5260610",
-      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Canada",
-      "competition": "WK & landenteams",
-      "club": "Canada",
-      "season": "2020/26",
-      "types": [
-        "Korte mouw"
-      ],
-      "images": [
-        "./assets/products/popmo/244384134/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/5fc15daad9/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/244384134/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:48:08.412Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "244385631",
-      "uniqueKey": "popmo:244385631",
-      "title": "Promise David #24 Canada National Team World Cup 2026 Home Short Sleeve Football Jersey2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/244385631?uid=1&isSubCate=false&referrercate=5260610",
-      "categoryId": null,
-      "collectionId": "5260610",
-      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Canada",
-      "competition": "WK & landenteams",
-      "club": "Canada",
-      "season": "2020/26",
-      "types": [
-        "Korte mouw"
-      ],
-      "images": [
-        "./assets/products/popmo/244385631/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/5bf46a53f5/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/244385631/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:48:08.411Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "244385941",
-      "uniqueKey": "popmo:244385941",
-      "title": "Tajon Buchanan #17 Canada National Team World Cup 2026 Home Short Sleeve Football Jersey2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/244385941?uid=1&isSubCate=false&referrercate=5260610",
-      "categoryId": null,
-      "collectionId": "5260610",
-      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Canada",
-      "competition": "WK & landenteams",
-      "club": "Canada",
-      "season": "2020/26",
-      "types": [
-        "Korte mouw"
-      ],
-      "images": [
-        "./assets/products/popmo/244385941/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/7d5b764f84/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/244385941/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:48:08.411Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "244386459",
-      "uniqueKey": "popmo:244386459",
-      "title": "Tani Oluwaseyi #12 Canada National Team World Cup 2026 Home Short Sleeve Football Jersey2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/244386459?uid=1&isSubCate=false&referrercate=5260610",
-      "categoryId": null,
-      "collectionId": "5260610",
-      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Canada",
-      "competition": "WK & landenteams",
-      "club": "Canada",
-      "season": "2020/26",
-      "types": [
-        "Korte mouw"
-      ],
-      "images": [
-        "./assets/products/popmo/244386459/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/fe0d1c596a/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/244386459/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:48:08.411Z"
-    },
-    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237680142",
@@ -434730,6 +434692,192 @@
       "coverUrl": "./assets/products/minkang/217356770/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T00:53:48.418Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "244386085",
+      "uniqueKey": "popmo:244386085",
+      "title": "Cyle Larin #9 Canada National Team World Cup 2026 Home Short Sleeve Football Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/244386085?uid=1&isSubCate=false&referrercate=5260610",
+      "categoryId": null,
+      "collectionId": "5260610",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Canada",
+      "competition": "WK & landenteams",
+      "club": "Canada",
+      "season": "2026",
+      "types": [
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/popmo/244386085/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/3f8c957d76/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/244386085/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:08:09.519Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "244386303",
+      "uniqueKey": "popmo:244386303",
+      "title": "Ismaël Koné #8 Canada National Team World Cup 2026 Home Short Sleeve Football Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/244386303?uid=1&isSubCate=false&referrercate=5260610",
+      "categoryId": null,
+      "collectionId": "5260610",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Canada",
+      "competition": "WK & landenteams",
+      "club": "Canada",
+      "season": "2026",
+      "types": [
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/popmo/244386303/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/82a8d49832/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/244386303/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:08:09.519Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "244384134",
+      "uniqueKey": "popmo:244384134",
+      "title": "Jonathan David #10 Canada National Team World Cup 2026 Home Short Sleeve Football Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/244384134?uid=1&isSubCate=false&referrercate=5260610",
+      "categoryId": null,
+      "collectionId": "5260610",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Canada",
+      "competition": "WK & landenteams",
+      "club": "Canada",
+      "season": "2026",
+      "types": [
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/popmo/244384134/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/5fc15daad9/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/244384134/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:08:09.519Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "244385631",
+      "uniqueKey": "popmo:244385631",
+      "title": "Promise David #24 Canada National Team World Cup 2026 Home Short Sleeve Football Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/244385631?uid=1&isSubCate=false&referrercate=5260610",
+      "categoryId": null,
+      "collectionId": "5260610",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Canada",
+      "competition": "WK & landenteams",
+      "club": "Canada",
+      "season": "2026",
+      "types": [
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/popmo/244385631/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/5bf46a53f5/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/244385631/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:08:09.519Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "244385941",
+      "uniqueKey": "popmo:244385941",
+      "title": "Tajon Buchanan #17 Canada National Team World Cup 2026 Home Short Sleeve Football Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/244385941?uid=1&isSubCate=false&referrercate=5260610",
+      "categoryId": null,
+      "collectionId": "5260610",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Canada",
+      "competition": "WK & landenteams",
+      "club": "Canada",
+      "season": "2026",
+      "types": [
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/popmo/244385941/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/7d5b764f84/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/244385941/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:08:09.519Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "244386459",
+      "uniqueKey": "popmo:244386459",
+      "title": "Tani Oluwaseyi #12 Canada National Team World Cup 2026 Home Short Sleeve Football Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/244386459?uid=1&isSubCate=false&referrercate=5260610",
+      "categoryId": null,
+      "collectionId": "5260610",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Canada",
+      "competition": "WK & landenteams",
+      "club": "Canada",
+      "season": "2026",
+      "types": [
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/popmo/244386459/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/fe0d1c596a/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/244386459/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:08:09.519Z"
     },
     {
       "source": "popmo",
@@ -440027,219 +440175,6 @@
       "updatedAt": "2026-10-25T19:58:17.099Z"
     },
     {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "244375832",
-      "uniqueKey": "popmo:244375832",
-      "title": "James Rodríguez #10 Colombia National Team World Cup 2026 Away Short Sleeve Football Jersey2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/244375832?uid=1&isSubCate=false&referrercate=5260610",
-      "categoryId": null,
-      "collectionId": "5260610",
-      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Colombia",
-      "competition": "WK & landenteams",
-      "club": "Colombia",
-      "season": "2020/26",
-      "types": [
-        "Korte mouw"
-      ],
-      "images": [
-        "./assets/products/popmo/244375832/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/639778ea1f/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/244375832/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:48:08.412Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "244376303",
-      "uniqueKey": "popmo:244376303",
-      "title": "James Rodríguez #10 Colombia National Team World Cup 2026 Home Kit Football Jersey2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/244376303?uid=1&isSubCate=false&referrercate=5260610",
-      "categoryId": null,
-      "collectionId": "5260610",
-      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Colombia",
-      "competition": "WK & landenteams",
-      "club": "Colombia",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/244376303/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/77d8c36b03/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/244376303/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:48:08.412Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "244375333",
-      "uniqueKey": "popmo:244375333",
-      "title": "James Rodríguez #10 Colombia National Team World Cup 2026 Home Short Sleeve Football Jersey2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/244375333?uid=1&isSubCate=false&referrercate=5260610",
-      "categoryId": null,
-      "collectionId": "5260610",
-      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Colombia",
-      "competition": "WK & landenteams",
-      "club": "Colombia",
-      "season": "2020/26",
-      "types": [
-        "Korte mouw"
-      ],
-      "images": [
-        "./assets/products/popmo/244375333/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/1414f74858/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/244375333/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:48:08.412Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "244376871",
-      "uniqueKey": "popmo:244376871",
-      "title": "Luis Díaz #7 Colombia National Team World Cup 2026 Away Kit Football Jersey2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/244376871?uid=1&isSubCate=false&referrercate=5260610",
-      "categoryId": null,
-      "collectionId": "5260610",
-      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Colombia",
-      "competition": "WK & landenteams",
-      "club": "Colombia",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/244376871/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/90a4cc89eb/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/244376871/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:48:08.412Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "244374324",
-      "uniqueKey": "popmo:244374324",
-      "title": "Luis Díaz #7 Colombia National Team World Cup 2026 Away Short Sleeve Football Jersey2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/244374324?uid=1&isSubCate=false&referrercate=5260610",
-      "categoryId": null,
-      "collectionId": "5260610",
-      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Colombia",
-      "competition": "WK & landenteams",
-      "club": "Colombia",
-      "season": "2020/26",
-      "types": [
-        "Korte mouw"
-      ],
-      "images": [
-        "./assets/products/popmo/244374324/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/69d1ac1ca5/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/244374324/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:48:08.412Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "244378093",
-      "uniqueKey": "popmo:244378093",
-      "title": "Luis Díaz #7 Colombia National Team World Cup 2026 Home Long Sleeve Football Jersey2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/244378093?uid=1&isSubCate=false&referrercate=5260610",
-      "categoryId": null,
-      "collectionId": "5260610",
-      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Colombia",
-      "competition": "WK & landenteams",
-      "club": "Colombia",
-      "season": "2020/26",
-      "types": [
-        "Lange mouw"
-      ],
-      "images": [
-        "./assets/products/popmo/244378093/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/bee05968ed/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/244378093/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:48:08.412Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "244373980",
-      "uniqueKey": "popmo:244373980",
-      "title": "Luis Díaz #7 Colombia National Team World Cup 2026 Home Short Sleeve Football Jersey2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/244373980?uid=1&isSubCate=false&referrercate=5260610",
-      "categoryId": null,
-      "collectionId": "5260610",
-      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Colombia",
-      "competition": "WK & landenteams",
-      "club": "Colombia",
-      "season": "2020/26",
-      "types": [
-        "Korte mouw"
-      ],
-      "images": [
-        "./assets/products/popmo/244373980/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/4ac3b9d275/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/244373980/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:48:08.412Z"
-    },
-    {
       "source": "minkang",
       "sourcePriority": 1,
       "sourceId": "135065240",
@@ -442633,6 +442568,219 @@
       "coverUrl": "./assets/products/minkang/252314498/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T00:42:38.549Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "244375832",
+      "uniqueKey": "popmo:244375832",
+      "title": "James Rodríguez #10 Colombia National Team World Cup 2026 Away Short Sleeve Football Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/244375832?uid=1&isSubCate=false&referrercate=5260610",
+      "categoryId": null,
+      "collectionId": "5260610",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Colombia",
+      "competition": "WK & landenteams",
+      "club": "Colombia",
+      "season": "2026",
+      "types": [
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/popmo/244375832/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/639778ea1f/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/244375832/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:08:23.043Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "244376303",
+      "uniqueKey": "popmo:244376303",
+      "title": "James Rodríguez #10 Colombia National Team World Cup 2026 Home Kit Football Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/244376303?uid=1&isSubCate=false&referrercate=5260610",
+      "categoryId": null,
+      "collectionId": "5260610",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Colombia",
+      "competition": "WK & landenteams",
+      "club": "Colombia",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/244376303/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/77d8c36b03/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/244376303/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:08:09.519Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "244375333",
+      "uniqueKey": "popmo:244375333",
+      "title": "James Rodríguez #10 Colombia National Team World Cup 2026 Home Short Sleeve Football Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/244375333?uid=1&isSubCate=false&referrercate=5260610",
+      "categoryId": null,
+      "collectionId": "5260610",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Colombia",
+      "competition": "WK & landenteams",
+      "club": "Colombia",
+      "season": "2026",
+      "types": [
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/popmo/244375333/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/1414f74858/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/244375333/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:08:23.043Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "244376871",
+      "uniqueKey": "popmo:244376871",
+      "title": "Luis Díaz #7 Colombia National Team World Cup 2026 Away Kit Football Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/244376871?uid=1&isSubCate=false&referrercate=5260610",
+      "categoryId": null,
+      "collectionId": "5260610",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Colombia",
+      "competition": "WK & landenteams",
+      "club": "Colombia",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/244376871/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/90a4cc89eb/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/244376871/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:08:09.519Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "244374324",
+      "uniqueKey": "popmo:244374324",
+      "title": "Luis Díaz #7 Colombia National Team World Cup 2026 Away Short Sleeve Football Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/244374324?uid=1&isSubCate=false&referrercate=5260610",
+      "categoryId": null,
+      "collectionId": "5260610",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Colombia",
+      "competition": "WK & landenteams",
+      "club": "Colombia",
+      "season": "2026",
+      "types": [
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/popmo/244374324/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/69d1ac1ca5/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/244374324/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:08:23.043Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "244378093",
+      "uniqueKey": "popmo:244378093",
+      "title": "Luis Díaz #7 Colombia National Team World Cup 2026 Home Long Sleeve Football Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/244378093?uid=1&isSubCate=false&referrercate=5260610",
+      "categoryId": null,
+      "collectionId": "5260610",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Colombia",
+      "competition": "WK & landenteams",
+      "club": "Colombia",
+      "season": "2026",
+      "types": [
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/popmo/244378093/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/bee05968ed/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/244378093/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:08:09.519Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "244373980",
+      "uniqueKey": "popmo:244373980",
+      "title": "Luis Díaz #7 Colombia National Team World Cup 2026 Home Short Sleeve Football Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/244373980?uid=1&isSubCate=false&referrercate=5260610",
+      "categoryId": null,
+      "collectionId": "5260610",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Colombia",
+      "competition": "WK & landenteams",
+      "club": "Colombia",
+      "season": "2026",
+      "types": [
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/popmo/244373980/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/4ac3b9d275/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/244373980/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:08:23.043Z"
     },
     {
       "source": "yema007",
@@ -445775,37 +445923,6 @@
       "updatedAt": "2026-10-25T19:59:38.753Z"
     },
     {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "243764415",
-      "uniqueKey": "popmo:243764415",
-      "title": "Moises Caicedo #23 Ecuador National Team World Cup 2026 Away Short Sleeve Football Jersey2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/243764415?uid=1&isSubCate=false&referrercate=5260610",
-      "categoryId": null,
-      "collectionId": "5260610",
-      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Ecuador",
-      "competition": "WK & landenteams",
-      "club": "Ecuador",
-      "season": "2020/26",
-      "types": [
-        "Korte mouw"
-      ],
-      "images": [
-        "./assets/products/popmo/243764415/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/66f7e97729/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/243764415/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:48:08.411Z"
-    },
-    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237187917",
@@ -446340,6 +446457,37 @@
       "coverUrl": "./assets/products/minkang/231115322/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T00:48:36.630Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "243764415",
+      "uniqueKey": "popmo:243764415",
+      "title": "Moises Caicedo #23 Ecuador National Team World Cup 2026 Away Short Sleeve Football Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/243764415?uid=1&isSubCate=false&referrercate=5260610",
+      "categoryId": null,
+      "collectionId": "5260610",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Ecuador",
+      "competition": "WK & landenteams",
+      "club": "Ecuador",
+      "season": "2026",
+      "types": [
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/popmo/243764415/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/66f7e97729/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/243764415/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:08:09.519Z"
     },
     {
       "source": "yema007",
@@ -456024,6 +456172,37 @@
       "updatedAt": "2026-10-27T03:04:39.091Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "204071871",
+      "uniqueKey": "popmo:204071871",
+      "title": "2006 France Away World Cup Retro S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/204071871?uid=1&isSubCate=false&referrercate=4962099",
+      "categoryId": null,
+      "collectionId": "4962099",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "France",
+      "competition": "WK & landenteams",
+      "club": "France",
+      "season": "2006",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/popmo/204071871/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/cd4f381d/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/204071871/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:08:09.519Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237362865",
@@ -456693,37 +456872,6 @@
       "coverUrl": "./assets/products/yema007/237621327/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T03:04:11.241Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "204071871",
-      "uniqueKey": "popmo:204071871",
-      "title": "2006 France Away World Cup Retro S-2XL2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/204071871?uid=1&isSubCate=false&referrercate=4962099",
-      "categoryId": null,
-      "collectionId": "4962099",
-      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "France",
-      "competition": "WK & landenteams",
-      "club": "France",
-      "season": "2020/06",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/popmo/204071871/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/cd4f381d/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/204071871/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:48:08.411Z"
     },
     {
       "source": "yema007",
@@ -473432,6 +473580,37 @@
       "imageCount": 1,
       "updatedAt": "2026-10-24T12:44:33.531Z",
       "season": "2026/27"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "260395754",
+      "uniqueKey": "popmo:260395754",
+      "title": "26-27 Germany Third Women Soccer Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/260395754?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Germany",
+      "competition": "WK & landenteams",
+      "club": "Germany",
+      "season": "2026/27",
+      "types": [
+        "Dames"
+      ],
+      "images": [
+        "./assets/products/popmo/260395754/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/4b3f621a47/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/260395754/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:06:01.238Z"
     },
     {
       "source": "popmo",
@@ -494750,6 +494929,37 @@
       "updatedAt": "2026-10-27T00:41:49.571Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "210156626",
+      "uniqueKey": "popmo:210156626",
+      "title": "2006 Mexico Home retro shirt2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/210156626?uid=1&isSubCate=false&referrercate=4962099",
+      "categoryId": null,
+      "collectionId": "4962099",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Mexico",
+      "competition": "WK & landenteams",
+      "club": "Mexico",
+      "season": "2006",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/popmo/210156626/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/fe10a96e/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/210156626/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:07:55.567Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237369471",
@@ -495056,37 +495266,6 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
-      "sourceId": "210156626",
-      "uniqueKey": "popmo:210156626",
-      "title": "2006 Mexico Home retro shirt2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/210156626?uid=1&isSubCate=false&referrercate=4962099",
-      "categoryId": null,
-      "collectionId": "4962099",
-      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Mexico",
-      "competition": "WK & landenteams",
-      "club": "Mexico",
-      "season": "2020/06",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/popmo/210156626/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/fe10a96e/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/210156626/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:47:57.638Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
       "sourceId": "230706635",
       "uniqueKey": "popmo:230706635",
       "title": "2026 Mexico Goalkeeper Rose Red S-4XL3",
@@ -495203,35 +495382,6 @@
       "coverUrl": "./assets/products/popmo/230694191/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:57:34.702Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "260279338",
-      "uniqueKey": "popmo:260279338",
-      "title": "2026 Mexico Terrace Icons White Jersey2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/260279338?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Mexico",
-      "competition": "WK & landenteams",
-      "club": "Mexico",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/260279338/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/ef10a4460f/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/260279338/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-26T19:08:19.142Z"
     },
     {
       "source": "yema007",
@@ -499414,6 +499564,35 @@
       "updatedAt": "2026-10-27T01:27:38.885Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "260279338",
+      "uniqueKey": "popmo:260279338",
+      "title": "2026 Mexico Terrace Icons White Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/260279338?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Mexico",
+      "competition": "WK & landenteams",
+      "club": "Mexico",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/260279338/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/ef10a4460f/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/260279338/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:06:03.090Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "259877551",
@@ -502736,35 +502915,6 @@
       "updatedAt": "2026-10-27T01:05:51.881Z"
     },
     {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "244380182",
-      "uniqueKey": "popmo:244380182",
-      "title": "Achraf Hakimi #2 Morocco National Team World Cup 2026 Home Kit Football Jersey2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/244380182?uid=1&isSubCate=false&referrercate=5260610",
-      "categoryId": null,
-      "collectionId": "5260610",
-      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Morocco",
-      "competition": "WK & landenteams",
-      "club": "Morocco",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/244380182/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/8dc6ee749a/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/244380182/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:48:08.412Z"
-    },
-    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237669112",
@@ -503705,6 +503855,35 @@
       "coverUrl": "./assets/products/yema007/237794440/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T03:24:29.109Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "244380182",
+      "uniqueKey": "popmo:244380182",
+      "title": "Achraf Hakimi #2 Morocco National Team World Cup 2026 Home Kit Football Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/244380182?uid=1&isSubCate=false&referrercate=5260610",
+      "categoryId": null,
+      "collectionId": "5260610",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Morocco",
+      "competition": "WK & landenteams",
+      "club": "Morocco",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/244380182/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/8dc6ee749a/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/244380182/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:08:09.519Z"
     },
     {
       "source": "minkang",
@@ -513159,6 +513338,37 @@
       "updatedAt": "2026-10-27T03:16:05.714Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "204777232",
+      "uniqueKey": "popmo:204777232",
+      "title": "2010 Portugal Home Short Long Sleeve Player Edition S-3XL5",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/204777232?uid=1&isSubCate=false&referrercate=4962099",
+      "categoryId": null,
+      "collectionId": "4962099",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Portugal",
+      "competition": "WK & landenteams",
+      "club": "Portugal",
+      "season": "2010",
+      "types": [
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/popmo/204777232/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/3389ef51/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/204777232/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:08:09.519Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237705157",
@@ -513915,6 +514125,37 @@
       "updatedAt": "2026-10-27T00:41:49.570Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "243203025",
+      "uniqueKey": "popmo:243203025",
+      "title": "Portugal Retro Jersey S-2XL [2012, 1992, 2004, 2018, 2006, 2010]17",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/243203025?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Portugal",
+      "competition": "WK & landenteams",
+      "club": "Portugal",
+      "season": "2012",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/popmo/243203025/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/ebb4962a51/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/243203025/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:07:42.087Z"
+    },
+    {
       "source": "minkang",
       "sourcePriority": 1,
       "sourceId": "93345503",
@@ -514199,6 +514440,35 @@
       "coverUrl": "./assets/products/minkang/212258305/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T00:57:18.089Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "207722772",
+      "uniqueKey": "popmo:207722772",
+      "title": "2014 Portugal 2014 World Cup Home Player Edition7",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/207722772?uid=1&isSubCate=false&referrercate=4962099",
+      "categoryId": null,
+      "collectionId": "4962099",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Portugal",
+      "competition": "WK & landenteams",
+      "club": "Portugal",
+      "season": "2014",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/207722772/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/b825d9c2/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/207722772/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:07:55.567Z"
     },
     {
       "source": "yema007",
@@ -514876,97 +515146,6 @@
       "coverUrl": "./assets/products/minkang/256509204/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T00:41:49.570Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "204777232",
-      "uniqueKey": "popmo:204777232",
-      "title": "2010 Portugal Home Short Long Sleeve Player Edition S-3XL5",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/204777232?uid=1&isSubCate=false&referrercate=4962099",
-      "categoryId": null,
-      "collectionId": "4962099",
-      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Portugal",
-      "competition": "WK & landenteams",
-      "club": "Portugal",
-      "season": "2020/10",
-      "types": [
-        "Lange mouw"
-      ],
-      "images": [
-        "./assets/products/popmo/204777232/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/3389ef51/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/204777232/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:48:08.411Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "243203025",
-      "uniqueKey": "popmo:243203025",
-      "title": "Portugal Retro Jersey S-2XL [2012, 1992, 2004, 2018, 2006, 2010]17",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/243203025?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Portugal",
-      "competition": "WK & landenteams",
-      "club": "Portugal",
-      "season": "2020/12",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/popmo/243203025/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/ebb4962a51/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/243203025/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:47:46.940Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "207722772",
-      "uniqueKey": "popmo:207722772",
-      "title": "2014 Portugal 2014 World Cup Home Player Edition7",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/207722772?uid=1&isSubCate=false&referrercate=4962099",
-      "categoryId": null,
-      "collectionId": "4962099",
-      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Portugal",
-      "competition": "WK & landenteams",
-      "club": "Portugal",
-      "season": "2020/14",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/207722772/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/b825d9c2/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/207722772/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:47:57.639Z"
     },
     {
       "source": "minkang",
@@ -530609,99 +530788,6 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
-      "sourceId": "246443823",
-      "uniqueKey": "popmo:246443823",
-      "title": "[PLAYER VERSION] Spain 2026 World Cup Winners 2 Star Away Short Sleeve Jersey S-3XL12",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/246443823?uid=1&isSubCate=false&referrercate=5277271",
-      "categoryId": null,
-      "collectionId": "5277271",
-      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Spain",
-      "competition": "WK & landenteams",
-      "club": "Spain",
-      "season": "2020/26",
-      "types": [
-        "Korte mouw",
-        "Player version"
-      ],
-      "images": [
-        "./assets/products/popmo/246443823/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/42e642f55f/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/246443823/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:47:13.889Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "246443791",
-      "uniqueKey": "popmo:246443791",
-      "title": "[PLAYER VERSION] Spain 2026 World Cup Winners 2 Star Home Short Sleeve Jersey S-3XL11",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/246443791?uid=1&isSubCate=false&referrercate=5277271",
-      "categoryId": null,
-      "collectionId": "5277271",
-      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Spain",
-      "competition": "WK & landenteams",
-      "club": "Spain",
-      "season": "2020/26",
-      "types": [
-        "Korte mouw",
-        "Player version"
-      ],
-      "images": [
-        "./assets/products/popmo/246443791/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/dbf82d16b3/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/246443791/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:47:13.889Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "246864643",
-      "uniqueKey": "popmo:246864643",
-      "title": "2 Stars 2026 Spain Champion Away - Home Kit10",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/246864643?uid=1&isSubCate=false&referrercate=5277271",
-      "categoryId": null,
-      "collectionId": "5277271",
-      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Spain",
-      "competition": "WK & landenteams",
-      "club": "Spain",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/246864643/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/5b2589a232/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/246864643/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:47:13.889Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
       "sourceId": "218893868",
       "uniqueKey": "popmo:218893868",
       "title": "2026 Spain Home Women's Clothing S-XXL4",
@@ -530758,250 +530844,6 @@
       "coverUrl": "./assets/products/popmo/230693907/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:57:45.183Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "246444712",
-      "uniqueKey": "popmo:246444712",
-      "title": "2026 Spain T shirt11",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/246444712?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Spain",
-      "competition": "WK & landenteams",
-      "club": "Spain",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/246444712/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/9e2446aaa1/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/246444712/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:47:13.889Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "247512177",
-      "uniqueKey": "popmo:247512177",
-      "title": "Spain 2026 Winners Parade Hooded2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/247512177?uid=1&isSubCate=false&referrercate=5277271",
-      "categoryId": null,
-      "collectionId": "5277271",
-      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Spain",
-      "competition": "WK & landenteams",
-      "club": "Spain",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/247512177/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/4f70ad0d80/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/247512177/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:47:13.889Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "247511274",
-      "uniqueKey": "popmo:247511274",
-      "title": "Spain 2026 Winners Parade T-Shirt15",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/247511274?uid=1&isSubCate=false&referrercate=5277271",
-      "categoryId": null,
-      "collectionId": "5277271",
-      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Spain",
-      "competition": "WK & landenteams",
-      "club": "Spain",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/247511274/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/cc99dbf2ae/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/247511274/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:47:13.889Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "247847854",
-      "uniqueKey": "popmo:247847854",
-      "title": "Spain 2026 World Cup Winners 2 Star Away Long Sleeve Jersey S-4XLHome4",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/247847854?uid=1&isSubCate=false&referrercate=5277271",
-      "categoryId": null,
-      "collectionId": "5277271",
-      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Spain",
-      "competition": "WK & landenteams",
-      "club": "Spain",
-      "season": "2020/26",
-      "types": [
-        "Lange mouw"
-      ],
-      "images": [
-        "./assets/products/popmo/247847854/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/6a2d20375f/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/247847854/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:47:13.889Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "246436938",
-      "uniqueKey": "popmo:246436938",
-      "title": "Spain 2026 World Cup Winners 2 Star Away Short Sleeve Jersey S-4XL2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/246436938?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Spain",
-      "competition": "WK & landenteams",
-      "club": "Spain",
-      "season": "2020/26",
-      "types": [
-        "Korte mouw"
-      ],
-      "images": [
-        "./assets/products/popmo/246436938/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/15689a65de/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/246436938/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:47:13.889Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "246436881",
-      "uniqueKey": "popmo:246436881",
-      "title": "Spain 2026 World Cup Winners 2 Star Home Short Sleeve Jersey S-4XL2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/246436881?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Spain",
-      "competition": "WK & landenteams",
-      "club": "Spain",
-      "season": "2020/26",
-      "types": [
-        "Korte mouw"
-      ],
-      "images": [
-        "./assets/products/popmo/246436881/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/d90bd54fec/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/246436881/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:47:13.889Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "247335250",
-      "uniqueKey": "popmo:247335250",
-      "title": "Women Spain 2026 World Cup Winners 2 Star Away Short Sleeve Jersey S-4XL1",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/247335250?uid=1&isSubCate=false&referrercate=5277271",
-      "categoryId": null,
-      "collectionId": "5277271",
-      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Spain",
-      "competition": "WK & landenteams",
-      "club": "Spain",
-      "season": "2020/26",
-      "types": [
-        "Dames",
-        "Korte mouw"
-      ],
-      "images": [
-        "./assets/products/popmo/247335250/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/626ee28788/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/247335250/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:47:13.889Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "247335231",
-      "uniqueKey": "popmo:247335231",
-      "title": "Women Spain 2026 World Cup Winners 2 Star Home Short Sleeve Jersey S-4XL1",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/247335231?uid=1&isSubCate=false&referrercate=5277271",
-      "categoryId": null,
-      "collectionId": "5277271",
-      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Spain",
-      "competition": "WK & landenteams",
-      "club": "Spain",
-      "season": "2020/26",
-      "types": [
-        "Dames",
-        "Korte mouw"
-      ],
-      "images": [
-        "./assets/products/popmo/247335231/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/01d71876ff/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/247335231/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:47:13.889Z"
     },
     {
       "source": "minkang",
@@ -533302,6 +533144,99 @@
       "season": "2025/26"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "246443823",
+      "uniqueKey": "popmo:246443823",
+      "title": "[PLAYER VERSION] Spain 2026 World Cup Winners 2 Star Away Short Sleeve Jersey S-3XL12",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/246443823?uid=1&isSubCate=false&referrercate=5277271",
+      "categoryId": null,
+      "collectionId": "5277271",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Spain",
+      "competition": "WK & landenteams",
+      "club": "Spain",
+      "season": "2026",
+      "types": [
+        "Korte mouw",
+        "Player version"
+      ],
+      "images": [
+        "./assets/products/popmo/246443823/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/42e642f55f/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/246443823/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:07:01.527Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "246443791",
+      "uniqueKey": "popmo:246443791",
+      "title": "[PLAYER VERSION] Spain 2026 World Cup Winners 2 Star Home Short Sleeve Jersey S-3XL11",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/246443791?uid=1&isSubCate=false&referrercate=5277271",
+      "categoryId": null,
+      "collectionId": "5277271",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Spain",
+      "competition": "WK & landenteams",
+      "club": "Spain",
+      "season": "2026",
+      "types": [
+        "Korte mouw",
+        "Player version"
+      ],
+      "images": [
+        "./assets/products/popmo/246443791/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/dbf82d16b3/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/246443791/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:07:01.527Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "246864643",
+      "uniqueKey": "popmo:246864643",
+      "title": "2 Stars 2026 Spain Champion Away - Home Kit10",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/246864643?uid=1&isSubCate=false&referrercate=5277271",
+      "categoryId": null,
+      "collectionId": "5277271",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Spain",
+      "competition": "WK & landenteams",
+      "club": "Spain",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/246864643/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/5b2589a232/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/246864643/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:07:01.527Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237788740",
@@ -534517,6 +534452,35 @@
       "coverUrl": "./assets/products/yema007/258525510/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T01:27:38.885Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "246444712",
+      "uniqueKey": "popmo:246444712",
+      "title": "2026 Spain T shirt11",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/246444712?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Spain",
+      "competition": "WK & landenteams",
+      "club": "Spain",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/246444712/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/9e2446aaa1/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/246444712/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:07:01.527Z"
     },
     {
       "source": "yema007",
@@ -537270,6 +537234,64 @@
       "updatedAt": "2026-10-27T00:46:15.170Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "247512177",
+      "uniqueKey": "popmo:247512177",
+      "title": "Spain 2026 Winners Parade Hooded2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/247512177?uid=1&isSubCate=false&referrercate=5277271",
+      "categoryId": null,
+      "collectionId": "5277271",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Spain",
+      "competition": "WK & landenteams",
+      "club": "Spain",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/247512177/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/4f70ad0d80/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/247512177/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:07:01.527Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "247511274",
+      "uniqueKey": "popmo:247511274",
+      "title": "Spain 2026 Winners Parade T-Shirt15",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/247511274?uid=1&isSubCate=false&referrercate=5277271",
+      "categoryId": null,
+      "collectionId": "5277271",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Spain",
+      "competition": "WK & landenteams",
+      "club": "Spain",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/247511274/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/cc99dbf2ae/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/247511274/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:07:01.527Z"
+    },
+    {
       "source": "minkang",
       "sourcePriority": 1,
       "sourceId": "246422107",
@@ -537330,6 +537352,99 @@
       "coverUrl": "./assets/products/minkang/246421069/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T00:43:10.440Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "247847854",
+      "uniqueKey": "popmo:247847854",
+      "title": "Spain 2026 World Cup Winners 2 Star Away Long Sleeve Jersey S-4XLHome4",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/247847854?uid=1&isSubCate=false&referrercate=5277271",
+      "categoryId": null,
+      "collectionId": "5277271",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Spain",
+      "competition": "WK & landenteams",
+      "club": "Spain",
+      "season": "2026",
+      "types": [
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/popmo/247847854/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/6a2d20375f/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/247847854/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:07:01.527Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "246436938",
+      "uniqueKey": "popmo:246436938",
+      "title": "Spain 2026 World Cup Winners 2 Star Away Short Sleeve Jersey S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/246436938?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Spain",
+      "competition": "WK & landenteams",
+      "club": "Spain",
+      "season": "2026",
+      "types": [
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/popmo/246436938/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/15689a65de/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/246436938/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:07:01.528Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "246436881",
+      "uniqueKey": "popmo:246436881",
+      "title": "Spain 2026 World Cup Winners 2 Star Home Short Sleeve Jersey S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/246436881?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Spain",
+      "competition": "WK & landenteams",
+      "club": "Spain",
+      "season": "2026",
+      "types": [
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/popmo/246436881/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/d90bd54fec/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/246436881/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:07:01.528Z"
     },
     {
       "source": "minkang",
@@ -537393,6 +537508,70 @@
       "coverUrl": "./assets/products/yema007/237739444/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T03:10:48.643Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "247335250",
+      "uniqueKey": "popmo:247335250",
+      "title": "Women Spain 2026 World Cup Winners 2 Star Away Short Sleeve Jersey S-4XL1",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/247335250?uid=1&isSubCate=false&referrercate=5277271",
+      "categoryId": null,
+      "collectionId": "5277271",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Spain",
+      "competition": "WK & landenteams",
+      "club": "Spain",
+      "season": "2026",
+      "types": [
+        "Dames",
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/popmo/247335250/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/626ee28788/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/247335250/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:07:01.527Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "247335231",
+      "uniqueKey": "popmo:247335231",
+      "title": "Women Spain 2026 World Cup Winners 2 Star Home Short Sleeve Jersey S-4XL1",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/247335231?uid=1&isSubCate=false&referrercate=5277271",
+      "categoryId": null,
+      "collectionId": "5277271",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Spain",
+      "competition": "WK & landenteams",
+      "club": "Spain",
+      "season": "2026",
+      "types": [
+        "Dames",
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/popmo/247335231/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/01d71876ff/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/247335231/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:07:01.527Z"
     },
     {
       "source": "yema007",
@@ -666060,7 +666239,7 @@
       "country": "Overig",
       "competition": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
       "club": "Overig",
-      "season": "2020/26",
+      "season": "2026",
       "types": [
         "Korte mouw"
       ],
@@ -666072,7 +666251,7 @@
       ],
       "coverUrl": "./assets/products/popmo/244370903/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T19:48:19.290Z"
+      "updatedAt": "2026-10-27T04:08:23.043Z"
     },
     {
       "source": "popmo",
@@ -765551,6 +765730,38 @@
       "coverUrl": "./assets/products/popmo/236148024/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:49:37.637Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "260396264",
+      "uniqueKey": "popmo:260396264",
+      "title": "26-27 Club América 110th Anniversary Women Soccer Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/260396264?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "QIQIYG.COM POPMO Official: +84 775508751",
+      "club": "Overig",
+      "season": "2026/27",
+      "types": [
+        "Dames",
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/popmo/260396264/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/825e49702c/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/260396264/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:05:59.300Z"
     },
     {
       "source": "popmo",
