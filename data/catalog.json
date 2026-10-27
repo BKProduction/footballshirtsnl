@@ -1,31 +1,26 @@
 {
-  "lastSync": "2026-10-27T05:00:11.373Z",
+  "lastSync": "2026-10-27T05:01:10.815Z",
   "syncState": {
-    "status": "in-progress",
-    "label": "aosendi 875/982",
+    "status": "completed",
+    "label": "voltooid",
     "batchSize": 25,
     "maxImages": 1
   },
   "syncProgress": {
-    "currentSource": "aosendi",
-    "nextIndex": 875,
-    "totalForSource": 982,
-    "completedSources": [
-      "minkang",
-      "yema007",
-      "popmo",
-      "dongshanstore"
-    ]
+    "currentSource": "",
+    "nextIndex": 0,
+    "totalForSource": 0,
+    "completedSources": []
   },
   "stats": {
     "discovered": 27228,
-    "added": 1195,
-    "changed": 7298,
+    "added": 1266,
+    "changed": 7334,
     "unchanged": 18606,
     "repaired": 0,
     "skipped": 22,
-    "duplicatesRemoved": 1183,
-    "batchesSaved": 1089
+    "duplicatesRemoved": 1254,
+    "batchesSaved": 1096
   },
   "sources": [
     {
@@ -95635,7 +95630,7 @@
       "country": "Overig",
       "competition": "",
       "club": "Overig",
-      "season": "2022/23",
+      "season": "Onbekend seizoen",
       "types": [
         "Training",
         "Korte mouw"
@@ -95648,7 +95643,7 @@
       ],
       "coverUrl": "./assets/products/aosendi/228724938/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T21:07:54.493Z"
+      "updatedAt": "2026-10-27T05:01:05.370Z"
     },
     {
       "source": "aosendi",
@@ -95667,7 +95662,7 @@
       "country": "Overig",
       "competition": "",
       "club": "Overig",
-      "season": "2022/23",
+      "season": "Onbekend seizoen",
       "types": [
         "Training",
         "Korte mouw"
@@ -95680,7 +95675,7 @@
       ],
       "coverUrl": "./assets/products/aosendi/228724807/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T21:08:03.399Z"
+      "updatedAt": "2026-10-27T05:01:10.081Z"
     },
     {
       "source": "aosendi",
@@ -95699,7 +95694,7 @@
       "country": "Overig",
       "competition": "",
       "club": "Overig",
-      "season": "2023/24",
+      "season": "Onbekend seizoen",
       "types": [
         "Training",
         "Korte mouw"
@@ -95712,7 +95707,7 @@
       ],
       "coverUrl": "./assets/products/aosendi/228725142/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T21:07:49.708Z"
+      "updatedAt": "2026-10-27T05:01:05.370Z"
     },
     {
       "source": "aosendi",
@@ -95731,7 +95726,7 @@
       "country": "Overig",
       "competition": "",
       "club": "Overig",
-      "season": "2023/24",
+      "season": "Onbekend seizoen",
       "types": [
         "Training",
         "Korte mouw"
@@ -95744,7 +95739,7 @@
       ],
       "coverUrl": "./assets/products/aosendi/228725141/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T21:07:50.467Z"
+      "updatedAt": "2026-10-27T05:01:05.370Z"
     },
     {
       "source": "aosendi",
@@ -95763,7 +95758,7 @@
       "country": "Overig",
       "competition": "",
       "club": "Overig",
-      "season": "2023/24",
+      "season": "Onbekend seizoen",
       "types": [
         "Training",
         "Korte mouw"
@@ -95776,7 +95771,7 @@
       ],
       "coverUrl": "./assets/products/aosendi/228724935/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T21:08:00.133Z"
+      "updatedAt": "2026-10-27T05:01:10.080Z"
     },
     {
       "source": "aosendi",
@@ -95795,7 +95790,7 @@
       "country": "Overig",
       "competition": "",
       "club": "Overig",
-      "season": "2023/24",
+      "season": "Onbekend seizoen",
       "types": [
         "Training",
         "Korte mouw"
@@ -95808,7 +95803,7 @@
       ],
       "coverUrl": "./assets/products/aosendi/228724937/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T21:08:00.966Z"
+      "updatedAt": "2026-10-27T05:01:10.081Z"
     },
     {
       "source": "aosendi",
@@ -95827,7 +95822,7 @@
       "country": "Overig",
       "competition": "",
       "club": "Overig",
-      "season": "2023/24",
+      "season": "Onbekend seizoen",
       "types": [
         "Training",
         "Korte mouw"
@@ -95840,7 +95835,7 @@
       ],
       "coverUrl": "./assets/products/aosendi/228725475/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T21:07:47.284Z"
+      "updatedAt": "2026-10-27T05:01:05.370Z"
     },
     {
       "source": "aosendi",
@@ -95859,7 +95854,7 @@
       "country": "Overig",
       "competition": "",
       "club": "Overig",
-      "season": "2024/25",
+      "season": "Onbekend seizoen",
       "types": [
         "Training",
         "Korte mouw"
@@ -95872,7 +95867,7 @@
       ],
       "coverUrl": "./assets/products/aosendi/228726732/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T21:07:30.768Z"
+      "updatedAt": "2026-10-27T05:01:05.370Z"
     },
     {
       "source": "aosendi",
@@ -95891,7 +95886,7 @@
       "country": "Overig",
       "competition": "",
       "club": "Overig",
-      "season": "2024/25",
+      "season": "Onbekend seizoen",
       "types": [
         "Training",
         "Korte mouw"
@@ -95904,7 +95899,7 @@
       ],
       "coverUrl": "./assets/products/aosendi/228725704/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T21:07:45.091Z"
+      "updatedAt": "2026-10-27T05:01:05.370Z"
     },
     {
       "source": "aosendi",
@@ -95923,7 +95918,7 @@
       "country": "Overig",
       "competition": "",
       "club": "Overig",
-      "season": "2024/25",
+      "season": "Onbekend seizoen",
       "types": [
         "Training",
         "Korte mouw"
@@ -95936,7 +95931,7 @@
       ],
       "coverUrl": "./assets/products/aosendi/228726986/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T21:07:13.169Z"
+      "updatedAt": "2026-10-27T05:00:51.279Z"
     },
     {
       "source": "aosendi",
@@ -95955,7 +95950,7 @@
       "country": "Overig",
       "competition": "",
       "club": "Overig",
-      "season": "2024/25",
+      "season": "Onbekend seizoen",
       "types": [
         "Training",
         "Korte mouw"
@@ -95968,7 +95963,7 @@
       ],
       "coverUrl": "./assets/products/aosendi/228726731/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T21:07:31.852Z"
+      "updatedAt": "2026-10-27T05:01:05.370Z"
     },
     {
       "source": "aosendi",
@@ -95987,7 +95982,7 @@
       "country": "Overig",
       "competition": "",
       "club": "Overig",
-      "season": "2024/25",
+      "season": "Onbekend seizoen",
       "types": [
         "Training",
         "Korte mouw"
@@ -96000,7 +95995,7 @@
       ],
       "coverUrl": "./assets/products/aosendi/228726987/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T21:07:14.436Z"
+      "updatedAt": "2026-10-27T05:00:51.279Z"
     },
     {
       "source": "aosendi",
@@ -96019,7 +96014,7 @@
       "country": "Overig",
       "competition": "",
       "club": "Overig",
-      "season": "2024/25",
+      "season": "Onbekend seizoen",
       "types": [
         "Training",
         "Korte mouw"
@@ -96032,7 +96027,7 @@
       ],
       "coverUrl": "./assets/products/aosendi/228726983/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T21:07:15.320Z"
+      "updatedAt": "2026-10-27T05:00:51.279Z"
     },
     {
       "source": "aosendi",
@@ -96051,7 +96046,7 @@
       "country": "Overig",
       "competition": "",
       "club": "Overig",
-      "season": "2025/26",
+      "season": "Onbekend seizoen",
       "types": [
         "Training",
         "Korte mouw"
@@ -96064,7 +96059,7 @@
       ],
       "coverUrl": "./assets/products/aosendi/228730902/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T21:06:15.384Z"
+      "updatedAt": "2026-10-27T05:00:38.195Z"
     },
     {
       "source": "aosendi",
@@ -96083,7 +96078,7 @@
       "country": "Overig",
       "competition": "",
       "club": "Overig",
-      "season": "2025/26",
+      "season": "Onbekend seizoen",
       "types": [
         "Training",
         "Korte mouw"
@@ -96096,7 +96091,7 @@
       ],
       "coverUrl": "./assets/products/aosendi/228731145/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T21:06:00.737Z"
+      "updatedAt": "2026-10-27T05:00:24.818Z"
     },
     {
       "source": "aosendi",
@@ -96115,7 +96110,7 @@
       "country": "Overig",
       "competition": "",
       "club": "Overig",
-      "season": "2025/26",
+      "season": "Onbekend seizoen",
       "types": [
         "Training",
         "Korte mouw"
@@ -96128,7 +96123,7 @@
       ],
       "coverUrl": "./assets/products/aosendi/228731149/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T21:05:56.893Z"
+      "updatedAt": "2026-10-27T05:00:24.818Z"
     },
     {
       "source": "aosendi",
@@ -96147,7 +96142,7 @@
       "country": "Overig",
       "competition": "",
       "club": "Overig",
-      "season": "2025/26",
+      "season": "Onbekend seizoen",
       "types": [
         "Training",
         "Korte mouw"
@@ -96160,7 +96155,7 @@
       ],
       "coverUrl": "./assets/products/aosendi/228730891/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T21:06:17.969Z"
+      "updatedAt": "2026-10-27T05:00:38.195Z"
     },
     {
       "source": "aosendi",
@@ -96179,7 +96174,7 @@
       "country": "Overig",
       "competition": "",
       "club": "Overig",
-      "season": "2025/26",
+      "season": "Onbekend seizoen",
       "types": [
         "Training",
         "Korte mouw"
@@ -96192,7 +96187,7 @@
       ],
       "coverUrl": "./assets/products/aosendi/228730889/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T21:06:19.173Z"
+      "updatedAt": "2026-10-27T05:00:38.196Z"
     },
     {
       "source": "aosendi",
@@ -96211,7 +96206,7 @@
       "country": "Overig",
       "competition": "",
       "club": "Overig",
-      "season": "2025/26",
+      "season": "Onbekend seizoen",
       "types": [
         "Training",
         "Korte mouw"
@@ -96224,7 +96219,7 @@
       ],
       "coverUrl": "./assets/products/aosendi/228731150/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T21:06:00.199Z"
+      "updatedAt": "2026-10-27T05:00:24.818Z"
     },
     {
       "source": "aosendi",
@@ -96243,7 +96238,7 @@
       "country": "Overig",
       "competition": "",
       "club": "Overig",
-      "season": "2025/26",
+      "season": "Onbekend seizoen",
       "types": [
         "Training",
         "Korte mouw"
@@ -96256,7 +96251,7 @@
       ],
       "coverUrl": "./assets/products/aosendi/228730899/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T21:06:17.213Z"
+      "updatedAt": "2026-10-27T05:00:38.195Z"
     },
     {
       "source": "aosendi",
@@ -96275,7 +96270,7 @@
       "country": "Overig",
       "competition": "",
       "club": "Overig",
-      "season": "2025/26",
+      "season": "Onbekend seizoen",
       "types": [
         "Training",
         "Korte mouw"
@@ -96288,7 +96283,7 @@
       ],
       "coverUrl": "./assets/products/aosendi/228730518/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T21:06:22.613Z"
+      "updatedAt": "2026-10-27T05:00:38.196Z"
     },
     {
       "source": "aosendi",
@@ -96307,7 +96302,7 @@
       "country": "Overig",
       "competition": "",
       "club": "Overig",
-      "season": "2025/26",
+      "season": "Onbekend seizoen",
       "types": [
         "Training",
         "Korte mouw"
@@ -96320,7 +96315,7 @@
       ],
       "coverUrl": "./assets/products/aosendi/228730532/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T21:06:20.993Z"
+      "updatedAt": "2026-10-27T05:00:38.196Z"
     },
     {
       "source": "aosendi",
@@ -96339,7 +96334,7 @@
       "country": "Overig",
       "competition": "",
       "club": "Overig",
-      "season": "2025/26",
+      "season": "Onbekend seizoen",
       "types": [
         "Training",
         "Korte mouw"
@@ -96352,7 +96347,7 @@
       ],
       "coverUrl": "./assets/products/aosendi/228728185/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T21:07:03.298Z"
+      "updatedAt": "2026-10-27T05:00:51.279Z"
     },
     {
       "source": "aosendi",
@@ -96371,7 +96366,7 @@
       "country": "Overig",
       "competition": "",
       "club": "Overig",
-      "season": "2025/26",
+      "season": "Onbekend seizoen",
       "types": [
         "Training",
         "Korte mouw"
@@ -96384,7 +96379,7 @@
       ],
       "coverUrl": "./assets/products/aosendi/228730248/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T21:06:25.039Z"
+      "updatedAt": "2026-10-27T05:00:38.196Z"
     },
     {
       "source": "aosendi",
@@ -96403,7 +96398,7 @@
       "country": "Overig",
       "competition": "",
       "club": "Overig",
-      "season": "2025/26",
+      "season": "Onbekend seizoen",
       "types": [
         "Training",
         "Korte mouw"
@@ -96416,7 +96411,7 @@
       ],
       "coverUrl": "./assets/products/aosendi/228730037/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T21:06:26.671Z"
+      "updatedAt": "2026-10-27T05:00:38.196Z"
     },
     {
       "source": "aosendi",
@@ -96435,7 +96430,7 @@
       "country": "Overig",
       "competition": "",
       "club": "Overig",
-      "season": "2025/26",
+      "season": "Onbekend seizoen",
       "types": [
         "Training",
         "Korte mouw"
@@ -96448,7 +96443,7 @@
       ],
       "coverUrl": "./assets/products/aosendi/228729501/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T21:06:33.847Z"
+      "updatedAt": "2026-10-27T05:00:38.196Z"
     },
     {
       "source": "aosendi",
@@ -96467,7 +96462,7 @@
       "country": "Overig",
       "competition": "",
       "club": "Overig",
-      "season": "2025/26",
+      "season": "Onbekend seizoen",
       "types": [
         "Training",
         "Korte mouw"
@@ -96480,7 +96475,7 @@
       ],
       "coverUrl": "./assets/products/aosendi/228731434/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T21:05:53.811Z"
+      "updatedAt": "2026-10-27T05:00:24.818Z"
     },
     {
       "source": "aosendi",
@@ -96499,7 +96494,7 @@
       "country": "Overig",
       "competition": "",
       "club": "Overig",
-      "season": "2025/26",
+      "season": "Onbekend seizoen",
       "types": [
         "Training",
         "Korte mouw"
@@ -96512,7 +96507,7 @@
       ],
       "coverUrl": "./assets/products/aosendi/228728186/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T21:07:02.487Z"
+      "updatedAt": "2026-10-27T05:00:51.279Z"
     },
     {
       "source": "aosendi",
@@ -96531,7 +96526,7 @@
       "country": "Overig",
       "competition": "",
       "club": "Overig",
-      "season": "2025/26",
+      "season": "Onbekend seizoen",
       "types": [
         "Training",
         "Korte mouw"
@@ -96544,7 +96539,7 @@
       ],
       "coverUrl": "./assets/products/aosendi/228731694/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T21:05:52.530Z"
+      "updatedAt": "2026-10-27T05:00:24.818Z"
     },
     {
       "source": "aosendi",
@@ -96563,7 +96558,7 @@
       "country": "Overig",
       "competition": "",
       "club": "Overig",
-      "season": "2025/26",
+      "season": "Onbekend seizoen",
       "types": [
         "Training",
         "Korte mouw"
@@ -96576,7 +96571,7 @@
       ],
       "coverUrl": "./assets/products/aosendi/228731433/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T21:05:55.247Z"
+      "updatedAt": "2026-10-27T05:00:24.818Z"
     },
     {
       "source": "aosendi",
@@ -96595,7 +96590,7 @@
       "country": "Overig",
       "competition": "",
       "club": "Overig",
-      "season": "2025/26",
+      "season": "Onbekend seizoen",
       "types": [
         "Training",
         "Korte mouw"
@@ -96608,7 +96603,7 @@
       ],
       "coverUrl": "./assets/products/aosendi/228728858/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T21:06:53.909Z"
+      "updatedAt": "2026-10-27T05:00:51.279Z"
     },
     {
       "source": "aosendi",
@@ -96627,7 +96622,7 @@
       "country": "Overig",
       "competition": "",
       "club": "Overig",
-      "season": "2025/26",
+      "season": "Onbekend seizoen",
       "types": [
         "Training",
         "Korte mouw"
@@ -96640,7 +96635,7 @@
       ],
       "coverUrl": "./assets/products/aosendi/228732114/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T21:05:43.908Z"
+      "updatedAt": "2026-10-27T05:00:24.817Z"
     },
     {
       "source": "aosendi",
@@ -96659,7 +96654,7 @@
       "country": "Overig",
       "competition": "",
       "club": "Overig",
-      "season": "2025/26",
+      "season": "Onbekend seizoen",
       "types": [
         "Training",
         "Korte mouw"
@@ -96672,7 +96667,7 @@
       ],
       "coverUrl": "./assets/products/aosendi/228731907/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T21:05:49.487Z"
+      "updatedAt": "2026-10-27T05:00:24.818Z"
     },
     {
       "source": "aosendi",
@@ -96691,7 +96686,7 @@
       "country": "Overig",
       "competition": "",
       "club": "Overig",
-      "season": "2025/26",
+      "season": "Onbekend seizoen",
       "types": [
         "Training",
         "Korte mouw"
@@ -96704,7 +96699,7 @@
       ],
       "coverUrl": "./assets/products/aosendi/228730249/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T21:06:24.199Z"
+      "updatedAt": "2026-10-27T05:00:38.196Z"
     },
     {
       "source": "aosendi",
@@ -96723,7 +96718,7 @@
       "country": "Overig",
       "competition": "",
       "club": "Overig",
-      "season": "2025/26",
+      "season": "Onbekend seizoen",
       "types": [
         "Training",
         "Korte mouw"
@@ -96736,7 +96731,7 @@
       ],
       "coverUrl": "./assets/products/aosendi/228729781/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T21:06:27.424Z"
+      "updatedAt": "2026-10-27T05:00:38.196Z"
     },
     {
       "source": "aosendi",
@@ -96755,7 +96750,7 @@
       "country": "Overig",
       "competition": "",
       "club": "Overig",
-      "season": "2025/26",
+      "season": "Onbekend seizoen",
       "types": [
         "Training",
         "Korte mouw"
@@ -96768,7 +96763,7 @@
       ],
       "coverUrl": "./assets/products/aosendi/228728188/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T21:07:00.876Z"
+      "updatedAt": "2026-10-27T05:00:51.279Z"
     },
     {
       "source": "aosendi",
