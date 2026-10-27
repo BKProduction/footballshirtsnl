@@ -1,14 +1,14 @@
 {
-  "lastSync": "2026-10-27T02:35:16.152Z",
+  "lastSync": "2026-10-27T02:40:07.551Z",
   "syncState": {
     "status": "in-progress",
-    "label": "yema007 5825/14191",
+    "label": "yema007 6300/14191",
     "batchSize": 25,
     "maxImages": 1
   },
   "syncProgress": {
     "currentSource": "yema007",
-    "nextIndex": 5825,
+    "nextIndex": 6300,
     "totalForSource": 14191,
     "completedSources": [
       "minkang"
@@ -16,13 +16,13 @@
   },
   "stats": {
     "discovered": 21657,
-    "added": 234,
-    "changed": 2158,
-    "unchanged": 10881,
+    "added": 243,
+    "changed": 2164,
+    "unchanged": 11341,
     "repaired": 0,
     "skipped": 18,
-    "duplicatesRemoved": 231,
-    "batchesSaved": 532
+    "duplicatesRemoved": 240,
+    "batchesSaved": 551
   },
   "sources": [
     {
@@ -320609,6 +320609,37 @@
       "updatedAt": "2026-10-25T16:55:26.072Z"
     },
     {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237700015",
+      "uniqueKey": "yema007:237700015",
+      "title": "1974 Retro PSG Home Kit Football Vintage Cheap Shirts David Jersey Supply6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237700015?uid=1&isSubCate=true&referrercate=876756",
+      "categoryId": "876756",
+      "collectionId": "876756",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "PSG 巴黎",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "PSG",
+      "season": "1974",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237700015/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/8893b7744c/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237700015/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:40:07.428Z"
+    },
+    {
       "source": "minkang",
       "sourcePriority": 1,
       "sourceId": "255630570",
@@ -322830,37 +322861,6 @@
       "coverUrl": "./assets/products/minkang/138763769/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:20:53.896Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237700015",
-      "uniqueKey": "yema007:237700015",
-      "title": "1974 Retro PSG Home Kit Football Vintage Cheap Shirts David Jersey Supply6",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237700015?uid=1&isSubCate=true&referrercate=876756",
-      "categoryId": "876756",
-      "collectionId": "876756",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "PSG 巴黎",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "PSG",
-      "season": "2019/74",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/yema007/237700015/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/8893b7744c/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237700015/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:46:41.545Z"
     },
     {
       "source": "yema007",
@@ -571952,35 +571952,6 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
-      "sourceId": "237358750",
-      "uniqueKey": "yema007:237358750",
-      "title": "2024 Dortmund Trench Coat Reversible Windbreaker Double-Sides Jacket Sport David Jersey8",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237358750?uid=1&isSubCate=false&referrercate=5217438",
-      "categoryId": null,
-      "collectionId": "5217438",
-      "sourceCollection": "more",
-      "sourceCategory": "David jersey",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "David jersey",
-      "country": "Overig",
-      "competition": "David jersey",
-      "club": "Overig",
-      "season": "2020/24",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237358750/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/1081a6a8db/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237358750/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:44:49.693Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
       "sourceId": "237347107",
       "uniqueKey": "yema007:237347107",
       "title": "2024 Georgia Away Kid Kits UEFA Euro Youth Apparels Football David Jersey Supplier2",
@@ -586920,6 +586891,35 @@
       "coverUrl": "./assets/products/yema007/237368173/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T02:24:24.470Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237358750",
+      "uniqueKey": "yema007:237358750",
+      "title": "2024 Dortmund Trench Coat Reversible Windbreaker Double-Sides Jacket Sport David Jersey8",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237358750?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Overig",
+      "season": "2024",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237358750/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/1081a6a8db/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237358750/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:37:49.287Z"
     },
     {
       "source": "yema007",
@@ -654109,6 +654109,64 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237381726",
+      "uniqueKey": "yema007:237381726",
+      "title": "1988 Dortmund home9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237381726?uid=1&isSubCate=true&referrercate=876768",
+      "categoryId": "876768",
+      "collectionId": "876768",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Dortmund 多特",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Dortmund 多特",
+      "country": "Overig",
+      "competition": "Dortmund 多特",
+      "club": "Overig",
+      "season": "1988",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237381726/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/982f92ca10/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237381726/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:37:35.524Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237381746",
+      "uniqueKey": "yema007:237381746",
+      "title": "1989 Dortmund home9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237381746?uid=1&isSubCate=true&referrercate=876768",
+      "categoryId": "876768",
+      "collectionId": "876768",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Dortmund 多特",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Dortmund 多特",
+      "country": "Overig",
+      "competition": "Dortmund 多特",
+      "club": "Overig",
+      "season": "1989",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237381746/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/9917098073/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237381746/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:37:35.524Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237381583",
       "uniqueKey": "yema007:237381583",
       "title": "94-95 Dortmund home11",
@@ -654409,6 +654467,64 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237381770",
+      "uniqueKey": "yema007:237381770",
+      "title": "2000 Dortmund away grey9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237381770?uid=1&isSubCate=true&referrercate=876768",
+      "categoryId": "876768",
+      "collectionId": "876768",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Dortmund 多特",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Dortmund 多特",
+      "country": "Overig",
+      "competition": "Dortmund 多特",
+      "club": "Overig",
+      "season": "2000",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237381770/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/0608cc2c54/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237381770/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:37:35.524Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237381794",
+      "uniqueKey": "yema007:237381794",
+      "title": "2000 Dortmund home yellow9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237381794?uid=1&isSubCate=true&referrercate=876768",
+      "categoryId": "876768",
+      "collectionId": "876768",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Dortmund 多特",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Dortmund 多特",
+      "country": "Overig",
+      "competition": "Dortmund 多特",
+      "club": "Overig",
+      "season": "2000",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237381794/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/7c2796df34/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237381794/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:37:35.524Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237381836",
       "uniqueKey": "yema007:237381836",
       "title": "11-12 Dortmund home9",
@@ -654525,122 +654641,6 @@
       "coverUrl": "./assets/products/yema007/237698934/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T18:43:54.872Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237381726",
-      "uniqueKey": "yema007:237381726",
-      "title": "1988 Dortmund home9",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237381726?uid=1&isSubCate=true&referrercate=876768",
-      "categoryId": "876768",
-      "collectionId": "876768",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Dortmund 多特",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Dortmund 多特",
-      "country": "Overig",
-      "competition": "Dortmund 多特",
-      "club": "Overig",
-      "season": "2019/88",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237381726/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/982f92ca10/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237381726/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:44:38.983Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237381746",
-      "uniqueKey": "yema007:237381746",
-      "title": "1989 Dortmund home9",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237381746?uid=1&isSubCate=true&referrercate=876768",
-      "categoryId": "876768",
-      "collectionId": "876768",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Dortmund 多特",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Dortmund 多特",
-      "country": "Overig",
-      "competition": "Dortmund 多特",
-      "club": "Overig",
-      "season": "2019/89",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237381746/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/9917098073/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237381746/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:44:38.983Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237381770",
-      "uniqueKey": "yema007:237381770",
-      "title": "2000 Dortmund away grey9",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237381770?uid=1&isSubCate=true&referrercate=876768",
-      "categoryId": "876768",
-      "collectionId": "876768",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Dortmund 多特",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Dortmund 多特",
-      "country": "Overig",
-      "competition": "Dortmund 多特",
-      "club": "Overig",
-      "season": "2020/00",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237381770/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/0608cc2c54/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237381770/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:44:38.983Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237381794",
-      "uniqueKey": "yema007:237381794",
-      "title": "2000 Dortmund home yellow9",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237381794?uid=1&isSubCate=true&referrercate=876768",
-      "categoryId": "876768",
-      "collectionId": "876768",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Dortmund 多特",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Dortmund 多特",
-      "country": "Overig",
-      "competition": "Dortmund 多特",
-      "club": "Overig",
-      "season": "2020/00",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237381794/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/7c2796df34/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237381794/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:44:38.983Z"
     },
     {
       "source": "yema007",
