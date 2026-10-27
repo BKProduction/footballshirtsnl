@@ -1,26 +1,26 @@
 {
-  "lastSync": "2026-10-26T23:55:14.971Z",
+  "lastSync": "2026-10-27T00:00:09.607Z",
   "syncState": {
     "status": "in-progress",
-    "label": "minkang 1450/7466",
+    "label": "minkang 1975/7466",
     "batchSize": 25,
     "maxImages": 1
   },
   "syncProgress": {
     "currentSource": "minkang",
-    "nextIndex": 1450,
+    "nextIndex": 1975,
     "totalForSource": 7466,
     "completedSources": []
   },
   "stats": {
     "discovered": 7466,
-    "added": 27,
-    "changed": 261,
-    "unchanged": 1158,
+    "added": 30,
+    "changed": 320,
+    "unchanged": 1621,
     "repaired": 0,
     "skipped": 4,
-    "duplicatesRemoved": 24,
-    "batchesSaved": 57
+    "duplicatesRemoved": 27,
+    "batchesSaved": 78
   },
   "sources": [
     {
@@ -250,7 +250,6 @@
     "2041/30",
     "2041/18",
     "2028/70",
-    "2028/12",
     "2028/11",
     "2028/10",
     "2027/28",
@@ -458,7 +457,9 @@
     "2017/18",
     "2016/28",
     "2016/17",
+    "2016",
     "2015/16",
+    "2015",
     "2014/15",
     "2014",
     "2013/37",
@@ -498,6 +499,7 @@
     "2004/05",
     "2003/05",
     "2003/04",
+    "2003",
     "2002/04",
     "2002/03",
     "2002",
@@ -565,6 +567,7 @@
     "1988/91",
     "1988/90",
     "1988/89",
+    "1988",
     "1987/91",
     "1987/90",
     "1987/89",
@@ -616,6 +619,7 @@
     "1973/74",
     "1972/79",
     "1971/79",
+    "1971",
     "1965/66",
     "1957/62",
     "1921/21",
@@ -3680,6 +3684,35 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "167549642",
+      "uniqueKey": "minkang:167549642",
+      "title": "Retro Bahia 1988 Commemorative Edition S-4XL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/167549642?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "1988",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/167549642/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/0ba66e05/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/167549642/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:59:12.520Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "116189840",
       "uniqueKey": "minkang:116189840",
       "title": "Retro 88/89 Eindhoven home S-XXL8",
@@ -4318,6 +4351,35 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "141365459",
+      "uniqueKey": "minkang:141365459",
+      "title": "Retro Botafogo 1992 Home S-XXL10",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/141365459?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "1992",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/141365459/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/f3f61ab3/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/141365459/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:56:52.259Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "83484061",
       "uniqueKey": "minkang:83484061",
       "title": "Retro 92/93 Fiorentina away S-XXL7",
@@ -4691,6 +4753,35 @@
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:25:51.170Z",
       "season": "1992/94"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "150267040",
+      "uniqueKey": "minkang:150267040",
+      "title": "Retro Fluminense 1993 Home S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/150267040?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "1993",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/150267040/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/92e13404/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/150267040/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:57:33.606Z"
     },
     {
       "source": "minkang",
@@ -5358,6 +5449,64 @@
       "coverUrl": "./assets/products/minkang/179844252/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:26:37.350Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "189879506",
+      "uniqueKey": "minkang:189879506",
+      "title": "Retro Botafogo 1995 Away S-4XL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/189879506?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "1995",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/189879506/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/fff03fdf/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/189879506/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:56:52.259Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "189879528",
+      "uniqueKey": "minkang:189879528",
+      "title": "Retro Botafogo 1995 Home S-4XL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/189879528?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "1995",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/189879528/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/c369bf4c/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/189879528/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:56:52.259Z"
     },
     {
       "source": "minkang",
@@ -6870,6 +7019,35 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "189879564",
+      "uniqueKey": "minkang:189879564",
+      "title": "Retro Vasco da Gama 1997 White S-4XL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/189879564?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "1997",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/189879564/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/c8f96681/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/189879564/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:58:42.722Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "179316093",
       "uniqueKey": "minkang:179316093",
       "title": "97/98 Deportivo La Coruna Away S-XXL7",
@@ -7446,6 +7624,93 @@
       "coverUrl": "./assets/products/minkang/93559959/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:12:48.777Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "112346391",
+      "uniqueKey": "minkang:112346391",
+      "title": "Retro  Vasco da Gama 1998 away S-XXL9",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/112346391?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "1998",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/112346391/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/442797cb/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/112346391/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:58:56.925Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "129837346",
+      "uniqueKey": "minkang:129837346",
+      "title": "Retro Bahia 1998 White S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/129837346?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "1998",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/129837346/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/5711c6c5/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/129837346/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:59:12.520Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "255028100",
+      "uniqueKey": "minkang:255028100",
+      "title": "Retro Vasco da Gama 1998 away S-XXL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/255028100?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "1998",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/255028100/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/bbda0edf99/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/255028100/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:58:28.786Z"
     },
     {
       "source": "minkang",
@@ -9103,6 +9368,64 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "117033794",
+      "uniqueKey": "minkang:117033794",
+      "title": "Retro  Vasco da Gama 2000 黑色 S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/117033794?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2000",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/117033794/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/8d1cd52f/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/117033794/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:58:42.722Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "139937740",
+      "uniqueKey": "minkang:139937740",
+      "title": "Retro Corinthians 2000 Home S-4XL9",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/139937740?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2000",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/139937740/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/10348a92/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/139937740/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:55:57.069Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "116340414",
       "uniqueKey": "minkang:116340414",
       "title": "Retro sao paulo 2000 away S-XXL9",
@@ -9157,6 +9480,93 @@
       "coverUrl": "./assets/products/minkang/117033803/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-26T23:55:01.099Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "131222683",
+      "uniqueKey": "minkang:131222683",
+      "title": "Retro Shorts Vasco da Gama 2000 Home S-XXL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/131222683?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2000",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/131222683/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/130d29e6/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/131222683/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:58:42.722Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "117033796",
+      "uniqueKey": "minkang:117033796",
+      "title": "Retro Vasco da Gama 2000 White S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/117033796?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2000",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/117033796/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/72aaa239/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/117033796/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:58:42.722Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "221240796",
+      "uniqueKey": "minkang:221240796",
+      "title": "Vasco da Gama 2000 Home&Away Retro Shorts S-XXL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/221240796?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2000",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/221240796/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/614eb67f/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/221240796/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:58:28.787Z"
     },
     {
       "source": "minkang",
@@ -10466,6 +10876,64 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "155076107",
+      "uniqueKey": "minkang:155076107",
+      "title": "Retro Atlético Mineiro 2003 Home S-XXL9",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/155076107?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2003",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/155076107/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/1428a63a/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/155076107/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:57:06.526Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "189879583",
+      "uniqueKey": "minkang:189879583",
+      "title": "Retro Paysandu 2003 Home S-4XL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/189879583?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2003",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/189879583/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/ac56db16/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/189879583/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:59:40.785Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "89417313",
       "uniqueKey": "minkang:89417313",
       "title": "Retro Boca Juniors 03/04 home S-XXL9",
@@ -11626,6 +12094,35 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "145357927",
+      "uniqueKey": "minkang:145357927",
+      "title": "Retro Corinthians 2008 Away S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/145357927?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2008",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/145357927/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/cfa2c6aa/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/145357927/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:55:42.611Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "170574307",
       "uniqueKey": "minkang:170574307",
       "title": "kids M-U 08/09 away size: 16-289",
@@ -11912,6 +12409,35 @@
       "coverUrl": "./assets/products/minkang/190501877/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:27:43.336Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "134829511",
+      "uniqueKey": "minkang:134829511",
+      "title": "Retro Corinthians 2010 Home S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/134829511?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2010",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/134829511/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/4609cc6c/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/134829511/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:55:42.611Z"
     },
     {
       "source": "minkang",
@@ -12583,6 +13109,93 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "84385860",
+      "uniqueKey": "minkang:84385860",
+      "title": "Retro 2012 Fluminense Third S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/84385860?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2012",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/84385860/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/fe075c29/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/84385860/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:57:33.606Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "89921665",
+      "uniqueKey": "minkang:89921665",
+      "title": "Retro Corinthians 2012 home S-XXL13",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/89921665?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2012",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/89921665/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/829a1af6/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/89921665/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:55:57.069Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "114398760",
+      "uniqueKey": "minkang:114398760",
+      "title": "Retro Corinthians 2012 Home S-XXL18",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/114398760?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2012",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/114398760/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/2d44e161/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/114398760/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:55:57.069Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "161463293",
       "uniqueKey": "minkang:161463293",
       "title": "kids M-U 12/13 home size: 16-2810",
@@ -12840,6 +13453,35 @@
       "coverUrl": "./assets/products/minkang/183470720/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:26:37.350Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "112346175",
+      "uniqueKey": "minkang:112346175",
+      "title": "Retro Santos 2013 away S-XXL10",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/112346175?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2013",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/112346175/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/c011b056/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/112346175/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:56:25.263Z"
     },
     {
       "source": "minkang",
@@ -14004,35 +14646,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "167549642",
-      "uniqueKey": "minkang:167549642",
-      "title": "Retro Bahia 1988 Commemorative Edition S-4XL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/167549642?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2019/88",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/167549642/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/0ba66e05/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/minkang/167549642/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:06:25.040Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "107942472",
       "uniqueKey": "minkang:107942472",
       "title": "Retro Dortmund 1988 home S-XXL7",
@@ -14410,64 +15023,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "141365459",
-      "uniqueKey": "minkang:141365459",
-      "title": "Retro Botafogo 1992 Home S-XXL10",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/141365459?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2019/92",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/141365459/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/f3f61ab3/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/minkang/141365459/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:04:31.408Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "150267040",
-      "uniqueKey": "minkang:150267040",
-      "title": "Retro Fluminense 1993 Home S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/150267040?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2019/93",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/150267040/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/92e13404/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/minkang/150267040/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:05:04.658Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "150267109",
       "uniqueKey": "minkang:150267109",
       "title": "Retro Real Betis 1993 Home S-XXL7",
@@ -14580,64 +15135,6 @@
       "coverUrl": "./assets/products/minkang/182398847/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:44:17.502Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "189879506",
-      "uniqueKey": "minkang:189879506",
-      "title": "Retro Botafogo 1995 Away S-4XL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/189879506?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2019/95",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/189879506/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/fff03fdf/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/189879506/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:04:31.407Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "189879528",
-      "uniqueKey": "minkang:189879528",
-      "title": "Retro Botafogo 1995 Home S-4XL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/189879528?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2019/95",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/189879528/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/c369bf4c/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/189879528/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:04:31.407Z"
     },
     {
       "source": "minkang",
@@ -14845,35 +15342,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "189879564",
-      "uniqueKey": "minkang:189879564",
-      "title": "Retro Vasco da Gama 1997 White S-4XL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/189879564?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2019/97",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/189879564/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/c8f96681/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/189879564/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:06:01.726Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "155598793",
       "uniqueKey": "minkang:155598793",
       "title": "kids Brazil1998 home size: 16-2810",
@@ -14957,35 +15425,6 @@
       "coverUrl": "./assets/products/minkang/221240531/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:07:43.171Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "112346391",
-      "uniqueKey": "minkang:112346391",
-      "title": "Retro  Vasco da Gama 1998 away S-XXL9",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/112346391?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2019/98",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/112346391/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/442797cb/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/112346391/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:06:01.726Z"
     },
     {
       "source": "minkang",
@@ -15106,35 +15545,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "129837346",
-      "uniqueKey": "minkang:129837346",
-      "title": "Retro Bahia 1998 White S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/129837346?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2019/98",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/129837346/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/5711c6c5/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/minkang/129837346/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:06:25.040Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "195689934",
       "uniqueKey": "minkang:195689934",
       "title": "Retro Cameroon 1998 home  S-XXL8",
@@ -15193,64 +15603,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "255028100",
-      "uniqueKey": "minkang:255028100",
-      "title": "Retro Vasco da Gama 1998 away S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/255028100?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2019/98",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/255028100/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/bbda0edf99/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/255028100/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:05:50.354Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "117033794",
-      "uniqueKey": "minkang:117033794",
-      "title": "Retro  Vasco da Gama 2000 黑色 S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/117033794?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/00",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/117033794/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/8d1cd52f/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/117033794/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:06:01.726Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "198589274",
       "uniqueKey": "minkang:198589274",
       "title": "Retro 2000 Romania  Home S-XXL6",
@@ -15276,35 +15628,6 @@
       "coverUrl": "./assets/products/minkang/198589274/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:43:21.760Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "139937740",
-      "uniqueKey": "minkang:139937740",
-      "title": "Retro Corinthians 2000 Home S-4XL9",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/139937740?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/00",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/139937740/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/10348a92/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/minkang/139937740/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:03:46.442Z"
     },
     {
       "source": "minkang",
@@ -15363,93 +15686,6 @@
       "coverUrl": "./assets/products/minkang/209106939/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:30:38.723Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "131222683",
-      "uniqueKey": "minkang:131222683",
-      "title": "Retro Shorts Vasco da Gama 2000 Home S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/131222683?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/00",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/131222683/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/130d29e6/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/minkang/131222683/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:06:01.726Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "117033796",
-      "uniqueKey": "minkang:117033796",
-      "title": "Retro Vasco da Gama 2000 White S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/117033796?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/00",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/117033796/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/72aaa239/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/117033796/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:06:01.726Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "221240796",
-      "uniqueKey": "minkang:221240796",
-      "title": "Vasco da Gama 2000 Home&Away Retro Shorts S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/221240796?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/00",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/221240796/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/614eb67f/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/221240796/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:05:50.355Z"
     },
     {
       "source": "minkang",
@@ -15599,35 +15835,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "155076107",
-      "uniqueKey": "minkang:155076107",
-      "title": "Retro Atlético Mineiro 2003 Home S-XXL9",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/155076107?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/03",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/155076107/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/1428a63a/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/minkang/155076107/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:04:42.481Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "187342590",
       "uniqueKey": "minkang:187342590",
       "title": "Retro colo colo 2003 away S-XXL8",
@@ -15682,35 +15889,6 @@
       "coverUrl": "./assets/products/minkang/212486777/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:16:23.425Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "189879583",
-      "uniqueKey": "minkang:189879583",
-      "title": "Retro Paysandu 2003 Home S-4XL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/189879583?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/03",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/189879583/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/ac56db16/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/minkang/189879583/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:06:47.937Z"
     },
     {
       "source": "minkang",
@@ -16034,35 +16212,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "145357927",
-      "uniqueKey": "minkang:145357927",
-      "title": "Retro Corinthians 2008 Away S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/145357927?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/08",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/145357927/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/cfa2c6aa/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/145357927/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:03:34.682Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "107943594",
       "uniqueKey": "minkang:107943594",
       "title": "Retro Holland 2008 home S-XXL6",
@@ -16092,35 +16241,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "134829511",
-      "uniqueKey": "minkang:134829511",
-      "title": "Retro Corinthians 2010 Home S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/134829511?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/10",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/134829511/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/4609cc6c/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/134829511/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:03:34.682Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "107158750",
       "uniqueKey": "minkang:107158750",
       "title": "Retro colo colo 2011 home S-XXL7",
@@ -16146,93 +16266,6 @@
       "coverUrl": "./assets/products/minkang/107158750/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:16:34.335Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "84385860",
-      "uniqueKey": "minkang:84385860",
-      "title": "Retro 2012 Fluminense Third S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/84385860?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/12",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/84385860/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/fe075c29/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/84385860/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:05:04.657Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "89921665",
-      "uniqueKey": "minkang:89921665",
-      "title": "Retro Corinthians 2012 home S-XXL13",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/89921665?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/12",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/89921665/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/829a1af6/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/89921665/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:03:46.442Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "114398760",
-      "uniqueKey": "minkang:114398760",
-      "title": "Retro Corinthians 2012 Home S-XXL18",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/114398760?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/12",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/114398760/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/2d44e161/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/minkang/114398760/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:03:46.442Z"
     },
     {
       "source": "minkang",
@@ -16320,35 +16353,6 @@
       "coverUrl": "./assets/products/minkang/184318756/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:27:54.421Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "112346175",
-      "uniqueKey": "minkang:112346175",
-      "title": "Retro Santos 2013 away S-XXL10",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/112346175?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/13",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/112346175/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/c011b056/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/112346175/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:04:08.559Z"
     },
     {
       "source": "minkang",
@@ -19539,35 +19543,6 @@
       "coverUrl": "./assets/products/minkang/238618825/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:35:48.797Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "247794895",
-      "uniqueKey": "minkang:247794895",
-      "title": "Regata Vasco da Gama 2026 Brasil Canaria da Colina Masculina Vest S-4XL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/247794895?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/247794895/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/276e4af02d/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/247794895/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:05:50.355Z"
     },
     {
       "source": "minkang",
@@ -31226,6 +31201,35 @@
       "coverUrl": "./assets/albums/238632452/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-26T23:42:40.077Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "247794895",
+      "uniqueKey": "minkang:247794895",
+      "title": "Regata Vasco da Gama 2026 Brasil Canaria da Colina Masculina Vest S-4XL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/247794895?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/247794895/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/276e4af02d/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/247794895/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:58:28.787Z"
     },
     {
       "source": "minkang",
@@ -69046,6 +69050,35 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "90563666",
+      "uniqueKey": "minkang:90563666",
+      "title": "Retro Santos 1998 away S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/90563666?uid=1&isSubCate=true&referrercate=720317",
+      "categoryId": "720317",
+      "collectionId": "720317",
+      "sourceCollection": "KANG Team Official ✅",
+      "sourceCategory": "Santos",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "Santos",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "1998",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/90563666/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/df63af12/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/90563666/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:56:25.263Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "108854476",
       "uniqueKey": "minkang:108854476",
       "title": "Retro 11/12 Santos home S-XXL8",
@@ -69100,35 +69133,6 @@
       "coverUrl": "./assets/products/minkang/106509926/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:03:57.434Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "90563666",
-      "uniqueKey": "minkang:90563666",
-      "title": "Retro Santos 1998 away S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/90563666?uid=1&isSubCate=true&referrercate=720317",
-      "categoryId": "720317",
-      "collectionId": "720317",
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "Santos",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "Santos",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2019/98",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/90563666/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/df63af12/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/90563666/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:04:08.559Z"
     },
     {
       "source": "minkang",
@@ -667721,6 +667725,37 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "257636263",
+      "uniqueKey": "minkang:257636263",
+      "title": "Atlético Mineiro 1971 Home Retro Jersey S-XXL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257636263?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "1971",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/albums/257636263/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/f686d57c90/medium.jpg"
+      ],
+      "coverUrl": "./assets/albums/257636263/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:56:52.259Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "259451692",
       "uniqueKey": "minkang:259451692",
       "title": "Crystal Palace 73/75 Home Retro Jersey S-XXL2",
@@ -668527,6 +668562,37 @@
       "coverUrl": "./assets/products/minkang/222222991/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:13:56.006Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "246279098",
+      "uniqueKey": "minkang:246279098",
+      "title": "Corinthians 1982 Home Retro Jersey S-XXL5",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/246279098?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "1982",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/246279098/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/a3a92046b5/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/246279098/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:55:42.611Z"
     },
     {
       "source": "minkang",
@@ -669837,6 +669903,99 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "231121811",
+      "uniqueKey": "minkang:231121811",
+      "title": "Corinthians 1988 Home Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/231121811?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "1988",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/231121811/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/5be3ac18/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/231121811/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:55:28.627Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "255028424",
+      "uniqueKey": "minkang:255028424",
+      "title": "Vasco Da Gama 1988 Away Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/255028424?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "1988",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/255028424/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/5576abc0cd/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/255028424/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:58:28.786Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "255028446",
+      "uniqueKey": "minkang:255028446",
+      "title": "Vasco Da Gama 1988 Home Retro Jersey S-XXL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/255028446?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "1988",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/255028446/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/5ddb745433/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/255028446/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:58:28.786Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "214130983",
       "uniqueKey": "minkang:214130983",
       "title": "Köln 88/89 Third away Retro Jersey S-XXL7",
@@ -670299,6 +670458,37 @@
       "coverUrl": "./assets/products/minkang/255027356/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-26T23:55:14.849Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "255028191",
+      "uniqueKey": "minkang:255028191",
+      "title": "Santos 1990 Away Retro Jersey S-XXL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/255028191?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "1990",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/255028191/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/1a69c9532c/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/255028191/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:55:57.069Z"
     },
     {
       "source": "minkang",
@@ -672107,6 +672297,37 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "212486102",
+      "uniqueKey": "minkang:212486102",
+      "title": "Vitória 1993 Home Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212486102?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "1993",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/212486102/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/97212fbc/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212486102/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:59:40.788Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "247186934",
       "uniqueKey": "minkang:247186934",
       "title": "Aberdeen 93/94 Away Retro Jersey S-XXL8",
@@ -673654,6 +673875,66 @@
       "coverUrl": "./assets/products/minkang/220900180/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:13:56.006Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "247776748",
+      "uniqueKey": "minkang:247776748",
+      "title": "Atletico Mineiro 1995 Home Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/247776748?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "1995",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/247776748/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/15cdac9cb0/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/247776748/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:57:06.526Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212591629",
+      "uniqueKey": "minkang:212591629",
+      "title": "Botafogo 1995 Away Jersey S-4XL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212591629?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "1995",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/212591629/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/ce1208de/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212591629/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:56:52.259Z"
     },
     {
       "source": "minkang",
@@ -675254,6 +675535,37 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "231121849",
+      "uniqueKey": "minkang:231121849",
+      "title": "Corinthians 1996 Third Away Retro Jersey S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/231121849?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "1996",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/231121849/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/ec9bb72f/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/231121849/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:55:28.627Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "255629426",
       "uniqueKey": "minkang:255629426",
       "title": "Deportivo Universidad Católica 1996 Third Away Retro Jersey S-XXL2",
@@ -676277,6 +676589,68 @@
       "coverUrl": "./assets/products/minkang/217630708/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:12:15.122Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "255028057",
+      "uniqueKey": "minkang:255028057",
+      "title": "Retro Internacional 1997 Home Jersey S-XXL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/255028057?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "1997",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/255028057/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/e0228b281e/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/255028057/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:57:33.606Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "219399267",
+      "uniqueKey": "minkang:219399267",
+      "title": "Vasco da Gama 1997 Home Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/219399267?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "1997",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/219399267/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/b7ae8cdb/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/219399267/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:58:28.787Z"
     },
     {
       "source": "minkang",
@@ -681263,6 +681637,69 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "246279950",
+      "uniqueKey": "minkang:246279950",
+      "title": "Gremio 2000 Home Retro Jersey S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/246279950?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2000",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/246279950/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/ceac3c3490/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/246279950/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:56:38.842Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "237796369",
+      "uniqueKey": "minkang:237796369",
+      "title": "Gremio 2000 Home Retro Kids Kit Jersey Size 16-2811",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/237796369?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2000",
+      "types": [
+        "Retro",
+        "Kids"
+      ],
+      "images": [
+        "./assets/products/minkang/237796369/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/97d302b843/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/237796369/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:56:38.842Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "213865574",
       "uniqueKey": "minkang:213865574",
       "title": "Boca Juniors 00/01 Home Retro Jersey S-XXL7",
@@ -681848,6 +682285,37 @@
       "coverUrl": "./assets/products/minkang/221250428/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:26:15.156Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212486740",
+      "uniqueKey": "minkang:212486740",
+      "title": "Atletico Paranaense 2001 Away Retro Jersey S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212486740?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2001",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/212486740/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/dcac4405/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212486740/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:57:33.606Z"
     },
     {
       "source": "minkang",
@@ -684430,6 +684898,37 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "231121888",
+      "uniqueKey": "minkang:231121888",
+      "title": "Corinthians 2006 Home Retro Jersey S-XXL9",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/231121888?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2006",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/231121888/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/02517e17/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/231121888/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:55:28.627Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "227570332",
       "uniqueKey": "minkang:227570332",
       "title": "America 06/07 Home Retro Jersey S-XXL9",
@@ -685400,6 +685899,38 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "255028273",
+      "uniqueKey": "minkang:255028273",
+      "title": "Santos 2008 White special edition Retro Jersey S-XXL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/255028273?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2008",
+      "types": [
+        "Retro",
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/minkang/255028273/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/d9b8f5a9d7/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/255028273/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:55:57.069Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "219398785",
       "uniqueKey": "minkang:219398785",
       "title": "Borussia Monchengladbach 08/09 Home Retro Jersey S-XXL8",
@@ -686000,6 +686531,68 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "231121920",
+      "uniqueKey": "minkang:231121920",
+      "title": "Corinthians 2009 Home Retro Jersey S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/231121920?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2009",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/231121920/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/99aa97b2/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/231121920/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:55:28.627Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "231121951",
+      "uniqueKey": "minkang:231121951",
+      "title": "Corinthians 2009 Pre-Season Home Retro Jersey S-XXL9",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/231121951?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2009",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/231121951/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/9c207b2f/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/231121951/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:55:28.625Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "255629664",
       "uniqueKey": "minkang:255629664",
       "title": "Deportivo Universidad Católica 2009 Home Jersey S-XXL2",
@@ -686180,6 +686773,131 @@
       "coverUrl": "./assets/products/minkang/246279587/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:31:01.488Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212395232",
+      "uniqueKey": "minkang:212395232",
+      "title": "Corinthians 2010 100th Anniversary Retro Jersey S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212395232?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2010",
+      "types": [
+        "Retro",
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/minkang/212395232/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/cd2ed97c/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212395232/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:55:42.611Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212194640",
+      "uniqueKey": "minkang:212194640",
+      "title": "Corinthians 2010 Away Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212194640?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2010",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/212194640/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/0a68acb6/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212194640/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:55:57.069Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212194513",
+      "uniqueKey": "minkang:212194513",
+      "title": "Corinthians 2010 Orange Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212194513?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2010",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/212194513/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/4aae3af1/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212194513/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:55:42.611Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212194495",
+      "uniqueKey": "minkang:212194495",
+      "title": "Fluminense 2010 Home Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212194495?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2010",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/212194495/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/fc5edf0b/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212194495/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:57:33.606Z"
     },
     {
       "source": "minkang",
@@ -686743,6 +687461,38 @@
       "coverUrl": "./assets/products/minkang/255027502/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-26T23:55:14.848Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "220906000",
+      "uniqueKey": "minkang:220906000",
+      "title": "Corinthians 2012 Special Edition Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/220906000?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2012",
+      "types": [
+        "Retro",
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/minkang/220906000/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/85dee70e/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/220906000/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:55:28.627Z"
     },
     {
       "source": "minkang",
@@ -687349,6 +688099,68 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "231122003",
+      "uniqueKey": "minkang:231122003",
+      "title": "Corinthians 2013 Away Retro Jersey S-XXL9",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/231122003?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2013",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/231122003/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/cd3e712d/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/231122003/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:55:28.621Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "213144436",
+      "uniqueKey": "minkang:213144436",
+      "title": "Santos 2013 Home Player Version Jersey S-4XL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/213144436?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2013",
+      "types": [
+        "Player version"
+      ],
+      "images": [
+        "./assets/products/minkang/213144436/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/dbc993e1/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/213144436/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:56:25.263Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "255629022",
       "uniqueKey": "minkang:255629022",
       "title": "Club America 13/14 Home Retro Jersey S-XXL9",
@@ -687567,6 +688379,37 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "212194703",
+      "uniqueKey": "minkang:212194703",
+      "title": "Fluminense 2015 Originals branca Retro Jersey S-XXL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212194703?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2015",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/212194703/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/b13d0f77/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212194703/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:57:20.213Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "212194247",
       "uniqueKey": "minkang:212194247",
       "title": "Fluminense 15/16 Third Away Retro Jersey S-XXL7",
@@ -687749,6 +688592,131 @@
       "coverUrl": "./assets/products/minkang/236821157/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:31:12.288Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "219395047",
+      "uniqueKey": "minkang:219395047",
+      "title": "Sport Recife 2016 Away Retro Jersey S-XXL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/219395047?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2016",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/219395047/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/92534a63/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/219395047/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:59:26.960Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212194424",
+      "uniqueKey": "minkang:212194424",
+      "title": "Sport Recife 2016 Black Retro Jersey S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212194424?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2016",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/212194424/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/be702262/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212194424/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:59:26.963Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "219395097",
+      "uniqueKey": "minkang:219395097",
+      "title": "Sport Recife 2016 Third Away Retro Jersey S-4XL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/219395097?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2016",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/219395097/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/f6c0aa3b/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/219395097/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:59:26.957Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "219397163",
+      "uniqueKey": "minkang:219397163",
+      "title": "Sport Recife 2016 Third Away Retro Women's Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/219397163?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2016",
+      "types": [
+        "Retro",
+        "Dames"
+      ],
+      "images": [
+        "./assets/products/minkang/219397163/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/1a30d0ad/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/219397163/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:59:26.957Z"
     },
     {
       "source": "minkang",
@@ -688249,37 +689217,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "257636263",
-      "uniqueKey": "minkang:257636263",
-      "title": "Atlético Mineiro 1971 Home Retro Jersey S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/257636263?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2019/71",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/albums/257636263/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/f686d57c90/medium.jpg"
-      ],
-      "coverUrl": "./assets/albums/257636263/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:04:31.408Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "214135753",
       "uniqueKey": "minkang:214135753",
       "title": "Iran 1978 Home Retro Jersey S-XXL6",
@@ -688338,37 +689275,6 @@
       "coverUrl": "./assets/products/minkang/257639118/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:33:14.229Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "246279098",
-      "uniqueKey": "minkang:246279098",
-      "title": "Corinthians 1982 Home Retro Jersey S-XXL5",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/246279098?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2019/82",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/246279098/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/a3a92046b5/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/246279098/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:03:34.681Z"
     },
     {
       "source": "minkang",
@@ -688715,99 +689621,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "231121811",
-      "uniqueKey": "minkang:231121811",
-      "title": "Corinthians 1988 Home Retro Jersey S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/231121811?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2019/88",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/231121811/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/5be3ac18/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/231121811/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:03:23.289Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "255028424",
-      "uniqueKey": "minkang:255028424",
-      "title": "Vasco Da Gama 1988 Away Retro Jersey S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/255028424?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2019/88",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/255028424/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/5576abc0cd/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/255028424/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:05:50.354Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "255028446",
-      "uniqueKey": "minkang:255028446",
-      "title": "Vasco Da Gama 1988 Home Retro Jersey S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/255028446?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2019/88",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/255028446/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/5ddb745433/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/255028446/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:05:38.815Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "212322956",
       "uniqueKey": "minkang:212322956",
       "title": "Cameroon 1990 Home Retro Jersey S-XXL6",
@@ -688959,37 +689772,6 @@
       "coverUrl": "./assets/products/minkang/75825658/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:47:54.454Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "255028191",
-      "uniqueKey": "minkang:255028191",
-      "title": "Santos 1990 Away Retro Jersey S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/255028191?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2019/90",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/255028191/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/1a69c9532c/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/255028191/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:03:46.443Z"
     },
     {
       "source": "minkang",
@@ -689304,37 +690086,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "212486102",
-      "uniqueKey": "minkang:212486102",
-      "title": "Vitória 1993 Home Retro Jersey S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/212486102?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2019/93",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/212486102/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/97212fbc/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/212486102/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:06:47.938Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "212239789",
       "uniqueKey": "minkang:212239789",
       "title": "South Africa 1994 Home Retro Jersey S-XXL8",
@@ -689455,97 +690206,6 @@
       "coverUrl": "./assets/products/minkang/212395356/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:32:19.388Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "247776748",
-      "uniqueKey": "minkang:247776748",
-      "title": "Atletico Mineiro 1995 Home Retro Jersey S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/247776748?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2019/95",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/247776748/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/15cdac9cb0/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/247776748/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:04:42.480Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "212591629",
-      "uniqueKey": "minkang:212591629",
-      "title": "Botafogo 1995 Away Jersey S-4XL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/212591629?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2019/95",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/212591629/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/ce1208de/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/212591629/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:04:31.407Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "231121849",
-      "uniqueKey": "minkang:231121849",
-      "title": "Corinthians 1996 Third Away Retro Jersey S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/231121849?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2019/96",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/231121849/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/ec9bb72f/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/231121849/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:03:23.289Z"
     },
     {
       "source": "minkang",
@@ -689862,37 +690522,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "255028057",
-      "uniqueKey": "minkang:255028057",
-      "title": "Retro Internacional 1997 Home Jersey S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/255028057?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2019/97",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/255028057/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/e0228b281e/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/255028057/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:05:04.658Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "212484817",
       "uniqueKey": "minkang:212484817",
       "title": "sheffield wednesday 19/97 Home Retro Jersey S-XXL8",
@@ -689951,37 +690580,6 @@
       "coverUrl": "./assets/products/minkang/245506187/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:13:11.429Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "219399267",
-      "uniqueKey": "minkang:219399267",
-      "title": "Vasco da Gama 1997 Home Retro Jersey S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/219399267?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2019/97",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/219399267/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/b7ae8cdb/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/219399267/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:05:50.355Z"
     },
     {
       "source": "minkang",
@@ -690633,69 +691231,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "246279950",
-      "uniqueKey": "minkang:246279950",
-      "title": "Gremio 2000 Home Retro Jersey S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/246279950?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2020/00",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/246279950/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/ceac3c3490/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/246279950/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:04:08.559Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "237796369",
-      "uniqueKey": "minkang:237796369",
-      "title": "Gremio 2000 Home Retro Kids Kit Jersey Size 16-2811",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/237796369?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2020/00",
-      "types": [
-        "Retro",
-        "Kids"
-      ],
-      "images": [
-        "./assets/products/minkang/237796369/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/97d302b843/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/237796369/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:04:19.649Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "212586225",
       "uniqueKey": "minkang:212586225",
       "title": "Venezuela 2000 Home Retro Jersey S-XXL7",
@@ -690723,37 +691258,6 @@
       "coverUrl": "./assets/products/minkang/212586225/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:42:15.847Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "212486740",
-      "uniqueKey": "minkang:212486740",
-      "title": "Atletico Paranaense 2001 Away Retro Jersey S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/212486740?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2020/01",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/212486740/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/dcac4405/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/212486740/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:05:04.658Z"
     },
     {
       "source": "minkang",
@@ -691225,37 +691729,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "231121888",
-      "uniqueKey": "minkang:231121888",
-      "title": "Corinthians 2006 Home Retro Jersey S-XXL9",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/231121888?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2020/06",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/231121888/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/02517e17/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/231121888/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:03:23.288Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "227576298",
       "uniqueKey": "minkang:227576298",
       "title": "Tigres UANL 2006 Away Retro Jersey S-XXL10",
@@ -691414,225 +691887,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "255028273",
-      "uniqueKey": "minkang:255028273",
-      "title": "Santos 2008 White special edition Retro Jersey S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/255028273?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2020/08",
-      "types": [
-        "Retro",
-        "Special edition"
-      ],
-      "images": [
-        "./assets/products/minkang/255028273/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/d9b8f5a9d7/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/255028273/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:03:46.442Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "231121920",
-      "uniqueKey": "minkang:231121920",
-      "title": "Corinthians 2009 Home Retro Jersey S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/231121920?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2020/09",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/231121920/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/99aa97b2/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/231121920/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:03:23.288Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "231121951",
-      "uniqueKey": "minkang:231121951",
-      "title": "Corinthians 2009 Pre-Season Home Retro Jersey S-XXL9",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/231121951?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2020/09",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/231121951/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/9c207b2f/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/231121951/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:03:23.288Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "212395232",
-      "uniqueKey": "minkang:212395232",
-      "title": "Corinthians 2010 100th Anniversary Retro Jersey S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/212395232?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2020/10",
-      "types": [
-        "Retro",
-        "Special edition"
-      ],
-      "images": [
-        "./assets/products/minkang/212395232/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/cd2ed97c/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/212395232/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:03:34.681Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "212194640",
-      "uniqueKey": "minkang:212194640",
-      "title": "Corinthians 2010 Away Retro Jersey S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/212194640?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2020/10",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/212194640/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/0a68acb6/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/212194640/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:03:34.682Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "212194513",
-      "uniqueKey": "minkang:212194513",
-      "title": "Corinthians 2010 Orange Retro Jersey S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/212194513?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2020/10",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/212194513/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/4aae3af1/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/212194513/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:03:34.681Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "212194495",
-      "uniqueKey": "minkang:212194495",
-      "title": "Fluminense 2010 Home Retro Jersey S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/212194495?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2020/10",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/212194495/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/fc5edf0b/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/212194495/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:05:04.657Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "220898297",
       "uniqueKey": "minkang:220898297",
       "title": "Iron Maiden x West Ham United 2010 Away Retro Jersey S-XXL7",
@@ -691723,256 +691977,6 @@
       "coverUrl": "./assets/products/minkang/212318457/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:08:29.735Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "220906000",
-      "uniqueKey": "minkang:220906000",
-      "title": "Corinthians 2012 Special Edition Retro Jersey S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/220906000?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2020/12",
-      "types": [
-        "Retro",
-        "Special edition"
-      ],
-      "images": [
-        "./assets/products/minkang/220906000/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/85dee70e/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/220906000/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:03:23.289Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "231122003",
-      "uniqueKey": "minkang:231122003",
-      "title": "Corinthians 2013 Away Retro Jersey S-XXL9",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/231122003?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2020/13",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/231122003/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/cd3e712d/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/231122003/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:03:23.288Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "213144436",
-      "uniqueKey": "minkang:213144436",
-      "title": "Santos 2013 Home Player Version Jersey S-4XL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/213144436?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2020/13",
-      "types": [
-        "Player version"
-      ],
-      "images": [
-        "./assets/products/minkang/213144436/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/dbc993e1/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/213144436/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:04:08.558Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "212194703",
-      "uniqueKey": "minkang:212194703",
-      "title": "Fluminense 2015 Originals branca Retro Jersey S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/212194703?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2020/15",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/212194703/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/b13d0f77/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/212194703/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:04:53.788Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "219395047",
-      "uniqueKey": "minkang:219395047",
-      "title": "Sport Recife 2016 Away Retro Jersey S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/219395047?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2020/16",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/219395047/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/92534a63/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/219395047/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:06:36.806Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "212194424",
-      "uniqueKey": "minkang:212194424",
-      "title": "Sport Recife 2016 Black Retro Jersey S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/212194424?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2020/16",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/212194424/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/be702262/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/212194424/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:06:36.807Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "219395097",
-      "uniqueKey": "minkang:219395097",
-      "title": "Sport Recife 2016 Third Away Retro Jersey S-4XL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/219395097?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2020/16",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/219395097/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/f6c0aa3b/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/219395097/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:06:36.806Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "219397163",
-      "uniqueKey": "minkang:219397163",
-      "title": "Sport Recife 2016 Third Away Retro Women's Jersey S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/219397163?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2020/16",
-      "types": [
-        "Retro",
-        "Dames"
-      ],
-      "images": [
-        "./assets/products/minkang/219397163/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/1a30d0ad/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/219397163/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:06:36.806Z"
     },
     {
       "source": "minkang",
@@ -692570,66 +692574,6 @@
       "coverUrl": "./assets/products/minkang/240191782/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:31:23.326Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "222820979",
-      "uniqueKey": "minkang:222820979",
-      "title": "Internacional 2025 Pink Jersey S-4XL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/222820979?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2020/25",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/222820979/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/3cbcac05/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/222820979/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:05:16.048Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "223002503",
-      "uniqueKey": "minkang:223002503",
-      "title": "Internacional 2025 Women's Pink Jersey S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/223002503?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2020/25",
-      "types": [
-        "Dames"
-      ],
-      "images": [
-        "./assets/products/minkang/223002503/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/22708e3d/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/223002503/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:05:16.048Z"
     },
     {
       "source": "minkang",
@@ -698919,6 +698863,66 @@
       "coverUrl": "./assets/products/minkang/177065500/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:44:28.858Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "222820979",
+      "uniqueKey": "minkang:222820979",
+      "title": "Internacional 2025 Pink Jersey S-4XL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/222820979?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2025",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/222820979/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/3cbcac05/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/222820979/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:57:47.448Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "223002503",
+      "uniqueKey": "minkang:223002503",
+      "title": "Internacional 2025 Women's Pink Jersey S-XXL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/223002503?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2025",
+      "types": [
+        "Dames"
+      ],
+      "images": [
+        "./assets/products/minkang/223002503/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/22708e3d/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/223002503/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:57:47.448Z"
     },
     {
       "source": "minkang",
@@ -734728,37 +734732,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "236114013",
-      "uniqueKey": "minkang:236114013",
-      "title": "Santa Cruz 2627 Away Women's Jersey S-XXL10",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/236114013?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2026/27",
-      "types": [
-        "Dames"
-      ],
-      "images": [
-        "./assets/products/minkang/236114013/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/4cd4e53c29/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/236114013/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:06:59.019Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "255028121",
       "uniqueKey": "minkang:255028121",
       "title": "Santa Cruz FC 26/27 Goalkeeper Jersey S-4XL10",
@@ -739998,37 +739971,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "228200791",
-      "uniqueKey": "minkang:228200791",
-      "title": "Cruzeiro 26/7 Home kids kit Jersey SIZE 16-2812",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/228200791?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2028/12",
-      "types": [
-        "Kids"
-      ],
-      "images": [
-        "./assets/products/minkang/228200791/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/1f7384d3/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/228200791/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:05:27.519Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "255159544",
       "uniqueKey": "minkang:255159544",
       "title": "Cagliari 69/70 Championship Edition Retro Jersey S-XXL2",
@@ -740772,6 +740714,37 @@
       "coverUrl": "./assets/products/minkang/228200514/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:38:12.962Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "228200791",
+      "uniqueKey": "minkang:228200791",
+      "title": "Cruzeiro 26/7 Home kids kit Jersey SIZE 16-2812",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/228200791?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "Onbekend seizoen",
+      "types": [
+        "Kids"
+      ],
+      "images": [
+        "./assets/products/minkang/228200791/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/1f7384d3/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/228200791/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:58:01.272Z"
     },
     {
       "source": "minkang",
@@ -742715,6 +742688,37 @@
       "coverUrl": "./assets/products/minkang/239253458/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:31:12.289Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "236114013",
+      "uniqueKey": "minkang:236114013",
+      "title": "Santa Cruz 2627 Away Women's Jersey S-XXL10",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/236114013?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "Onbekend seizoen",
+      "types": [
+        "Dames"
+      ],
+      "images": [
+        "./assets/products/minkang/236114013/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/4cd4e53c29/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/236114013/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-26T23:59:54.860Z"
     },
     {
       "source": "minkang",
