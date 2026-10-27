@@ -1,26 +1,28 @@
 {
-  "lastSync": "2026-10-27T01:05:04.317Z",
+  "lastSync": "2026-10-27T01:06:02.075Z",
   "syncState": {
     "status": "in-progress",
-    "label": "minkang 7375/7466",
+    "label": "minkang voltooid",
     "batchSize": 25,
     "maxImages": 1
   },
   "syncProgress": {
-    "currentSource": "minkang",
-    "nextIndex": 7375,
-    "totalForSource": 7466,
-    "completedSources": []
+    "currentSource": "",
+    "nextIndex": 0,
+    "totalForSource": 0,
+    "completedSources": [
+      "minkang"
+    ]
   },
   "stats": {
     "discovered": 7466,
     "added": 199,
-    "changed": 1743,
-    "unchanged": 5427,
+    "changed": 1810,
+    "unchanged": 5450,
     "repaired": 0,
-    "skipped": 6,
+    "skipped": 7,
     "duplicatesRemoved": 196,
-    "batchesSaved": 294
+    "batchesSaved": 299
   },
   "sources": [
     {
@@ -3868,6 +3870,35 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "92085149",
+      "uniqueKey": "minkang:92085149",
+      "title": "Retro 1988 Holland Home Retro S-XXL (811)6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/92085149?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "1988",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/92085149/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/01bd529d/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/92085149/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:36.701Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "15247910",
       "uniqueKey": "minkang:15247910",
       "title": "Retro 1988 Holland Home Retro6",
@@ -3893,6 +3924,35 @@
       "coverUrl": "./assets/products/minkang/15247910/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T00:57:18.089Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "86826528",
+      "uniqueKey": "minkang:86826528",
+      "title": "Retro 1988 Ireland home S-XXL9",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/86826528?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "1988",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/86826528/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/0b9620e7/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/86826528/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:51.878Z"
     },
     {
       "source": "minkang",
@@ -5662,6 +5722,35 @@
       "coverUrl": "./assets/products/minkang/98500965/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:19:46.845Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "96143860",
+      "uniqueKey": "minkang:96143860",
+      "title": "Retro Ireland 1994 away S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/96143860?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "1994",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/96143860/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/677bf5fd/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/96143860/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:19.989Z"
     },
     {
       "source": "minkang",
@@ -8620,6 +8709,35 @@
       "coverUrl": "./assets/products/minkang/190515143/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T00:59:00.517Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "82258655",
+      "uniqueKey": "minkang:82258655",
+      "title": "Retro 1998 Holland home S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/82258655?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "1998",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/82258655/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/0197cc1a/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/82258655/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:51.890Z"
     },
     {
       "source": "minkang",
@@ -11781,6 +11899,35 @@
       "coverUrl": "./assets/products/minkang/83351399/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-26T23:51:48.938Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "94445341",
+      "uniqueKey": "minkang:94445341",
+      "title": "Retro Holland 2002 home S-XXL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/94445341?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2002",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/94445341/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/11a0c720/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/94445341/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:19.995Z"
     },
     {
       "source": "minkang",
@@ -16015,151 +16162,6 @@
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:27:25.166Z",
       "season": "2019/20"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "92085149",
-      "uniqueKey": "minkang:92085149",
-      "title": "Retro 1988 Holland Home Retro S-XXL (811)6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/92085149?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2019/88",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/92085149/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/01bd529d/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/92085149/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:37.500Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "86826528",
-      "uniqueKey": "minkang:86826528",
-      "title": "Retro 1988 Ireland home S-XXL9",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/86826528?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2019/88",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/86826528/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/0b9620e7/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/86826528/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:37.500Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "96143860",
-      "uniqueKey": "minkang:96143860",
-      "title": "Retro Ireland 1994 away S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/96143860?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2019/94",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/96143860/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/677bf5fd/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/96143860/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:26.581Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "82258655",
-      "uniqueKey": "minkang:82258655",
-      "title": "Retro 1998 Holland home S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/82258655?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2019/98",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/82258655/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/0197cc1a/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/82258655/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:48.286Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "94445341",
-      "uniqueKey": "minkang:94445341",
-      "title": "Retro Holland 2002 home S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/94445341?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/02",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/94445341/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/11a0c720/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/94445341/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:26.582Z"
     },
     {
       "source": "minkang",
@@ -399379,6 +399381,37 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "81521121",
+      "uniqueKey": "minkang:81521121",
+      "title": "Retro 1978 Argentina home S-XXL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/81521121?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Argentina",
+      "competition": "WK & landenteams",
+      "club": "Argentina",
+      "season": "1978",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/81521121/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/4bd1c423/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/81521121/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:06:01.614Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "128491894",
       "uniqueKey": "minkang:128491894",
       "title": "Retro 1978 Long Sleeve Argentina Home S-XXL7",
@@ -399500,6 +399533,68 @@
       "coverUrl": "./assets/products/minkang/237966566/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T00:45:36.514Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "81520994",
+      "uniqueKey": "minkang:81520994",
+      "title": "Retro 1986 Argentina home S-XXL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/81520994?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Argentina",
+      "competition": "WK & landenteams",
+      "club": "Argentina",
+      "season": "1986",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/81520994/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/a94212a4/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/81520994/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:06:01.614Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "89921632",
+      "uniqueKey": "minkang:89921632",
+      "title": "Retro Argentina 1986 away S-XXL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/89921632?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Argentina",
+      "competition": "WK & landenteams",
+      "club": "Argentina",
+      "season": "1986",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/89921632/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/e1d93566/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/89921632/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:36.701Z"
     },
     {
       "source": "yema007",
@@ -399723,6 +399818,37 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "83402855",
+      "uniqueKey": "minkang:83402855",
+      "title": "Retro Argentina 1994 away S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/83402855?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Argentina",
+      "competition": "WK & landenteams",
+      "club": "Argentina",
+      "season": "1994",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/83402855/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/f741e4a4/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/83402855/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:51.890Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "213144363",
       "uniqueKey": "minkang:213144363",
       "title": "Retro Players Argentina 1994 Away S-XXL6",
@@ -399881,6 +400007,68 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "83138315",
+      "uniqueKey": "minkang:83138315",
+      "title": "Retro Argentina 1998 away S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/83138315?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Argentina",
+      "competition": "WK & landenteams",
+      "club": "Argentina",
+      "season": "1998",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/83138315/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/6314ce44/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/83138315/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:51.890Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "83351296",
+      "uniqueKey": "minkang:83351296",
+      "title": "Retro Argentina 1998 home S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/83351296?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Argentina",
+      "competition": "WK & landenteams",
+      "club": "Argentina",
+      "season": "1998",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/83351296/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/a4cd1c56/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/83351296/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:51.890Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "218703437",
       "uniqueKey": "minkang:218703437",
       "title": "Argentina 00/01 Home Retro Jersey S-XXL6",
@@ -399908,6 +400096,38 @@
       "imageCount": 1,
       "updatedAt": "2026-10-24T00:26:37.412Z",
       "season": "2000/01"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "89952377",
+      "uniqueKey": "minkang:89952377",
+      "title": "Retro 2001 Argentina Maradona #10 Commemorative Edition S-XXL11",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/89952377?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Argentina",
+      "competition": "WK & landenteams",
+      "club": "Argentina",
+      "season": "2001",
+      "types": [
+        "Retro",
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/minkang/89952377/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/4a26986e/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/89952377/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:36.701Z"
     },
     {
       "source": "minkang",
@@ -400528,37 +400748,6 @@
       "updatedAt": "2026-10-25T18:58:16.640Z"
     },
     {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "81521121",
-      "uniqueKey": "minkang:81521121",
-      "title": "Retro 1978 Argentina home S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/81521121?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Argentina",
-      "competition": "WK & landenteams",
-      "club": "Argentina",
-      "season": "2019/78",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/81521121/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/4bd1c423/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/81521121/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:48.287Z"
-    },
-    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237361448",
@@ -400798,68 +400987,6 @@
       "updatedAt": "2026-10-25T18:58:16.640Z"
     },
     {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "81520994",
-      "uniqueKey": "minkang:81520994",
-      "title": "Retro 1986 Argentina home S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/81520994?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Argentina",
-      "competition": "WK & landenteams",
-      "club": "Argentina",
-      "season": "2019/86",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/81520994/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/a94212a4/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/81520994/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:54.453Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "89921632",
-      "uniqueKey": "minkang:89921632",
-      "title": "Retro Argentina 1986 away S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/89921632?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Argentina",
-      "competition": "WK & landenteams",
-      "club": "Argentina",
-      "season": "2019/86",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/89921632/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/e1d93566/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/89921632/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:37.500Z"
-    },
-    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237789879",
@@ -401041,37 +401168,6 @@
       "updatedAt": "2026-10-25T19:46:29.714Z"
     },
     {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "83402855",
-      "uniqueKey": "minkang:83402855",
-      "title": "Retro Argentina 1994 away S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/83402855?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Argentina",
-      "competition": "WK & landenteams",
-      "club": "Argentina",
-      "season": "2019/94",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/83402855/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/f741e4a4/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/83402855/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:48.286Z"
-    },
-    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237525939",
@@ -401226,10 +401322,10 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "83138315",
-      "uniqueKey": "minkang:83138315",
-      "title": "Retro Argentina 1998 away S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/83138315?uid=1&isSubCate=false&referrercate=712891",
+      "sourceId": "79952674",
+      "uniqueKey": "minkang:79952674",
+      "title": "2020 Argentina away S-XXXL10",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/79952674?uid=1&isSubCate=false&referrercate=712891",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
@@ -401240,27 +401336,25 @@
       "country": "Argentina",
       "competition": "WK & landenteams",
       "club": "Argentina",
-      "season": "2019/98",
-      "types": [
-        "Retro"
-      ],
+      "season": "2020",
+      "types": [],
       "images": [
-        "./assets/products/minkang/83138315/01.webp"
+        "./assets/products/minkang/79952674/01.webp"
       ],
       "sourceImages": [
-        "https://photo.yupoo.com/minkang/6314ce44/medium.jpg"
+        "https://photo.yupoo.com/minkang/ee31a922/medium.jpg"
       ],
-      "coverUrl": "./assets/products/minkang/83138315/01.webp",
+      "coverUrl": "./assets/products/minkang/79952674/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:48.286Z"
+      "updatedAt": "2026-10-27T01:06:01.614Z"
     },
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "83351296",
-      "uniqueKey": "minkang:83351296",
-      "title": "Retro Argentina 1998 home S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/83351296?uid=1&isSubCate=false&referrercate=712891",
+      "sourceId": "90104483",
+      "uniqueKey": "minkang:90104483",
+      "title": "2020 Argentina home S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/90104483?uid=1&isSubCate=false&referrercate=712891",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
@@ -401271,19 +401365,17 @@
       "country": "Argentina",
       "competition": "WK & landenteams",
       "club": "Argentina",
-      "season": "2019/98",
-      "types": [
-        "Retro"
-      ],
+      "season": "2020",
+      "types": [],
       "images": [
-        "./assets/products/minkang/83351296/01.webp"
+        "./assets/products/minkang/90104483/01.webp"
       ],
       "sourceImages": [
-        "https://photo.yupoo.com/minkang/a4cd1c56/medium.jpg"
+        "https://photo.yupoo.com/minkang/b33a1718/medium.jpg"
       ],
-      "coverUrl": "./assets/products/minkang/83351296/01.webp",
+      "coverUrl": "./assets/products/minkang/90104483/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:48.286Z"
+      "updatedAt": "2026-10-27T01:05:36.701Z"
     },
     {
       "source": "yema007",
@@ -401344,38 +401436,6 @@
       "coverUrl": "./assets/products/yema007/237360876/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T18:58:27.588Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "89952377",
-      "uniqueKey": "minkang:89952377",
-      "title": "Retro 2001 Argentina Maradona #10 Commemorative Edition S-XXL11",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/89952377?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Argentina",
-      "competition": "WK & landenteams",
-      "club": "Argentina",
-      "season": "2020/01",
-      "types": [
-        "Retro",
-        "Special edition"
-      ],
-      "images": [
-        "./assets/products/minkang/89952377/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/4a26986e/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/89952377/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:37.500Z"
     },
     {
       "source": "yema007",
@@ -401931,35 +401991,6 @@
       "updatedAt": "2026-10-25T18:00:50.304Z"
     },
     {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "79952674",
-      "uniqueKey": "minkang:79952674",
-      "title": "2020 Argentina away S-XXXL10",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/79952674?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Argentina",
-      "competition": "WK & landenteams",
-      "club": "Argentina",
-      "season": "2020/20",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/79952674/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/ee31a922/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/79952674/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:54.454Z"
-    },
-    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237606055",
@@ -401987,35 +402018,6 @@
       "coverUrl": "./assets/products/yema007/237606055/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T18:57:43.599Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "90104483",
-      "uniqueKey": "minkang:90104483",
-      "title": "2020 Argentina home S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/90104483?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Argentina",
-      "competition": "WK & landenteams",
-      "club": "Argentina",
-      "season": "2020/20",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/90104483/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/b33a1718/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/90104483/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:37.500Z"
     },
     {
       "source": "yema007",
@@ -438753,6 +438755,37 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "92918420",
+      "uniqueKey": "minkang:92918420",
+      "title": "Retro Colombia 1990 home S-XXL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/92918420?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Colombia",
+      "competition": "WK & landenteams",
+      "club": "Colombia",
+      "season": "1990",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/92918420/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/96a0d842/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/92918420/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:36.701Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "223119454",
       "uniqueKey": "minkang:223119454",
       "title": "Colombia 1994 Away Long-sleeved Jersey S-XXL6",
@@ -439242,37 +439275,6 @@
       "coverUrl": "./assets/products/yema007/237802858/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:17:41.189Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "92918420",
-      "uniqueKey": "minkang:92918420",
-      "title": "Retro Colombia 1990 home S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/92918420?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Colombia",
-      "competition": "WK & landenteams",
-      "club": "Colombia",
-      "season": "2019/90",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/92918420/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/96a0d842/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/92918420/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:37.500Z"
     },
     {
       "source": "yema007",
@@ -443232,6 +443234,68 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "82258530",
+      "uniqueKey": "minkang:82258530",
+      "title": "Retro 1998 Croatia away S-XXL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/82258530?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Croatia",
+      "competition": "WK & landenteams",
+      "club": "Croatia",
+      "season": "1998",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/82258530/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/9de31e4c/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/82258530/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:51.890Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "82258496",
+      "uniqueKey": "minkang:82258496",
+      "title": "Retro 1998 Croatia home S-XXL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/82258496?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Croatia",
+      "competition": "WK & landenteams",
+      "club": "Croatia",
+      "season": "1998",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/82258496/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/825bc6dc/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/82258496/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:51.890Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "209106914",
       "uniqueKey": "minkang:209106914",
       "title": "Retro Croatia 2010 Away S-XXL6",
@@ -443441,68 +443505,6 @@
       "coverUrl": "./assets/products/yema007/237368789/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:11:15.067Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "82258530",
-      "uniqueKey": "minkang:82258530",
-      "title": "Retro 1998 Croatia away S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/82258530?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Croatia",
-      "competition": "WK & landenteams",
-      "club": "Croatia",
-      "season": "2019/98",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/82258530/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/9de31e4c/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/82258530/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:48.286Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "82258496",
-      "uniqueKey": "minkang:82258496",
-      "title": "Retro 1998 Croatia home S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/82258496?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Croatia",
-      "competition": "WK & landenteams",
-      "club": "Croatia",
-      "season": "2019/98",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/82258496/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/825bc6dc/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/82258496/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:48.286Z"
     },
     {
       "source": "yema007",
@@ -444590,6 +444592,37 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "95019700",
+      "uniqueKey": "minkang:95019700",
+      "title": "Retro Denmark 1986 home S-XXL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/95019700?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Denmark",
+      "competition": "WK & landenteams",
+      "club": "Denmark",
+      "season": "1986",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/95019700/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/23be6948/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/95019700/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:19.992Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "167395951",
       "uniqueKey": "minkang:167395951",
       "title": "Retro Denmark 1988 Away S-XXL5",
@@ -444677,37 +444710,6 @@
       "coverUrl": "./assets/products/yema007/237369550/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:12:53.992Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "95019700",
-      "uniqueKey": "minkang:95019700",
-      "title": "Retro Denmark 1986 home S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/95019700?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Denmark",
-      "competition": "WK & landenteams",
-      "club": "Denmark",
-      "season": "2019/86",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/95019700/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/23be6948/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/95019700/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:26.581Z"
     },
     {
       "source": "yema007",
@@ -446474,6 +446476,37 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "82216204",
+      "uniqueKey": "minkang:82216204",
+      "title": "Retro 1990 England home S-XXL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/82216204?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "England",
+      "competition": "WK & landenteams",
+      "club": "England",
+      "season": "1990",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/82216204/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/5207ff66/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/82216204/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:51.891Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "96649311",
       "uniqueKey": "minkang:96649311",
       "title": "Retro England 1990 black away S-XXL6",
@@ -446821,6 +446854,68 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "87793959",
+      "uniqueKey": "minkang:87793959",
+      "title": "Retro England 1996 away S-XXL5",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/87793959?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "England",
+      "competition": "WK & landenteams",
+      "club": "England",
+      "season": "1996",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/87793959/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/7383b113/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/87793959/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:36.701Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "96144800",
+      "uniqueKey": "minkang:96144800",
+      "title": "Retro England 1996 home S-XXL5",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/96144800?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "England",
+      "competition": "WK & landenteams",
+      "club": "England",
+      "season": "1996",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/96144800/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/e15a5e92/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/96144800/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:19.983Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "256508740",
       "uniqueKey": "minkang:256508740",
       "title": "England 1998 Away Long-Sleeves Retro Jersey S-XXL2",
@@ -447036,6 +447131,69 @@
       "coverUrl": "./assets/products/minkang/187279295/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T00:59:33.459Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "82311441",
+      "uniqueKey": "minkang:82311441",
+      "title": "Retro 1998 England home S- XXL5",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/82311441?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "England",
+      "competition": "WK & landenteams",
+      "club": "England",
+      "season": "1998",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/82311441/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/21dcdc77/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/82311441/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:51.890Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "82355761",
+      "uniqueKey": "minkang:82355761",
+      "title": "Retro Long Sleeve 1998 England home S- XXL5",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/82355761?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "England",
+      "competition": "WK & landenteams",
+      "club": "England",
+      "season": "1998",
+      "types": [
+        "Retro",
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/minkang/82355761/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/1c0210ef/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/82355761/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:51.890Z"
     },
     {
       "source": "minkang",
@@ -447938,37 +448096,6 @@
       "updatedAt": "2026-10-25T19:05:24.133Z"
     },
     {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "82216204",
-      "uniqueKey": "minkang:82216204",
-      "title": "Retro 1990 England home S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/82216204?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "England",
-      "competition": "WK & landenteams",
-      "club": "England",
-      "season": "2019/90",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/82216204/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/5207ff66/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/82216204/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:48.286Z"
-    },
-    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237510419",
@@ -448239,68 +448366,6 @@
       "updatedAt": "2026-10-25T19:05:35.044Z"
     },
     {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "87793959",
-      "uniqueKey": "minkang:87793959",
-      "title": "Retro England 1996 away S-XXL5",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/87793959?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "England",
-      "competition": "WK & landenteams",
-      "club": "England",
-      "season": "2019/96",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/87793959/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/7383b113/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/87793959/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:37.500Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "96144800",
-      "uniqueKey": "minkang:96144800",
-      "title": "Retro England 1996 home S-XXL5",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/96144800?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "England",
-      "competition": "WK & landenteams",
-      "club": "England",
-      "season": "2019/96",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/96144800/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/e15a5e92/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/96144800/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:26.580Z"
-    },
-    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237365309",
@@ -448481,69 +448546,6 @@
       "coverUrl": "./assets/products/yema007/237365245/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:05:35.044Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "82311441",
-      "uniqueKey": "minkang:82311441",
-      "title": "Retro 1998 England home S- XXL5",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/82311441?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "England",
-      "competition": "WK & landenteams",
-      "club": "England",
-      "season": "2019/98",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/82311441/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/21dcdc77/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/82311441/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:48.286Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "82355761",
-      "uniqueKey": "minkang:82355761",
-      "title": "Retro Long Sleeve 1998 England home S- XXL5",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/82355761?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "England",
-      "competition": "WK & landenteams",
-      "club": "England",
-      "season": "2019/98",
-      "types": [
-        "Retro",
-        "Lange mouw"
-      ],
-      "images": [
-        "./assets/products/minkang/82355761/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/1c0210ef/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/82355761/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:48.286Z"
     },
     {
       "source": "yema007",
@@ -454446,6 +454448,37 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "84065294",
+      "uniqueKey": "minkang:84065294",
+      "title": "Retro France 1982 home S-XXL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/84065294?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "France",
+      "competition": "WK & landenteams",
+      "club": "France",
+      "season": "1982",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/84065294/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/9f8c8cc5/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/84065294/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:51.887Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "212238070",
       "uniqueKey": "minkang:212238070",
       "title": "France 1984 Home Retro Jersey S-XXL7",
@@ -454880,6 +454913,68 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "81521379",
+      "uniqueKey": "minkang:81521379",
+      "title": "Retro 1998 France home S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/81521379?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "France",
+      "competition": "WK & landenteams",
+      "club": "France",
+      "season": "1998",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/81521379/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/a7981550/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/81521379/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:06:01.614Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "94445935",
+      "uniqueKey": "minkang:94445935",
+      "title": "Retro France 1998 away S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/94445935?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "France",
+      "competition": "WK & landenteams",
+      "club": "France",
+      "season": "1998",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/94445935/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/d45e4407/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/94445935/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:19.995Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "151794800",
       "uniqueKey": "minkang:151794800",
       "title": "Retro long sleeve France 1998 Home S-XXL7",
@@ -454912,6 +455007,37 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "82070072",
+      "uniqueKey": "minkang:82070072",
+      "title": "Retro France 2000 home S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/82070072?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "France",
+      "competition": "WK & landenteams",
+      "club": "France",
+      "season": "2000",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/82070072/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/44a505f7/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/82070072/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:51.891Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "247185956",
       "uniqueKey": "minkang:247185956",
       "title": "France 2002 Home Retro Jersey S-XXL6",
@@ -454939,6 +455065,37 @@
       "coverUrl": "./assets/products/minkang/247185956/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T00:42:54.560Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "94445838",
+      "uniqueKey": "minkang:94445838",
+      "title": "Retro France 2004 home S-XXL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/94445838?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "France",
+      "competition": "WK & landenteams",
+      "club": "France",
+      "season": "2004",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/94445838/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/c825cab1/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/94445838/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:19.995Z"
     },
     {
       "source": "minkang",
@@ -455341,37 +455498,6 @@
       "updatedAt": "2026-10-25T19:02:40.186Z"
     },
     {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "84065294",
-      "uniqueKey": "minkang:84065294",
-      "title": "Retro France 1982 home S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/84065294?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "France",
-      "competition": "WK & landenteams",
-      "club": "France",
-      "season": "2019/82",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/84065294/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/9f8c8cc5/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/84065294/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:48.285Z"
-    },
-    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237526037",
@@ -455704,68 +455830,6 @@
       "updatedAt": "2026-10-25T19:02:40.186Z"
     },
     {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "81521379",
-      "uniqueKey": "minkang:81521379",
-      "title": "Retro 1998 France home S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/81521379?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "France",
-      "competition": "WK & landenteams",
-      "club": "France",
-      "season": "2019/98",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/81521379/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/a7981550/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/81521379/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:48.287Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "94445935",
-      "uniqueKey": "minkang:94445935",
-      "title": "Retro France 1998 away S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/94445935?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "France",
-      "competition": "WK & landenteams",
-      "club": "France",
-      "season": "2019/98",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/94445935/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/d45e4407/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/94445935/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:26.581Z"
-    },
-    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237363039",
@@ -455793,37 +455857,6 @@
       "coverUrl": "./assets/products/yema007/237363039/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:02:40.187Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "82070072",
-      "uniqueKey": "minkang:82070072",
-      "title": "Retro France 2000 home S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/82070072?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "France",
-      "competition": "WK & landenteams",
-      "club": "France",
-      "season": "2020/00",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/82070072/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/44a505f7/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/82070072/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:48.287Z"
     },
     {
       "source": "yema007",
@@ -455913,37 +455946,6 @@
       "coverUrl": "./assets/products/yema007/237362959/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:02:40.187Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "94445838",
-      "uniqueKey": "minkang:94445838",
-      "title": "Retro France 2004 home S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/94445838?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "France",
-      "competition": "WK & landenteams",
-      "club": "France",
-      "season": "2020/04",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/94445838/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/c825cab1/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/94445838/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:26.581Z"
     },
     {
       "source": "yema007",
@@ -462806,6 +462808,37 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "83141511",
+      "uniqueKey": "minkang:83141511",
+      "title": "Retro 1992 Germany away S-XXL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/83141511?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Germany",
+      "competition": "WK & landenteams",
+      "club": "Germany",
+      "season": "1992",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/83141511/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/5b1129e1/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/83141511/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:51.890Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "153812412",
       "uniqueKey": "minkang:153812412",
       "title": "Retro Germany 1992 Home S-XXL6",
@@ -462931,6 +462964,37 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "81521063",
+      "uniqueKey": "minkang:81521063",
+      "title": "Retro 1994 Germany away S-XXL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/81521063?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Germany",
+      "competition": "WK & landenteams",
+      "club": "Germany",
+      "season": "1994",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/81521063/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/9fdea8ba/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/81521063/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:06:01.614Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "160609431",
       "uniqueKey": "minkang:160609431",
       "title": "kids Germany 1996 home size: 16-288",
@@ -462958,6 +463022,37 @@
       "coverUrl": "./assets/products/minkang/160609431/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T01:01:28.111Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "82590258",
+      "uniqueKey": "minkang:82590258",
+      "title": "Retro 1996 Germany away S-XXL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/82590258?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Germany",
+      "competition": "WK & landenteams",
+      "club": "Germany",
+      "season": "1996",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/82590258/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/7b77ab7a/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/82590258/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:51.890Z"
     },
     {
       "source": "minkang",
@@ -463020,6 +463115,37 @@
       "coverUrl": "./assets/products/minkang/212194992/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T00:57:39.001Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "84984842",
+      "uniqueKey": "minkang:84984842",
+      "title": "Retro 1998 Germany away S-XXL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/84984842?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Germany",
+      "competition": "WK & landenteams",
+      "club": "Germany",
+      "season": "1998",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/84984842/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/b7a84fbe/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/84984842/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:51.884Z"
     },
     {
       "source": "minkang",
@@ -464105,37 +464231,6 @@
       "updatedAt": "2026-10-25T19:04:18.405Z"
     },
     {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "83141511",
-      "uniqueKey": "minkang:83141511",
-      "title": "Retro 1992 Germany away S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/83141511?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Germany",
-      "competition": "WK & landenteams",
-      "club": "Germany",
-      "season": "2019/92",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/83141511/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/5b1129e1/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/83141511/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:48.286Z"
-    },
-    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237505392",
@@ -464256,37 +464351,6 @@
       "coverUrl": "./assets/products/yema007/237364209/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:04:18.405Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "81521063",
-      "uniqueKey": "minkang:81521063",
-      "title": "Retro 1994 Germany away S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/81521063?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Germany",
-      "competition": "WK & landenteams",
-      "club": "Germany",
-      "season": "2019/94",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/81521063/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/9fdea8ba/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/81521063/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:54.453Z"
     },
     {
       "source": "yema007",
@@ -464442,37 +464506,6 @@
       "updatedAt": "2026-10-25T19:04:07.422Z"
     },
     {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "82590258",
-      "uniqueKey": "minkang:82590258",
-      "title": "Retro 1996 Germany away S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/82590258?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Germany",
-      "competition": "WK & landenteams",
-      "club": "Germany",
-      "season": "2019/96",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/82590258/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/7b77ab7a/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/82590258/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:48.286Z"
-    },
-    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237364068",
@@ -464529,37 +464562,6 @@
       "coverUrl": "./assets/products/yema007/237364012/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:04:18.405Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "84984842",
-      "uniqueKey": "minkang:84984842",
-      "title": "Retro 1998 Germany away S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/84984842?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Germany",
-      "competition": "WK & landenteams",
-      "club": "Germany",
-      "season": "2019/98",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/84984842/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/b7a84fbe/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/84984842/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:48.285Z"
     },
     {
       "source": "minkang",
@@ -474438,6 +474440,68 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "94445745",
+      "uniqueKey": "minkang:94445745",
+      "title": "Retro Italy 1982 home S-XXL5",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/94445745?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Italy",
+      "competition": "WK & landenteams",
+      "club": "Italy",
+      "season": "1982",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/94445745/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/075b226e/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/94445745/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:19.995Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "75826188",
+      "uniqueKey": "minkang:75826188",
+      "title": "retro shirt Italy 1990 home8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/75826188?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Italy",
+      "competition": "WK & landenteams",
+      "club": "Italy",
+      "season": "1990",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/75826188/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/745b5659/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/75826188/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:06:01.614Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "213002851",
       "uniqueKey": "minkang:213002851",
       "title": "italy 1994 Home Long Sleeve Retro Jersey S-XXL5",
@@ -474498,6 +474562,68 @@
       "coverUrl": "./assets/products/minkang/237967303/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T00:45:36.514Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "82070688",
+      "uniqueKey": "minkang:82070688",
+      "title": "Retro Italy 1994 away S-XXL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/82070688?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Italy",
+      "competition": "WK & landenteams",
+      "club": "Italy",
+      "season": "1994",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/82070688/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/625707df/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/82070688/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:51.891Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "82070657",
+      "uniqueKey": "minkang:82070657",
+      "title": "Retro Italy 1994 home S-XXL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/82070657?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Italy",
+      "competition": "WK & landenteams",
+      "club": "Italy",
+      "season": "1994",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/82070657/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/8eb7f7da/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/82070657/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:51.891Z"
     },
     {
       "source": "minkang",
@@ -474563,6 +474689,68 @@
       "updatedAt": "2026-10-27T00:45:36.514Z"
     },
     {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "94445676",
+      "uniqueKey": "minkang:94445676",
+      "title": "Retro Italy 1996 away S-XXL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/94445676?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Italy",
+      "competition": "WK & landenteams",
+      "club": "Italy",
+      "season": "1996",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/94445676/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/65f52216/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/94445676/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:19.995Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "94445641",
+      "uniqueKey": "minkang:94445641",
+      "title": "Retro Italy 1996 home S-XXL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/94445641?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Italy",
+      "competition": "WK & landenteams",
+      "club": "Italy",
+      "season": "1996",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/94445641/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/77e905bc/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/94445641/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:19.995Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237366820",
@@ -474590,6 +474778,68 @@
       "imageCount": 1,
       "updatedAt": "2026-10-24T03:17:23.389Z",
       "season": "1996/98"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "94445592",
+      "uniqueKey": "minkang:94445592",
+      "title": "Retro Italy 1998 away S-XXL11",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/94445592?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Italy",
+      "competition": "WK & landenteams",
+      "club": "Italy",
+      "season": "1998",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/94445592/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/d9996011/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/94445592/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:19.995Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "94445430",
+      "uniqueKey": "minkang:94445430",
+      "title": "Retro Italy 1998 home S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/94445430?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Italy",
+      "competition": "WK & landenteams",
+      "club": "Italy",
+      "season": "1998",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/94445430/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/83af7dad/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/94445430/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:19.995Z"
     },
     {
       "source": "yema007",
@@ -474748,6 +474998,37 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "82216449",
+      "uniqueKey": "minkang:82216449",
+      "title": "Retro 2006 Italy Golden S-XXL5",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/82216449?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Italy",
+      "competition": "WK & landenteams",
+      "club": "Italy",
+      "season": "2006",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/82216449/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/33c7c6fc/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/82216449/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:51.891Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "212383697",
       "uniqueKey": "minkang:212383697",
       "title": "Italy 2012 Home Retro Jersey S-XXL6",
@@ -474868,37 +475149,6 @@
       "updatedAt": "2026-10-25T19:08:18.858Z"
     },
     {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "94445745",
-      "uniqueKey": "minkang:94445745",
-      "title": "Retro Italy 1982 home S-XXL5",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/94445745?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Italy",
-      "competition": "WK & landenteams",
-      "club": "Italy",
-      "season": "2019/82",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/94445745/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/075b226e/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/94445745/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:26.581Z"
-    },
-    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237366936",
@@ -474926,37 +475176,6 @@
       "coverUrl": "./assets/products/yema007/237366936/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:08:18.858Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "75826188",
-      "uniqueKey": "minkang:75826188",
-      "title": "retro shirt Italy 1990 home8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/75826188?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Italy",
-      "competition": "WK & landenteams",
-      "club": "Italy",
-      "season": "2019/90",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/75826188/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/745b5659/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/75826188/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:54.454Z"
     },
     {
       "source": "yema007",
@@ -475015,68 +475234,6 @@
       "coverUrl": "./assets/products/yema007/237367038/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:08:18.858Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "82070688",
-      "uniqueKey": "minkang:82070688",
-      "title": "Retro Italy 1994 away S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/82070688?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Italy",
-      "competition": "WK & landenteams",
-      "club": "Italy",
-      "season": "2019/94",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/82070688/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/625707df/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/82070688/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:48.286Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "82070657",
-      "uniqueKey": "minkang:82070657",
-      "title": "Retro Italy 1994 home S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/82070657?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Italy",
-      "competition": "WK & landenteams",
-      "club": "Italy",
-      "season": "2019/94",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/82070657/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/8eb7f7da/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/82070657/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:48.286Z"
     },
     {
       "source": "yema007",
@@ -475168,68 +475325,6 @@
       "updatedAt": "2026-10-25T19:08:18.858Z"
     },
     {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "94445676",
-      "uniqueKey": "minkang:94445676",
-      "title": "Retro Italy 1996 away S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/94445676?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Italy",
-      "competition": "WK & landenteams",
-      "club": "Italy",
-      "season": "2019/96",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/94445676/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/65f52216/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/94445676/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:26.581Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "94445641",
-      "uniqueKey": "minkang:94445641",
-      "title": "Retro Italy 1996 home S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/94445641?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Italy",
-      "competition": "WK & landenteams",
-      "club": "Italy",
-      "season": "2019/96",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/94445641/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/77e905bc/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/94445641/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:26.581Z"
-    },
-    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237367177",
@@ -475315,68 +475410,6 @@
       "coverUrl": "./assets/products/yema007/237367242/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:08:18.857Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "94445592",
-      "uniqueKey": "minkang:94445592",
-      "title": "Retro Italy 1998 away S-XXL11",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/94445592?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Italy",
-      "competition": "WK & landenteams",
-      "club": "Italy",
-      "season": "2019/98",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/94445592/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/d9996011/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/94445592/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:26.581Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "94445430",
-      "uniqueKey": "minkang:94445430",
-      "title": "Retro Italy 1998 home S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/94445430?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Italy",
-      "competition": "WK & landenteams",
-      "club": "Italy",
-      "season": "2019/98",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/94445430/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/83af7dad/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/94445430/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:26.581Z"
     },
     {
       "source": "minkang",
@@ -475680,37 +475713,6 @@
       "coverUrl": "./assets/products/yema007/237542940/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:08:08.049Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "82216449",
-      "uniqueKey": "minkang:82216449",
-      "title": "Retro 2006 Italy Golden S-XXL5",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/82216449?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Italy",
-      "competition": "WK & landenteams",
-      "club": "Italy",
-      "season": "2020/06",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/82216449/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/33c7c6fc/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/82216449/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:48.286Z"
     },
     {
       "source": "yema007",
@@ -482168,6 +482170,37 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "82216349",
+      "uniqueKey": "minkang:82216349",
+      "title": "Retro Japan 2002 home S-XXL10",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/82216349?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Japan",
+      "competition": "WK & landenteams",
+      "club": "Japan",
+      "season": "2002",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/82216349/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/98cb0309/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/82216349/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:51.891Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "213795655",
       "uniqueKey": "minkang:213795655",
       "title": "Japan 2006 Away Retro Jersey S-XXL6",
@@ -483151,37 +483184,6 @@
       "coverUrl": "./assets/products/yema007/237370348/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:14:33.478Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "82216349",
-      "uniqueKey": "minkang:82216349",
-      "title": "Retro Japan 2002 home S-XXL10",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/82216349?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Japan",
-      "competition": "WK & landenteams",
-      "club": "Japan",
-      "season": "2020/02",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/82216349/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/98cb0309/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/82216349/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:48.286Z"
     },
     {
       "source": "yema007",
@@ -493296,6 +493298,68 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "95019693",
+      "uniqueKey": "minkang:95019693",
+      "title": "Retro Mexico 1986 home S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/95019693?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Mexico",
+      "competition": "WK & landenteams",
+      "club": "Mexico",
+      "season": "1986",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/95019693/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/6f1565eb/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/95019693/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:19.995Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "75389601",
+      "uniqueKey": "minkang:75389601",
+      "title": "Mexico 1994 retro shirt home7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/75389601?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Mexico",
+      "competition": "WK & landenteams",
+      "club": "Mexico",
+      "season": "1994",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/75389601/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/aceb70ad/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/75389601/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:06:01.614Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "213001671",
       "uniqueKey": "minkang:213001671",
       "title": "Mexico 1995 Away Retro Jersey S-XXL7",
@@ -493323,6 +493387,37 @@
       "coverUrl": "./assets/products/minkang/213001671/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T00:55:24.757Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "96144208",
+      "uniqueKey": "minkang:96144208",
+      "title": "Retro Mexico 1995 home S-XXL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/96144208?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Mexico",
+      "competition": "WK & landenteams",
+      "club": "Mexico",
+      "season": "1995",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/96144208/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/baf3fa1a/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/96144208/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:19.986Z"
     },
     {
       "source": "minkang",
@@ -493448,6 +493543,68 @@
       "coverUrl": "./assets/products/minkang/237798517/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T00:45:36.514Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "81520775",
+      "uniqueKey": "minkang:81520775",
+      "title": "Retro 1998 Mexico away S-XXL9",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/81520775?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Mexico",
+      "competition": "WK & landenteams",
+      "club": "Mexico",
+      "season": "1998",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/81520775/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/2bf0707c/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/81520775/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:06:01.614Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "81520728",
+      "uniqueKey": "minkang:81520728",
+      "title": "Retro 1998 Mexico home S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/81520728?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Mexico",
+      "competition": "WK & landenteams",
+      "club": "Mexico",
+      "season": "1998",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/81520728/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/6b9ac6eb/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/81520728/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:06:01.614Z"
     },
     {
       "source": "minkang",
@@ -493883,37 +494040,6 @@
       "updatedAt": "2026-10-25T19:12:43.112Z"
     },
     {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "95019693",
-      "uniqueKey": "minkang:95019693",
-      "title": "Retro Mexico 1986 home S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/95019693?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Mexico",
-      "competition": "WK & landenteams",
-      "club": "Mexico",
-      "season": "2019/86",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/95019693/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/6f1565eb/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/95019693/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:26.581Z"
-    },
-    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237517417",
@@ -494005,37 +494131,6 @@
       "updatedAt": "2026-10-25T19:12:10.194Z"
     },
     {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "75389601",
-      "uniqueKey": "minkang:75389601",
-      "title": "Mexico 1994 retro shirt home7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/75389601?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Mexico",
-      "competition": "WK & landenteams",
-      "club": "Mexico",
-      "season": "2019/94",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/75389601/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/aceb70ad/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/75389601/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:54.454Z"
-    },
-    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237369135",
@@ -494123,37 +494218,6 @@
       "coverUrl": "./assets/products/yema007/237708144/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:12:10.194Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "96144208",
-      "uniqueKey": "minkang:96144208",
-      "title": "Retro Mexico 1995 home S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/96144208?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Mexico",
-      "competition": "WK & landenteams",
-      "club": "Mexico",
-      "season": "2019/95",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/96144208/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/baf3fa1a/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/96144208/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:26.581Z"
     },
     {
       "source": "yema007",
@@ -494391,68 +494455,6 @@
       "coverUrl": "./assets/products/yema007/237369388/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:12:32.198Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "81520775",
-      "uniqueKey": "minkang:81520775",
-      "title": "Retro 1998 Mexico away S-XXL9",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/81520775?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Mexico",
-      "competition": "WK & landenteams",
-      "club": "Mexico",
-      "season": "2019/98",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/81520775/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/2bf0707c/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/81520775/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:54.453Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "81520728",
-      "uniqueKey": "minkang:81520728",
-      "title": "Retro 1998 Mexico home S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/81520728?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Mexico",
-      "competition": "WK & landenteams",
-      "club": "Mexico",
-      "season": "2019/98",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/81520728/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/6b9ac6eb/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/81520728/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:54.454Z"
     },
     {
       "source": "yema007",
@@ -502112,6 +502114,68 @@
       "updatedAt": "2026-10-27T00:54:52.078Z"
     },
     {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "85483485",
+      "uniqueKey": "minkang:85483485",
+      "title": "Retro 1998 Morocco away S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/85483485?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Morocco",
+      "competition": "WK & landenteams",
+      "club": "Morocco",
+      "season": "1998",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/85483485/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/cc57b368/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/85483485/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:51.879Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "85483286",
+      "uniqueKey": "minkang:85483286",
+      "title": "Retro 1998 Morocco home S-XXL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/85483286?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Morocco",
+      "competition": "WK & landenteams",
+      "club": "Morocco",
+      "season": "1998",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/85483286/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/3ec3507c/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/85483286/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:51.881Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237544973",
@@ -502346,68 +502410,6 @@
       "coverUrl": "./assets/products/yema007/237371560/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:15:50.502Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "85483485",
-      "uniqueKey": "minkang:85483485",
-      "title": "Retro 1998 Morocco away S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/85483485?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Morocco",
-      "competition": "WK & landenteams",
-      "club": "Morocco",
-      "season": "2019/98",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/85483485/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/cc57b368/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/85483485/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:48.285Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "85483286",
-      "uniqueKey": "minkang:85483286",
-      "title": "Retro 1998 Morocco home S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/85483286?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Morocco",
-      "competition": "WK & landenteams",
-      "club": "Morocco",
-      "season": "2019/98",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/85483286/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/3ec3507c/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/85483286/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:48.285Z"
     },
     {
       "source": "yema007",
@@ -504112,6 +504114,37 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "93987370",
+      "uniqueKey": "minkang:93987370",
+      "title": "Retro Netherlands 2010 home S-XXL11",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/93987370?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Netherlands",
+      "competition": "WK & landenteams",
+      "club": "Netherlands",
+      "season": "2010",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/93987370/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/8d2502dd/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/93987370/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:36.701Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "247788046",
       "uniqueKey": "minkang:247788046",
       "title": "Netherlands 10/11 Retro Windbreaker White S-XXL8",
@@ -504168,6 +504201,37 @@
       "imageCount": 1,
       "updatedAt": "2026-10-24T00:25:05.140Z",
       "season": "2010/11"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "93987414",
+      "uniqueKey": "minkang:93987414",
+      "title": "Retro Netherlands 2012 away S-XXL11",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/93987414?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Netherlands",
+      "competition": "WK & landenteams",
+      "club": "Netherlands",
+      "season": "2012",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/93987414/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/16a86f28/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/93987414/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:36.701Z"
     },
     {
       "source": "minkang",
@@ -504773,6 +504837,35 @@
       "updatedAt": "2026-10-25T19:10:52.612Z"
     },
     {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "87680432",
+      "uniqueKey": "minkang:87680432",
+      "title": "2020 Netherlands away S-XXL10",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/87680432?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Netherlands",
+      "competition": "WK & landenteams",
+      "club": "Netherlands",
+      "season": "2020",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/87680432/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/9bbe55ee/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/87680432/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:36.701Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237486084",
@@ -504953,37 +505046,6 @@
       "coverUrl": "./assets/products/yema007/259880292/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T18:01:22.816Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "93987370",
-      "uniqueKey": "minkang:93987370",
-      "title": "Retro Netherlands 2010 home S-XXL11",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/93987370?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Netherlands",
-      "competition": "WK & landenteams",
-      "club": "Netherlands",
-      "season": "2020/10",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/93987370/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/8d2502dd/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/93987370/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:37.500Z"
     },
     {
       "source": "yema007",
@@ -505167,37 +505229,6 @@
       "updatedAt": "2026-10-25T19:10:29.950Z"
     },
     {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "93987414",
-      "uniqueKey": "minkang:93987414",
-      "title": "Retro Netherlands 2012 away S-XXL11",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/93987414?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Netherlands",
-      "competition": "WK & landenteams",
-      "club": "Netherlands",
-      "season": "2020/12",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/93987414/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/16a86f28/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/93987414/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:26.582Z"
-    },
-    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237542533",
@@ -505289,35 +505320,6 @@
       "coverUrl": "./assets/products/yema007/237542396/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:10:52.611Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "87680432",
-      "uniqueKey": "minkang:87680432",
-      "title": "2020 Netherlands away S-XXL10",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/87680432?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Netherlands",
-      "competition": "WK & landenteams",
-      "club": "Netherlands",
-      "season": "2020/20",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/87680432/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/9bbe55ee/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/87680432/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:37.500Z"
     },
     {
       "source": "yema007",
@@ -508440,6 +508442,37 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "88416633",
+      "uniqueKey": "minkang:88416633",
+      "title": "Retro Nigeria 1996 home S-XXL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/88416633?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Nigeria",
+      "competition": "WK & landenteams",
+      "club": "Nigeria",
+      "season": "1996",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/88416633/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/9791bbdc/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/88416633/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:36.701Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "111657666",
       "uniqueKey": "minkang:111657666",
       "title": "Retro 96/98 Nigeria away S-XXL7",
@@ -508498,6 +508531,37 @@
       "coverUrl": "./assets/products/minkang/186050980/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T00:59:33.461Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "93559783",
+      "uniqueKey": "minkang:93559783",
+      "title": "Retro Nigeria 1998 home S-XXL12",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/93559783?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Nigeria",
+      "competition": "WK & landenteams",
+      "club": "Nigeria",
+      "season": "1998",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/93559783/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/298e2d86/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/93559783/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:36.701Z"
     },
     {
       "source": "minkang",
@@ -508647,37 +508711,6 @@
       "updatedAt": "2026-10-25T19:16:24.041Z"
     },
     {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "88416633",
-      "uniqueKey": "minkang:88416633",
-      "title": "Retro Nigeria 1996 home S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/88416633?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Nigeria",
-      "competition": "WK & landenteams",
-      "club": "Nigeria",
-      "season": "2019/96",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/88416633/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/9791bbdc/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/88416633/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:37.500Z"
-    },
-    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237486308",
@@ -508767,37 +508800,6 @@
       "coverUrl": "./assets/products/yema007/237371797/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:16:24.041Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "93559783",
-      "uniqueKey": "minkang:93559783",
-      "title": "Retro Nigeria 1998 home S-XXL12",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/93559783?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Nigeria",
-      "competition": "WK & landenteams",
-      "club": "Nigeria",
-      "season": "2019/98",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/93559783/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/298e2d86/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/93559783/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:37.500Z"
     },
     {
       "source": "yema007",
@@ -511886,6 +511888,37 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "94446130",
+      "uniqueKey": "minkang:94446130",
+      "title": "Retro Portugal 2002 home S-XXL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/94446130?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Portugal",
+      "competition": "WK & landenteams",
+      "club": "Portugal",
+      "season": "2002",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/94446130/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/71352377/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/94446130/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:19.995Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "170574207",
       "uniqueKey": "minkang:170574207",
       "title": "kids Portugal 2004 Home size: 16-288",
@@ -512358,6 +512391,37 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "67702275",
+      "uniqueKey": "minkang:67702275",
+      "title": "Retro 2010 Portugal Home S-XXL10",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/67702275?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Portugal",
+      "competition": "WK & landenteams",
+      "club": "Portugal",
+      "season": "2010",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/67702275/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/96fe5198/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/67702275/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:06:01.614Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "192384446",
       "uniqueKey": "minkang:192384446",
       "title": "Retro Portugal 2010 Away S-XXL12",
@@ -512638,6 +512702,37 @@
       "coverUrl": "./assets/products/minkang/256509049/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T00:41:49.570Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "93345503",
+      "uniqueKey": "minkang:93345503",
+      "title": "Retro Portugal 2012 away S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/93345503?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Portugal",
+      "competition": "WK & landenteams",
+      "club": "Portugal",
+      "season": "2012",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/93345503/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/310d5e18/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/93345503/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:36.701Z"
     },
     {
       "source": "minkang",
@@ -513505,37 +513600,6 @@
       "updatedAt": "2026-10-25T19:10:08.316Z"
     },
     {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "94446130",
-      "uniqueKey": "minkang:94446130",
-      "title": "Retro Portugal 2002 home S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/94446130?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Portugal",
-      "competition": "WK & landenteams",
-      "club": "Portugal",
-      "season": "2020/02",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/94446130/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/71352377/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/94446130/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:26.581Z"
-    },
-    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237521210",
@@ -513906,37 +513970,6 @@
       "updatedAt": "2026-10-25T18:01:01.122Z"
     },
     {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "67702275",
-      "uniqueKey": "minkang:67702275",
-      "title": "Retro 2010 Portugal Home S-XXL10",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/67702275?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Portugal",
-      "competition": "WK & landenteams",
-      "club": "Portugal",
-      "season": "2020/10",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/67702275/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/96fe5198/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/minkang/67702275/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:54.454Z"
-    },
-    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237367964",
@@ -514215,37 +514248,6 @@
       "coverUrl": "./assets/products/popmo/243203025/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:47:46.940Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "93345503",
-      "uniqueKey": "minkang:93345503",
-      "title": "Retro Portugal 2012 away S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/93345503?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Portugal",
-      "competition": "WK & landenteams",
-      "club": "Portugal",
-      "season": "2020/12",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/93345503/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/310d5e18/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/93345503/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:37.500Z"
     },
     {
       "source": "yema007",
@@ -528439,6 +528441,37 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "75826076",
+      "uniqueKey": "minkang:75826076",
+      "title": "Retro retro shirt Spain 1994 home7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/75826076?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Spain",
+      "competition": "WK & landenteams",
+      "club": "Spain",
+      "season": "1994",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/75826076/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/a8fdb7b5/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/75826076/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:06:01.614Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "151321200",
       "uniqueKey": "minkang:151321200",
       "title": "Retro Spain 1994 Away S-XXL6",
@@ -528466,6 +528499,68 @@
       "coverUrl": "./assets/products/minkang/151321200/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T01:03:29.206Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "93987470",
+      "uniqueKey": "minkang:93987470",
+      "title": "Retro Spain 1996 away S-XXL5",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/93987470?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Spain",
+      "competition": "WK & landenteams",
+      "club": "Spain",
+      "season": "1996",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/93987470/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/dcd50aa9/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/93987470/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:36.701Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "93987522",
+      "uniqueKey": "minkang:93987522",
+      "title": "Retro Spain 1996 home S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/93987522?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Spain",
+      "competition": "WK & landenteams",
+      "club": "Spain",
+      "season": "1996",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/93987522/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/0836015f/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/93987522/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:19.995Z"
     },
     {
       "source": "minkang",
@@ -528653,6 +528748,37 @@
       "coverUrl": "./assets/products/minkang/184319690/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T00:59:33.461Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "94445874",
+      "uniqueKey": "minkang:94445874",
+      "title": "Retro Spain 2002 home S-XXL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/94445874?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Spain",
+      "competition": "WK & landenteams",
+      "club": "Spain",
+      "season": "2002",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/94445874/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/aa4c3fa4/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/94445874/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:19.995Z"
     },
     {
       "source": "minkang",
@@ -528868,6 +528994,69 @@
       "coverUrl": "./assets/products/minkang/199559581/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T00:58:28.242Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "93345416",
+      "uniqueKey": "minkang:93345416",
+      "title": "Retro long sleeve Spain 2010 away S-XXL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/93345416?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Spain",
+      "competition": "WK & landenteams",
+      "club": "Spain",
+      "season": "2010",
+      "types": [
+        "Retro",
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/minkang/93345416/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/b3c263d3/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/93345416/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:36.701Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "93345188",
+      "uniqueKey": "minkang:93345188",
+      "title": "Retro Spain 2010 away S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/93345188?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Spain",
+      "competition": "WK & landenteams",
+      "club": "Spain",
+      "season": "2010",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/93345188/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/705f336f/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/93345188/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:36.701Z"
     },
     {
       "source": "minkang",
@@ -529211,37 +529400,6 @@
       "updatedAt": "2026-10-25T19:07:12.918Z"
     },
     {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "75826076",
-      "uniqueKey": "minkang:75826076",
-      "title": "Retro retro shirt Spain 1994 home7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/75826076?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Spain",
-      "competition": "WK & landenteams",
-      "club": "Spain",
-      "season": "2019/94",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/75826076/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/a8fdb7b5/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/75826076/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:54.454Z"
-    },
-    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237803030",
@@ -529392,68 +529550,6 @@
       "coverUrl": "./assets/products/yema007/237366660/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:07:12.918Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "93987470",
-      "uniqueKey": "minkang:93987470",
-      "title": "Retro Spain 1996 away S-XXL5",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/93987470?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Spain",
-      "competition": "WK & landenteams",
-      "club": "Spain",
-      "season": "2019/96",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/93987470/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/dcd50aa9/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/93987470/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:26.582Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "93987522",
-      "uniqueKey": "minkang:93987522",
-      "title": "Retro Spain 1996 home S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/93987522?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Spain",
-      "competition": "WK & landenteams",
-      "club": "Spain",
-      "season": "2019/96",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/93987522/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/0836015f/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/93987522/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:26.582Z"
     },
     {
       "source": "yema007",
@@ -529667,37 +529763,6 @@
       "coverUrl": "./assets/products/yema007/237366584/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:07:12.919Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "94445874",
-      "uniqueKey": "minkang:94445874",
-      "title": "Retro Spain 2002 home S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/94445874?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Spain",
-      "competition": "WK & landenteams",
-      "club": "Spain",
-      "season": "2020/02",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/94445874/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/aa4c3fa4/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/94445874/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:26.581Z"
     },
     {
       "source": "yema007",
@@ -530033,69 +530098,6 @@
       "coverUrl": "./assets/products/yema007/237366354/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:07:12.919Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "93345416",
-      "uniqueKey": "minkang:93345416",
-      "title": "Retro long sleeve Spain 2010 away S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/93345416?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Spain",
-      "competition": "WK & landenteams",
-      "club": "Spain",
-      "season": "2020/10",
-      "types": [
-        "Retro",
-        "Lange mouw"
-      ],
-      "images": [
-        "./assets/products/minkang/93345416/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/b3c263d3/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/93345416/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:37.500Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "93345188",
-      "uniqueKey": "minkang:93345188",
-      "title": "Retro Spain 2010 away S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/93345188?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Spain",
-      "competition": "WK & landenteams",
-      "club": "Spain",
-      "season": "2020/10",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/93345188/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/705f336f/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/93345188/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:37.500Z"
     },
     {
       "source": "minkang",
@@ -534128,66 +534130,6 @@
       "updatedAt": "2026-10-25T19:06:39.910Z"
     },
     {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "246655760",
-      "uniqueKey": "minkang:246655760",
-      "title": "Spain 2026 Home 2-Star Champion Edition Player Version Long sleeves Jersey S-4XL4",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/246655760?uid=1&isSubCate=false&referrercate=5211803",
-      "categoryId": null,
-      "collectionId": "5211803",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Spain",
-      "competition": "WK & landenteams",
-      "club": "Spain",
-      "season": "2020/26",
-      "types": [
-        "Player version"
-      ],
-      "images": [
-        "./assets/products/minkang/246655760/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/953c0e6654/medium.png"
-      ],
-      "coverUrl": "./assets/products/minkang/246655760/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:54.454Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "216779487",
-      "uniqueKey": "minkang:216779487",
-      "title": "Spain 2026 Home Stadium Pre-sale 1.1 Quality S-4XL10",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/216779487?uid=1&isSubCate=false&referrercate=5211803",
-      "categoryId": null,
-      "collectionId": "5211803",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Spain",
-      "competition": "WK & landenteams",
-      "club": "Spain",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/216779487/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/6a3a71624f/medium.png"
-      ],
-      "coverUrl": "./assets/products/minkang/216779487/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:54.454Z"
-    },
-    {
       "source": "popmo",
       "sourcePriority": 3,
       "sourceId": "247512177",
@@ -536594,6 +536536,37 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "246655760",
+      "uniqueKey": "minkang:246655760",
+      "title": "Spain 2026 Home 2-Star Champion Edition Player Version Long sleeves Jersey S-4XL4",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/246655760?uid=1&isSubCate=false&referrercate=5211803",
+      "categoryId": null,
+      "collectionId": "5211803",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Spain",
+      "competition": "WK & landenteams",
+      "club": "Spain",
+      "season": "2026",
+      "types": [
+        "Player version"
+      ],
+      "images": [
+        "./assets/products/minkang/246655760/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/953c0e6654/medium.png"
+      ],
+      "coverUrl": "./assets/products/minkang/246655760/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:06:01.614Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "247099773",
       "uniqueKey": "minkang:247099773",
       "title": "Spain 2026 Home 2-Star Champion Edition Womens Crop Jersey S-XXL8",
@@ -536869,6 +536842,35 @@
       "coverUrl": "./assets/products/minkang/222811952/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T00:51:40.477Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "216779487",
+      "uniqueKey": "minkang:216779487",
+      "title": "Spain 2026 Home Stadium Pre-sale 1.1 Quality S-4XL10",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/216779487?uid=1&isSubCate=false&referrercate=5211803",
+      "categoryId": null,
+      "collectionId": "5211803",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Spain",
+      "competition": "WK & landenteams",
+      "club": "Spain",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/216779487/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/6a3a71624f/medium.png"
+      ],
+      "coverUrl": "./assets/products/minkang/216779487/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:06:01.614Z"
     },
     {
       "source": "minkang",
@@ -541146,6 +541148,37 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "83484216",
+      "uniqueKey": "minkang:83484216",
+      "title": "Retro 1994 United States away S-XXL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/83484216?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "United States",
+      "competition": "WK & landenteams",
+      "club": "United States",
+      "season": "1994",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/83484216/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/04d60c5a/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/83484216/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:05:51.890Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "212928868",
       "uniqueKey": "minkang:212928868",
       "title": "United States 2013 Home Retro Jersey S-XXL7",
@@ -541235,37 +541268,6 @@
       "coverUrl": "./assets/products/minkang/212825775/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T00:56:28.538Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "83484216",
-      "uniqueKey": "minkang:83484216",
-      "title": "Retro 1994 United States away S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/83484216?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "United States",
-      "competition": "WK & landenteams",
-      "club": "United States",
-      "season": "2019/94",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/83484216/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/04d60c5a/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/83484216/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:48.285Z"
     },
     {
       "source": "yema007",
@@ -671029,6 +671031,37 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "75825658",
+      "uniqueKey": "minkang:75825658",
+      "title": "Retro shirt german 1990 home7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/75825658?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "1990",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/75825658/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/afbf8ecf/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/75825658/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:06:01.614Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "255028191",
       "uniqueKey": "minkang:255028191",
       "title": "Santos 1990 Away Retro Jersey S-XXL2",
@@ -691861,37 +691894,6 @@
       "coverUrl": "./assets/products/minkang/212332982/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:07:54.383Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "75825658",
-      "uniqueKey": "minkang:75825658",
-      "title": "Retro shirt german 1990 home7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/75825658?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2019/90",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/75825658/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/afbf8ecf/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/75825658/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:47:54.454Z"
     },
     {
       "source": "minkang",
