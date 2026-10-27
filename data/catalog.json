@@ -1,26 +1,26 @@
 {
-  "lastSync": "2026-10-27T00:05:12.052Z",
+  "lastSync": "2026-10-27T00:10:03.859Z",
   "syncState": {
     "status": "in-progress",
-    "label": "minkang 2450/7466",
+    "label": "minkang 2900/7466",
     "batchSize": 25,
     "maxImages": 1
   },
   "syncProgress": {
     "currentSource": "minkang",
-    "nextIndex": 2450,
+    "nextIndex": 2900,
     "totalForSource": 7466,
     "completedSources": []
   },
   "stats": {
     "discovered": 7466,
-    "added": 40,
-    "changed": 341,
-    "unchanged": 2065,
+    "added": 63,
+    "changed": 363,
+    "unchanged": 2469,
     "repaired": 0,
-    "skipped": 4,
-    "duplicatesRemoved": 37,
-    "batchesSaved": 97
+    "skipped": 5,
+    "duplicatesRemoved": 60,
+    "batchesSaved": 115
   },
   "sources": [
     {
@@ -3423,6 +3423,35 @@
       "coverUrl": "./assets/products/minkang/194450095/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:19:24.719Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "150267088",
+      "uniqueKey": "minkang:150267088",
+      "title": "Retro Leicester City 1984 Away S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/150267088?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "1984",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/150267088/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/5f0d368a/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/150267088/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:07:56.645Z"
     },
     {
       "source": "minkang",
@@ -14559,35 +14588,6 @@
       "coverUrl": "./assets/products/minkang/209106948/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:30:38.723Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "150267088",
-      "uniqueKey": "minkang:150267088",
-      "title": "Retro Leicester City 1984 Away S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/150267088?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2019/84",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/150267088/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/5f0d368a/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/minkang/150267088/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:12:37.520Z"
     },
     {
       "source": "minkang",
@@ -154566,6 +154566,38 @@
       "updatedAt": "2026-10-25T17:11:28.578Z"
     },
     {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212483150",
+      "uniqueKey": "minkang:212483150",
+      "title": "Arsenal 2014 Anniversary Edition Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212483150?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Arsenal",
+      "season": "2014",
+      "types": [
+        "Retro",
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/minkang/212483150/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/0e8fafa4/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212483150/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:06:15.234Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237387690",
@@ -154874,38 +154906,6 @@
       "coverUrl": "./assets/products/yema007/237553285/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T18:13:06.431Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "212483150",
-      "uniqueKey": "minkang:212483150",
-      "title": "Arsenal 2014 Anniversary Edition Retro Jersey S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/212483150?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Arsenal",
-      "season": "2020/14",
-      "types": [
-        "Retro",
-        "Special edition"
-      ],
-      "images": [
-        "./assets/products/minkang/212483150/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/0e8fafa4/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/212483150/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:11:28.577Z"
     },
     {
       "source": "yema007",
@@ -393373,6 +393373,37 @@
       "updatedAt": "2026-10-25T17:12:03.989Z"
     },
     {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "213001531",
+      "uniqueKey": "minkang:213001531",
+      "title": "Tottenham Hotspur 1986 Home Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/213001531?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Tottenham",
+      "season": "1986",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/213001531/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/e21669dd/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/213001531/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:06:52.021Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237515364",
@@ -393611,6 +393642,37 @@
       "coverUrl": "./assets/products/minkang/96649282/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:12:03.989Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "88416654",
+      "uniqueKey": "minkang:88416654",
+      "title": "Retro Tottenham 1994 home S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/88416654?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Tottenham",
+      "season": "1994",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/88416654/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/6ba32ac7/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/88416654/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:07:09.058Z"
     },
     {
       "source": "yema007",
@@ -393951,6 +394013,37 @@
       "coverUrl": "./assets/products/minkang/213000880/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:12:03.989Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "88416662",
+      "uniqueKey": "minkang:88416662",
+      "title": "Retro Tottenham 1998 away S-XXL9",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/88416662?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Tottenham",
+      "season": "1998",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/88416662/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/de2942f6/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/88416662/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:07:09.058Z"
     },
     {
       "source": "yema007",
@@ -394346,99 +394439,6 @@
       "coverUrl": "./assets/products/minkang/222043309/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:11:52.459Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "213001531",
-      "uniqueKey": "minkang:213001531",
-      "title": "Tottenham Hotspur 1986 Home Retro Jersey S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/213001531?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Tottenham",
-      "season": "2019/86",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/213001531/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/e21669dd/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/213001531/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:11:52.460Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "88416654",
-      "uniqueKey": "minkang:88416654",
-      "title": "Retro Tottenham 1994 home S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/88416654?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Tottenham",
-      "season": "2019/94",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/88416654/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/6ba32ac7/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/88416654/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:12:03.988Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "88416662",
-      "uniqueKey": "minkang:88416662",
-      "title": "Retro Tottenham 1998 away S-XXL9",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/88416662?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Tottenham",
-      "season": "2019/98",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/88416662/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/de2942f6/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/88416662/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:12:03.989Z"
     },
     {
       "source": "yema007",
@@ -670995,6 +670995,68 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "245506113",
+      "uniqueKey": "minkang:245506113",
+      "title": "Sheffield Wednesday 1991 Home Retro Jersey S-4XL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/245506113?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "1991",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/245506113/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/8cd8997d3e/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/245506113/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:08:45.007Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "245506038",
+      "uniqueKey": "minkang:245506038",
+      "title": "Sunderland 1991 Home Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/245506038?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "1991",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/245506038/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/3178d09e8b/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/245506038/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:08:45.007Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "219522196",
       "uniqueKey": "minkang:219522196",
       "title": "AS Cannes 91/92 Home Long-Sleeve Retro Jersey S-XXL7",
@@ -671427,6 +671489,37 @@
       "coverUrl": "./assets/products/minkang/256232869/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:26:37.351Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212925197",
+      "uniqueKey": "minkang:212925197",
+      "title": "Southampton 1992 Away Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212925197?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "1992",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/212925197/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/b36ae5de/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212925197/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:09:00.968Z"
     },
     {
       "source": "minkang",
@@ -672359,6 +672452,99 @@
       "coverUrl": "./assets/products/minkang/255836015/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:33:47.379Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212485320",
+      "uniqueKey": "minkang:212485320",
+      "title": "1Sheffield Wednesday 1993 Away Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212485320?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "1993",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/212485320/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/bd299ecb/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212485320/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:08:45.007Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "238463842",
+      "uniqueKey": "minkang:238463842",
+      "title": "Southampton 1993 Away Retro Jersey S-4XL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/238463842?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "1993",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/238463842/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/66882522f2/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/238463842/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:09:00.968Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "238463907",
+      "uniqueKey": "minkang:238463907",
+      "title": "Southampton 1993 Home Retro Jersey S-4XL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/238463907?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "1993",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/238463907/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/694fa53b93/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/238463907/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:09:00.967Z"
     },
     {
       "source": "minkang",
@@ -676690,6 +676876,37 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "245506187",
+      "uniqueKey": "minkang:245506187",
+      "title": "Sheffield Wednesday 1997 Away Retro Jersey S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/245506187?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "1997",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/245506187/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/947fd1cae7/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/245506187/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:08:45.007Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "219399267",
       "uniqueKey": "minkang:219399267",
       "title": "Vasco da Gama 1997 Home Retro Jersey S-XXL7",
@@ -678090,6 +678307,37 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "245626176",
+      "uniqueKey": "minkang:245626176",
+      "title": "Aston Villa 1998 Home Stadium Retro Jersey  S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/245626176?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "1998",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/245626176/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/eea74d35b1/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/245626176/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:07:40.324Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "255027432",
       "uniqueKey": "minkang:255027432",
       "title": "Corinthians 1998 Away Retro Jersey S-XXL9",
@@ -678241,6 +678489,68 @@
       "coverUrl": "./assets/albums/255629584/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-26T23:47:22.583Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "245626184",
+      "uniqueKey": "minkang:245626184",
+      "title": "Sheffield Wednesday 1998 Away Retro Jersey S-4XL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/245626184?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "1998",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/245626184/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/08fbae9e10/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/245626184/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:08:45.006Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "245624437",
+      "uniqueKey": "minkang:245624437",
+      "title": "Sheffield Wednesday 1998 Home Retro Jersey S-XXL9",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/245624437?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "1998",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/245624437/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/ed0c08c378/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/245624437/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:08:45.007Z"
     },
     {
       "source": "minkang",
@@ -680054,6 +680364,68 @@
       "coverUrl": "./assets/products/minkang/212924969/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-26T23:51:35.056Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "245626107",
+      "uniqueKey": "minkang:245626107",
+      "title": "Sheffield Wednesday 1999 Away Retro Jersey S-4XL10",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/245626107?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "1999",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/245626107/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/d696467a5b/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/245626107/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:08:45.007Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212580328",
+      "uniqueKey": "minkang:212580328",
+      "title": "West Ham United 1999 Away (Iron Lady) Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212580328?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "1999",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/212580328/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/1bc9f66c/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212580328/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:07:24.351Z"
     },
     {
       "source": "minkang",
@@ -682382,6 +682754,68 @@
       "coverUrl": "./assets/products/minkang/212486740/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-26T23:57:33.606Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "245506130",
+      "uniqueKey": "minkang:245506130",
+      "title": "Sheffield Wednesday 2001 Away Retro Jersey S-4XL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/245506130?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2001",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/245506130/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/93bc57453c/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/245506130/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:08:45.007Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "245626136",
+      "uniqueKey": "minkang:245626136",
+      "title": "Sheffield Wednesday 2001 Home Game Retro Jersey S-4XL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/245626136?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2001",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/245626136/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/f45158c352/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/245626136/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:08:45.006Z"
     },
     {
       "source": "minkang",
@@ -686030,6 +686464,37 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "229873938",
+      "uniqueKey": "minkang:229873938",
+      "title": "Iron Maiden x West Ham United 2008 Retro Yellow Jersey S-XXL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/229873938?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2008",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/229873938/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/e622f99b/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/229873938/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:07:09.058Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "255028273",
       "uniqueKey": "minkang:255028273",
       "title": "Santos 2008 White special edition Retro Jersey S-XXL2",
@@ -686997,6 +687462,68 @@
       "coverUrl": "./assets/products/minkang/212194495/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-26T23:57:33.606Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "220898297",
+      "uniqueKey": "minkang:220898297",
+      "title": "Iron Maiden x West Ham United 2010 Away Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/220898297?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2010",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/220898297/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/c408e35f/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/220898297/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:07:09.058Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "220898518",
+      "uniqueKey": "minkang:220898518",
+      "title": "Iron Maiden x West Ham United 2010 Home Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/220898518?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2010",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/220898518/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/4cb9b2f1/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/220898518/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:07:09.058Z"
     },
     {
       "source": "minkang",
@@ -689906,68 +690433,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "245506113",
-      "uniqueKey": "minkang:245506113",
-      "title": "Sheffield Wednesday 1991 Home Retro Jersey S-4XL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/245506113?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2019/91",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/245506113/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/8cd8997d3e/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/245506113/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:13:11.429Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "245506038",
-      "uniqueKey": "minkang:245506038",
-      "title": "Sunderland 1991 Home Retro Jersey S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/245506038?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2019/91",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/245506038/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/3178d09e8b/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/245506038/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:13:11.429Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "246279226",
       "uniqueKey": "minkang:246279226",
       "title": "Köln 1992 Away Retro Jersey S-XXL6",
@@ -689995,130 +690460,6 @@
       "coverUrl": "./assets/products/minkang/246279226/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:30:49.736Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "212925197",
-      "uniqueKey": "minkang:212925197",
-      "title": "Southampton 1992 Away Retro Jersey S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/212925197?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2019/92",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/212925197/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/b36ae5de/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/212925197/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:13:22.442Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "212485320",
-      "uniqueKey": "minkang:212485320",
-      "title": "1Sheffield Wednesday 1993 Away Retro Jersey S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/212485320?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2019/93",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/212485320/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/bd299ecb/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/212485320/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:13:11.429Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "238463842",
-      "uniqueKey": "minkang:238463842",
-      "title": "Southampton 1993 Away Retro Jersey S-4XL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/238463842?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2019/93",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/238463842/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/66882522f2/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/238463842/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:13:22.442Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "238463907",
-      "uniqueKey": "minkang:238463907",
-      "title": "Southampton 1993 Home Retro Jersey S-4XL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/238463907?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2019/93",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/238463907/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/694fa53b93/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/238463907/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:13:22.441Z"
     },
     {
       "source": "minkang",
@@ -690590,68 +690931,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "245506187",
-      "uniqueKey": "minkang:245506187",
-      "title": "Sheffield Wednesday 1997 Away Retro Jersey S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/245506187?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2019/97",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/245506187/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/947fd1cae7/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/245506187/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:13:11.429Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "245626176",
-      "uniqueKey": "minkang:245626176",
-      "title": "Aston Villa 1998 Home Stadium Retro Jersey  S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/245626176?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2019/98",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/245626176/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/eea74d35b1/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/245626176/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:12:26.471Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "227759036",
       "uniqueKey": "minkang:227759036",
       "title": "Cruz Azul 1998 Away Long-Sleeve Retro Jersey S-XXL8",
@@ -690960,68 +691239,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "245626184",
-      "uniqueKey": "minkang:245626184",
-      "title": "Sheffield Wednesday 1998 Away Retro Jersey S-4XL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/245626184?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2019/98",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/245626184/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/08fbae9e10/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/245626184/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:13:11.428Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "245624437",
-      "uniqueKey": "minkang:245624437",
-      "title": "Sheffield Wednesday 1998 Home Retro Jersey S-XXL9",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/245624437?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2019/98",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/245624437/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/ed0c08c378/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/245624437/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:13:11.429Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "212243576",
       "uniqueKey": "minkang:212243576",
       "title": "South Africa 1998 Away Retro Jersey S-XXL8",
@@ -691206,68 +691423,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "245626107",
-      "uniqueKey": "minkang:245626107",
-      "title": "Sheffield Wednesday 1999 Away Retro Jersey S-4XL10",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/245626107?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2019/99",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/245626107/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/d696467a5b/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/245626107/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:13:11.428Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "212580328",
-      "uniqueKey": "minkang:212580328",
-      "title": "West Ham United 1999 Away (Iron Lady) Retro Jersey S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/212580328?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2019/99",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/212580328/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/1bc9f66c/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/212580328/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:12:15.121Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "212586225",
       "uniqueKey": "minkang:212586225",
       "title": "Venezuela 2000 Home Retro Jersey S-XXL7",
@@ -691326,68 +691481,6 @@
       "coverUrl": "./assets/products/minkang/217356751/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:28:59.971Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "245506130",
-      "uniqueKey": "minkang:245506130",
-      "title": "Sheffield Wednesday 2001 Away Retro Jersey S-4XL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/245506130?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2020/01",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/245506130/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/93bc57453c/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/245506130/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:13:11.429Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "245626136",
-      "uniqueKey": "minkang:245626136",
-      "title": "Sheffield Wednesday 2001 Home Game Retro Jersey S-4XL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/245626136?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2020/01",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/245626136/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/f45158c352/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/245626136/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:13:11.428Z"
     },
     {
       "source": "minkang",
@@ -691824,99 +691917,6 @@
       "coverUrl": "./assets/products/minkang/227576384/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:32:52.008Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "229873938",
-      "uniqueKey": "minkang:229873938",
-      "title": "Iron Maiden x West Ham United 2008 Retro Yellow Jersey S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/229873938?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2020/08",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/229873938/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/e622f99b/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/229873938/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:12:03.990Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "220898297",
-      "uniqueKey": "minkang:220898297",
-      "title": "Iron Maiden x West Ham United 2010 Away Retro Jersey S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/220898297?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2020/10",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/220898297/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/c408e35f/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/220898297/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:12:03.990Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "220898518",
-      "uniqueKey": "minkang:220898518",
-      "title": "Iron Maiden x West Ham United 2010 Home Retro Jersey S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/220898518?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2020/10",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/220898518/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/4cb9b2f1/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/220898518/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:12:03.990Z"
     },
     {
       "source": "minkang",
