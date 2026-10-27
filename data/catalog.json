@@ -1,26 +1,26 @@
 {
-  "lastSync": "2026-10-27T00:15:13.478Z",
+  "lastSync": "2026-10-27T00:19:59.914Z",
   "syncState": {
     "status": "in-progress",
-    "label": "minkang 3375/7466",
+    "label": "minkang 3800/7466",
     "batchSize": 25,
     "maxImages": 1
   },
   "syncProgress": {
     "currentSource": "minkang",
-    "nextIndex": 3375,
+    "nextIndex": 3800,
     "totalForSource": 7466,
     "completedSources": []
   },
   "stats": {
     "discovered": 7466,
-    "added": 73,
-    "changed": 411,
-    "unchanged": 2886,
+    "added": 83,
+    "changed": 425,
+    "unchanged": 3287,
     "repaired": 0,
     "skipped": 5,
-    "duplicatesRemoved": 70,
-    "batchesSaved": 134
+    "duplicatesRemoved": 80,
+    "batchesSaved": 151
   },
   "sources": [
     {
@@ -434,7 +434,6 @@
     "2019/79",
     "2019/78",
     "2019/77",
-    "2019/75",
     "2019/74",
     "2019/72",
     "2019/71",
@@ -618,6 +617,7 @@
     "1975/81",
     "1975/80",
     "1975/76",
+    "1975",
     "1974/75",
     "1973/75",
     "1973/74",
@@ -629,6 +629,7 @@
     "1957/62",
     "1921/21",
     "1914/14",
+    "1907",
     "1906/06",
     "1903/03"
   ],
@@ -4385,6 +4386,35 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "209106950",
+      "uniqueKey": "minkang:209106950",
+      "title": "Retro Lazio 1991 Away S-XXL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/209106950?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "1991",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/209106950/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/24eb48c8/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/209106950/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:18:00.251Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "209570956",
       "uniqueKey": "minkang:209570956",
       "title": "Retro long sleeve colo colo 1991 black S-XXL7",
@@ -7894,6 +7924,35 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "161463454",
+      "uniqueKey": "minkang:161463454",
+      "title": "kids Fiorentina 1998 home size: 16-288",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/161463454?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "1998",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/161463454/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/7d9c8981/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/161463454/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:17:44.089Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "221240531",
       "uniqueKey": "minkang:221240531",
       "title": "M-U 1998 Home Retro Shorts S-XXL6",
@@ -7981,6 +8040,35 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "81517243",
+      "uniqueKey": "minkang:81517243",
+      "title": "Retro 1998 Fiorentina away S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/81517243?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "1998",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/81517243/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/8609d32c/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/81517243/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:17:24.628Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "129837346",
       "uniqueKey": "minkang:129837346",
       "title": "Retro Bahia 1998 White S-XXL8",
@@ -8006,6 +8094,35 @@
       "coverUrl": "./assets/products/minkang/129837346/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-26T23:59:12.520Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "144906598",
+      "uniqueKey": "minkang:144906598",
+      "title": "Retro long sleeve Fiorentina 1998 home S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/144906598?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "1998",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/144906598/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/ad37b33c/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/144906598/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:17:44.089Z"
     },
     {
       "source": "minkang",
@@ -15376,35 +15493,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "209106950",
-      "uniqueKey": "minkang:209106950",
-      "title": "Retro Lazio 1991 Away S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/209106950?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2019/91",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/209106950/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/24eb48c8/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/minkang/209106950/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:19:35.596Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "111132330",
       "uniqueKey": "minkang:111132330",
       "title": "Retro 1992 Yugoslavia home S-XXL8",
@@ -15695,64 +15783,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "161463454",
-      "uniqueKey": "minkang:161463454",
-      "title": "kids Fiorentina 1998 home size: 16-288",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/161463454?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2019/98",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/161463454/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/7d9c8981/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/minkang/161463454/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:19:24.720Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "81517243",
-      "uniqueKey": "minkang:81517243",
-      "title": "Retro 1998 Fiorentina away S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/81517243?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2019/98",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/81517243/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/8609d32c/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/81517243/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:19:13.679Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "190515143",
       "uniqueKey": "minkang:190515143",
       "title": "Retro 1998 Holland Home Retro S-XXL8",
@@ -15836,35 +15866,6 @@
       "coverUrl": "./assets/products/minkang/195689934/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:43:32.691Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "144906598",
-      "uniqueKey": "minkang:144906598",
-      "title": "Retro long sleeve Fiorentina 1998 home S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/144906598?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2019/98",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/144906598/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/ad37b33c/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/144906598/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:19:24.720Z"
     },
     {
       "source": "minkang",
@@ -133936,6 +133937,37 @@
       "updatedAt": "2026-10-27T00:14:41.338Z"
     },
     {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "85652542",
+      "uniqueKey": "minkang:85652542",
+      "title": "Retro 2006 AC Milan third away S-XXL9",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/85652542?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "AC Milan",
+      "season": "2006",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/85652542/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/04ec9214/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/85652542/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:15:45.362Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237382361",
@@ -136295,37 +136327,6 @@
       "coverUrl": "./assets/products/minkang/146851913/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:17:54.158Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "85652542",
-      "uniqueKey": "minkang:85652542",
-      "title": "Retro 2006 AC Milan third away S-XXL9",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/85652542?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "AC Milan",
-      "season": "2020/06",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/85652542/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/04ec9214/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/85652542/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:18:05.406Z"
     },
     {
       "source": "minkang",
@@ -301801,6 +301802,37 @@
       "updatedAt": "2026-10-25T17:18:16.480Z"
     },
     {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "226668850",
+      "uniqueKey": "minkang:226668850",
+      "title": "Napoli 1989 Retro Windbreaker S-XXL9",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/226668850?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Napoli",
+      "season": "1989",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/226668850/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/81683967/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/226668850/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:16:17.199Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237383737",
@@ -302627,37 +302659,6 @@
       "coverUrl": "./assets/products/minkang/211959253/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:18:38.627Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "226668850",
-      "uniqueKey": "minkang:226668850",
-      "title": "Napoli 1989 Retro Windbreaker S-XXL9",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/226668850?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Napoli",
-      "season": "2019/89",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/226668850/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/81683967/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/226668850/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:18:27.485Z"
     },
     {
       "source": "yema007",
@@ -320375,6 +320376,37 @@
       "updatedAt": "2026-10-25T16:55:26.072Z"
     },
     {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "255630570",
+      "uniqueKey": "minkang:255630570",
+      "title": "PSG 1975 Away （11Number）Retro Jersey S-XXL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/255630570?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "PSG",
+      "season": "1975",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/255630570/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/572fb12938/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/255630570/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:18:50.237Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237672512",
@@ -322598,37 +322630,6 @@
       "updatedAt": "2026-10-25T18:46:41.545Z"
     },
     {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "255630570",
-      "uniqueKey": "minkang:255630570",
-      "title": "PSG 1975 Away （11Number）Retro Jersey S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/255630570?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "PSG",
-      "season": "2019/75",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/255630570/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/572fb12938/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/255630570/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:20:09.254Z"
-    },
-    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237380329",
@@ -323037,70 +323038,6 @@
       "updatedAt": "2026-10-25T17:20:53.897Z"
     },
     {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "252957932",
-      "uniqueKey": "minkang:252957932",
-      "title": "PSG X BALMAIN 2021 Retro Training Jersey Black S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/252957932?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "PSG",
-      "season": "2020/21",
-      "types": [
-        "Retro",
-        "Training"
-      ],
-      "images": [
-        "./assets/products/minkang/252957932/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/410acbff92/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/252957932/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:20:09.255Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "252957950",
-      "uniqueKey": "minkang:252957950",
-      "title": "PSG X BALMAIN 2021 Retro Training Jersey White S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/252957950?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "PSG",
-      "season": "2020/21",
-      "types": [
-        "Retro",
-        "Training"
-      ],
-      "images": [
-        "./assets/products/minkang/252957950/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/ea7ca6e2be/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/252957950/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:20:09.255Z"
-    },
-    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237538510",
@@ -323188,6 +323125,70 @@
       "coverUrl": "./assets/products/popmo/198236891/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T20:06:54.923Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "252957932",
+      "uniqueKey": "minkang:252957932",
+      "title": "PSG X BALMAIN 2021 Retro Training Jersey Black S-XXL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/252957932?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "PSG",
+      "season": "2021",
+      "types": [
+        "Retro",
+        "Training"
+      ],
+      "images": [
+        "./assets/products/minkang/252957932/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/410acbff92/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/252957932/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:19:06.514Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "252957950",
+      "uniqueKey": "minkang:252957950",
+      "title": "PSG X BALMAIN 2021 Retro Training Jersey White S-XXL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/252957950?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "PSG",
+      "season": "2021",
+      "types": [
+        "Retro",
+        "Training"
+      ],
+      "images": [
+        "./assets/products/minkang/252957950/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/ea7ca6e2be/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/252957950/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:18:50.237Z"
     },
     {
       "source": "yema007",
@@ -667730,6 +667731,35 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "255159613",
+      "uniqueKey": "minkang:255159613",
+      "title": "Como 1907 Fourth Away Jersey S-XXL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/255159613?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "1907",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/255159613/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/784c0ea082/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/255159613/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:18:50.237Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "257636263",
       "uniqueKey": "minkang:257636263",
       "title": "Atlético Mineiro 1971 Home Retro Jersey S-XXL2",
@@ -668224,37 +668254,6 @@
       "coverUrl": "./assets/products/minkang/257638154/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:14:07.291Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "213861738",
-      "uniqueKey": "minkang:213861738",
-      "title": "Fiorentina 7980 Home Retro Jersey S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/213861738?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "1979/80",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/213861738/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/a692b21d/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/213861738/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:19:24.720Z"
     },
     {
       "source": "minkang",
@@ -678589,6 +678588,37 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "213000021",
+      "uniqueKey": "minkang:213000021",
+      "title": "Fiorentina 1998 Home Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/213000021?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "1998",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/213000021/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/fc75a069/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/213000021/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:17:44.089Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "245626184",
       "uniqueKey": "minkang:245626184",
       "title": "Sheffield Wednesday 1998 Away Retro Jersey S-4XL8",
@@ -683934,6 +683964,70 @@
       "coverUrl": "./assets/products/minkang/219399293/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:12:15.122Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "213795675",
+      "uniqueKey": "minkang:213795675",
+      "title": "Brescia Calcio 2003 Away Long Sleeve Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/213795675?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2003",
+      "types": [
+        "Retro",
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/minkang/213795675/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/c0c3242b/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/213795675/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:18:33.553Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "213796046",
+      "uniqueKey": "minkang:213796046",
+      "title": "Brescia Calcio 2003 Home Long Sleeve Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/213796046?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2003",
+      "types": [
+        "Retro",
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/minkang/213796046/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/2aab6dab/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/213796046/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:18:33.553Z"
     },
     {
       "source": "minkang",
@@ -689939,35 +690033,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "255159613",
-      "uniqueKey": "minkang:255159613",
-      "title": "Como 1907 Fourth Away Jersey S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/255159613?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2019/07",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/255159613/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/784c0ea082/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/255159613/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:20:09.254Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "212826679",
       "uniqueKey": "minkang:212826679",
       "title": "M-U 19/20 Home Long Sleeve Retro Jersey S-XXL8",
@@ -691244,37 +691309,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "213000021",
-      "uniqueKey": "minkang:213000021",
-      "title": "Fiorentina 1998 Home Retro Jersey S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/213000021?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2019/98",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/213000021/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/fc75a069/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/213000021/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:19:24.720Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "212383747",
       "uniqueKey": "minkang:212383747",
       "title": "Jamaica 1998 Away Jersey S-XXL7",
@@ -691668,70 +691702,6 @@
       "coverUrl": "./assets/products/minkang/256508818/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:33:36.332Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "213795675",
-      "uniqueKey": "minkang:213795675",
-      "title": "Brescia Calcio 2003 Away Long Sleeve Retro Jersey S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/213795675?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2020/03",
-      "types": [
-        "Retro",
-        "Lange mouw"
-      ],
-      "images": [
-        "./assets/products/minkang/213795675/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/c0c3242b/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/213795675/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:19:57.915Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "213796046",
-      "uniqueKey": "minkang:213796046",
-      "title": "Brescia Calcio 2003 Home Long Sleeve Retro Jersey S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/213796046?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2020/03",
-      "types": [
-        "Retro",
-        "Lange mouw"
-      ],
-      "images": [
-        "./assets/products/minkang/213796046/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/2aab6dab/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/213796046/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:19:57.915Z"
     },
     {
       "source": "minkang",
@@ -740839,6 +740809,37 @@
       "coverUrl": "./assets/products/minkang/255800691/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:33:47.380Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "213861738",
+      "uniqueKey": "minkang:213861738",
+      "title": "Fiorentina 7980 Home Retro Jersey S-XXL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/213861738?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "Onbekend seizoen",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/213861738/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/a692b21d/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/213861738/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:17:44.089Z"
     },
     {
       "source": "minkang",
