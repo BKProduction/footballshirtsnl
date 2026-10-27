@@ -1,7 +1,8 @@
 {
-  "lastSync": "2026-10-27T10:07:40.740Z",
+  "lastSync": "2026-10-27T13:43:04.192Z",
   "status": "running",
-  "processedAlbums": 8223,
+  "currentSource": "minkang",
+  "processedAlbums": 550,
   "products": [
     {
       "source": "popmo",
@@ -789894,6 +789895,5 @@
       "updatedAt": "2026-10-25T18:05:12.601Z"
     }
   ],
-  "warnings": [],
-  "startedAt": "2026-10-27T13:28:10.183Z"
+  "warnings": []
 }
