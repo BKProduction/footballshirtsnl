@@ -1,14 +1,14 @@
 {
-  "lastSync": "2026-10-27T01:55:07.744Z",
+  "lastSync": "2026-10-27T02:00:15.224Z",
   "syncState": {
     "status": "in-progress",
-    "label": "yema007 2400/14191",
+    "label": "yema007 2825/14191",
     "batchSize": 25,
     "maxImages": 1
   },
   "syncProgress": {
     "currentSource": "yema007",
-    "nextIndex": 2400,
+    "nextIndex": 2825,
     "totalForSource": 14191,
     "completedSources": [
       "minkang"
@@ -17,12 +17,12 @@
   "stats": {
     "discovered": 21657,
     "added": 216,
-    "changed": 2016,
-    "unchanged": 7618,
+    "changed": 2038,
+    "unchanged": 8021,
     "repaired": 0,
     "skipped": 16,
     "duplicatesRemoved": 213,
-    "batchesSaved": 395
+    "batchesSaved": 412
   },
   "sources": [
     {
@@ -433,7 +433,6 @@
     "2019/82",
     "2019/81",
     "2019/80",
-    "2019/79",
     "2019/78",
     "2019/74",
     "2019/72",
@@ -550637,6 +550636,122 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237458108",
+      "uniqueKey": "yema007:237458108",
+      "title": "1980 Aston Villa away white2",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237458108?uid=1&isSubCate=true&referrercate=876803",
+      "categoryId": "876803",
+      "collectionId": "876803",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Aston Villa 阿斯顿维拉",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Aston Villa 阿斯顿维拉",
+      "country": "Overig",
+      "competition": "Aston Villa 阿斯顿维拉",
+      "club": "Overig",
+      "season": "1980",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237458108/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/91db92aa72/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237458108/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:56:46.464Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237458161",
+      "uniqueKey": "yema007:237458161",
+      "title": "1982 Aston Villa away white11",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237458161?uid=1&isSubCate=true&referrercate=876803",
+      "categoryId": "876803",
+      "collectionId": "876803",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Aston Villa 阿斯顿维拉",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Aston Villa 阿斯顿维拉",
+      "country": "Overig",
+      "competition": "Aston Villa 阿斯顿维拉",
+      "club": "Overig",
+      "season": "1982",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237458161/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/b3c5c1da80/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237458161/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:56:28.162Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237458268",
+      "uniqueKey": "yema007:237458268",
+      "title": "1988 Aston Villa away2",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237458268?uid=1&isSubCate=true&referrercate=876803",
+      "categoryId": "876803",
+      "collectionId": "876803",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Aston Villa 阿斯顿维拉",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Aston Villa 阿斯顿维拉",
+      "country": "Overig",
+      "competition": "Aston Villa 阿斯顿维拉",
+      "club": "Overig",
+      "season": "1988",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237458268/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/aa7ddab4ea/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237458268/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:56:28.162Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237458322",
+      "uniqueKey": "yema007:237458322",
+      "title": "1988 Aston Villa home2",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237458322?uid=1&isSubCate=true&referrercate=876803",
+      "categoryId": "876803",
+      "collectionId": "876803",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Aston Villa 阿斯顿维拉",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Aston Villa 阿斯顿维拉",
+      "country": "Overig",
+      "competition": "Aston Villa 阿斯顿维拉",
+      "club": "Overig",
+      "season": "1988",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237458322/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/85fcedcf63/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237458322/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:56:28.162Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237457949",
       "uniqueKey": "yema007:237457949",
       "title": "93-95 Aston Villa away8",
@@ -550784,122 +550899,6 @@
       "coverUrl": "./assets/products/yema007/237610315/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T18:18:23.304Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237458108",
-      "uniqueKey": "yema007:237458108",
-      "title": "1980 Aston Villa away white2",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237458108?uid=1&isSubCate=true&referrercate=876803",
-      "categoryId": "876803",
-      "collectionId": "876803",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Aston Villa 阿斯顿维拉",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Aston Villa 阿斯顿维拉",
-      "country": "Overig",
-      "competition": "Aston Villa 阿斯顿维拉",
-      "club": "Overig",
-      "season": "2019/80",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237458108/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/91db92aa72/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237458108/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:18:34.420Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237458161",
-      "uniqueKey": "yema007:237458161",
-      "title": "1982 Aston Villa away white11",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237458161?uid=1&isSubCate=true&referrercate=876803",
-      "categoryId": "876803",
-      "collectionId": "876803",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Aston Villa 阿斯顿维拉",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Aston Villa 阿斯顿维拉",
-      "country": "Overig",
-      "competition": "Aston Villa 阿斯顿维拉",
-      "club": "Overig",
-      "season": "2019/82",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237458161/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/b3c5c1da80/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237458161/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:18:23.305Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237458268",
-      "uniqueKey": "yema007:237458268",
-      "title": "1988 Aston Villa away2",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237458268?uid=1&isSubCate=true&referrercate=876803",
-      "categoryId": "876803",
-      "collectionId": "876803",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Aston Villa 阿斯顿维拉",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Aston Villa 阿斯顿维拉",
-      "country": "Overig",
-      "competition": "Aston Villa 阿斯顿维拉",
-      "club": "Overig",
-      "season": "2019/88",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237458268/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/aa7ddab4ea/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237458268/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:18:23.305Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237458322",
-      "uniqueKey": "yema007:237458322",
-      "title": "1988 Aston Villa home2",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237458322?uid=1&isSubCate=true&referrercate=876803",
-      "categoryId": "876803",
-      "collectionId": "876803",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Aston Villa 阿斯顿维拉",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Aston Villa 阿斯顿维拉",
-      "country": "Overig",
-      "competition": "Aston Villa 阿斯顿维拉",
-      "club": "Overig",
-      "season": "2019/88",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237458322/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/85fcedcf63/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237458322/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:18:23.305Z"
     },
     {
       "source": "yema007",
@@ -573220,64 +573219,6 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
-      "sourceId": "237357860",
-      "uniqueKey": "yema007:237357860",
-      "title": "2024 Tigres UANL Beige&Blue Trench Coat Reversible Windbreaker Double-Sides Jacket10",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237357860?uid=1&isSubCate=false&referrercate=5217438",
-      "categoryId": null,
-      "collectionId": "5217438",
-      "sourceCollection": "more",
-      "sourceCategory": "David jersey",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "David jersey",
-      "country": "Overig",
-      "competition": "David jersey",
-      "club": "Overig",
-      "season": "2020/24",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237357860/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/5b9173885c/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237357860/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:20:50.282Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237357771",
-      "uniqueKey": "yema007:237357771",
-      "title": "2024 Tigres UANL Orange&Yellow Trench Coat Reversible Windbreaker Double-Sides Jacket10",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237357771?uid=1&isSubCate=false&referrercate=5217438",
-      "categoryId": null,
-      "collectionId": "5217438",
-      "sourceCollection": "more",
-      "sourceCategory": "David jersey",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "David jersey",
-      "country": "Overig",
-      "competition": "David jersey",
-      "club": "Overig",
-      "season": "2020/24",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237357771/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/a8ad9092ea/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237357771/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:20:50.282Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
       "sourceId": "237357679",
       "uniqueKey": "yema007:237357679",
       "title": "2024 UEFA Euro Keychains David Jersey Supplier10",
@@ -587130,6 +587071,64 @@
       "coverUrl": "./assets/products/yema007/237351555/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T01:28:27.131Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237357860",
+      "uniqueKey": "yema007:237357860",
+      "title": "2024 Tigres UANL Beige&Blue Trench Coat Reversible Windbreaker Double-Sides Jacket10",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237357860?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Overig",
+      "season": "2024",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237357860/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/5b9173885c/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237357860/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:59:59.936Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237357771",
+      "uniqueKey": "yema007:237357771",
+      "title": "2024 Tigres UANL Orange&Yellow Trench Coat Reversible Windbreaker Double-Sides Jacket10",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237357771?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Overig",
+      "season": "2024",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237357771/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/a8ad9092ea/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237357771/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:59:59.936Z"
     },
     {
       "source": "yema007",
@@ -745073,6 +745072,64 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237459350",
+      "uniqueKey": "yema007:237459350",
+      "title": "1978 Leeds United home white 197813",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237459350?uid=1&isSubCate=true&referrercate=876806",
+      "categoryId": "876806",
+      "collectionId": "876806",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Leeds United 利茲联",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Leeds United 利茲联",
+      "country": "Overig",
+      "competition": "Leeds United 利茲联",
+      "club": "Overig",
+      "season": "1978",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237459350/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/3744e11c37/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237459350/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:57:35.285Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237459467",
+      "uniqueKey": "yema007:237459467",
+      "title": "1978 Leeds United white Jacket9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237459467?uid=1&isSubCate=true&referrercate=876806",
+      "categoryId": "876806",
+      "collectionId": "876806",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Leeds United 利茲联",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Leeds United 利茲联",
+      "country": "Overig",
+      "competition": "Leeds United 利茲联",
+      "club": "Overig",
+      "season": "1978",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237459467/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/460e573ee0/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237459467/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:57:35.285Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237458723",
       "uniqueKey": "yema007:237458723",
       "title": "89-91 Leeds United home2",
@@ -745363,6 +745420,151 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237459614",
+      "uniqueKey": "yema007:237459614",
+      "title": "1998 Leeds United away blueyellow10",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237459614?uid=1&isSubCate=true&referrercate=876806",
+      "categoryId": "876806",
+      "collectionId": "876806",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Leeds United 利茲联",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Leeds United 利茲联",
+      "country": "Overig",
+      "competition": "Leeds United 利茲联",
+      "club": "Overig",
+      "season": "1998",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237459614/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/2589af11b1/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237459614/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:57:35.285Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237459706",
+      "uniqueKey": "yema007:237459706",
+      "title": "1998 Leeds United home2",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237459706?uid=1&isSubCate=true&referrercate=876806",
+      "categoryId": "876806",
+      "collectionId": "876806",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Leeds United 利茲联",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Leeds United 利茲联",
+      "country": "Overig",
+      "competition": "Leeds United 利茲联",
+      "club": "Overig",
+      "season": "1998",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237459706/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/3ec28c9e5d/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237459706/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:57:35.285Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237459869",
+      "uniqueKey": "yema007:237459869",
+      "title": "1999 Leeds United home white2",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237459869?uid=1&isSubCate=true&referrercate=876806",
+      "categoryId": "876806",
+      "collectionId": "876806",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Leeds United 利茲联",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Leeds United 利茲联",
+      "country": "Overig",
+      "competition": "Leeds United 利茲联",
+      "club": "Overig",
+      "season": "1999",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237459869/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/5337ff9d79/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237459869/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:57:35.285Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237459786",
+      "uniqueKey": "yema007:237459786",
+      "title": "1999 Leeds United home2",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237459786?uid=1&isSubCate=true&referrercate=876806",
+      "categoryId": "876806",
+      "collectionId": "876806",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Leeds United 利茲联",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Leeds United 利茲联",
+      "country": "Overig",
+      "competition": "Leeds United 利茲联",
+      "club": "Overig",
+      "season": "1999",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237459786/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/153acece92/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237459786/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:57:35.285Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237459983",
+      "uniqueKey": "yema007:237459983",
+      "title": "1999 Leeds United third away8",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237459983?uid=1&isSubCate=true&referrercate=876806",
+      "categoryId": "876806",
+      "collectionId": "876806",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Leeds United 利茲联",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Leeds United 利茲联",
+      "country": "Overig",
+      "competition": "Leeds United 利茲联",
+      "club": "Overig",
+      "season": "1999",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237459983/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/55d3b157b5/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237459983/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:57:35.285Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237459267",
       "uniqueKey": "yema007:237459267",
       "title": "99-00 Leeds United home white2",
@@ -745388,6 +745590,35 @@
       "coverUrl": "./assets/products/yema007/237459267/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T18:19:08.081Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237460121",
+      "uniqueKey": "yema007:237460121",
+      "title": "2000 Leeds United away10",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237460121?uid=1&isSubCate=true&referrercate=876806",
+      "categoryId": "876806",
+      "collectionId": "876806",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Leeds United 利茲联",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Leeds United 利茲联",
+      "country": "Overig",
+      "competition": "Leeds United 利茲联",
+      "club": "Overig",
+      "season": "2000",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237460121/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/b58a43d632/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237460121/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:57:35.285Z"
     },
     {
       "source": "yema007",
@@ -745473,238 +745704,6 @@
         "https://photo.yupoo.com/yema007/895c37fe53/medium.jpg"
       ],
       "coverUrl": "./assets/products/yema007/237460482/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:19:08.080Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237459350",
-      "uniqueKey": "yema007:237459350",
-      "title": "1978 Leeds United home white 197813",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237459350?uid=1&isSubCate=true&referrercate=876806",
-      "categoryId": "876806",
-      "collectionId": "876806",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Leeds United 利茲联",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Leeds United 利茲联",
-      "country": "Overig",
-      "competition": "Leeds United 利茲联",
-      "club": "Overig",
-      "season": "2019/78",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237459350/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/3744e11c37/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237459350/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:19:08.081Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237459467",
-      "uniqueKey": "yema007:237459467",
-      "title": "1978 Leeds United white Jacket9",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237459467?uid=1&isSubCate=true&referrercate=876806",
-      "categoryId": "876806",
-      "collectionId": "876806",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Leeds United 利茲联",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Leeds United 利茲联",
-      "country": "Overig",
-      "competition": "Leeds United 利茲联",
-      "club": "Overig",
-      "season": "2019/78",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237459467/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/460e573ee0/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237459467/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:19:08.081Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237459614",
-      "uniqueKey": "yema007:237459614",
-      "title": "1998 Leeds United away blueyellow10",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237459614?uid=1&isSubCate=true&referrercate=876806",
-      "categoryId": "876806",
-      "collectionId": "876806",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Leeds United 利茲联",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Leeds United 利茲联",
-      "country": "Overig",
-      "competition": "Leeds United 利茲联",
-      "club": "Overig",
-      "season": "2019/98",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237459614/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/2589af11b1/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237459614/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:19:08.080Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237459706",
-      "uniqueKey": "yema007:237459706",
-      "title": "1998 Leeds United home2",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237459706?uid=1&isSubCate=true&referrercate=876806",
-      "categoryId": "876806",
-      "collectionId": "876806",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Leeds United 利茲联",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Leeds United 利茲联",
-      "country": "Overig",
-      "competition": "Leeds United 利茲联",
-      "club": "Overig",
-      "season": "2019/98",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237459706/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/3ec28c9e5d/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237459706/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:19:08.080Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237459869",
-      "uniqueKey": "yema007:237459869",
-      "title": "1999 Leeds United home white2",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237459869?uid=1&isSubCate=true&referrercate=876806",
-      "categoryId": "876806",
-      "collectionId": "876806",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Leeds United 利茲联",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Leeds United 利茲联",
-      "country": "Overig",
-      "competition": "Leeds United 利茲联",
-      "club": "Overig",
-      "season": "2019/99",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237459869/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/5337ff9d79/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237459869/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:19:08.080Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237459786",
-      "uniqueKey": "yema007:237459786",
-      "title": "1999 Leeds United home2",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237459786?uid=1&isSubCate=true&referrercate=876806",
-      "categoryId": "876806",
-      "collectionId": "876806",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Leeds United 利茲联",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Leeds United 利茲联",
-      "country": "Overig",
-      "competition": "Leeds United 利茲联",
-      "club": "Overig",
-      "season": "2019/99",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237459786/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/153acece92/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237459786/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:19:08.080Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237459983",
-      "uniqueKey": "yema007:237459983",
-      "title": "1999 Leeds United third away8",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237459983?uid=1&isSubCate=true&referrercate=876806",
-      "categoryId": "876806",
-      "collectionId": "876806",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Leeds United 利茲联",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Leeds United 利茲联",
-      "country": "Overig",
-      "competition": "Leeds United 利茲联",
-      "club": "Overig",
-      "season": "2019/99",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237459983/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/55d3b157b5/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237459983/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:19:08.080Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237460121",
-      "uniqueKey": "yema007:237460121",
-      "title": "2000 Leeds United away10",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237460121?uid=1&isSubCate=true&referrercate=876806",
-      "categoryId": "876806",
-      "collectionId": "876806",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Leeds United 利茲联",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Leeds United 利茲联",
-      "country": "Overig",
-      "competition": "Leeds United 利茲联",
-      "club": "Overig",
-      "season": "2020/00",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237460121/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/b58a43d632/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237460121/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T18:19:08.080Z"
     },
@@ -746121,6 +746120,37 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237496177",
+      "uniqueKey": "yema007:237496177",
+      "title": "1984 Retro Leicester City Away S-XXL Cheap Soccer Jerseys6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237496177?uid=1&isSubCate=true&referrercate=876808",
+      "categoryId": "876808",
+      "collectionId": "876808",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Leicester City 莱斯特城",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Leicester City 莱斯特城",
+      "country": "Overig",
+      "competition": "Leicester City 莱斯特城",
+      "club": "Overig",
+      "season": "1984",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237496177/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/6ed567be46/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237496177/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:58:06.651Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237495376",
       "uniqueKey": "yema007:237495376",
       "title": "92-94 Retro Leicester City Home S-XXL Cheap Soccer Jerseys6",
@@ -746328,37 +746358,6 @@
         "https://photo.yupoo.com/yema007/d73f79b4b7/medium.jpg"
       ],
       "coverUrl": "./assets/products/yema007/237460850/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:19:30.907Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237496177",
-      "uniqueKey": "yema007:237496177",
-      "title": "1984 Retro Leicester City Away S-XXL Cheap Soccer Jerseys6",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237496177?uid=1&isSubCate=true&referrercate=876808",
-      "categoryId": "876808",
-      "collectionId": "876808",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Leicester City 莱斯特城",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Leicester City 莱斯特城",
-      "country": "Overig",
-      "competition": "Leicester City 莱斯特城",
-      "club": "Overig",
-      "season": "2019/84",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/yema007/237496177/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/6ed567be46/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237496177/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T18:19:30.907Z"
     },
@@ -751398,6 +751397,35 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237461450",
+      "uniqueKey": "yema007:237461450",
+      "title": "1979 Nottingham forest home red12",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237461450?uid=1&isSubCate=true&referrercate=876807",
+      "categoryId": "876807",
+      "collectionId": "876807",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Nottingham Forest 诺丁汉森林",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Nottingham Forest 诺丁汉森林",
+      "country": "Overig",
+      "competition": "Nottingham Forest 诺丁汉森林",
+      "club": "Overig",
+      "season": "1979",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237461450/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/fadc423900/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237461450/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:57:51.143Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237793525",
       "uniqueKey": "yema007:237793525",
       "title": "82-24 Nottingham Forest Mens Home Retro Kit Vintage Soccer T-Shirt David Jersey Supply7",
@@ -751481,35 +751509,6 @@
         "https://photo.yupoo.com/yema007/3874125cbd/medium.jpg"
       ],
       "coverUrl": "./assets/products/yema007/237461232/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:19:19.275Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237461450",
-      "uniqueKey": "yema007:237461450",
-      "title": "1979 Nottingham forest home red12",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237461450?uid=1&isSubCate=true&referrercate=876807",
-      "categoryId": "876807",
-      "collectionId": "876807",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Nottingham Forest 诺丁汉森林",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Nottingham Forest 诺丁汉森林",
-      "country": "Overig",
-      "competition": "Nottingham Forest 诺丁汉森林",
-      "club": "Overig",
-      "season": "2019/79",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237461450/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/fadc423900/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237461450/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T18:19:19.275Z"
     },
@@ -783839,35 +783838,6 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
-      "sourceId": "237688311",
-      "uniqueKey": "yema007:237688311",
-      "title": "2025 Tigres Third Kit Soccer David Jersey S-2XL3",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237688311?uid=1&isSubCate=true&referrercate=876720",
-      "categoryId": "876720",
-      "collectionId": "876720",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Tigres UANL 老虎",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Tigres UANL 老虎",
-      "country": "Overig",
-      "competition": "Tigres UANL 老虎",
-      "club": "Overig",
-      "season": "2020/25",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237688311/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/ce4142123a/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/yema007/237688311/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:20:28.450Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
       "sourceId": "237507663",
       "uniqueKey": "yema007:237507663",
       "title": "23-24 Kids Tigres UANL Home Soccer Jerseys12",
@@ -785000,6 +784970,35 @@
       "coverUrl": "./assets/products/yema007/237683153/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T18:20:28.450Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237688311",
+      "uniqueKey": "yema007:237688311",
+      "title": "2025 Tigres Third Kit Soccer David Jersey S-2XL3",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237688311?uid=1&isSubCate=true&referrercate=876720",
+      "categoryId": "876720",
+      "collectionId": "876720",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Tigres UANL 老虎",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Tigres UANL 老虎",
+      "country": "Overig",
+      "competition": "Tigres UANL 老虎",
+      "club": "Overig",
+      "season": "2025",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237688311/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/ce4142123a/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/yema007/237688311/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:59:28.668Z"
     },
     {
       "source": "yema007",
@@ -789429,6 +789428,35 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237457509",
+      "uniqueKey": "yema007:237457509",
+      "title": "2008 West Ham Iron Maiden Yellow11",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237457509?uid=1&isSubCate=true&referrercate=876802",
+      "categoryId": "876802",
+      "collectionId": "876802",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "West ham 西汉姆",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "West ham 西汉姆",
+      "country": "Overig",
+      "competition": "West ham 西汉姆",
+      "club": "Overig",
+      "season": "2008",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237457509/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/0ea47e45c1/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237457509/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:55:24.350Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237520511",
       "uniqueKey": "yema007:237520511",
       "title": "08-09 West Ham Iron Maiden Retro Kit Vintage Shirt Sport David Jersey7",
@@ -789456,6 +789484,64 @@
       "coverUrl": "./assets/products/yema007/237520511/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T18:17:56.048Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237457613",
+      "uniqueKey": "yema007:237457613",
+      "title": "2010 West Ham Iron Maiden Away10",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237457613?uid=1&isSubCate=true&referrercate=876802",
+      "categoryId": "876802",
+      "collectionId": "876802",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "West ham 西汉姆",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "West ham 西汉姆",
+      "country": "Overig",
+      "competition": "West ham 西汉姆",
+      "club": "Overig",
+      "season": "2010",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237457613/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/5e615dc697/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237457613/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:55:24.350Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237457718",
+      "uniqueKey": "yema007:237457718",
+      "title": "2010 West Ham Iron Maiden Home10",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237457718?uid=1&isSubCate=true&referrercate=876802",
+      "categoryId": "876802",
+      "collectionId": "876802",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "West ham 西汉姆",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "West ham 西汉姆",
+      "country": "Overig",
+      "competition": "West ham 西汉姆",
+      "club": "Overig",
+      "season": "2010",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237457718/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/72f9df2a38/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237457718/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:55:24.350Z"
     },
     {
       "source": "yema007",
@@ -789522,6 +789608,35 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237457785",
+      "uniqueKey": "yema007:237457785",
+      "title": "2011 West Ham Iron Maiden Home10",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237457785?uid=1&isSubCate=true&referrercate=876802",
+      "categoryId": "876802",
+      "collectionId": "876802",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "West ham 西汉姆",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "West ham 西汉姆",
+      "country": "Overig",
+      "competition": "West ham 西汉姆",
+      "club": "Overig",
+      "season": "2011",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237457785/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/2deb9a0a49/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237457785/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:55:24.350Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237520160",
       "uniqueKey": "yema007:237520160",
       "title": "11-12 West Ham Iron Maiden Home Retro Kit Vintage Shirt Sport David Jersey7",
@@ -789549,122 +789664,6 @@
       "coverUrl": "./assets/products/yema007/237520160/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T18:17:56.048Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237457509",
-      "uniqueKey": "yema007:237457509",
-      "title": "2008 West Ham Iron Maiden Yellow11",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237457509?uid=1&isSubCate=true&referrercate=876802",
-      "categoryId": "876802",
-      "collectionId": "876802",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "West ham 西汉姆",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "West ham 西汉姆",
-      "country": "Overig",
-      "competition": "West ham 西汉姆",
-      "club": "Overig",
-      "season": "2020/08",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237457509/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/0ea47e45c1/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237457509/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:17:56.049Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237457613",
-      "uniqueKey": "yema007:237457613",
-      "title": "2010 West Ham Iron Maiden Away10",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237457613?uid=1&isSubCate=true&referrercate=876802",
-      "categoryId": "876802",
-      "collectionId": "876802",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "West ham 西汉姆",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "West ham 西汉姆",
-      "country": "Overig",
-      "competition": "West ham 西汉姆",
-      "club": "Overig",
-      "season": "2020/10",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237457613/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/5e615dc697/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237457613/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:17:56.049Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237457718",
-      "uniqueKey": "yema007:237457718",
-      "title": "2010 West Ham Iron Maiden Home10",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237457718?uid=1&isSubCate=true&referrercate=876802",
-      "categoryId": "876802",
-      "collectionId": "876802",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "West ham 西汉姆",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "West ham 西汉姆",
-      "country": "Overig",
-      "competition": "West ham 西汉姆",
-      "club": "Overig",
-      "season": "2020/10",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237457718/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/72f9df2a38/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237457718/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:17:56.049Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237457785",
-      "uniqueKey": "yema007:237457785",
-      "title": "2011 West Ham Iron Maiden Home10",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237457785?uid=1&isSubCate=true&referrercate=876802",
-      "categoryId": "876802",
-      "collectionId": "876802",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "West ham 西汉姆",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "West ham 西汉姆",
-      "country": "Overig",
-      "competition": "West ham 西汉姆",
-      "club": "Overig",
-      "season": "2020/11",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237457785/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/2deb9a0a49/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237457785/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:17:56.049Z"
     },
     {
       "source": "yema007",
@@ -790167,7 +790166,7 @@
       "country": "Overig",
       "competition": "Wolverhampton 狼队",
       "club": "Overig",
-      "season": "2020/10",
+      "season": "2010",
       "types": [],
       "images": [
         "./assets/products/yema007/237461164/01.webp"
@@ -790177,7 +790176,7 @@
       ],
       "coverUrl": "./assets/products/yema007/237461164/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T18:19:42.882Z"
+      "updatedAt": "2026-10-27T01:58:22.433Z"
     },
     {
       "source": "minkang",
