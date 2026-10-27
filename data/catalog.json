@@ -1,26 +1,26 @@
 {
-  "lastSync": "2026-10-27T00:10:03.859Z",
+  "lastSync": "2026-10-27T00:15:13.478Z",
   "syncState": {
     "status": "in-progress",
-    "label": "minkang 2900/7466",
+    "label": "minkang 3375/7466",
     "batchSize": 25,
     "maxImages": 1
   },
   "syncProgress": {
     "currentSource": "minkang",
-    "nextIndex": 2900,
+    "nextIndex": 3375,
     "totalForSource": 7466,
     "completedSources": []
   },
   "stats": {
     "discovered": 7466,
-    "added": 63,
-    "changed": 363,
-    "unchanged": 2469,
+    "added": 73,
+    "changed": 411,
+    "unchanged": 2886,
     "repaired": 0,
     "skipped": 5,
-    "duplicatesRemoved": 60,
-    "batchesSaved": 115
+    "duplicatesRemoved": 70,
+    "batchesSaved": 134
   },
   "sources": [
     {
@@ -250,7 +250,6 @@
     "2041/30",
     "2041/18",
     "2028/70",
-    "2028/11",
     "2027/28",
     "2026/42",
     "2026/41",
@@ -468,6 +467,7 @@
     "2012/13",
     "2012",
     "2011/12",
+    "2011",
     "2010/17",
     "2010/12",
     "2010/11",
@@ -497,6 +497,7 @@
     "2005",
     "2004/06",
     "2004/05",
+    "2004",
     "2003/05",
     "2003/04",
     "2003",
@@ -4297,6 +4298,64 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "107942590",
+      "uniqueKey": "minkang:107942590",
+      "title": "Retro 1991 colo colo away S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/107942590?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "1991",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/107942590/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/ada956f5/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/107942590/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:13:36.818Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "106322854",
+      "uniqueKey": "minkang:106322854",
+      "title": "Retro 1991 colo colo home S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/106322854?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "1991",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/106322854/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/590fda54/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/106322854/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:13:36.818Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "110373506",
       "uniqueKey": "minkang:110373506",
       "title": "Retro 1991 sao paulo away S-XXL7",
@@ -4322,6 +4381,35 @@
       "coverUrl": "./assets/products/minkang/110373506/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-26T23:55:14.848Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "209570956",
+      "uniqueKey": "minkang:209570956",
+      "title": "Retro long sleeve colo colo 1991 black S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/209570956?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "1991",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/209570956/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/766601af/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/209570956/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:13:36.818Z"
     },
     {
       "source": "minkang",
@@ -7864,6 +7952,35 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "112844339",
+      "uniqueKey": "minkang:112844339",
+      "title": "Retro 1998 Deportivo Universidad Católica Third away S-XXL9",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/112844339?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "1998",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/112844339/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/fe989bdd/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/112844339/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:13:04.754Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "129837346",
       "uniqueKey": "minkang:129837346",
       "title": "Retro Bahia 1998 White S-XXL8",
@@ -11112,6 +11229,64 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "187342590",
+      "uniqueKey": "minkang:187342590",
+      "title": "Retro colo colo 2003 away S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/187342590?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2003",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/187342590/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/bf63b581/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/187342590/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:13:20.792Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212486777",
+      "uniqueKey": "minkang:212486777",
+      "title": "Retro colo colo 2003 Home S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212486777?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2003",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/212486777/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/a622e375/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212486777/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:13:20.792Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "189879583",
       "uniqueKey": "minkang:189879583",
       "title": "Retro Paysandu 2003 Home S-4XL8",
@@ -11427,6 +11602,64 @@
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:27:53.193Z",
       "season": "2003/05"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "190504572",
+      "uniqueKey": "minkang:190504572",
+      "title": "Retro Colo Colo 2004 Away S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/190504572?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2004",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/190504572/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/b0ee6d69/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/190504572/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:13:36.818Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "190504750",
+      "uniqueKey": "minkang:190504750",
+      "title": "Retro Colo Colo 2004 Home S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/190504750?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2004",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/190504750/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/e2cb3dd6/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/190504750/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:13:36.818Z"
     },
     {
       "source": "minkang",
@@ -11775,6 +12008,93 @@
       "coverUrl": "./assets/products/minkang/181884537/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:25:09.244Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "215727710",
+      "uniqueKey": "minkang:215727710",
+      "title": "Retro 2006 colo colo away S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/215727710?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2006",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/215727710/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/23890309/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/215727710/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:13:20.792Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "159918784",
+      "uniqueKey": "minkang:159918784",
+      "title": "Retro long sleeve Colo Colo 2006 Away S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/159918784?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2006",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/159918784/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/dc2ed34f/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/159918784/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:13:20.792Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "151793640",
+      "uniqueKey": "minkang:151793640",
+      "title": "Retro Long Sleeve Colo Colo 2006 Home S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/151793640?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2006",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/151793640/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/3b1bffaa/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/151793640/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:13:36.818Z"
     },
     {
       "source": "minkang",
@@ -12910,6 +13230,35 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "107158750",
+      "uniqueKey": "minkang:107158750",
+      "title": "Retro colo colo 2011 home S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/107158750?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2011",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/107158750/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/5bd4f28c/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/107158750/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:13:36.818Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "155075830",
       "uniqueKey": "minkang:155075830",
       "title": "kids Santos 11/12 home size: 16-2810",
@@ -13660,6 +14009,64 @@
       "coverUrl": "./assets/products/minkang/183470720/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:26:37.350Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "209571030",
+      "uniqueKey": "minkang:209571030",
+      "title": "Retro Colo Colo 2013 Away S-XXL10",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/209571030?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2013",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/209571030/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/bf32e3be/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/209571030/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:13:36.818Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "209571013",
+      "uniqueKey": "minkang:209571013",
+      "title": "Retro Colo Colo 2013 Home S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/209571013?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2013",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/209571013/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/1b2656e1/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/209571013/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:13:36.818Z"
     },
     {
       "source": "minkang",
@@ -14969,64 +15376,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "107942590",
-      "uniqueKey": "minkang:107942590",
-      "title": "Retro 1991 colo colo away S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/107942590?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2019/91",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/107942590/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/ada956f5/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/107942590/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:16:34.335Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "106322854",
-      "uniqueKey": "minkang:106322854",
-      "title": "Retro 1991 colo colo home S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/106322854?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2019/91",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/106322854/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/590fda54/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/106322854/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:16:34.335Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "209106950",
       "uniqueKey": "minkang:209106950",
       "title": "Retro Lazio 1991 Away S-XXL6",
@@ -15052,35 +15401,6 @@
       "coverUrl": "./assets/products/minkang/209106950/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:19:35.596Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "209570956",
-      "uniqueKey": "minkang:209570956",
-      "title": "Retro long sleeve colo colo 1991 black S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/209570956?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2019/91",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/209570956/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/766601af/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/209570956/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:16:34.335Z"
     },
     {
       "source": "minkang",
@@ -15259,35 +15579,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "215728068",
-      "uniqueKey": "minkang:215728068",
-      "title": "Retro Long Sleeve Universidad de Chile1996 Home S-3XL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/215728068?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2019/96",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/215728068/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/41dce86f/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/215728068/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:16:12.668Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "166257315",
       "uniqueKey": "minkang:166257315",
       "title": "Retro Türkiye 1996 Away S-XXL7",
@@ -15429,35 +15720,6 @@
       "coverUrl": "./assets/products/minkang/161463454/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:19:24.720Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "112844339",
-      "uniqueKey": "minkang:112844339",
-      "title": "Retro 1998 Deportivo Universidad Católica Third away S-XXL9",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/112844339?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2019/98",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/112844339/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/fe989bdd/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/112844339/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:16:12.668Z"
     },
     {
       "source": "minkang",
@@ -15839,64 +16101,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "187342590",
-      "uniqueKey": "minkang:187342590",
-      "title": "Retro colo colo 2003 away S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/187342590?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/03",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/187342590/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/bf63b581/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/187342590/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:16:23.425Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "212486777",
-      "uniqueKey": "minkang:212486777",
-      "title": "Retro colo colo 2003 Home S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/212486777?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/03",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/212486777/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/a622e375/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/212486777/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:16:23.425Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "199191147",
       "uniqueKey": "minkang:199191147",
       "title": "Retro 2004 Zaragoza  Home S-XXL8",
@@ -15955,64 +16159,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "190504572",
-      "uniqueKey": "minkang:190504572",
-      "title": "Retro Colo Colo 2004 Away S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/190504572?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/04",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/190504572/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/b0ee6d69/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/minkang/190504572/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:16:34.335Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "190504750",
-      "uniqueKey": "minkang:190504750",
-      "title": "Retro Colo Colo 2004 Home S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/190504750?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/04",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/190504750/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/e2cb3dd6/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/minkang/190504750/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:16:34.335Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "213790218",
       "uniqueKey": "minkang:213790218",
       "title": "Retro Osasuna 2005 Red Home S-XXL8",
@@ -16038,93 +16184,6 @@
       "coverUrl": "./assets/products/minkang/213790218/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:26:15.157Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "215727710",
-      "uniqueKey": "minkang:215727710",
-      "title": "Retro 2006 colo colo away S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/215727710?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/06",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/215727710/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/23890309/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/215727710/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:16:23.425Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "159918784",
-      "uniqueKey": "minkang:159918784",
-      "title": "Retro long sleeve Colo Colo 2006 Away S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/159918784?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/06",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/159918784/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/dc2ed34f/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/159918784/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:16:23.425Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "151793640",
-      "uniqueKey": "minkang:151793640",
-      "title": "Retro Long Sleeve Colo Colo 2006 Home S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/151793640?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/06",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/151793640/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/3b1bffaa/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/151793640/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:16:34.335Z"
     },
     {
       "source": "minkang",
@@ -16241,93 +16300,6 @@
       "coverUrl": "./assets/products/minkang/107943594/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:47:15.195Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "107158750",
-      "uniqueKey": "minkang:107158750",
-      "title": "Retro colo colo 2011 home S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/107158750?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/11",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/107158750/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/5bd4f28c/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/107158750/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:16:34.335Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "209571030",
-      "uniqueKey": "minkang:209571030",
-      "title": "Retro Colo Colo 2013 Away S-XXL10",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/209571030?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/13",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/209571030/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/bf32e3be/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/minkang/209571030/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:16:34.335Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "209571013",
-      "uniqueKey": "minkang:209571013",
-      "title": "Retro Colo Colo 2013 Home S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/209571013?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/13",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/209571013/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/1b2656e1/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/209571013/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:16:34.335Z"
     },
     {
       "source": "minkang",
@@ -32079,35 +32051,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "215722998",
-      "uniqueKey": "minkang:215722998",
-      "title": "Sporting Lisbon Special Edition Kids Size: 16-2811",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/215722998?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2028/11",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/215722998/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/0ce87a1e/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/215722998/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:15:37.651Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "231422616",
       "uniqueKey": "minkang:231422616",
       "title": "(Chinese New Year) Tang-style jacket - beige S-XL8",
@@ -34080,6 +34023,35 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "215728068",
+      "uniqueKey": "minkang:215728068",
+      "title": "Retro Long Sleeve Universidad de Chile1996 Home S-3XL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/215728068?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "Onbekend seizoen",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/215728068/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/41dce86f/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/215728068/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:13:04.754Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "255033579",
       "uniqueKey": "minkang:255033579",
       "title": "Retro Malaga 120th Anniversary S-XXL2",
@@ -34453,6 +34425,35 @@
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:01:43.773Z",
       "season": "Onbekend seizoen"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "215722998",
+      "uniqueKey": "minkang:215722998",
+      "title": "Sporting Lisbon Special Edition Kids Size: 16-2811",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/215722998?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "Onbekend seizoen",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/215722998/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/0ce87a1e/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/215722998/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:12:11.488Z"
     },
     {
       "source": "minkang",
@@ -133873,6 +133874,68 @@
       "updatedAt": "2026-10-25T17:17:31.336Z"
     },
     {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "255159154",
+      "uniqueKey": "minkang:255159154",
+      "title": "AC Milan 2006 Third Long Sleeves Retro Jersey S-XXL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/255159154?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "AC Milan",
+      "season": "2006",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/255159154/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/c78a6441a9/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/255159154/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:14:41.338Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "255160494",
+      "uniqueKey": "minkang:255160494",
+      "title": "Retro 2006 AC Milan third away S-XXL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/255160494?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "AC Milan",
+      "season": "2006",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/255160494/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/317813ebcd/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/255160494/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:14:41.338Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237382361",
@@ -136236,68 +136299,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "255159154",
-      "uniqueKey": "minkang:255159154",
-      "title": "AC Milan 2006 Third Long Sleeves Retro Jersey S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/255159154?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "AC Milan",
-      "season": "2020/06",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/255159154/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/c78a6441a9/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/255159154/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:17:20.315Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "255160494",
-      "uniqueKey": "minkang:255160494",
-      "title": "Retro 2006 AC Milan third away S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/255160494?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "AC Milan",
-      "season": "2020/06",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/255160494/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/317813ebcd/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/255160494/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:17:20.315Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "85652542",
       "uniqueKey": "minkang:85652542",
       "title": "Retro 2006 AC Milan third away S-XXL9",
@@ -136416,35 +136417,6 @@
       "coverUrl": "./assets/products/minkang/222042741/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:17:31.337Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "247787389",
-      "uniqueKey": "minkang:247787389",
-      "title": "AC Milan 2026 KING Anthem All Weather Jacket Windbreaker S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/247787389?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "AC Milan",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/247787389/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/7a798ca847/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/247787389/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:17:20.316Z"
     },
     {
       "source": "yema007",
@@ -142334,6 +142306,35 @@
       "coverUrl": "./assets/products/minkang/234136693/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:17:31.337Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "247787389",
+      "uniqueKey": "minkang:247787389",
+      "title": "AC Milan 2026 KING Anthem All Weather Jacket Windbreaker S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/247787389?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "AC Milan",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/247787389/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/7a798ca847/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/247787389/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:14:41.338Z"
     },
     {
       "source": "yema007",
@@ -216683,6 +216684,68 @@
       "updatedAt": "2026-10-25T17:15:03.080Z"
     },
     {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "255632988",
+      "uniqueKey": "minkang:255632988",
+      "title": "Benfica 1990 Home Retro Jersey S-XXL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/255632988?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Benfica",
+      "season": "1990",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/255632988/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/5a5dd4de51/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/255632988/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:10:51.347Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "209106930",
+      "uniqueKey": "minkang:209106930",
+      "title": "Retro Benfica 1990 Home S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/209106930?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Benfica",
+      "season": "1990",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/209106930/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/3a17eb09/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/209106930/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:11:39.032Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237721688",
@@ -218076,68 +218139,6 @@
       "coverUrl": "./assets/products/yema007/237359678/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T18:52:58.612Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "255632988",
-      "uniqueKey": "minkang:255632988",
-      "title": "Benfica 1990 Home Retro Jersey S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/255632988?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Benfica",
-      "season": "2019/90",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/255632988/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/5a5dd4de51/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/255632988/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:14:40.795Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "209106930",
-      "uniqueKey": "minkang:209106930",
-      "title": "Retro Benfica 1990 Home S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/209106930?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Benfica",
-      "season": "2019/90",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/209106930/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/3a17eb09/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/minkang/209106930/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:15:14.585Z"
     },
     {
       "source": "popmo",
@@ -255431,6 +255432,37 @@
       "updatedAt": "2026-10-25T17:17:09.385Z"
     },
     {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "64404549",
+      "uniqueKey": "minkang:64404549",
+      "title": "1998 models long-sleeved retro Inter9",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/64404549?uid=1&isSubCate=true&referrercate=724783",
+      "categoryId": "724783",
+      "collectionId": "724783",
+      "sourceCollection": "KANG Team Official ✅",
+      "sourceCategory": "Inter Milan",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Inter Milan",
+      "season": "1998",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/64404549/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/f4a22ee5/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/64404549/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:14:24.854Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237383152",
@@ -256810,6 +256842,37 @@
       "updatedAt": "2026-10-25T17:16:57.809Z"
     },
     {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "255159798",
+      "uniqueKey": "minkang:255159798",
+      "title": "Inter Milan 2010 Home Long Sleeves Retro Jersey S-XXL9",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/255159798?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Inter Milan",
+      "season": "2010",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/255159798/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/fa3feb8769/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/255159798/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:13:36.818Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237383478",
@@ -257205,68 +257268,6 @@
       "coverUrl": "./assets/products/yema007/237488372/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T18:28:47.775Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "64404549",
-      "uniqueKey": "minkang:64404549",
-      "title": "1998 models long-sleeved retro Inter9",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/64404549?uid=1&isSubCate=true&referrercate=724783",
-      "categoryId": "724783",
-      "collectionId": "724783",
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "Inter Milan",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Inter Milan",
-      "season": "2019/98",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/64404549/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/f4a22ee5/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/64404549/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:17:09.386Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "255159798",
-      "uniqueKey": "minkang:255159798",
-      "title": "Inter Milan 2010 Home Long Sleeves Retro Jersey S-XXL9",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/255159798?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Inter Milan",
-      "season": "2020/10",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/255159798/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/fa3feb8769/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/255159798/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:16:34.335Z"
     },
     {
       "source": "yema007",
@@ -317798,35 +317799,6 @@
       "updatedAt": "2026-10-25T17:14:40.794Z"
     },
     {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "181684537",
-      "uniqueKey": "minkang:181684537",
-      "title": "2425 Porto Starry Sky Edition    size S-3XL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/181684537?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Porto",
-      "season": "2024/25",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/181684537/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/5db1a608/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/181684537/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:14:40.794Z"
-    },
-    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237628288",
@@ -320218,6 +320190,35 @@
       "coverUrl": "./assets/albums/256215768/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T16:56:23.352Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "181684537",
+      "uniqueKey": "minkang:181684537",
+      "title": "2425 Porto Starry Sky Edition    size S-3XL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/181684537?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Porto",
+      "season": "Onbekend seizoen",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/181684537/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/5db1a608/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/181684537/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:10:51.347Z"
     },
     {
       "source": "minkang",
@@ -434340,6 +434341,99 @@
       "season": "Onbekend seizoen"
     },
     {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "255628409",
+      "uniqueKey": "minkang:255628409",
+      "title": "Chile 1982 Home Retro Jersey S-XXL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/255628409?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Chile",
+      "competition": "WK & landenteams",
+      "club": "Chile",
+      "season": "1982",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/albums/255628409/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/d4ec982e24/medium.jpg"
+      ],
+      "coverUrl": "./assets/albums/255628409/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:12:48.494Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "190504964",
+      "uniqueKey": "minkang:190504964",
+      "title": "Retro University of Chile 1993 Home S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/190504964?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Chile",
+      "competition": "WK & landenteams",
+      "club": "Chile",
+      "season": "1993",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/190504964/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/6fa14ab8/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/190504964/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:13:04.754Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212485138",
+      "uniqueKey": "minkang:212485138",
+      "title": "Universidad de Chile 1993 Home Retro Jersey S-XXL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212485138?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Chile",
+      "competition": "WK & landenteams",
+      "club": "Chile",
+      "season": "1993",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/212485138/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/6af46a17/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212485138/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:12:48.494Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237375573",
@@ -434396,6 +434490,220 @@
       "imageCount": 1,
       "updatedAt": "2026-10-24T02:48:03.783Z",
       "season": "1994/95"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "215728051",
+      "uniqueKey": "minkang:215728051",
+      "title": "Universidad de Chile 1996 Away Jersey Long Sleeve S-3XL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/215728051?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Chile",
+      "competition": "WK & landenteams",
+      "club": "Chile",
+      "season": "1996",
+      "types": [
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/minkang/215728051/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/ba6f4144/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/215728051/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:13:04.754Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "215724149",
+      "uniqueKey": "minkang:215724149",
+      "title": "Universidad de Chile 1996 Home Jersey S-3XL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/215724149?uid=1&isSubCate=true&referrercate=724779",
+      "categoryId": "724779",
+      "collectionId": "724779",
+      "sourceCollection": "KANG Team Official ✅",
+      "sourceCategory": "Universidad de Chile",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Chile",
+      "competition": "WK & landenteams",
+      "club": "Chile",
+      "season": "1996",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/215724149/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/82c716da/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/215724149/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:13:04.754Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "255628460",
+      "uniqueKey": "minkang:255628460",
+      "title": "Chile 1998 Away Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/255628460?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Chile",
+      "competition": "WK & landenteams",
+      "club": "Chile",
+      "season": "1998",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/albums/255628460/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/58ad67b7af/medium.jpg"
+      ],
+      "coverUrl": "./assets/albums/255628460/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:12:48.494Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "215728112",
+      "uniqueKey": "minkang:215728112",
+      "title": "Retro 1998 Long Sleeve University of Chile home S-XX6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/215728112?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Chile",
+      "competition": "WK & landenteams",
+      "club": "Chile",
+      "season": "1998",
+      "types": [
+        "Retro",
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/minkang/215728112/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/28abb412/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/215728112/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:13:04.753Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "99885630",
+      "uniqueKey": "minkang:99885630",
+      "title": "Retro 1998 University of Chile home S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/99885630?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Chile",
+      "competition": "WK & landenteams",
+      "club": "Chile",
+      "season": "1998",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/99885630/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/9c391334/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/99885630/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:13:04.754Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "105553793",
+      "uniqueKey": "minkang:105553793",
+      "title": "Retro Universidad de Chile 1998 home S-XXL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/105553793?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Chile",
+      "competition": "WK & landenteams",
+      "club": "Chile",
+      "season": "1998",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/105553793/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/f3d57394/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/105553793/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:13:04.754Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "215723732",
+      "uniqueKey": "minkang:215723732",
+      "title": "Universidad de Chile 1998 Home Jersey S-3XL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/215723732?uid=1&isSubCate=true&referrercate=724779",
+      "categoryId": "724779",
+      "collectionId": "724779",
+      "sourceCollection": "KANG Team Official ✅",
+      "sourceCategory": "Universidad de Chile",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Chile",
+      "competition": "WK & landenteams",
+      "club": "Chile",
+      "season": "1998",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/215723732/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/157f7430/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/215723732/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:12:48.494Z"
     },
     {
       "source": "yema007",
@@ -434578,6 +434886,131 @@
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:41:55.776Z",
       "season": "2001/02"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "168820911",
+      "uniqueKey": "minkang:168820911",
+      "title": "Retro Universidad de Chile 2003 Away S-3XL9",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/168820911?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Chile",
+      "competition": "WK & landenteams",
+      "club": "Chile",
+      "season": "2003",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/168820911/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/9d4bfa86/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/168820911/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:13:04.754Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "168820876",
+      "uniqueKey": "minkang:168820876",
+      "title": "Retro University of Chile 2003 Home S-3XL9",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/168820876?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Chile",
+      "competition": "WK & landenteams",
+      "club": "Chile",
+      "season": "2003",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/168820876/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/7c810563/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/168820876/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:13:04.754Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "215728101",
+      "uniqueKey": "minkang:215728101",
+      "title": "Retro 2011 Long Sleeve Universidad de Chile home S-XXL共9",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/215728101?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Chile",
+      "competition": "WK & landenteams",
+      "club": "Chile",
+      "season": "2011",
+      "types": [
+        "Retro",
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/minkang/215728101/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/5dd98437/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/215728101/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:13:04.754Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "108853761",
+      "uniqueKey": "minkang:108853761",
+      "title": "Retro 2011 Universidad de Chile home S-XXL9",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/108853761?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Chile",
+      "competition": "WK & landenteams",
+      "club": "Chile",
+      "season": "2011",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/108853761/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/f271bce8/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/108853761/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:13:04.754Z"
     },
     {
       "source": "minkang",
@@ -434791,37 +435224,6 @@
       "updatedAt": "2026-10-25T19:13:16.403Z"
     },
     {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "255628409",
-      "uniqueKey": "minkang:255628409",
-      "title": "Chile 1982 Home Retro Jersey S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/255628409?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Chile",
-      "competition": "WK & landenteams",
-      "club": "Chile",
-      "season": "2019/82",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/albums/255628409/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/d4ec982e24/medium.jpg"
-      ],
-      "coverUrl": "./assets/albums/255628409/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:16:00.768Z"
-    },
-    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237603930",
@@ -434851,68 +435253,6 @@
       "coverUrl": "./assets/products/yema007/237603930/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T18:54:57.420Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "190504964",
-      "uniqueKey": "minkang:190504964",
-      "title": "Retro University of Chile 1993 Home S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/190504964?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Chile",
-      "competition": "WK & landenteams",
-      "club": "Chile",
-      "season": "2019/93",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/190504964/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/6fa14ab8/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/minkang/190504964/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:16:12.668Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "212485138",
-      "uniqueKey": "minkang:212485138",
-      "title": "Universidad de Chile 1993 Home Retro Jersey S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/212485138?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Chile",
-      "competition": "WK & landenteams",
-      "club": "Chile",
-      "season": "2019/93",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/212485138/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/6af46a17/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/212485138/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:16:00.768Z"
     },
     {
       "source": "yema007",
@@ -435093,66 +435433,6 @@
       "coverUrl": "./assets/products/yema007/237375645/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T18:55:08.186Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "215728051",
-      "uniqueKey": "minkang:215728051",
-      "title": "Universidad de Chile 1996 Away Jersey Long Sleeve S-3XL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/215728051?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Chile",
-      "competition": "WK & landenteams",
-      "club": "Chile",
-      "season": "2019/96",
-      "types": [
-        "Lange mouw"
-      ],
-      "images": [
-        "./assets/products/minkang/215728051/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/ba6f4144/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/215728051/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:16:12.667Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "215724149",
-      "uniqueKey": "minkang:215724149",
-      "title": "Universidad de Chile 1996 Home Jersey S-3XL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/215724149?uid=1&isSubCate=true&referrercate=724779",
-      "categoryId": "724779",
-      "collectionId": "724779",
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "Universidad de Chile",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Chile",
-      "competition": "WK & landenteams",
-      "club": "Chile",
-      "season": "2019/96",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/215724149/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/82c716da/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/215724149/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:16:12.667Z"
     },
     {
       "source": "yema007",
@@ -435360,37 +435640,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "255628460",
-      "uniqueKey": "minkang:255628460",
-      "title": "Chile 1998 Away Retro Jersey S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/255628460?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Chile",
-      "competition": "WK & landenteams",
-      "club": "Chile",
-      "season": "2019/98",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/albums/255628460/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/58ad67b7af/medium.jpg"
-      ],
-      "coverUrl": "./assets/albums/255628460/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:16:00.768Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "104636701",
       "uniqueKey": "minkang:104636701",
       "title": "Retro 1998 Chile home S-XXL7",
@@ -435418,69 +435667,6 @@
       "coverUrl": "./assets/products/minkang/104636701/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:47:15.195Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "215728112",
-      "uniqueKey": "minkang:215728112",
-      "title": "Retro 1998 Long Sleeve University of Chile home S-XX6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/215728112?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Chile",
-      "competition": "WK & landenteams",
-      "club": "Chile",
-      "season": "2019/98",
-      "types": [
-        "Retro",
-        "Lange mouw"
-      ],
-      "images": [
-        "./assets/products/minkang/215728112/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/28abb412/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/215728112/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:16:00.768Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "99885630",
-      "uniqueKey": "minkang:99885630",
-      "title": "Retro 1998 University of Chile home S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/99885630?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Chile",
-      "competition": "WK & landenteams",
-      "club": "Chile",
-      "season": "2019/98",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/99885630/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/9c391334/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/99885630/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:16:12.667Z"
     },
     {
       "source": "minkang",
@@ -435547,66 +435733,6 @@
       "updatedAt": "2026-10-25T17:46:53.083Z"
     },
     {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "105553793",
-      "uniqueKey": "minkang:105553793",
-      "title": "Retro Universidad de Chile 1998 home S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/105553793?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Chile",
-      "competition": "WK & landenteams",
-      "club": "Chile",
-      "season": "2019/98",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/105553793/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/f3d57394/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/105553793/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:16:12.667Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "215723732",
-      "uniqueKey": "minkang:215723732",
-      "title": "Universidad de Chile 1998 Home Jersey S-3XL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/215723732?uid=1&isSubCate=true&referrercate=724779",
-      "categoryId": "724779",
-      "collectionId": "724779",
-      "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "Universidad de Chile",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Chile",
-      "competition": "WK & landenteams",
-      "club": "Chile",
-      "season": "2019/98",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/215723732/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/157f7430/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/215723732/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:16:00.768Z"
-    },
-    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237516668",
@@ -435667,68 +435793,6 @@
       "coverUrl": "./assets/products/yema007/237516603/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T18:54:57.420Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "168820911",
-      "uniqueKey": "minkang:168820911",
-      "title": "Retro Universidad de Chile 2003 Away S-3XL9",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/168820911?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Chile",
-      "competition": "WK & landenteams",
-      "club": "Chile",
-      "season": "2020/03",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/168820911/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/9d4bfa86/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/168820911/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:16:12.667Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "168820876",
-      "uniqueKey": "minkang:168820876",
-      "title": "Retro University of Chile 2003 Home S-3XL9",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/168820876?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Chile",
-      "competition": "WK & landenteams",
-      "club": "Chile",
-      "season": "2020/03",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/168820876/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/7c810563/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/168820876/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:16:12.667Z"
     },
     {
       "source": "yema007",
@@ -435849,69 +435913,6 @@
       "coverUrl": "./assets/products/yema007/237375857/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T18:54:57.421Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "215728101",
-      "uniqueKey": "minkang:215728101",
-      "title": "Retro 2011 Long Sleeve Universidad de Chile home S-XXL共9",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/215728101?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Chile",
-      "competition": "WK & landenteams",
-      "club": "Chile",
-      "season": "2020/11",
-      "types": [
-        "Retro",
-        "Lange mouw"
-      ],
-      "images": [
-        "./assets/products/minkang/215728101/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/5dd98437/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/215728101/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:16:12.667Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "108853761",
-      "uniqueKey": "minkang:108853761",
-      "title": "Retro 2011 Universidad de Chile home S-XXL9",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/108853761?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Chile",
-      "competition": "WK & landenteams",
-      "club": "Chile",
-      "season": "2020/11",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/108853761/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/f271bce8/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/108853761/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:16:12.667Z"
     },
     {
       "source": "yema007",
@@ -563219,7 +563220,7 @@
       "country": "Overig",
       "competition": "Colo Colo",
       "club": "Overig",
-      "season": "2020/06",
+      "season": "2006",
       "types": [],
       "images": [
         "./assets/products/minkang/215727589/01.webp"
@@ -563229,7 +563230,7 @@
       ],
       "coverUrl": "./assets/products/minkang/215727589/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:16:34.335Z"
+      "updatedAt": "2026-10-27T00:13:36.818Z"
     },
     {
       "source": "minkang",
@@ -563248,7 +563249,7 @@
       "country": "Overig",
       "competition": "Colo Colo",
       "club": "Overig",
-      "season": "2020/11",
+      "season": "2011",
       "types": [],
       "images": [
         "./assets/products/minkang/215727376/01.webp"
@@ -563258,7 +563259,7 @@
       ],
       "coverUrl": "./assets/products/minkang/215727376/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:16:23.425Z"
+      "updatedAt": "2026-10-27T00:13:20.792Z"
     },
     {
       "source": "minkang",
@@ -670964,6 +670965,37 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "215727925",
+      "uniqueKey": "minkang:215727925",
+      "title": "Colo Colo 1991 Home Jersey Long Sleeve S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/215727925?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "1991",
+      "types": [
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/minkang/215727925/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/f1348280/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/215727925/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:13:36.818Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "212322826",
       "uniqueKey": "minkang:212322826",
       "title": "M-U 1991 Away Retro Jersey S-4XL6",
@@ -675907,6 +675939,70 @@
       "coverUrl": "./assets/albums/258582805/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-26T23:44:00.866Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "215727954",
+      "uniqueKey": "minkang:215727954",
+      "title": "Universidad Catolica 1996 Away Retro Jersey Long Sleeve S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/215727954?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "1996",
+      "types": [
+        "Retro",
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/minkang/215727954/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/47c3fe16/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/215727954/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:13:04.754Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "215728015",
+      "uniqueKey": "minkang:215728015",
+      "title": "Universidad Catolica 1996 Home Retro Jersey  Long Sleeve S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/215728015?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "1996",
+      "types": [
+        "Retro",
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/minkang/215728015/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/88354d42/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/215728015/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:13:04.754Z"
     },
     {
       "source": "minkang",
@@ -684776,6 +684872,68 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "212485563",
+      "uniqueKey": "minkang:212485563",
+      "title": "Colo Colo 2004 Away Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212485563?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2004",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/212485563/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/7340779b/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212485563/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:13:20.792Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212486148",
+      "uniqueKey": "minkang:212486148",
+      "title": "Colo Colo 2004 Home Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212486148?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2004",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/212486148/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/9f70fac2/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212486148/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:13:36.818Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "213791580",
       "uniqueKey": "minkang:213791580",
       "title": "Olympiacos 04/05 Away Retro Jersey S-XXL8",
@@ -684928,6 +685086,68 @@
       "coverUrl": "./assets/products/minkang/212589016/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:08:41.112Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212485481",
+      "uniqueKey": "minkang:212485481",
+      "title": "Colo Colo 2005 Away Retro Jersey S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212485481?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2005",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/212485481/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/4cb144f9/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212485481/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:13:20.792Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "212486319",
+      "uniqueKey": "minkang:212486319",
+      "title": "Colo Colo 2005 Home Retro Jersey S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212486319?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2005",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/212486319/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/beb28319/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212486319/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:13:36.818Z"
     },
     {
       "source": "minkang",
@@ -690402,37 +690622,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "215727925",
-      "uniqueKey": "minkang:215727925",
-      "title": "Colo Colo 1991 Home Jersey Long Sleeve S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/215727925?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2019/91",
-      "types": [
-        "Lange mouw"
-      ],
-      "images": [
-        "./assets/products/minkang/215727925/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/f1348280/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/215727925/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:16:34.335Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "246279226",
       "uniqueKey": "minkang:246279226",
       "title": "Köln 1992 Away Retro Jersey S-XXL6",
@@ -690801,70 +690990,6 @@
       "coverUrl": "./assets/products/minkang/223119947/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:38:56.804Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "215727954",
-      "uniqueKey": "minkang:215727954",
-      "title": "Universidad Catolica 1996 Away Retro Jersey Long Sleeve S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/215727954?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2019/96",
-      "types": [
-        "Retro",
-        "Lange mouw"
-      ],
-      "images": [
-        "./assets/products/minkang/215727954/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/47c3fe16/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/215727954/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:16:12.668Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "215728015",
-      "uniqueKey": "minkang:215728015",
-      "title": "Universidad Catolica 1996 Home Retro Jersey  Long Sleeve S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/215728015?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2019/96",
-      "types": [
-        "Retro",
-        "Lange mouw"
-      ],
-      "images": [
-        "./assets/products/minkang/215728015/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/88354d42/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/215728015/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:16:12.668Z"
     },
     {
       "source": "minkang",
@@ -691611,68 +691736,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "212485563",
-      "uniqueKey": "minkang:212485563",
-      "title": "Colo Colo 2004 Away Retro Jersey S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/212485563?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2020/04",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/212485563/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/7340779b/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/212485563/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:16:23.425Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "212486148",
-      "uniqueKey": "minkang:212486148",
-      "title": "Colo Colo 2004 Home Retro Jersey S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/212486148?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2020/04",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/212486148/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/9f70fac2/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/212486148/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:16:34.335Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "212244757",
       "uniqueKey": "minkang:212244757",
       "title": "Greece 2004 Away Retro Jersey S-XXL6",
@@ -691793,68 +691856,6 @@
       "coverUrl": "./assets/products/minkang/216224574/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:41:10.011Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "212485481",
-      "uniqueKey": "minkang:212485481",
-      "title": "Colo Colo 2005 Away Retro Jersey S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/212485481?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2020/05",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/212485481/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/4cb144f9/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/212485481/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:16:23.425Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "212486319",
-      "uniqueKey": "minkang:212486319",
-      "title": "Colo Colo 2005 Home Retro Jersey S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/212486319?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2020/05",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/212486319/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/beb28319/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/212486319/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:16:23.425Z"
     },
     {
       "source": "minkang",
@@ -719858,37 +719859,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "229204134",
-      "uniqueKey": "minkang:229204134",
-      "title": "Colo Colo 2627 Home Kids Kit Size 16-2811",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/229204134?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2026/27",
-      "types": [
-        "Kids"
-      ],
-      "images": [
-        "./assets/products/minkang/229204134/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/b4afa6f1/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/229204134/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:16:12.668Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "256427962",
       "uniqueKey": "minkang:256427962",
       "title": "Colo-Colo 26/27 EQT Black Retro Jersey S-4XL2",
@@ -740596,6 +740566,37 @@
       "coverUrl": "./assets/albums/258582393/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-26T23:47:22.582Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "229204134",
+      "uniqueKey": "minkang:229204134",
+      "title": "Colo Colo 2627 Home Kids Kit Size 16-2811",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/229204134?uid=1&isSubCate=false&referrercate=712891",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "Onbekend seizoen",
+      "types": [
+        "Kids"
+      ],
+      "images": [
+        "./assets/products/minkang/229204134/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/b4afa6f1/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/229204134/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:13:04.754Z"
     },
     {
       "source": "minkang",
