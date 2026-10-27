@@ -1,14 +1,14 @@
 {
-  "lastSync": "2026-10-27T01:40:01.141Z",
+  "lastSync": "2026-10-27T01:45:04.793Z",
   "syncState": {
     "status": "in-progress",
-    "label": "yema007 1175/14191",
+    "label": "yema007 1600/14191",
     "batchSize": 25,
     "maxImages": 1
   },
   "syncProgress": {
     "currentSource": "yema007",
-    "nextIndex": 1175,
+    "nextIndex": 1600,
     "totalForSource": 14191,
     "completedSources": [
       "minkang"
@@ -16,13 +16,13 @@
   },
   "stats": {
     "discovered": 21657,
-    "added": 212,
-    "changed": 2000,
-    "unchanged": 6414,
+    "added": 213,
+    "changed": 2009,
+    "unchanged": 6828,
     "repaired": 0,
-    "skipped": 15,
-    "duplicatesRemoved": 209,
-    "batchesSaved": 346
+    "skipped": 16,
+    "duplicatesRemoved": 210,
+    "batchesSaved": 363
   },
   "sources": [
     {
@@ -439,7 +439,6 @@
     "2019/72",
     "2019/71",
     "2019/70",
-    "2019/68",
     "2019/66",
     "2019/61",
     "2019/58",
@@ -630,6 +629,7 @@
     "1971",
     "1970",
     "1969/70",
+    "1968",
     "1965/66",
     "1958",
     "1957/62",
@@ -266405,6 +266405,64 @@
       "updatedAt": "2026-10-25T19:58:17.099Z"
     },
     {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237386939",
+      "uniqueKey": "yema007:237386939",
+      "title": "1968 Manchester City dark blue long sleeve8",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237386939?uid=1&isSubCate=true&referrercate=876797",
+      "categoryId": "876797",
+      "collectionId": "876797",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Manchester City 曼城",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Manchester City",
+      "season": "1968",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237386939/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/3a97d67ffb/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237386939/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:43:35.821Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237386958",
+      "uniqueKey": "yema007:237386958",
+      "title": "1972 Manchester City home7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237386958?uid=1&isSubCate=true&referrercate=876797",
+      "categoryId": "876797",
+      "collectionId": "876797",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Manchester City 曼城",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Manchester City",
+      "season": "1972",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237386958/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/1ddb360f69/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237386958/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:43:35.821Z"
+    },
+    {
       "source": "minkang",
       "sourcePriority": 1,
       "sourceId": "95620514",
@@ -266616,6 +266674,64 @@
       "coverUrl": "./assets/products/minkang/255035991/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:09:14.696Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237386979",
+      "uniqueKey": "yema007:237386979",
+      "title": "1991 Manchester City away red2",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237386979?uid=1&isSubCate=true&referrercate=876797",
+      "categoryId": "876797",
+      "collectionId": "876797",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Manchester City 曼城",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Manchester City",
+      "season": "1991",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237386979/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/af017c3d35/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237386979/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:43:35.821Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237386987",
+      "uniqueKey": "yema007:237386987",
+      "title": "1993 Manchester City away2",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237386987?uid=1&isSubCate=true&referrercate=876797",
+      "categoryId": "876797",
+      "collectionId": "876797",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Manchester City 曼城",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Manchester City",
+      "season": "1993",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237386987/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/e32aaf44de/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237386987/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:43:35.821Z"
     },
     {
       "source": "yema007",
@@ -267874,122 +267990,6 @@
       "updatedAt": "2026-10-25T17:09:36.768Z"
     },
     {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237386939",
-      "uniqueKey": "yema007:237386939",
-      "title": "1968 Manchester City dark blue long sleeve8",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237386939?uid=1&isSubCate=true&referrercate=876797",
-      "categoryId": "876797",
-      "collectionId": "876797",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Manchester City 曼城",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Manchester City",
-      "season": "2019/68",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237386939/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/3a97d67ffb/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237386939/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:10:54.034Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237386958",
-      "uniqueKey": "yema007:237386958",
-      "title": "1972 Manchester City home7",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237386958?uid=1&isSubCate=true&referrercate=876797",
-      "categoryId": "876797",
-      "collectionId": "876797",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Manchester City 曼城",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Manchester City",
-      "season": "2019/72",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237386958/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/1ddb360f69/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237386958/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:10:54.034Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237386979",
-      "uniqueKey": "yema007:237386979",
-      "title": "1991 Manchester City away red2",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237386979?uid=1&isSubCate=true&referrercate=876797",
-      "categoryId": "876797",
-      "collectionId": "876797",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Manchester City 曼城",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Manchester City",
-      "season": "2019/91",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237386979/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/af017c3d35/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237386979/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:10:54.034Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237386987",
-      "uniqueKey": "yema007:237386987",
-      "title": "1993 Manchester City away2",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237386987?uid=1&isSubCate=true&referrercate=876797",
-      "categoryId": "876797",
-      "collectionId": "876797",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Manchester City 曼城",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Manchester City",
-      "season": "2019/93",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237386987/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/e32aaf44de/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237386987/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:10:54.034Z"
-    },
-    {
       "source": "minkang",
       "sourcePriority": 1,
       "sourceId": "82783555",
@@ -268110,35 +268110,6 @@
       "coverUrl": "./assets/products/minkang/221920174/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:09:25.757Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237367770",
-      "uniqueKey": "yema007:237367770",
-      "title": "2024 Manchester City Trench Coat Reversible Windbreaker Jacket Soccer David Jersey7",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237367770?uid=1&isSubCate=false&referrercate=5217438",
-      "categoryId": null,
-      "collectionId": "5217438",
-      "sourceCollection": "more",
-      "sourceCategory": "David jersey",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Manchester City",
-      "season": "2020/24",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237367770/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/d32b0c27cc/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237367770/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:10:54.035Z"
     },
     {
       "source": "yema007",
@@ -271688,6 +271659,35 @@
       "coverUrl": "./assets/products/minkang/135833773/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:09:47.660Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237367770",
+      "uniqueKey": "yema007:237367770",
+      "title": "2024 Manchester City Trench Coat Reversible Windbreaker Jacket Soccer David Jersey7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237367770?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Manchester City",
+      "season": "2024",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237367770/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/d32b0c27cc/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237367770/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:43:35.821Z"
     },
     {
       "source": "yema007",
@@ -282653,122 +282653,6 @@
       "updatedAt": "2026-10-25T18:07:46.498Z"
     },
     {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237367731",
-      "uniqueKey": "yema007:237367731",
-      "title": "2024 Manchester United Blue&Beige Trench Coat Reversible Windbreaker Jacket Soccer David Jersey7",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237367731?uid=1&isSubCate=false&referrercate=5217438",
-      "categoryId": null,
-      "collectionId": "5217438",
-      "sourceCollection": "more",
-      "sourceCategory": "David jersey",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Manchester United",
-      "season": "2020/24",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237367731/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/ee8f6a1fc8/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237367731/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:08:52.976Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237358184",
-      "uniqueKey": "yema007:237358184",
-      "title": "2024 Manchester United Trench Coat Reversible Windbreaker Double-Sides Jacket8",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237358184?uid=1&isSubCate=false&referrercate=5217438",
-      "categoryId": null,
-      "collectionId": "5217438",
-      "sourceCollection": "more",
-      "sourceCategory": "David jersey",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Manchester United",
-      "season": "2020/24",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237358184/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/6268d418e4/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237358184/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:09:03.984Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237367693",
-      "uniqueKey": "yema007:237367693",
-      "title": "2024 Manchester United Trench Coat Reversible Windbreaker Jacket Soccer David Jersey9",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237367693?uid=1&isSubCate=false&referrercate=5217438",
-      "categoryId": null,
-      "collectionId": "5217438",
-      "sourceCollection": "more",
-      "sourceCategory": "David jersey",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Manchester United",
-      "season": "2020/24",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237367693/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/f5b2af338c/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237367693/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:08:52.976Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237236407",
-      "uniqueKey": "yema007:237236407",
-      "title": "2024 Manchester United White and Black Windbreaker Jacket Football Replicas2",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237236407?uid=1&isSubCate=false&referrercate=5217438",
-      "categoryId": null,
-      "collectionId": "5217438",
-      "sourceCollection": "more",
-      "sourceCategory": "David jersey",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Manchester United",
-      "season": "2020/24",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237236407/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/2752e14e39/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237236407/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:09:03.985Z"
-    },
-    {
       "source": "popmo",
       "sourcePriority": 3,
       "sourceId": "228269680",
@@ -285392,6 +285276,122 @@
       "coverUrl": "./assets/products/yema007/237546560/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T18:07:35.579Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237367731",
+      "uniqueKey": "yema007:237367731",
+      "title": "2024 Manchester United Blue&Beige Trench Coat Reversible Windbreaker Jacket Soccer David Jersey7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237367731?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Manchester United",
+      "season": "2024",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237367731/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/ee8f6a1fc8/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237367731/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:40:18.031Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237358184",
+      "uniqueKey": "yema007:237358184",
+      "title": "2024 Manchester United Trench Coat Reversible Windbreaker Double-Sides Jacket8",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237358184?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Manchester United",
+      "season": "2024",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237358184/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/6268d418e4/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237358184/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:40:35.213Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237367693",
+      "uniqueKey": "yema007:237367693",
+      "title": "2024 Manchester United Trench Coat Reversible Windbreaker Jacket Soccer David Jersey9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237367693?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Manchester United",
+      "season": "2024",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237367693/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/f5b2af338c/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237367693/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:40:18.031Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237236407",
+      "uniqueKey": "yema007:237236407",
+      "title": "2024 Manchester United White and Black Windbreaker Jacket Football Replicas2",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237236407?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Manchester United",
+      "season": "2024",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237236407/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/2752e14e39/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237236407/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T01:40:35.213Z"
     },
     {
       "source": "yema007",
