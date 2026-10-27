@@ -1,14 +1,14 @@
 {
-  "lastSync": "2026-10-27T02:45:12.453Z",
+  "lastSync": "2026-10-27T02:50:11.611Z",
   "syncState": {
     "status": "in-progress",
-    "label": "yema007 6850/14191",
+    "label": "yema007 7300/14191",
     "batchSize": 25,
     "maxImages": 1
   },
   "syncProgress": {
     "currentSource": "yema007",
-    "nextIndex": 6850,
+    "nextIndex": 7300,
     "totalForSource": 14191,
     "completedSources": [
       "minkang"
@@ -16,13 +16,13 @@
   },
   "stats": {
     "discovered": 21657,
-    "added": 246,
-    "changed": 2166,
-    "unchanged": 11886,
+    "added": 250,
+    "changed": 2173,
+    "unchanged": 12325,
     "repaired": 0,
     "skipped": 18,
-    "duplicatesRemoved": 243,
-    "batchesSaved": 573
+    "duplicatesRemoved": 247,
+    "batchesSaved": 591
   },
   "sources": [
     {
@@ -437,7 +437,6 @@
     "2019/72",
     "2019/70",
     "2019/66",
-    "2019/61",
     "2019/58",
     "2019/57",
     "2019/20",
@@ -629,6 +628,7 @@
     "1969/70",
     "1968",
     "1965/66",
+    "1961",
     "1958",
     "1957/62",
     "1956",
@@ -216858,6 +216858,68 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237359711",
+      "uniqueKey": "yema007:237359711",
+      "title": "1961 Benfica Away Retro Kit Vintage Shirt Football Jerseys7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237359711?uid=1&isSubCate=true&referrercate=876688",
+      "categoryId": "876688",
+      "collectionId": "876688",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Benfica 本菲卡",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Benfica",
+      "season": "1961",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237359711/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/125e4d887d/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237359711/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:48:09.409Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237359678",
+      "uniqueKey": "yema007:237359678",
+      "title": "1961 Benfica Home Retro Kit Vintage Shirt Football Jerseys7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237359678?uid=1&isSubCate=true&referrercate=876688",
+      "categoryId": "876688",
+      "collectionId": "876688",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Benfica 本菲卡",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Benfica",
+      "season": "1961",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237359678/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/6d3ffcae3e/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237359678/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:48:23.483Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237359740",
       "uniqueKey": "yema007:237359740",
       "title": "73-74 Benfica Home Retro Kit Vintage Shirt Football Jerseys8",
@@ -218311,68 +218373,6 @@
       "coverUrl": "./assets/products/minkang/102106732/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:15:03.080Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237359711",
-      "uniqueKey": "yema007:237359711",
-      "title": "1961 Benfica Away Retro Kit Vintage Shirt Football Jerseys7",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237359711?uid=1&isSubCate=true&referrercate=876688",
-      "categoryId": "876688",
-      "collectionId": "876688",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Benfica 本菲卡",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Benfica",
-      "season": "2019/61",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/yema007/237359711/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/125e4d887d/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237359711/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:52:47.700Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237359678",
-      "uniqueKey": "yema007:237359678",
-      "title": "1961 Benfica Home Retro Kit Vintage Shirt Football Jerseys7",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237359678?uid=1&isSubCate=true&referrercate=876688",
-      "categoryId": "876688",
-      "collectionId": "876688",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Benfica 本菲卡",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Benfica",
-      "season": "2019/61",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/yema007/237359678/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/6d3ffcae3e/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237359678/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:52:58.612Z"
     },
     {
       "source": "popmo",
@@ -294847,6 +294847,35 @@
       "updatedAt": "2026-10-25T18:09:14.943Z"
     },
     {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237615836",
+      "uniqueKey": "yema007:237615836",
+      "title": "1990 Marseille away9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237615836?uid=1&isSubCate=true&referrercate=876757",
+      "categoryId": "876757",
+      "collectionId": "876757",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Marseille 马赛",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Marseille",
+      "season": "1990",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237615836/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/aa14fe453e/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237615836/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:45:26.320Z"
+    },
+    {
       "source": "minkang",
       "sourcePriority": 1,
       "sourceId": "212241476",
@@ -295025,6 +295054,37 @@
       "coverUrl": "./assets/products/minkang/213000324/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:21:16.074Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237380984",
+      "uniqueKey": "yema007:237380984",
+      "title": "1993 Marseille 25th anniversary version10",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237380984?uid=1&isSubCate=true&referrercate=876757",
+      "categoryId": "876757",
+      "collectionId": "876757",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Marseille 马赛",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Marseille",
+      "season": "1993",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/yema007/237380984/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/cf14f911e7/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237380984/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:45:39.814Z"
     },
     {
       "source": "yema007",
@@ -295507,66 +295567,6 @@
       "coverUrl": "./assets/products/minkang/212823818/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:21:16.074Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237615836",
-      "uniqueKey": "yema007:237615836",
-      "title": "1990 Marseille away9",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237615836?uid=1&isSubCate=true&referrercate=876757",
-      "categoryId": "876757",
-      "collectionId": "876757",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Marseille 马赛",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Marseille",
-      "season": "2019/90",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237615836/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/aa14fe453e/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237615836/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:50:55.264Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237380984",
-      "uniqueKey": "yema007:237380984",
-      "title": "1993 Marseille 25th anniversary version10",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237380984?uid=1&isSubCate=true&referrercate=876757",
-      "categoryId": "876757",
-      "collectionId": "876757",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Marseille 马赛",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Marseille",
-      "season": "2019/93",
-      "types": [
-        "Special edition"
-      ],
-      "images": [
-        "./assets/products/yema007/237380984/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/cf14f911e7/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237380984/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:51:06.200Z"
     },
     {
       "source": "popmo",
@@ -316910,6 +316910,37 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237802935",
+      "uniqueKey": "yema007:237802935",
+      "title": "2014 Porto Home Mens Retro Kit Vintage Soccer T-Shirt David Jersey Supplier10",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237802935?uid=1&isSubCate=true&referrercate=876689",
+      "categoryId": "876689",
+      "collectionId": "876689",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Porto 波尔图",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Porto",
+      "season": "2014",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237802935/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/2d86b81fbd/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237802935/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:48:23.483Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237721180",
       "uniqueKey": "yema007:237721180",
       "title": "14-15 Porto Home Retro Kit Vintage Football Shirt David Jersey Supply9",
@@ -317061,37 +317092,6 @@
       "coverUrl": "./assets/products/minkang/199544123/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:14:40.782Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237802935",
-      "uniqueKey": "yema007:237802935",
-      "title": "2014 Porto Home Mens Retro Kit Vintage Soccer T-Shirt David Jersey Supplier10",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237802935?uid=1&isSubCate=true&referrercate=876689",
-      "categoryId": "876689",
-      "collectionId": "876689",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Porto 波尔图",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Porto",
-      "season": "2020/14",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/yema007/237802935/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/2d86b81fbd/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237802935/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:52:58.612Z"
     },
     {
       "source": "yema007",
@@ -550371,6 +550371,35 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237381237",
+      "uniqueKey": "yema007:237381237",
+      "title": "1998 AS Monaco home2",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237381237?uid=1&isSubCate=true&referrercate=876765",
+      "categoryId": "876765",
+      "collectionId": "876765",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "AS Monaco 摩纳哥",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "AS Monaco 摩纳哥",
+      "country": "Overig",
+      "competition": "AS Monaco 摩纳哥",
+      "club": "Overig",
+      "season": "1998",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237381237/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/8769d12849/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237381237/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:46:49.851Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237381212",
       "uniqueKey": "yema007:237381212",
       "title": "99-00 Monaco home8",
@@ -550423,35 +550452,6 @@
         "https://photo.yupoo.com/yema007/596f868601/medium.jpg"
       ],
       "coverUrl": "./assets/products/yema007/237381256/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:52:03.256Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237381237",
-      "uniqueKey": "yema007:237381237",
-      "title": "1998 AS Monaco home2",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237381237?uid=1&isSubCate=true&referrercate=876765",
-      "categoryId": "876765",
-      "collectionId": "876765",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "AS Monaco 摩纳哥",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "AS Monaco 摩纳哥",
-      "country": "Overig",
-      "competition": "AS Monaco 摩纳哥",
-      "club": "Overig",
-      "season": "2019/98",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237381237/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/8769d12849/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237381237/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T18:52:03.256Z"
     },
@@ -572583,37 +572583,6 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
-      "sourceId": "237376012",
-      "uniqueKey": "yema007:237376012",
-      "title": "2024 Monaco Home Kit Player Version Shirt Football David Jersey4",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237376012?uid=1&isSubCate=false&referrercate=5217438",
-      "categoryId": null,
-      "collectionId": "5217438",
-      "sourceCollection": "more",
-      "sourceCategory": "David jersey",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "David jersey",
-      "country": "Overig",
-      "competition": "David jersey",
-      "club": "Overig",
-      "season": "2020/24",
-      "types": [
-        "Player version"
-      ],
-      "images": [
-        "./assets/products/yema007/237376012/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/2af8db8cec/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237376012/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:52:03.256Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
       "sourceId": "237232232",
       "uniqueKey": "yema007:237232232",
       "title": "2024 Netherland Home Kit Jersey Supplier9",
@@ -586949,6 +586918,37 @@
       "coverUrl": "./assets/products/yema007/237368095/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T02:29:33.103Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237376012",
+      "uniqueKey": "yema007:237376012",
+      "title": "2024 Monaco Home Kit Player Version Shirt Football David Jersey4",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237376012?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Overig",
+      "season": "2024",
+      "types": [
+        "Player version"
+      ],
+      "images": [
+        "./assets/products/yema007/237376012/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/2af8db8cec/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237376012/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:46:49.851Z"
     },
     {
       "source": "yema007",
