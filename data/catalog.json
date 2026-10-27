@@ -1,14 +1,14 @@
 {
-  "lastSync": "2026-10-27T02:00:15.224Z",
+  "lastSync": "2026-10-27T02:05:18.024Z",
   "syncState": {
     "status": "in-progress",
-    "label": "yema007 2825/14191",
+    "label": "yema007 3300/14191",
     "batchSize": 25,
     "maxImages": 1
   },
   "syncProgress": {
     "currentSource": "yema007",
-    "nextIndex": 2825,
+    "nextIndex": 3300,
     "totalForSource": 14191,
     "completedSources": [
       "minkang"
@@ -16,13 +16,13 @@
   },
   "stats": {
     "discovered": 21657,
-    "added": 216,
-    "changed": 2038,
-    "unchanged": 8021,
+    "added": 218,
+    "changed": 2050,
+    "unchanged": 8482,
     "repaired": 0,
     "skipped": 16,
-    "duplicatesRemoved": 213,
-    "batchesSaved": 412
+    "duplicatesRemoved": 215,
+    "batchesSaved": 431
   },
   "sources": [
     {
@@ -620,6 +620,7 @@
     "1975/76",
     "1975",
     "1974/75",
+    "1974",
     "1973/75",
     "1973/74",
     "1972/79",
@@ -548826,64 +548827,6 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
-      "sourceId": "237626182",
-      "uniqueKey": "yema007:237626182",
-      "title": "2023 Club de Futbol America Away Campeon Corona Kit Cheap Soccer Jersey5",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237626182?uid=1&isSubCate=true&referrercate=876721",
-      "categoryId": "876721",
-      "collectionId": "876721",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "America 美洲",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "America 美洲",
-      "country": "Overig",
-      "competition": "America 美洲",
-      "club": "Overig",
-      "season": "2020/23",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237626182/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/99ac95767f/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237626182/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:21:12.503Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237625953",
-      "uniqueKey": "yema007:237625953",
-      "title": "2023 Club de Futbol America Home Campeon Corona Kit Cheap Soccer Jersey4",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237625953?uid=1&isSubCate=true&referrercate=876721",
-      "categoryId": "876721",
-      "collectionId": "876721",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "America 美洲",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "America 美洲",
-      "country": "Overig",
-      "competition": "America 美洲",
-      "club": "Overig",
-      "season": "2020/23",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237625953/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/0de5645130/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237625953/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:21:12.503Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
       "sourceId": "237620748",
       "uniqueKey": "yema007:237620748",
       "title": "22-23 America away10",
@@ -549056,6 +548999,64 @@
       "coverUrl": "./assets/products/yema007/237622335/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T18:21:12.503Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237626182",
+      "uniqueKey": "yema007:237626182",
+      "title": "2023 Club de Futbol America Away Campeon Corona Kit Cheap Soccer Jersey5",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237626182?uid=1&isSubCate=true&referrercate=876721",
+      "categoryId": "876721",
+      "collectionId": "876721",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "America 美洲",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "America 美洲",
+      "country": "Overig",
+      "competition": "America 美洲",
+      "club": "Overig",
+      "season": "2023",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237626182/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/99ac95767f/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237626182/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:00:30.026Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237625953",
+      "uniqueKey": "yema007:237625953",
+      "title": "2023 Club de Futbol America Home Campeon Corona Kit Cheap Soccer Jersey4",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237625953?uid=1&isSubCate=true&referrercate=876721",
+      "categoryId": "876721",
+      "collectionId": "876721",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "America 美洲",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "America 美洲",
+      "country": "Overig",
+      "competition": "America 美洲",
+      "club": "Overig",
+      "season": "2023",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237625953/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/0de5645130/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237625953/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:00:30.026Z"
     },
     {
       "source": "yema007",
@@ -559938,6 +559939,35 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237372730",
+      "uniqueKey": "yema007:237372730",
+      "title": "1980 Celtic home greenwhite2",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237372730?uid=1&isSubCate=true&referrercate=876666",
+      "categoryId": "876666",
+      "collectionId": "876666",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Celtic 凯尔特人",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Celtic 凯尔特人",
+      "country": "Overig",
+      "competition": "Celtic 凯尔特人",
+      "club": "Overig",
+      "season": "1980",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237372730/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/f5ce88a1dd/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237372730/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:05:02.046Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237373367",
       "uniqueKey": "yema007:237373367",
       "title": "80-81 Celtic home8",
@@ -560557,6 +560587,35 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237372698",
+      "uniqueKey": "yema007:237372698",
+      "title": "1998 Celtics away black7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237372698?uid=1&isSubCate=true&referrercate=876666",
+      "categoryId": "876666",
+      "collectionId": "876666",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Celtic 凯尔特人",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Celtic 凯尔特人",
+      "country": "Overig",
+      "competition": "Celtic 凯尔特人",
+      "club": "Overig",
+      "season": "1998",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237372698/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/e92b3406a7/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237372698/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:05:02.046Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237372783",
       "uniqueKey": "yema007:237372783",
       "title": "98-99 Celtic home8",
@@ -560909,64 +560968,6 @@
       "coverUrl": "./assets/products/yema007/237538639/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T18:24:10.335Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237372730",
-      "uniqueKey": "yema007:237372730",
-      "title": "1980 Celtic home greenwhite2",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237372730?uid=1&isSubCate=true&referrercate=876666",
-      "categoryId": "876666",
-      "collectionId": "876666",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Celtic 凯尔特人",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Celtic 凯尔特人",
-      "country": "Overig",
-      "competition": "Celtic 凯尔特人",
-      "club": "Overig",
-      "season": "2019/80",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237372730/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/f5ce88a1dd/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237372730/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:24:21.456Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237372698",
-      "uniqueKey": "yema007:237372698",
-      "title": "1998 Celtics away black7",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237372698?uid=1&isSubCate=true&referrercate=876666",
-      "categoryId": "876666",
-      "collectionId": "876666",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Celtic 凯尔特人",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Celtic 凯尔特人",
-      "country": "Overig",
-      "competition": "Celtic 凯尔特人",
-      "club": "Overig",
-      "season": "2019/98",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237372698/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/e92b3406a7/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237372698/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:24:21.456Z"
     },
     {
       "source": "yema007",
@@ -567859,6 +567860,192 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237503610",
+      "uniqueKey": "yema007:237503610",
+      "title": "1974 Cruz Azul Home Retro Kit Soccer Jerseys2",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237503610?uid=1&isSubCate=true&referrercate=876723",
+      "categoryId": "876723",
+      "collectionId": "876723",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Cruz Azul蓝十字",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Cruz Azul蓝十字",
+      "country": "Overig",
+      "competition": "Cruz Azul蓝十字",
+      "club": "Overig",
+      "season": "1974",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237503610/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/4641fb8e5f/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237503610/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:02:36.717Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237503701",
+      "uniqueKey": "yema007:237503701",
+      "title": "1996 Cruz Azul Away White Retro Kit Vintage Shirt Soccer Jerseys2",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237503701?uid=1&isSubCate=true&referrercate=876723",
+      "categoryId": "876723",
+      "collectionId": "876723",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Cruz Azul蓝十字",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Cruz Azul蓝十字",
+      "country": "Overig",
+      "competition": "Cruz Azul蓝十字",
+      "club": "Overig",
+      "season": "1996",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237503701/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/a3a09f101e/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237503701/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:02:36.717Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237503769",
+      "uniqueKey": "yema007:237503769",
+      "title": "1996 Cruz Azul Home Blue Retro Kit Vintage Shirt Soccer Jerseys2",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237503769?uid=1&isSubCate=true&referrercate=876723",
+      "categoryId": "876723",
+      "collectionId": "876723",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Cruz Azul蓝十字",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Cruz Azul蓝十字",
+      "country": "Overig",
+      "competition": "Cruz Azul蓝十字",
+      "club": "Overig",
+      "season": "1996",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237503769/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/23ee375a18/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237503769/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:02:36.717Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237503849",
+      "uniqueKey": "yema007:237503849",
+      "title": "1996 Cruz Azul Third Red Retro Kit Vintage Shirt Soccer Jerseys2",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237503849?uid=1&isSubCate=true&referrercate=876723",
+      "categoryId": "876723",
+      "collectionId": "876723",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Cruz Azul蓝十字",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Cruz Azul蓝十字",
+      "country": "Overig",
+      "competition": "Cruz Azul蓝十字",
+      "club": "Overig",
+      "season": "1996",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237503849/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/85d462c928/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237503849/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:02:36.717Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237503919",
+      "uniqueKey": "yema007:237503919",
+      "title": "1997 Cruz Azul Away Retro Kit Soccer Jerseys2",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237503919?uid=1&isSubCate=true&referrercate=876723",
+      "categoryId": "876723",
+      "collectionId": "876723",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Cruz Azul蓝十字",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Cruz Azul蓝十字",
+      "country": "Overig",
+      "competition": "Cruz Azul蓝十字",
+      "club": "Overig",
+      "season": "1997",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237503919/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/4816605d8e/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237503919/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:02:36.717Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237503995",
+      "uniqueKey": "yema007:237503995",
+      "title": "2008 Cruz Azul Home Retro Kit Vintage Shirt Soccer Jerseys2",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237503995?uid=1&isSubCate=true&referrercate=876723",
+      "categoryId": "876723",
+      "collectionId": "876723",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Cruz Azul蓝十字",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "Cruz Azul蓝十字",
+      "country": "Overig",
+      "competition": "Cruz Azul蓝十字",
+      "club": "Overig",
+      "season": "2008",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237503995/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/5efc30380b/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237503995/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:02:36.717Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237548884",
       "uniqueKey": "yema007:237548884",
       "title": "18-19 Cruz Azul Home Retro Kit Vintage Shirt Soccer David Jersey8",
@@ -567884,192 +568071,6 @@
         "https://photo.yupoo.com/yema007/e2cdb60a86/medium.jpg"
       ],
       "coverUrl": "./assets/products/yema007/237548884/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:22:41.636Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237503610",
-      "uniqueKey": "yema007:237503610",
-      "title": "1974 Cruz Azul Home Retro Kit Soccer Jerseys2",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237503610?uid=1&isSubCate=true&referrercate=876723",
-      "categoryId": "876723",
-      "collectionId": "876723",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Cruz Azul蓝十字",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Cruz Azul蓝十字",
-      "country": "Overig",
-      "competition": "Cruz Azul蓝十字",
-      "club": "Overig",
-      "season": "2019/74",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/yema007/237503610/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/4641fb8e5f/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237503610/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:22:41.636Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237503701",
-      "uniqueKey": "yema007:237503701",
-      "title": "1996 Cruz Azul Away White Retro Kit Vintage Shirt Soccer Jerseys2",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237503701?uid=1&isSubCate=true&referrercate=876723",
-      "categoryId": "876723",
-      "collectionId": "876723",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Cruz Azul蓝十字",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Cruz Azul蓝十字",
-      "country": "Overig",
-      "competition": "Cruz Azul蓝十字",
-      "club": "Overig",
-      "season": "2019/96",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/yema007/237503701/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/a3a09f101e/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237503701/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:22:41.636Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237503769",
-      "uniqueKey": "yema007:237503769",
-      "title": "1996 Cruz Azul Home Blue Retro Kit Vintage Shirt Soccer Jerseys2",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237503769?uid=1&isSubCate=true&referrercate=876723",
-      "categoryId": "876723",
-      "collectionId": "876723",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Cruz Azul蓝十字",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Cruz Azul蓝十字",
-      "country": "Overig",
-      "competition": "Cruz Azul蓝十字",
-      "club": "Overig",
-      "season": "2019/96",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/yema007/237503769/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/23ee375a18/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237503769/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:22:41.636Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237503849",
-      "uniqueKey": "yema007:237503849",
-      "title": "1996 Cruz Azul Third Red Retro Kit Vintage Shirt Soccer Jerseys2",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237503849?uid=1&isSubCate=true&referrercate=876723",
-      "categoryId": "876723",
-      "collectionId": "876723",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Cruz Azul蓝十字",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Cruz Azul蓝十字",
-      "country": "Overig",
-      "competition": "Cruz Azul蓝十字",
-      "club": "Overig",
-      "season": "2019/96",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/yema007/237503849/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/85d462c928/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237503849/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:22:41.636Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237503919",
-      "uniqueKey": "yema007:237503919",
-      "title": "1997 Cruz Azul Away Retro Kit Soccer Jerseys2",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237503919?uid=1&isSubCate=true&referrercate=876723",
-      "categoryId": "876723",
-      "collectionId": "876723",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Cruz Azul蓝十字",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Cruz Azul蓝十字",
-      "country": "Overig",
-      "competition": "Cruz Azul蓝十字",
-      "club": "Overig",
-      "season": "2019/97",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/yema007/237503919/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/4816605d8e/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237503919/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:22:41.636Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237503995",
-      "uniqueKey": "yema007:237503995",
-      "title": "2008 Cruz Azul Home Retro Kit Vintage Shirt Soccer Jerseys2",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237503995?uid=1&isSubCate=true&referrercate=876723",
-      "categoryId": "876723",
-      "collectionId": "876723",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Cruz Azul蓝十字",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "Cruz Azul蓝十字",
-      "country": "Overig",
-      "competition": "Cruz Azul蓝十字",
-      "club": "Overig",
-      "season": "2020/08",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/yema007/237503995/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/5efc30380b/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237503995/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T18:22:41.636Z"
     },
@@ -571772,35 +571773,6 @@
       "coverUrl": "./assets/products/yema007/237376177/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:20:37.060Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237368214",
-      "uniqueKey": "yema007:237368214",
-      "title": "2024 Club America Trench Coat Reversible Windbreaker Double-Sides Jacket Soccer David Jersey7",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237368214?uid=1&isSubCate=false&referrercate=5217438",
-      "categoryId": null,
-      "collectionId": "5217438",
-      "sourceCollection": "more",
-      "sourceCategory": "David jersey",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "David jersey",
-      "country": "Overig",
-      "competition": "David jersey",
-      "club": "Overig",
-      "season": "2020/24",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237368214/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/98344738cd/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237368214/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:21:45.544Z"
     },
     {
       "source": "yema007",
@@ -586955,6 +586927,35 @@
       "coverUrl": "./assets/products/yema007/237366875/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:37:16.473Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237368214",
+      "uniqueKey": "yema007:237368214",
+      "title": "2024 Club America Trench Coat Reversible Windbreaker Double-Sides Jacket Soccer David Jersey7",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237368214?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Overig",
+      "season": "2024",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237368214/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/98344738cd/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237368214/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:01:18.876Z"
     },
     {
       "source": "yema007",
@@ -610380,37 +610381,6 @@
       "coverUrl": "./assets/products/yema007/237368407/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:44:03.382Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237481096",
-      "uniqueKey": "yema007:237481096",
-      "title": "2425 Monterrey Third Kit Player Version Shirt David Jersey Dropship12",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237481096?uid=1&isSubCate=false&referrercate=5217438",
-      "categoryId": null,
-      "collectionId": "5217438",
-      "sourceCollection": "more",
-      "sourceCategory": "David jersey",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "David jersey",
-      "country": "Overig",
-      "competition": "David jersey",
-      "club": "Overig",
-      "season": "2024/25",
-      "types": [
-        "Player version"
-      ],
-      "images": [
-        "./assets/products/yema007/237481096/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/a922b64dac/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237481096/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:23:14.666Z"
     },
     {
       "source": "yema007",
@@ -652085,6 +652055,37 @@
       "coverUrl": "./assets/products/yema007/259879812/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T18:19:54.509Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237481096",
+      "uniqueKey": "yema007:237481096",
+      "title": "2425 Monterrey Third Kit Player Version Shirt David Jersey Dropship12",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237481096?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Overig",
+      "season": "Onbekend seizoen",
+      "types": [
+        "Player version"
+      ],
+      "images": [
+        "./assets/products/yema007/237481096/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/a922b64dac/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237481096/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:03:22.376Z"
     },
     {
       "source": "yema007",
