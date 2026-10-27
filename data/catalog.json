@@ -1,14 +1,14 @@
 {
-  "lastSync": "2026-10-27T03:45:08.292Z",
+  "lastSync": "2026-10-27T03:50:15.965Z",
   "syncState": {
     "status": "in-progress",
-    "label": "yema007 12175/14191",
+    "label": "yema007 12725/14191",
     "batchSize": 25,
     "maxImages": 1
   },
   "syncProgress": {
     "currentSource": "yema007",
-    "nextIndex": 12175,
+    "nextIndex": 12725,
     "totalForSource": 14191,
     "completedSources": [
       "minkang"
@@ -16,13 +16,13 @@
   },
   "stats": {
     "discovered": 21657,
-    "added": 371,
-    "changed": 5136,
-    "unchanged": 14116,
+    "added": 375,
+    "changed": 5137,
+    "unchanged": 14661,
     "repaired": 0,
     "skipped": 18,
-    "duplicatesRemoved": 368,
-    "batchesSaved": 786
+    "duplicatesRemoved": 372,
+    "batchesSaved": 808
   },
   "sources": [
     {
@@ -193350,37 +193350,6 @@
       "updatedAt": "2026-10-25T16:59:36.329Z"
     },
     {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237385824",
-      "uniqueKey": "yema007:237385824",
-      "title": "2425 Barcelona Champions Training Shirt Football Uniforms David Jersey Supplier5",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237385824?uid=1&isSubCate=false&referrercate=5217438",
-      "categoryId": null,
-      "collectionId": "5217438",
-      "sourceCollection": "more",
-      "sourceCategory": "David jersey",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Barcelona",
-      "season": "2024/25",
-      "types": [
-        "Training"
-      ],
-      "images": [
-        "./assets/products/yema007/237385824/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/12e5681807/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237385824/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:32:25.381Z"
-    },
-    {
       "source": "minkang",
       "sourcePriority": 1,
       "sourceId": "179316195",
@@ -207385,6 +207354,37 @@
       "coverUrl": "./assets/products/yema007/237386735/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:32:25.381Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237385824",
+      "uniqueKey": "yema007:237385824",
+      "title": "2425 Barcelona Champions Training Shirt Football Uniforms David Jersey Supplier5",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237385824?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Barcelona",
+      "season": "Onbekend seizoen",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/yema007/237385824/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/12e5681807/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237385824/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T03:48:23.767Z"
     },
     {
       "source": "minkang",
