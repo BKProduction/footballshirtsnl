@@ -1,14 +1,14 @@
 {
-  "lastSync": "2026-10-27T04:15:12.396Z",
+  "lastSync": "2026-10-27T04:20:18.178Z",
   "syncState": {
     "status": "in-progress",
-    "label": "popmo 950/2721",
+    "label": "popmo 1500/2721",
     "batchSize": 25,
     "maxImages": 1
   },
   "syncProgress": {
     "currentSource": "popmo",
-    "nextIndex": 950,
+    "nextIndex": 1500,
     "totalForSource": 2721,
     "completedSources": [
       "minkang",
@@ -17,13 +17,13 @@
   },
   "stats": {
     "discovered": 24378,
-    "added": 407,
-    "changed": 5286,
-    "unchanged": 16892,
+    "added": 415,
+    "changed": 5369,
+    "unchanged": 17351,
     "repaired": 0,
     "skipped": 22,
-    "duplicatesRemoved": 397,
-    "batchesSaved": 906
+    "duplicatesRemoved": 405,
+    "batchesSaved": 928
   },
   "sources": [
     {
@@ -393,12 +393,8 @@
     "2020/02",
     "2020",
     "2019/97",
-    "2019/86",
     "2019/81",
-    "2019/80",
     "2019/20",
-    "2019/07",
-    "2019/01",
     "2019",
     "2018/19",
     "2018",
@@ -590,7 +586,8 @@
     "1909",
     "1907",
     "1906/06",
-    "1903/03"
+    "1903/03",
+    "1901"
   ],
   "products": [
     {
@@ -37637,6 +37634,35 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "239435538",
+      "uniqueKey": "popmo:239435538",
+      "title": "Como 1907 Collaboration RHUDE Edition S-4XL4",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/239435538?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "1907",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/239435538/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/bdd5f07a5e/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/239435538/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:15:39.831Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "256180112",
       "uniqueKey": "popmo:256180112",
       "title": "Real Sociedad \"REALA DESDE 1909\"2",
@@ -37666,6 +37692,35 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "218579847",
+      "uniqueKey": "popmo:218579847",
+      "title": "[player version] FIFA World Cup 1986 Mexico2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/218579847?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "1986",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/218579847/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/800940b9/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/218579847/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:20:18.032Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "246982615",
       "uniqueKey": "popmo:246982615",
       "title": "2000-2001 Rayo Vallecano Away Match Black S-2XL2",
@@ -37691,64 +37746,6 @@
       "coverUrl": "./assets/products/popmo/246982615/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:55:28.001Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "239435538",
-      "uniqueKey": "popmo:239435538",
-      "title": "Como 1907 Collaboration RHUDE Edition S-4XL4",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/239435538?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2019/07",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/239435538/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/bdd5f07a5e/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/239435538/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:56:20.903Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "218579847",
-      "uniqueKey": "popmo:218579847",
-      "title": "[player version] FIFA World Cup 1986 Mexico2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/218579847?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2019/86",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/218579847/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/800940b9/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/218579847/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:59:49.125Z"
     },
     {
       "source": "popmo",
@@ -37898,35 +37895,6 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
-      "sourceId": "218413577",
-      "uniqueKey": "popmo:218413577",
-      "title": "2025 KOMBAT XXV RC Deportivo de La Coruña SAD3",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/218413577?uid=1&isSubCate=false&referrercate=4911722",
-      "categoryId": null,
-      "collectionId": "4911722",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/25",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/218413577/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/6b48992f/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/218413577/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:59:49.125Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
       "sourceId": "202327023",
       "uniqueKey": "popmo:202327023",
       "title": "2025 Olympiacos FC 100th Anniversary Jersey2",
@@ -38014,760 +37982,6 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
-      "sourceId": "230702602",
-      "uniqueKey": "popmo:230702602",
-      "title": "2026 A Coruña Retro White S-4X2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/230702602?uid=1&isSubCate=false&referrercate=4911722",
-      "categoryId": null,
-      "collectionId": "4911722",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/230702602/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/dfb4cd74/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/230702602/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:57:34.702Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "230703815",
-      "uniqueKey": "popmo:230703815",
-      "title": "2026 AIK Stockholm Home Stadium S-4XL3",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/230703815?uid=1&isSubCate=false&referrercate=4911721",
-      "categoryId": null,
-      "collectionId": "4911721",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/230703815/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/6d9b7cbf/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/230703815/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:57:34.702Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "225218720",
-      "uniqueKey": "popmo:225218720",
-      "title": "2026 Algeria Special Edition White S-4XL2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/225218720?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/225218720/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/f55af5cb/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/225218720/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:58:27.213Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "228270135",
-      "uniqueKey": "popmo:228270135",
-      "title": "2026 Augsburg Beige S-4XL3",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/228270135?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/228270135/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/7322105d/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/228270135/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:58:06.984Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "228849510",
-      "uniqueKey": "popmo:228849510",
-      "title": "2026 Augsburg Blue S-4XL2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/228849510?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/228849510/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/c392f7fc/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/228849510/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:57:55.938Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "229719333",
-      "uniqueKey": "popmo:229719333",
-      "title": "2026 Betis Retro S-4XL4",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/229719333?uid=1&isSubCate=false&referrercate=4911722",
-      "categoryId": null,
-      "collectionId": "4911722",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/229719333/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/1503151d/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/229719333/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:57:55.937Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "230874662",
-      "uniqueKey": "popmo:230874662",
-      "title": "2026 Bilbao Retro S-4XL3",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/230874662?uid=1&isSubCate=false&referrercate=4911722",
-      "categoryId": null,
-      "collectionId": "4911722",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/230874662/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/b8278df3/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/230874662/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:57:34.701Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "225219403",
-      "uniqueKey": "popmo:225219403",
-      "title": "2026 Birmingham 150th Anniversary Edition S-4XL2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/225219403?uid=1&isSubCate=false&referrercate=4911721",
-      "categoryId": null,
-      "collectionId": "4911721",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/225219403/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/27c7e127/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/225219403/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:58:27.213Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "239434633",
-      "uniqueKey": "popmo:239434633",
-      "title": "2026 Brighton 120th Anniversary Edition S-4XL4",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/239434633?uid=1&isSubCate=false&referrercate=4911721",
-      "categoryId": null,
-      "collectionId": "4911721",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/239434633/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/9b2ab04b41/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/239434633/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:56:20.905Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "230702357",
-      "uniqueKey": "popmo:230702357",
-      "title": "2026 Cadiz Retro S-4XL2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/230702357?uid=1&isSubCate=false&referrercate=4911722",
-      "categoryId": null,
-      "collectionId": "4911722",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/230702357/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/c15f932c/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/230702357/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:57:34.702Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "230702036",
-      "uniqueKey": "popmo:230702036",
-      "title": "2026 Celta Vigo Retro Red and White S-4XL2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/230702036?uid=1&isSubCate=false&referrercate=4911722",
-      "categoryId": null,
-      "collectionId": "4911722",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/230702036/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/00ba4c8d/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/230702036/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:57:34.702Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "232761003",
-      "uniqueKey": "popmo:232761003",
-      "title": "2026 Cordoba Retro Green and White S-4XL3",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/232761003?uid=1&isSubCate=false&referrercate=4911722",
-      "categoryId": null,
-      "collectionId": "4911722",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/232761003/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/7b8167ff/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/232761003/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:57:13.152Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "231038209",
-      "uniqueKey": "popmo:231038209",
-      "title": "2026 Costa Rica Away S-4XL2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/231038209?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/231038209/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/4d0d4da3/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/231038209/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:57:34.701Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "221787181",
-      "uniqueKey": "popmo:221787181",
-      "title": "2026 Egypt Away S-4XL2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/221787181?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/221787181/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/6c52f384/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/221787181/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:59:08.873Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "231942460",
-      "uniqueKey": "popmo:231942460",
-      "title": "2026 Elche Vintage White S-4XL4",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/231942460?uid=1&isSubCate=false&referrercate=4911722",
-      "categoryId": null,
-      "collectionId": "4911722",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/231942460/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/5c08b5a8/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/231942460/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:57:24.034Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "228845409",
-      "uniqueKey": "popmo:228845409",
-      "title": "2026 Equatorial Guinea Home Away S-2XL4",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/228845409?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/228845409/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/fb067949/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/228845409/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:57:55.938Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "232964444",
-      "uniqueKey": "popmo:232964444",
-      "title": "2026 Granada Retro Red S-4XL3",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/232964444?uid=1&isSubCate=false&referrercate=4911722",
-      "categoryId": null,
-      "collectionId": "4911722",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/232964444/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/61d480b91c/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/232964444/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:57:13.151Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "224855208",
-      "uniqueKey": "popmo:224855208",
-      "title": "2026 Hertha Berlin Commemorative Edition S-4XL2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/224855208?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/224855208/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/af8a8a03/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/224855208/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:58:37.254Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "227044202",
-      "uniqueKey": "popmo:227044202",
-      "title": "2026 Jamaica Away S-4XL2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/227044202?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/227044202/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/75703976/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/227044202/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:58:27.213Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "231630622",
-      "uniqueKey": "popmo:231630622",
-      "title": "2026 Las Palmas Retro Yellow S-4XL2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/231630622?uid=1&isSubCate=false&referrercate=4911722",
-      "categoryId": null,
-      "collectionId": "4911722",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/231630622/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/3f473461/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/231630622/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:57:24.034Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "234112233",
-      "uniqueKey": "popmo:234112233",
-      "title": "2026 Lincoln City 50th Anniversary Championship Special Edition, Sizes S-4XL5",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/234112233?uid=1&isSubCate=false&referrercate=4911721",
-      "categoryId": null,
-      "collectionId": "4911721",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/234112233/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/12dd35a293/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/234112233/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:57:02.691Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "230703400",
-      "uniqueKey": "popmo:230703400",
-      "title": "2026 Malaga Retro S-4XL3",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/230703400?uid=1&isSubCate=false&referrercate=4911722",
-      "categoryId": null,
-      "collectionId": "4911722",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/230703400/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/6aa52906/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/230703400/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:57:34.702Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "221214792",
-      "uniqueKey": "popmo:221214792",
-      "title": "2026 Mali Eagle Head Green S-4XL2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/221214792?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/221214792/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/6f136e46/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/221214792/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:59:08.873Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "221215106",
-      "uniqueKey": "popmo:221215106",
-      "title": "2026 Mali Eagle Head White S-4XL2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/221215106?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/221215106/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/dff8cc17/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/221215106/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:59:08.873Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "220478221",
-      "uniqueKey": "popmo:220478221",
-      "title": "2026 Mali home away4",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/220478221?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/220478221/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/10f2c482/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/220478221/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:59:19.038Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "230693622",
-      "uniqueKey": "popmo:230693622",
-      "title": "2026 New Canadian style S-4XL2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/230693622?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/230693622/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/211ffec4/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/230693622/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:57:45.183Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
       "sourceId": "215667899",
       "uniqueKey": "popmo:215667899",
       "title": "2026 New Zealand Home Stadium S-4XL2",
@@ -38793,412 +38007,6 @@
       "coverUrl": "./assets/products/popmo/215667899/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T20:00:41.069Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "230704917",
-      "uniqueKey": "popmo:230704917",
-      "title": "2026 New Zealand Home3",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/230704917?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/230704917/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/5415d10a/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/230704917/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:57:34.702Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "228269288",
-      "uniqueKey": "popmo:228269288",
-      "title": "2026 Newcastle Special Edition S-4XL2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/228269288?uid=1&isSubCate=false&referrercate=4911721",
-      "categoryId": null,
-      "collectionId": "4911721",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/228269288/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/094c5613/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/228269288/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:58:06.984Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "231322305",
-      "uniqueKey": "popmo:231322305",
-      "title": "2026 Osasuna Retro Red S-4XL2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/231322305?uid=1&isSubCate=false&referrercate=4911722",
-      "categoryId": null,
-      "collectionId": "4911722",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/231322305/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/8f2439a4/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/231322305/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:57:24.035Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "230873811",
-      "uniqueKey": "popmo:230873811",
-      "title": "2026 Oviedo Eternal Edition S-4XL4",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/230873811?uid=1&isSubCate=false&referrercate=4911722",
-      "categoryId": null,
-      "collectionId": "4911722",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/230873811/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/4d97f82c/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/230873811/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:57:34.702Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "226691158",
-      "uniqueKey": "popmo:226691158",
-      "title": "2026 Racing de Santander 113th Anniversary Edition, Green, Sizes S-2XL2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/226691158?uid=1&isSubCate=false&referrercate=4911722",
-      "categoryId": null,
-      "collectionId": "4911722",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/226691158/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/1dad6956/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/226691158/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:58:27.213Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "232761294",
-      "uniqueKey": "popmo:232761294",
-      "title": "2026 Real Sociedad Retro Blue and White S-4XL3",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/232761294?uid=1&isSubCate=false&referrercate=4911722",
-      "categoryId": null,
-      "collectionId": "4911722",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/232761294/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/b2f37a86/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/232761294/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:57:13.152Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "236292536",
-      "uniqueKey": "popmo:236292536",
-      "title": "2026 Santander Retro S-4XL4",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/236292536?uid=1&isSubCate=false&referrercate=4911722",
-      "categoryId": null,
-      "collectionId": "4911722",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/236292536/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/85818e874b/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/236292536/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:56:41.284Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "230903869",
-      "uniqueKey": "popmo:230903869",
-      "title": "2026 Seville Retro Beige Sizes S-4XL3",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/230903869?uid=1&isSubCate=false&referrercate=4911722",
-      "categoryId": null,
-      "collectionId": "4911722",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/230903869/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/83345ef3/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/230903869/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:57:34.701Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "234125068",
-      "uniqueKey": "popmo:234125068",
-      "title": "2026 Sheffield United Chinese New Year Horse Jersey2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/234125068?uid=1&isSubCate=false&referrercate=4911721",
-      "categoryId": null,
-      "collectionId": "4911721",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/234125068/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/04b2f9ecef/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/234125068/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:57:02.690Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "224599378",
-      "uniqueKey": "popmo:224599378",
-      "title": "2026 Stranger Things The Hellfire Club Hawkins Jersey2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/224599378?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/224599378/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/1b05700c/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/224599378/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:58:37.254Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "230022837",
-      "uniqueKey": "popmo:230022837",
-      "title": "2026 Sunderland Special Edition Green S-4XL2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/230022837?uid=1&isSubCate=false&referrercate=4911721",
-      "categoryId": null,
-      "collectionId": "4911721",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/230022837/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/9781040f/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/230022837/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:57:45.183Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "235341297",
-      "uniqueKey": "popmo:235341297",
-      "title": "2026 The Prodigy x Hummel S-4XL4",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/235341297?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/235341297/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/cdd692db42/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/235341297/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:56:52.097Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "235341544",
-      "uniqueKey": "popmo:235341544",
-      "title": "2026 Trabzon Youth T-shirts S-4XL4",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/235341544?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/235341544/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/03396c70de/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/235341544/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:56:52.096Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "232138441",
-      "uniqueKey": "popmo:232138441",
-      "title": "2026 Umbro Ireland 17-3 Short Sleeve Jersey2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/232138441?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/232138441/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/d22717ec/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/232138441/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:57:24.034Z"
     },
     {
       "source": "popmo",
@@ -39232,35 +38040,6 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
-      "sourceId": "220473617",
-      "uniqueKey": "popmo:220473617",
-      "title": "2026 Universidad Católica Puma Home kit2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/220473617?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/220473617/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/3ad1924f/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/220473617/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:59:19.038Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
       "sourceId": "215669009",
       "uniqueKey": "popmo:215669009",
       "title": "2026 US Promotional Outfit S-4XL2",
@@ -39290,64 +38069,6 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
-      "sourceId": "231034252",
-      "uniqueKey": "popmo:231034252",
-      "title": "2026 Valencia Retro Orange S-4XL2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/231034252?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/231034252/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/bebde4ba/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/231034252/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:57:34.701Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "231798818",
-      "uniqueKey": "popmo:231798818",
-      "title": "2026 Valladolid Retro Style S-4XL4",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/231798818?uid=1&isSubCate=false&referrercate=4911722",
-      "categoryId": null,
-      "collectionId": "4911722",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/231798818/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/22868957/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/231798818/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:57:24.034Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
       "sourceId": "207072698",
       "uniqueKey": "popmo:207072698",
       "title": "2026 World Cup National Team.S-4XL2",
@@ -39373,35 +38094,6 @@
       "coverUrl": "./assets/products/popmo/207072698/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T20:03:15.014Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "230703064",
-      "uniqueKey": "popmo:230703064",
-      "title": "2026 Zaragoza Retro Blue S-4XL3",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/230703064?uid=1&isSubCate=false&referrercate=4911722",
-      "categoryId": null,
-      "collectionId": "4911722",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/230703064/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/7e2d46de/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/230703064/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:57:34.702Z"
     },
     {
       "source": "popmo",
@@ -40301,6 +38993,35 @@
       "coverUrl": "./assets/products/popmo/202323495/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T04:10:03.405Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "218413577",
+      "uniqueKey": "popmo:218413577",
+      "title": "2025 KOMBAT XXV RC Deportivo de La Coruña SAD3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/218413577?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2025",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/218413577/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/6b48992f/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/218413577/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:20:18.032Z"
     },
     {
       "source": "popmo",
@@ -59793,35 +58514,6 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
-      "sourceId": "221408486",
-      "uniqueKey": "popmo:221408486",
-      "title": "2526 Zaragoza Half-length Top, Light Green, Sizes S-2XL4",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/221408486?uid=1&isSubCate=false&referrercate=4911722",
-      "categoryId": null,
-      "collectionId": "4911722",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2025/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/221408486/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/4418085a/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/221408486/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:59:08.873Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
       "sourceId": "198396171",
       "uniqueKey": "popmo:198396171",
       "title": "Bolivia 25-26 home S-4XL2",
@@ -60228,6 +58920,93 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "230702602",
+      "uniqueKey": "popmo:230702602",
+      "title": "2026 A Coruña Retro White S-4X2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/230702602?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/230702602/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/dfb4cd74/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/230702602/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:17:32.995Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "230703815",
+      "uniqueKey": "popmo:230703815",
+      "title": "2026 AIK Stockholm Home Stadium S-4XL3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/230703815?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/230703815/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/6d9b7cbf/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/230703815/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:17:19.732Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "225218720",
+      "uniqueKey": "popmo:225218720",
+      "title": "2026 Algeria Special Edition White S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/225218720?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/225218720/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/f55af5cb/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/225218720/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:18:40.337Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "228443178",
       "uniqueKey": "popmo:228443178",
       "title": "2026 Atletico Nacional Away S-2XL8",
@@ -60257,6 +59036,238 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "228270135",
+      "uniqueKey": "popmo:228270135",
+      "title": "2026 Augsburg Beige S-4XL3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/228270135?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/228270135/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/7322105d/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/228270135/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:18:00.273Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "228849510",
+      "uniqueKey": "popmo:228849510",
+      "title": "2026 Augsburg Blue S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/228849510?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/228849510/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/c392f7fc/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/228849510/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:17:46.442Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "229719333",
+      "uniqueKey": "popmo:229719333",
+      "title": "2026 Betis Retro S-4XL4",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/229719333?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/229719333/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/1503151d/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/229719333/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:17:46.442Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "230874662",
+      "uniqueKey": "popmo:230874662",
+      "title": "2026 Bilbao Retro S-4XL3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/230874662?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/230874662/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/b8278df3/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/230874662/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:17:19.732Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "225219403",
+      "uniqueKey": "popmo:225219403",
+      "title": "2026 Birmingham 150th Anniversary Edition S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/225219403?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/225219403/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/27c7e127/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/225219403/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:18:26.780Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "239434633",
+      "uniqueKey": "popmo:239434633",
+      "title": "2026 Brighton 120th Anniversary Edition S-4XL4",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/239434633?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/239434633/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/9b2ab04b41/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/239434633/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:15:39.831Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "230702357",
+      "uniqueKey": "popmo:230702357",
+      "title": "2026 Cadiz Retro S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/230702357?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/230702357/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/c15f932c/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/230702357/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:17:32.995Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "230702036",
+      "uniqueKey": "popmo:230702036",
+      "title": "2026 Celta Vigo Retro Red and White S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/230702036?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/230702036/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/00ba4c8d/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/230702036/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:17:32.995Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "260280265",
       "uniqueKey": "popmo:260280265",
       "title": "2026 CF Monterrey KING Long Sleeve Jersey2",
@@ -60282,6 +59293,151 @@
       "coverUrl": "./assets/products/popmo/260280265/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T04:06:03.090Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "232761003",
+      "uniqueKey": "popmo:232761003",
+      "title": "2026 Cordoba Retro Green and White S-4XL3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/232761003?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/232761003/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/7b8167ff/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/232761003/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:17:06.746Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "231038209",
+      "uniqueKey": "popmo:231038209",
+      "title": "2026 Costa Rica Away S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/231038209?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/231038209/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/4d0d4da3/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/231038209/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:17:19.732Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "221787181",
+      "uniqueKey": "popmo:221787181",
+      "title": "2026 Egypt Away S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/221787181?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/221787181/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/6c52f384/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/221787181/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:19:21.980Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "231942460",
+      "uniqueKey": "popmo:231942460",
+      "title": "2026 Elche Vintage White S-4XL4",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/231942460?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/231942460/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/5c08b5a8/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/231942460/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:17:06.746Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "228845409",
+      "uniqueKey": "popmo:228845409",
+      "title": "2026 Equatorial Guinea Home Away S-2XL4",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/228845409?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/228845409/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/fb067949/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/228845409/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:18:00.272Z"
     },
     {
       "source": "popmo",
@@ -60344,6 +59500,470 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "232964444",
+      "uniqueKey": "popmo:232964444",
+      "title": "2026 Granada Retro Red S-4XL3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/232964444?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/232964444/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/61d480b91c/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/232964444/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:16:52.770Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "224855208",
+      "uniqueKey": "popmo:224855208",
+      "title": "2026 Hertha Berlin Commemorative Edition S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/224855208?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/224855208/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/af8a8a03/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/224855208/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:18:40.337Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "227044202",
+      "uniqueKey": "popmo:227044202",
+      "title": "2026 Jamaica Away S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/227044202?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/227044202/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/75703976/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/227044202/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:18:26.780Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "231630622",
+      "uniqueKey": "popmo:231630622",
+      "title": "2026 Las Palmas Retro Yellow S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/231630622?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/231630622/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/3f473461/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/231630622/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:17:06.746Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "234112233",
+      "uniqueKey": "popmo:234112233",
+      "title": "2026 Lincoln City 50th Anniversary Championship Special Edition, Sizes S-4XL5",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/234112233?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/234112233/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/12dd35a293/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/234112233/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:16:38.575Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "230703400",
+      "uniqueKey": "popmo:230703400",
+      "title": "2026 Malaga Retro S-4XL3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/230703400?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/230703400/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/6aa52906/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/230703400/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:17:32.995Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "221214792",
+      "uniqueKey": "popmo:221214792",
+      "title": "2026 Mali Eagle Head Green S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/221214792?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/221214792/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/6f136e46/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/221214792/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:19:21.980Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "221215106",
+      "uniqueKey": "popmo:221215106",
+      "title": "2026 Mali Eagle Head White S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/221215106?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/221215106/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/dff8cc17/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/221215106/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:19:21.980Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "220478221",
+      "uniqueKey": "popmo:220478221",
+      "title": "2026 Mali home away4",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/220478221?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/220478221/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/10f2c482/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/220478221/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:19:36.101Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "230693622",
+      "uniqueKey": "popmo:230693622",
+      "title": "2026 New Canadian style S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/230693622?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/230693622/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/211ffec4/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/230693622/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:17:32.995Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "230704917",
+      "uniqueKey": "popmo:230704917",
+      "title": "2026 New Zealand Home3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/230704917?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/230704917/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/5415d10a/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/230704917/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:17:19.732Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "228269288",
+      "uniqueKey": "popmo:228269288",
+      "title": "2026 Newcastle Special Edition S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/228269288?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/228269288/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/094c5613/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/228269288/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:18:00.273Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "231322305",
+      "uniqueKey": "popmo:231322305",
+      "title": "2026 Osasuna Retro Red S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/231322305?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/231322305/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/8f2439a4/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/231322305/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:17:19.732Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "230873811",
+      "uniqueKey": "popmo:230873811",
+      "title": "2026 Oviedo Eternal Edition S-4XL4",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/230873811?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/230873811/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/4d97f82c/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/230873811/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:17:19.732Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "226691158",
+      "uniqueKey": "popmo:226691158",
+      "title": "2026 Racing de Santander 113th Anniversary Edition, Green, Sizes S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/226691158?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/226691158/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/1dad6956/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/226691158/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:18:26.780Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "232761294",
+      "uniqueKey": "popmo:232761294",
+      "title": "2026 Real Sociedad Retro Blue and White S-4XL3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/232761294?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/232761294/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/b2f37a86/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/232761294/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:17:06.746Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "230217671",
       "uniqueKey": "popmo:230217671",
       "title": "2026 San Diego FC Away2",
@@ -60369,6 +59989,354 @@
       "coverUrl": "./assets/products/popmo/230217671/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T04:09:04.409Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "236292536",
+      "uniqueKey": "popmo:236292536",
+      "title": "2026 Santander Retro S-4XL4",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/236292536?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/236292536/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/85818e874b/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/236292536/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:16:09.181Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "230903869",
+      "uniqueKey": "popmo:230903869",
+      "title": "2026 Seville Retro Beige Sizes S-4XL3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/230903869?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/230903869/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/83345ef3/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/230903869/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:17:19.732Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "234125068",
+      "uniqueKey": "popmo:234125068",
+      "title": "2026 Sheffield United Chinese New Year Horse Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/234125068?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/234125068/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/04b2f9ecef/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/234125068/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:16:38.575Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "224599378",
+      "uniqueKey": "popmo:224599378",
+      "title": "2026 Stranger Things The Hellfire Club Hawkins Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/224599378?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/224599378/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/1b05700c/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/224599378/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:18:40.337Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "230022837",
+      "uniqueKey": "popmo:230022837",
+      "title": "2026 Sunderland Special Edition Green S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/230022837?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/230022837/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/9781040f/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/230022837/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:17:32.996Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "235341297",
+      "uniqueKey": "popmo:235341297",
+      "title": "2026 The Prodigy x Hummel S-4XL4",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/235341297?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/235341297/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/cdd692db42/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/235341297/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:16:23.884Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "235341544",
+      "uniqueKey": "popmo:235341544",
+      "title": "2026 Trabzon Youth T-shirts S-4XL4",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/235341544?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/235341544/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/03396c70de/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/235341544/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:16:23.884Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "232138441",
+      "uniqueKey": "popmo:232138441",
+      "title": "2026 Umbro Ireland 17-3 Short Sleeve Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/232138441?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/232138441/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/d22717ec/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/232138441/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:17:06.746Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "220473617",
+      "uniqueKey": "popmo:220473617",
+      "title": "2026 Universidad Católica Puma Home kit2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/220473617?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/220473617/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/3ad1924f/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/220473617/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:19:36.101Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "231034252",
+      "uniqueKey": "popmo:231034252",
+      "title": "2026 Valencia Retro Orange S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/231034252?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/231034252/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/bebde4ba/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/231034252/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:17:19.732Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "231798818",
+      "uniqueKey": "popmo:231798818",
+      "title": "2026 Valladolid Retro Style S-4XL4",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/231798818?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/231798818/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/22868957/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/231798818/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:17:06.746Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "230703064",
+      "uniqueKey": "popmo:230703064",
+      "title": "2026 Zaragoza Retro Blue S-4XL3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/230703064?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/230703064/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/7e2d46de/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/230703064/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:17:32.995Z"
     },
     {
       "source": "popmo",
@@ -67764,6 +67732,35 @@
       "coverUrl": "./assets/products/popmo/199043652/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T20:06:54.923Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "221408486",
+      "uniqueKey": "popmo:221408486",
+      "title": "2526 Zaragoza Half-length Top, Light Green, Sizes S-2XL4",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/221408486?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "Onbekend seizoen",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/221408486/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/4418085a/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/221408486/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:19:21.980Z"
     },
     {
       "source": "popmo",
@@ -283329,35 +283326,6 @@
       "updatedAt": "2026-10-25T18:07:46.498Z"
     },
     {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "228269680",
-      "uniqueKey": "popmo:228269680",
-      "title": "2026 Manchester United Third White Shirt S-4XL2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/228269680?uid=1&isSubCate=false&referrercate=4911721",
-      "categoryId": null,
-      "collectionId": "4911721",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Manchester United",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/228269680/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/ab976a97/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/228269680/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:58:06.984Z"
-    },
-    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237554339",
@@ -292555,6 +292523,35 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "228269680",
+      "uniqueKey": "popmo:228269680",
+      "title": "2026 Manchester United Third White Shirt S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/228269680?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Manchester United",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/228269680/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/ab976a97/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/228269680/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:18:00.273Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "231321381",
       "uniqueKey": "popmo:231321381",
       "title": "26-26 Manchester United casual T-shirt, red, size S-4XL2",
@@ -296219,37 +296216,6 @@
       "coverUrl": "./assets/products/minkang/212823818/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:21:16.074Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "228270413",
-      "uniqueKey": "popmo:228270413",
-      "title": "2026 Retro Olympique de Marseille number 101",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/228270413?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Marseille",
-      "season": "2020/26",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/popmo/228270413/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/72d089a4/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/228270413/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:58:06.984Z"
     },
     {
       "source": "yema007",
@@ -300623,6 +300589,37 @@
       "coverUrl": "./assets/products/minkang/215414244/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:21:16.074Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "228270413",
+      "uniqueKey": "popmo:228270413",
+      "title": "2026 Retro Olympique de Marseille number 101",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/228270413?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Marseille",
+      "season": "2026",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/popmo/228270413/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/72d089a4/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/228270413/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:18:00.273Z"
     },
     {
       "source": "popmo",
@@ -394057,6 +394054,37 @@
       "updatedAt": "2026-10-25T17:15:25.970Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "223283768",
+      "uniqueKey": "popmo:223283768",
+      "title": "125th Anniversary Edition 1901 Tottenham Hotspur White S-4XL4",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/223283768?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Tottenham",
+      "season": "1901",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/popmo/223283768/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/0da68e07/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/223283768/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:18:54.289Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237454927",
@@ -395295,37 +395323,6 @@
       "coverUrl": "./assets/products/minkang/221920525/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:11:52.459Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "223283768",
-      "uniqueKey": "popmo:223283768",
-      "title": "125th Anniversary Edition 1901 Tottenham Hotspur White S-4XL4",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/223283768?uid=1&isSubCate=false&referrercate=4911721",
-      "categoryId": null,
-      "collectionId": "4911721",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Tottenham",
-      "season": "2019/01",
-      "types": [
-        "Special edition"
-      ],
-      "images": [
-        "./assets/products/popmo/223283768/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/0da68e07/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/223283768/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:58:47.464Z"
     },
     {
       "source": "minkang",
@@ -402959,99 +402956,6 @@
       "updatedAt": "2026-10-27T02:56:38.292Z"
     },
     {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "230219061",
-      "uniqueKey": "popmo:230219061",
-      "title": "2026 Argentina Pre-Match Kit: Blue and White, S-4XL3",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/230219061?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Argentina",
-      "competition": "WK & landenteams",
-      "club": "Argentina",
-      "season": "2020/26",
-      "types": [
-        "Training"
-      ],
-      "images": [
-        "./assets/products/popmo/230219061/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/df4b1248/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/230219061/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:57:45.183Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "232956942",
-      "uniqueKey": "popmo:232956942",
-      "title": "2026 Argentina Retro Memorial S-4XL [2026 FIFA WORLD CUP]2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/232956942?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Argentina",
-      "competition": "WK & landenteams",
-      "club": "Argentina",
-      "season": "2020/26",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/popmo/232956942/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/1969b8075d/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/232956942/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:57:13.151Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "221786878",
-      "uniqueKey": "popmo:221786878",
-      "title": "2026 Argentina training kit, white, size S-4XL2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/221786878?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Argentina",
-      "competition": "WK & landenteams",
-      "club": "Argentina",
-      "season": "2020/26",
-      "types": [
-        "Training"
-      ],
-      "images": [
-        "./assets/products/popmo/221786878/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/e2f5a1d3/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/221786878/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:59:08.873Z"
-    },
-    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237605609",
@@ -409237,6 +409141,68 @@
       "updatedAt": "2026-10-27T02:54:47.998Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "230219061",
+      "uniqueKey": "popmo:230219061",
+      "title": "2026 Argentina Pre-Match Kit: Blue and White, S-4XL3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/230219061?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Argentina",
+      "competition": "WK & landenteams",
+      "club": "Argentina",
+      "season": "2026",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/popmo/230219061/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/df4b1248/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/230219061/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:17:32.996Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "232956942",
+      "uniqueKey": "popmo:232956942",
+      "title": "2026 Argentina Retro Memorial S-4XL [2026 FIFA WORLD CUP]2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/232956942?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Argentina",
+      "competition": "WK & landenteams",
+      "club": "Argentina",
+      "season": "2026",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/popmo/232956942/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/1969b8075d/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/232956942/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:16:52.770Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "259877560",
@@ -409382,6 +409348,37 @@
       "coverUrl": "./assets/products/popmo/247888172/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T04:14:16.657Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "221786878",
+      "uniqueKey": "popmo:221786878",
+      "title": "2026 Argentina training kit, white, size S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/221786878?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Argentina",
+      "competition": "WK & landenteams",
+      "club": "Argentina",
+      "season": "2026",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/popmo/221786878/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/e2f5a1d3/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/221786878/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:19:21.980Z"
     },
     {
       "source": "yema007",
@@ -415034,35 +415031,6 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
-      "sourceId": "222351398",
-      "uniqueKey": "popmo:222351398",
-      "title": "2026 Belgium Away S-4XL2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/222351398?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Belgium",
-      "competition": "WK & landenteams",
-      "club": "Belgium",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/222351398/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/c4e374cb/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/222351398/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:58:58.208Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
       "sourceId": "211443713",
       "uniqueKey": "popmo:211443713",
       "title": "2026 Belgium Home Jersey S-4XL2",
@@ -415801,6 +415769,35 @@
       "imageCount": 1,
       "updatedAt": "2026-10-24T13:17:39.686Z",
       "season": "2025/26"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "222351398",
+      "uniqueKey": "popmo:222351398",
+      "title": "2026 Belgium Away S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/222351398?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Belgium",
+      "competition": "WK & landenteams",
+      "club": "Belgium",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/222351398/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/c4e374cb/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/222351398/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:19:07.602Z"
     },
     {
       "source": "yema007",
@@ -440101,66 +440098,6 @@
       "updatedAt": "2026-10-27T01:00:06.385Z"
     },
     {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "220157101",
-      "uniqueKey": "popmo:220157101",
-      "title": "2026 Colombia Polo Yellow, Navy S-2XL2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/220157101?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Colombia",
-      "competition": "WK & landenteams",
-      "club": "Colombia",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/220157101/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/fa79ab2d/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/220157101/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:59:19.038Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "228259827",
-      "uniqueKey": "popmo:228259827",
-      "title": "2026 Colombia training suit, white-Navy, size S-4XL4",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/228259827?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Colombia",
-      "competition": "WK & landenteams",
-      "club": "Colombia",
-      "season": "2020/26",
-      "types": [
-        "Training"
-      ],
-      "images": [
-        "./assets/products/popmo/228259827/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/01229a2d/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/228259827/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:58:17.099Z"
-    },
-    {
       "source": "minkang",
       "sourcePriority": 1,
       "sourceId": "135065240",
@@ -441514,6 +441451,35 @@
       "updatedAt": "2026-10-27T03:27:55.461Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "220157101",
+      "uniqueKey": "popmo:220157101",
+      "title": "2026 Colombia Polo Yellow, Navy S-2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/220157101?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Colombia",
+      "competition": "WK & landenteams",
+      "club": "Colombia",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/220157101/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/fa79ab2d/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/220157101/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:19:36.101Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237740932",
@@ -441606,6 +441572,37 @@
       "coverUrl": "./assets/products/yema007/237789521/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T03:27:55.461Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "228259827",
+      "uniqueKey": "popmo:228259827",
+      "title": "2026 Colombia training suit, white-Navy, size S-4XL4",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/228259827?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Colombia",
+      "competition": "WK & landenteams",
+      "club": "Colombia",
+      "season": "2026",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/popmo/228259827/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/01229a2d/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/228259827/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:18:13.394Z"
     },
     {
       "source": "yema007",
@@ -444112,35 +444109,6 @@
       "updatedAt": "2026-10-27T00:41:49.571Z"
     },
     {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "219336419",
-      "uniqueKey": "popmo:219336419",
-      "title": "2026 Croatia Home Stadium S-4XL4",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/219336419?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Croatia",
-      "competition": "WK & landenteams",
-      "club": "Croatia",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/219336419/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/229f6f95fc/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/219336419/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:59:28.800Z"
-    },
-    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237671708",
@@ -444466,6 +444434,35 @@
       "coverUrl": "./assets/products/minkang/163996647/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T01:01:11.642Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "219336419",
+      "uniqueKey": "popmo:219336419",
+      "title": "2026 Croatia Home Stadium S-4XL4",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/219336419?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Croatia",
+      "competition": "WK & landenteams",
+      "club": "Croatia",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/219336419/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/229f6f95fc/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/219336419/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:20:03.456Z"
     },
     {
       "source": "yema007",
@@ -445851,64 +445848,6 @@
       "season": "2026/27"
     },
     {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "230017564",
-      "uniqueKey": "popmo:230017564",
-      "title": "2026 Ecuador Home Away Third6",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/230017564?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Ecuador",
-      "competition": "WK & landenteams",
-      "club": "Ecuador",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/230017564/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/a98f0521/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/230017564/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:57:45.184Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "218997231",
-      "uniqueKey": "popmo:218997231",
-      "title": "2026 Ecuador Special Black Jersey2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/218997231?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Ecuador",
-      "competition": "WK & landenteams",
-      "club": "Ecuador",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/218997231/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/aef294ad/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/218997231/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:59:38.753Z"
-    },
-    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237187917",
@@ -446230,6 +446169,64 @@
       "coverUrl": "./assets/products/yema007/237737728/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T03:31:06.761Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "230017564",
+      "uniqueKey": "popmo:230017564",
+      "title": "2026 Ecuador Home Away Third6",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/230017564?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Ecuador",
+      "competition": "WK & landenteams",
+      "club": "Ecuador",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/230017564/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/a98f0521/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/230017564/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:17:46.442Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "218997231",
+      "uniqueKey": "popmo:218997231",
+      "title": "2026 Ecuador Special Black Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/218997231?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Ecuador",
+      "competition": "WK & landenteams",
+      "club": "Ecuador",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/218997231/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/aef294ad/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/218997231/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:20:03.456Z"
     },
     {
       "source": "yema007",
@@ -449483,66 +449480,6 @@
       "updatedAt": "2026-10-27T03:09:24.152Z"
     },
     {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "225218834",
-      "uniqueKey": "popmo:225218834",
-      "title": "2026 England Anniversary Edition S-4XL8",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/225218834?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "England",
-      "competition": "WK & landenteams",
-      "club": "England",
-      "season": "2020/26",
-      "types": [
-        "Special edition"
-      ],
-      "images": [
-        "./assets/products/popmo/225218834/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/46fb7ece/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/225218834/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:58:27.213Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "235558398",
-      "uniqueKey": "popmo:235558398",
-      "title": "England 2026 AOP Shirt Dark Steel Grey2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/235558398?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "England",
-      "competition": "WK & landenteams",
-      "club": "England",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/235558398/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/ea37a5f91e/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/235558398/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:56:52.096Z"
-    },
-    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237615533",
@@ -452424,6 +452361,37 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "225218834",
+      "uniqueKey": "popmo:225218834",
+      "title": "2026 England Anniversary Edition S-4XL8",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/225218834?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "England",
+      "competition": "WK & landenteams",
+      "club": "England",
+      "season": "2026",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/popmo/225218834/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/46fb7ece/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/225218834/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:18:26.780Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "247887847",
       "uniqueKey": "popmo:247887847",
       "title": "2026 England Energy Dri-FIT Short-Sleeve Football Top1",
@@ -453370,6 +453338,35 @@
       "coverUrl": "./assets/products/yema007/237799071/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T03:07:56.701Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "235558398",
+      "uniqueKey": "popmo:235558398",
+      "title": "England 2026 AOP Shirt Dark Steel Grey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/235558398?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "England",
+      "competition": "WK & landenteams",
+      "club": "England",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/235558398/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/ea37a5f91e/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/235558398/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:16:23.884Z"
     },
     {
       "source": "minkang",
@@ -465624,37 +465621,6 @@
       "season": "2020/21"
     },
     {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "218893681",
-      "uniqueKey": "popmo:218893681",
-      "title": "2026 Germany Away Women's Clothing S-XXL2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/218893681?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Germany",
-      "competition": "WK & landenteams",
-      "club": "Germany",
-      "season": "2020/26",
-      "types": [
-        "Dames"
-      ],
-      "images": [
-        "./assets/products/popmo/218893681/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/f8aafc96/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/218893681/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:59:49.124Z"
-    },
-    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237529478",
@@ -470518,6 +470484,37 @@
       "coverUrl": "./assets/products/yema007/237731605/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T03:05:20.625Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "218893681",
+      "uniqueKey": "popmo:218893681",
+      "title": "2026 Germany Away Women's Clothing S-XXL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/218893681?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Germany",
+      "competition": "WK & landenteams",
+      "club": "Germany",
+      "season": "2026",
+      "types": [
+        "Dames"
+      ],
+      "images": [
+        "./assets/products/popmo/218893681/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/f8aafc96/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/218893681/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:20:18.032Z"
     },
     {
       "source": "yema007",
@@ -476325,37 +476322,6 @@
       "season": "2020/21"
     },
     {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "218893402",
-      "uniqueKey": "popmo:218893402",
-      "title": "2026 Italy Home Women's Clothing S-XXL2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/218893402?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Italy",
-      "competition": "WK & landenteams",
-      "club": "Italy",
-      "season": "2020/26",
-      "types": [
-        "Dames"
-      ],
-      "images": [
-        "./assets/products/popmo/218893402/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/1ca68086/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/218893402/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:59:49.124Z"
-    },
-    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237613779",
@@ -480491,6 +480457,37 @@
       "coverUrl": "./assets/products/yema007/237729192/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T03:12:00.659Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "218893402",
+      "uniqueKey": "popmo:218893402",
+      "title": "2026 Italy Home Women's Clothing S-XXL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/218893402?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Italy",
+      "competition": "WK & landenteams",
+      "club": "Italy",
+      "season": "2026",
+      "types": [
+        "Dames"
+      ],
+      "images": [
+        "./assets/products/popmo/218893402/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/1ca68086/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/218893402/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:20:18.032Z"
     },
     {
       "source": "yema007",
@@ -495252,68 +495249,6 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
-      "sourceId": "230706635",
-      "uniqueKey": "popmo:230706635",
-      "title": "2026 Mexico Goalkeeper Rose Red S-4XL3",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/230706635?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Mexico",
-      "competition": "WK & landenteams",
-      "club": "Mexico",
-      "season": "2020/26",
-      "types": [
-        "Keepers"
-      ],
-      "images": [
-        "./assets/products/popmo/230706635/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/02795681/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/230706635/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:57:34.702Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "231038370",
-      "uniqueKey": "popmo:231038370",
-      "title": "2026 Mexico pre-match kit, green, S-4XL2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/231038370?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Mexico",
-      "competition": "WK & landenteams",
-      "club": "Mexico",
-      "season": "2020/26",
-      "types": [
-        "Training"
-      ],
-      "images": [
-        "./assets/products/popmo/231038370/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/0724a003/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/231038370/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:57:34.701Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
       "sourceId": "215666898",
       "uniqueKey": "popmo:215666898",
       "title": "2026 Mexico Promotional Jersey S-4XL3",
@@ -495339,35 +495274,6 @@
       "coverUrl": "./assets/products/popmo/215666898/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T20:00:41.069Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "230694191",
-      "uniqueKey": "popmo:230694191",
-      "title": "2026 Mexico S-4XL2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/230694191?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Mexico",
-      "competition": "WK & landenteams",
-      "club": "Mexico",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/230694191/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/0365e624/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/230694191/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:57:34.702Z"
     },
     {
       "source": "yema007",
@@ -498961,6 +498867,37 @@
       "updatedAt": "2026-10-27T01:30:38.300Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "230706635",
+      "uniqueKey": "popmo:230706635",
+      "title": "2026 Mexico Goalkeeper Rose Red S-4XL3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/230706635?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Mexico",
+      "competition": "WK & landenteams",
+      "club": "Mexico",
+      "season": "2026",
+      "types": [
+        "Keepers"
+      ],
+      "images": [
+        "./assets/products/popmo/230706635/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/02795681/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/230706635/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:17:19.732Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237535973",
@@ -499330,6 +499267,37 @@
       "updatedAt": "2026-10-27T03:18:50.958Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "231038370",
+      "uniqueKey": "popmo:231038370",
+      "title": "2026 Mexico pre-match kit, green, S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/231038370?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Mexico",
+      "competition": "WK & landenteams",
+      "club": "Mexico",
+      "season": "2026",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/popmo/231038370/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/0724a003/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/231038370/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:17:19.732Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "241009052",
@@ -499359,6 +499327,35 @@
       "coverUrl": "./assets/products/yema007/241009052/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T03:18:20.237Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "230694191",
+      "uniqueKey": "popmo:230694191",
+      "title": "2026 Mexico S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/230694191?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Mexico",
+      "competition": "WK & landenteams",
+      "club": "Mexico",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/230694191/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/0365e624/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/230694191/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:17:32.995Z"
     },
     {
       "source": "yema007",
@@ -515165,37 +515162,6 @@
       "season": "2020/21"
     },
     {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "218992768",
-      "uniqueKey": "popmo:218992768",
-      "title": "2026 Portugal Away Women's Clothing S-XXL2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/218992768?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Portugal",
-      "competition": "WK & landenteams",
-      "club": "Portugal",
-      "season": "2020/26",
-      "types": [
-        "Dames"
-      ],
-      "images": [
-        "./assets/products/popmo/218992768/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/39ad1e89/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/218992768/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:59:49.124Z"
-    },
-    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237617543",
@@ -520244,6 +520210,37 @@
       "coverUrl": "./assets/products/yema007/245136827/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T03:14:03.178Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "218992768",
+      "uniqueKey": "popmo:218992768",
+      "title": "2026 Portugal Away Women's Clothing S-XXL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/218992768?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Portugal",
+      "competition": "WK & landenteams",
+      "club": "Portugal",
+      "season": "2026",
+      "types": [
+        "Dames"
+      ],
+      "images": [
+        "./assets/products/popmo/218992768/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/39ad1e89/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/218992768/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:20:18.032Z"
     },
     {
       "source": "yema007",
@@ -525413,35 +525410,6 @@
       "season": "2016/17"
     },
     {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "232905835",
-      "uniqueKey": "popmo:232905835",
-      "title": "2026 Scotland Purple T-Shirt S-4XL3",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/232905835?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Scotland",
-      "competition": "WK & landenteams",
-      "club": "Scotland",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/232905835/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/36b340d38e/medium.png"
-      ],
-      "coverUrl": "./assets/products/popmo/232905835/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:57:13.151Z"
-    },
-    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237671770",
@@ -525617,6 +525585,35 @@
       "imageCount": 1,
       "updatedAt": "2026-10-24T13:19:52.620Z",
       "season": "2025/26"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "232905835",
+      "uniqueKey": "popmo:232905835",
+      "title": "2026 Scotland Purple T-Shirt S-4XL3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/232905835?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Scotland",
+      "competition": "WK & landenteams",
+      "club": "Scotland",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/232905835/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/36b340d38e/medium.png"
+      ],
+      "coverUrl": "./assets/products/popmo/232905835/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:16:52.770Z"
     },
     {
       "source": "yema007",
@@ -530772,66 +530769,6 @@
       "updatedAt": "2026-10-25T17:46:08.515Z"
     },
     {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "218893868",
-      "uniqueKey": "popmo:218893868",
-      "title": "2026 Spain Home Women's Clothing S-XXL4",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/218893868?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Spain",
-      "competition": "WK & landenteams",
-      "club": "Spain",
-      "season": "2020/26",
-      "types": [
-        "Dames"
-      ],
-      "images": [
-        "./assets/products/popmo/218893868/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/72b82528/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/218893868/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:59:49.124Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "230693907",
-      "uniqueKey": "popmo:230693907",
-      "title": "2026 Spain S-4XL2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/230693907?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Spain",
-      "competition": "WK & landenteams",
-      "club": "Spain",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/230693907/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/867b47a3/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/230693907/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:57:45.183Z"
-    },
-    {
       "source": "minkang",
       "sourcePriority": 1,
       "sourceId": "222043287",
@@ -533793,6 +533730,37 @@
       "updatedAt": "2026-10-27T03:10:48.645Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "218893868",
+      "uniqueKey": "popmo:218893868",
+      "title": "2026 Spain Home Women's Clothing S-XXL4",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/218893868?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Spain",
+      "competition": "WK & landenteams",
+      "club": "Spain",
+      "season": "2026",
+      "types": [
+        "Dames"
+      ],
+      "images": [
+        "./assets/products/popmo/218893868/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/72b82528/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/218893868/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:20:18.032Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237792487",
@@ -534226,6 +534194,35 @@
       "coverUrl": "./assets/products/yema007/237741666/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T03:10:48.636Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "230693907",
+      "uniqueKey": "popmo:230693907",
+      "title": "2026 Spain S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/230693907?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Spain",
+      "competition": "WK & landenteams",
+      "club": "Spain",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/230693907/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/867b47a3/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/230693907/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:17:32.995Z"
     },
     {
       "source": "yema007",
@@ -542158,64 +542155,6 @@
       "updatedAt": "2026-10-27T00:42:38.549Z"
     },
     {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "221787429",
-      "uniqueKey": "popmo:221787429",
-      "title": "2026 Uruguay Away S-4XL2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/221787429?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Uruguay",
-      "competition": "WK & landenteams",
-      "club": "Uruguay",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/221787429/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/68686f02/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/221787429/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:59:08.873Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "218993600",
-      "uniqueKey": "popmo:218993600",
-      "title": "2026 Uruguay Home Jersey S-4XL2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/218993600?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Uruguay",
-      "competition": "WK & landenteams",
-      "club": "Uruguay",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/218993600/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/96927e4f/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/218993600/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:59:49.124Z"
-    },
-    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237670849",
@@ -542990,6 +542929,35 @@
       "season": "2025/26"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "221787429",
+      "uniqueKey": "popmo:221787429",
+      "title": "2026 Uruguay Away S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/221787429?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Uruguay",
+      "competition": "WK & landenteams",
+      "club": "Uruguay",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/221787429/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/68686f02/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/221787429/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:19:21.980Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237789746",
@@ -543017,6 +542985,35 @@
       "coverUrl": "./assets/products/yema007/237789746/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T03:28:51.978Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "218993600",
+      "uniqueKey": "popmo:218993600",
+      "title": "2026 Uruguay Home Jersey S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/218993600?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Uruguay",
+      "competition": "WK & landenteams",
+      "club": "Uruguay",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/218993600/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/96927e4f/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/218993600/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:20:18.032Z"
     },
     {
       "source": "yema007",
@@ -543911,37 +543908,6 @@
       "updatedAt": "2026-10-27T00:43:10.441Z"
     },
     {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "231823515",
-      "uniqueKey": "popmo:231823515",
-      "title": "2026 USA Goalkeeper Green S-4XL - 2026 FIFA World Cup3",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/231823515?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "USA",
-      "competition": "WK & landenteams",
-      "club": "USA",
-      "season": "2020/26",
-      "types": [
-        "Keepers"
-      ],
-      "images": [
-        "./assets/products/popmo/231823515/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/2b989910/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/231823515/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:57:24.034Z"
-    },
-    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237681489",
@@ -544571,6 +544537,37 @@
       "imageCount": 1,
       "updatedAt": "2026-10-24T23:05:14.512Z",
       "season": "2025/26"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "231823515",
+      "uniqueKey": "popmo:231823515",
+      "title": "2026 USA Goalkeeper Green S-4XL - 2026 FIFA World Cup3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/231823515?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "USA",
+      "competition": "WK & landenteams",
+      "club": "USA",
+      "season": "2026",
+      "types": [
+        "Keepers"
+      ],
+      "images": [
+        "./assets/products/popmo/231823515/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/2b989910/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/231823515/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:17:06.746Z"
     },
     {
       "source": "yema007",
@@ -546118,37 +546115,6 @@
       "season": "2015/16"
     },
     {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "225219562",
-      "uniqueKey": "popmo:225219562",
-      "title": "2026 Wales 150th Anniversary Edition S-4XL2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/225219562?uid=1&isSubCate=false&referrercate=4911721",
-      "categoryId": null,
-      "collectionId": "4911721",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Wales",
-      "competition": "WK & landenteams",
-      "club": "Wales",
-      "season": "2020/26",
-      "types": [
-        "Special edition"
-      ],
-      "images": [
-        "./assets/products/popmo/225219562/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/33f287fe/medium.png"
-      ],
-      "coverUrl": "./assets/products/popmo/225219562/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:58:27.213Z"
-    },
-    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237675762",
@@ -546294,6 +546260,37 @@
       "coverUrl": "./assets/products/minkang/158989353/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T01:01:51.089Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "225219562",
+      "uniqueKey": "popmo:225219562",
+      "title": "2026 Wales 150th Anniversary Edition S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/225219562?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Wales",
+      "competition": "WK & landenteams",
+      "club": "Wales",
+      "season": "2026",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/popmo/225219562/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/33f287fe/medium.png"
+      ],
+      "coverUrl": "./assets/products/popmo/225219562/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:18:26.780Z"
     },
     {
       "source": "yema007",
@@ -759589,6 +759586,35 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "240340605",
+      "uniqueKey": "popmo:240340605",
+      "title": "1980 Dutch home Short and Long-sleeved jersey S-2XL6",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/240340605?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "QIQIYG.COM POPMO Official: +84 775508751",
+      "club": "Overig",
+      "season": "1980",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/240340605/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/96eb83f36e/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/240340605/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:15:25.783Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "241446956",
       "uniqueKey": "popmo:241446956",
       "title": "1999-2000 Rayo Vallecano Home Short Sleeve Jersey S-4XL4",
@@ -759614,35 +759640,6 @@
         "https://photo.yupoo.com/popmo/0924452fd1/medium.jpeg"
       ],
       "coverUrl": "./assets/products/popmo/241446956/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:56:10.525Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "240340605",
-      "uniqueKey": "popmo:240340605",
-      "title": "1980 Dutch home Short and Long-sleeved jersey S-2XL6",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/240340605?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "QIQIYG.COM POPMO Official: +84 775508751",
-      "club": "Overig",
-      "season": "2019/80",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/240340605/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/96eb83f36e/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/240340605/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:56:10.525Z"
     },
@@ -759705,223 +759702,6 @@
       "coverUrl": "./assets/products/popmo/202317927/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T20:05:22.940Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "221214947",
-      "uniqueKey": "popmo:221214947",
-      "title": "2026 Algeria training kit, black, S-4XL4",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/221214947?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "QIQIYG.COM POPMO Official: +84 775508751",
-      "club": "Overig",
-      "season": "2020/26",
-      "types": [
-        "Training"
-      ],
-      "images": [
-        "./assets/products/popmo/221214947/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/469541f0/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/221214947/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:59:08.873Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "239019217",
-      "uniqueKey": "popmo:239019217",
-      "title": "2026 FC Schalke 04 Statement-Jersey HOLD YOUR GROUND2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/239019217?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "QIQIYG.COM POPMO Official: +84 775508751",
-      "club": "Overig",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/239019217/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/5afc772bdd/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/239019217/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:56:20.906Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "227042741",
-      "uniqueKey": "popmo:227042741",
-      "title": "2026 Jamaica Training Suit Colors S-4XL2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/227042741?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "QIQIYG.COM POPMO Official: +84 775508751",
-      "club": "Overig",
-      "season": "2020/26",
-      "types": [
-        "Training"
-      ],
-      "images": [
-        "./assets/products/popmo/227042741/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/8313e0df/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/227042741/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:58:27.213Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "218996253",
-      "uniqueKey": "popmo:218996253",
-      "title": "2026 LFC retro style white training shirt2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/218996253?uid=1&isSubCate=false&referrercate=4911721",
-      "categoryId": null,
-      "collectionId": "4911721",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "QIQIYG.COM POPMO Official: +84 775508751",
-      "club": "Overig",
-      "season": "2020/26",
-      "types": [
-        "Retro",
-        "Training"
-      ],
-      "images": [
-        "./assets/products/popmo/218996253/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/b18a69f0/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/218996253/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:59:38.753Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "228445620",
-      "uniqueKey": "popmo:228445620",
-      "title": "2026 Newcastle Retro Special Edition T-shirt S-4XL2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/228445620?uid=1&isSubCate=false&referrercate=4911721",
-      "categoryId": null,
-      "collectionId": "4911721",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "QIQIYG.COM POPMO Official: +84 775508751",
-      "club": "Overig",
-      "season": "2020/26",
-      "types": [
-        "Retro",
-        "Special edition"
-      ],
-      "images": [
-        "./assets/products/popmo/228445620/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/5deb78b9/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/228445620/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:58:06.984Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "234113061",
-      "uniqueKey": "popmo:234113061",
-      "title": "2026 St. Pauli long-sleeved special edition jersey, sizes S-4X4",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/234113061?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "QIQIYG.COM POPMO Official: +84 775508751",
-      "club": "Overig",
-      "season": "2020/26",
-      "types": [
-        "Special edition"
-      ],
-      "images": [
-        "./assets/products/popmo/234113061/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/4a66f0e21f/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/234113061/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:57:02.691Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "234115085",
-      "uniqueKey": "popmo:234115085",
-      "title": "2026 St. Pauli short-sleeved special edition jersey, sizes S-4X3",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/234115085?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "QIQIYG.COM POPMO Official: +84 775508751",
-      "club": "Overig",
-      "season": "2020/26",
-      "types": [
-        "Special edition"
-      ],
-      "images": [
-        "./assets/products/popmo/234115085/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/8e98f2c8ba/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/234115085/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:57:02.691Z"
     },
     {
       "source": "popmo",
@@ -763752,6 +763532,161 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "221214947",
+      "uniqueKey": "popmo:221214947",
+      "title": "2026 Algeria training kit, black, S-4XL4",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/221214947?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "QIQIYG.COM POPMO Official: +84 775508751",
+      "club": "Overig",
+      "season": "2026",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/popmo/221214947/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/469541f0/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/221214947/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:19:21.980Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "239019217",
+      "uniqueKey": "popmo:239019217",
+      "title": "2026 FC Schalke 04 Statement-Jersey HOLD YOUR GROUND2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/239019217?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "QIQIYG.COM POPMO Official: +84 775508751",
+      "club": "Overig",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/239019217/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/5afc772bdd/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/239019217/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:15:39.831Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "227042741",
+      "uniqueKey": "popmo:227042741",
+      "title": "2026 Jamaica Training Suit Colors S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/227042741?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "QIQIYG.COM POPMO Official: +84 775508751",
+      "club": "Overig",
+      "season": "2026",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/popmo/227042741/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/8313e0df/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/227042741/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:18:26.780Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "218996253",
+      "uniqueKey": "popmo:218996253",
+      "title": "2026 LFC retro style white training shirt2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/218996253?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "QIQIYG.COM POPMO Official: +84 775508751",
+      "club": "Overig",
+      "season": "2026",
+      "types": [
+        "Retro",
+        "Training"
+      ],
+      "images": [
+        "./assets/products/popmo/218996253/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/b18a69f0/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/218996253/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:20:03.457Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "228445620",
+      "uniqueKey": "popmo:228445620",
+      "title": "2026 Newcastle Retro Special Edition T-shirt S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/228445620?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "QIQIYG.COM POPMO Official: +84 775508751",
+      "club": "Overig",
+      "season": "2026",
+      "types": [
+        "Retro",
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/popmo/228445620/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/5deb78b9/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/228445620/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:18:00.273Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "243444097",
       "uniqueKey": "popmo:243444097",
       "title": "2026 Newcastle Retro Style Stadium Jersey S-4XL4",
@@ -763779,6 +763714,68 @@
       "coverUrl": "./assets/products/popmo/243444097/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T04:14:58.675Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "234113061",
+      "uniqueKey": "popmo:234113061",
+      "title": "2026 St. Pauli long-sleeved special edition jersey, sizes S-4X4",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/234113061?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "QIQIYG.COM POPMO Official: +84 775508751",
+      "club": "Overig",
+      "season": "2026",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/popmo/234113061/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/4a66f0e21f/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/234113061/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:16:38.575Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "234115085",
+      "uniqueKey": "popmo:234115085",
+      "title": "2026 St. Pauli short-sleeved special edition jersey, sizes S-4X3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/234115085?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "QIQIYG.COM POPMO Official: +84 775508751",
+      "club": "Overig",
+      "season": "2026",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/popmo/234115085/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/8e98f2c8ba/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/234115085/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:16:38.575Z"
     },
     {
       "source": "popmo",
