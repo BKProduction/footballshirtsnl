@@ -1,14 +1,14 @@
 {
-  "lastSync": "2026-10-27T04:25:07.490Z",
+  "lastSync": "2026-10-27T04:30:13.685Z",
   "syncState": {
     "status": "in-progress",
-    "label": "popmo 1975/2721",
+    "label": "popmo 2525/2721",
     "batchSize": 25,
     "maxImages": 1
   },
   "syncProgress": {
     "currentSource": "popmo",
-    "nextIndex": 1975,
+    "nextIndex": 2525,
     "totalForSource": 2721,
     "completedSources": [
       "minkang",
@@ -17,13 +17,13 @@
   },
   "stats": {
     "discovered": 24378,
-    "added": 418,
-    "changed": 5379,
-    "unchanged": 17813,
+    "added": 428,
+    "changed": 5387,
+    "unchanged": 18345,
     "repaired": 0,
     "skipped": 22,
-    "duplicatesRemoved": 408,
-    "batchesSaved": 947
+    "duplicatesRemoved": 418,
+    "batchesSaved": 969
   },
   "sources": [
     {
@@ -37750,93 +37750,6 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
-      "sourceId": "201191221",
-      "uniqueKey": "popmo:201191221",
-      "title": "2025 Arminia Bielefeld 120th Anniversary Edition S-4XL2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/201191221?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/25",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/201191221/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/a42b067d/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/201191221/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T20:05:56.934Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "198393454",
-      "uniqueKey": "popmo:198393454",
-      "title": "2025 Betis Naruto Special Edition2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/198393454?uid=1&isSubCate=false&referrercate=4911722",
-      "categoryId": null,
-      "collectionId": "4911722",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/25",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/198393454/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/33627d87/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/198393454/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T20:07:18.406Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "202327023",
-      "uniqueKey": "popmo:202327023",
-      "title": "2025 Olympiacos FC 100th Anniversary Jersey2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/202327023?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/25",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/202327023/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/48bc992d/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/202327023/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T20:05:10.983Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
       "sourceId": "201451821",
       "uniqueKey": "popmo:201451821",
       "title": "Al-Hilal World Cup 2025 Away Jersey2",
@@ -37862,35 +37775,6 @@
       "coverUrl": "./assets/products/popmo/201451821/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:49:26.619Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "202324490",
-      "uniqueKey": "popmo:202324490",
-      "title": "Bolivia 2025 Centenary Away Jersey2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/202324490?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/25",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/202324490/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/b3bc2d4d/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/202324490/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T20:05:10.983Z"
     },
     {
       "source": "popmo",
@@ -38707,6 +38591,64 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "201191221",
+      "uniqueKey": "popmo:201191221",
+      "title": "2025 Arminia Bielefeld 120th Anniversary Edition S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/201191221?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2025",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/201191221/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/a42b067d/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/201191221/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:27:40.805Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "198393454",
+      "uniqueKey": "popmo:198393454",
+      "title": "2025 Betis Naruto Special Edition2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/198393454?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2025",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/198393454/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/33627d87/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/198393454/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:29:31.276Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "205202090",
       "uniqueKey": "popmo:205202090",
       "title": "2025 Boca Juniors Terrace Blue Icons Jersey2",
@@ -38939,6 +38881,35 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "202327023",
+      "uniqueKey": "popmo:202327023",
+      "title": "2025 Olympiacos FC 100th Anniversary Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/202327023?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2025",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/202327023/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/48bc992d/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/202327023/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:26:59.031Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "200936716",
       "uniqueKey": "popmo:200936716",
       "title": "Al-Hilal World Cup 2025 Home Jersey2",
@@ -38964,6 +38935,35 @@
       "coverUrl": "./assets/products/popmo/200936716/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T04:09:44.744Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "202324490",
+      "uniqueKey": "popmo:202324490",
+      "title": "Bolivia 2025 Centenary Away Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/202324490?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2025",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/202324490/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/b3bc2d4d/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/202324490/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:26:59.031Z"
     },
     {
       "source": "popmo",
@@ -323951,66 +323951,6 @@
       "updatedAt": "2026-10-25T17:20:53.897Z"
     },
     {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "200692629",
-      "uniqueKey": "popmo:200692629",
-      "title": "1302634506 Special PSG 2025 Champions League 'Eiffel Tower Star' Women Jersey2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/200692629?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "PSG",
-      "season": "2020/25",
-      "types": [
-        "Dames"
-      ],
-      "images": [
-        "./assets/products/popmo/200692629/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/d6336849/medium.png"
-      ],
-      "coverUrl": "./assets/products/popmo/200692629/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T20:06:20.268Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "198236891",
-      "uniqueKey": "popmo:198236891",
-      "title": "Special PSG 2025 Champions League 'Eiffel Tower Star' Fan Jersey S-4XL3",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/198236891?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "PSG",
-      "season": "2020/25",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/198236891/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/cd9e4362/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/198236891/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T20:06:54.923Z"
-    },
-    {
       "source": "minkang",
       "sourcePriority": 1,
       "sourceId": "252957932",
@@ -333929,6 +333869,66 @@
       "coverUrl": "./assets/products/minkang/198974225/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:20:30.959Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "200692629",
+      "uniqueKey": "popmo:200692629",
+      "title": "1302634506 Special PSG 2025 Champions League 'Eiffel Tower Star' Women Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/200692629?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "PSG",
+      "season": "2025",
+      "types": [
+        "Dames"
+      ],
+      "images": [
+        "./assets/products/popmo/200692629/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/d6336849/medium.png"
+      ],
+      "coverUrl": "./assets/products/popmo/200692629/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:28:22.976Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "198236891",
+      "uniqueKey": "popmo:198236891",
+      "title": "Special PSG 2025 Champions League 'Eiffel Tower Star' Fan Jersey S-4XL3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/198236891?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "PSG",
+      "season": "2025",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/198236891/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/cd9e4362/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/198236891/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:29:04.162Z"
     },
     {
       "source": "popmo",
@@ -759615,6 +759615,35 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "198482548",
+      "uniqueKey": "popmo:198482548",
+      "title": "1997 Sheffield Wednesday home soccer jersey4",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/198482548?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "QIQIYG.COM POPMO Official: +84 775508751",
+      "club": "Overig",
+      "season": "1997",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/198482548/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/b12fc7f9/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/198482548/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:29:17.711Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "241446956",
       "uniqueKey": "popmo:241446956",
       "title": "1999-2000 Rayo Vallecano Home Short Sleeve Jersey S-4XL4",
@@ -759642,66 +759671,6 @@
       "coverUrl": "./assets/products/popmo/241446956/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:56:10.525Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "198482548",
-      "uniqueKey": "popmo:198482548",
-      "title": "1997 Sheffield Wednesday home soccer jersey4",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/198482548?uid=1&isSubCate=false&referrercate=4911721",
-      "categoryId": null,
-      "collectionId": "4911721",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "QIQIYG.COM POPMO Official: +84 775508751",
-      "club": "Overig",
-      "season": "2019/97",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/198482548/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/b12fc7f9/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/198482548/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T20:07:18.405Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "202317927",
-      "uniqueKey": "popmo:202317927",
-      "title": "2025 Palestine Jersey T-shirt Special Edition Black & Gold New2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/202317927?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "QIQIYG.COM POPMO Official: +84 775508751",
-      "club": "Overig",
-      "season": "2020/25",
-      "types": [
-        "Special edition"
-      ],
-      "images": [
-        "./assets/products/popmo/202317927/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/3fb4c3e6/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/202317927/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T20:05:22.940Z"
     },
     {
       "source": "popmo",
@@ -759913,6 +759882,37 @@
       "coverUrl": "./assets/products/popmo/201765680/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T20:05:33.991Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "202317927",
+      "uniqueKey": "popmo:202317927",
+      "title": "2025 Palestine Jersey T-shirt Special Edition Black & Gold New2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/202317927?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "QIQIYG.COM POPMO Official: +84 775508751",
+      "club": "Overig",
+      "season": "2025",
+      "types": [
+        "Special edition"
+      ],
+      "images": [
+        "./assets/products/popmo/202317927/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/3fb4c3e6/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/202317927/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:27:12.843Z"
     },
     {
       "source": "popmo",
