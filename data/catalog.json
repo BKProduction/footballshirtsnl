@@ -1,14 +1,14 @@
 {
-  "lastSync": "2026-10-27T03:55:07.151Z",
+  "lastSync": "2026-10-27T04:00:12.706Z",
   "syncState": {
     "status": "in-progress",
-    "label": "yema007 13250/14191",
+    "label": "yema007 13800/14191",
     "batchSize": 25,
     "maxImages": 1
   },
   "syncProgress": {
     "currentSource": "yema007",
-    "nextIndex": 13250,
+    "nextIndex": 13800,
     "totalForSource": 14191,
     "completedSources": [
       "minkang"
@@ -16,13 +16,13 @@
   },
   "stats": {
     "discovered": 21657,
-    "added": 376,
-    "changed": 5143,
-    "unchanged": 15179,
+    "added": 380,
+    "changed": 5159,
+    "unchanged": 15709,
     "repaired": 0,
     "skipped": 18,
-    "duplicatesRemoved": 373,
-    "batchesSaved": 829
+    "duplicatesRemoved": 377,
+    "batchesSaved": 851
   },
   "sources": [
     {
@@ -407,10 +407,7 @@
     "2019/96",
     "2019/95",
     "2019/94",
-    "2019/90",
     "2019/86",
-    "2019/84",
-    "2019/82",
     "2019/81",
     "2019/80",
     "2019/20",
@@ -145065,6 +145062,37 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237496251",
+      "uniqueKey": "yema007:237496251",
+      "title": "1990 Retro Ajax Away S-XXL Cheap Soccer Jerseys6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237496251?uid=1&isSubCate=true&referrercate=876716",
+      "categoryId": "876716",
+      "collectionId": "876716",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Ajax 阿贾克斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Ajax",
+      "season": "1990",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237496251/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/ecf1d45c92/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237496251/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T03:57:22.460Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237376360",
       "uniqueKey": "yema007:237376360",
       "title": "94-95 Ajax away royal blue long sleeve10",
@@ -145664,37 +145692,6 @@
       "coverUrl": "./assets/products/minkang/236326053/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:31:34.364Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237496251",
-      "uniqueKey": "yema007:237496251",
-      "title": "1990 Retro Ajax Away S-XXL Cheap Soccer Jerseys6",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237496251?uid=1&isSubCate=true&referrercate=876716",
-      "categoryId": "876716",
-      "collectionId": "876716",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Ajax 阿贾克斯",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Ajax",
-      "season": "2019/90",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/yema007/237496251/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/ecf1d45c92/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237496251/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:39:45.925Z"
     },
     {
       "source": "yema007",
@@ -265029,6 +265026,35 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237376937",
+      "uniqueKey": "yema007:237376937",
+      "title": "2007 LA Galaxy home9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237376937?uid=1&isSubCate=true&referrercate=876692",
+      "categoryId": "876692",
+      "collectionId": "876692",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "LA Galaxy 银河",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "LA Galaxy",
+      "season": "2007",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237376937/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/7f651c4cbf/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237376937/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T03:58:19.878Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237484104",
       "uniqueKey": "yema007:237484104",
       "title": "11-12 Galaxy away Long Sleeve11",
@@ -265204,35 +265230,6 @@
         "https://photo.yupoo.com/yema007/78b6624b36/medium.jpg"
       ],
       "coverUrl": "./assets/products/yema007/237376896/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:40:30.225Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237376937",
-      "uniqueKey": "yema007:237376937",
-      "title": "2007 LA Galaxy home9",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237376937?uid=1&isSubCate=true&referrercate=876692",
-      "categoryId": "876692",
-      "collectionId": "876692",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "LA Galaxy 银河",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "LA Galaxy",
-      "season": "2020/07",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237376937/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/7f651c4cbf/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237376937/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:40:30.225Z"
     },
@@ -341603,6 +341600,35 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237376654",
+      "uniqueKey": "yema007:237376654",
+      "title": "1990 PSV home redwhite6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237376654?uid=1&isSubCate=true&referrercate=876718",
+      "categoryId": "876718",
+      "collectionId": "876718",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "PSV 埃因霍温",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "PSV",
+      "season": "1990",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237376654/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/f24f7101a7/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237376654/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T03:58:05.192Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237535434",
       "uniqueKey": "yema007:237535434",
       "title": "94-95 PSV Eindhoven Away Retro Kit Vintage Shirt David Jersey Supplier4",
@@ -341787,6 +341813,35 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237664793",
+      "uniqueKey": "yema007:237664793",
+      "title": "1998 PSV red jacket2",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237664793?uid=1&isSubCate=true&referrercate=876718",
+      "categoryId": "876718",
+      "collectionId": "876718",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "PSV 埃因霍温",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "PSV",
+      "season": "1998",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237664793/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/d7d2f4b1a4/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237664793/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T03:57:50.484Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237376717",
       "uniqueKey": "yema007:237376717",
       "title": "98-99 PSV away blackwhite11",
@@ -341965,64 +342020,6 @@
       "coverUrl": "./assets/products/minkang/213863059/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:31:34.363Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237376654",
-      "uniqueKey": "yema007:237376654",
-      "title": "1990 PSV home redwhite6",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237376654?uid=1&isSubCate=true&referrercate=876718",
-      "categoryId": "876718",
-      "collectionId": "876718",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "PSV 埃因霍温",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "PSV",
-      "season": "2019/90",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237376654/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/f24f7101a7/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237376654/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:40:18.901Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237664793",
-      "uniqueKey": "yema007:237664793",
-      "title": "1998 PSV red jacket2",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237664793?uid=1&isSubCate=true&referrercate=876718",
-      "categoryId": "876718",
-      "collectionId": "876718",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "PSV 埃因霍温",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "PSV",
-      "season": "2019/98",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237664793/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/d7d2f4b1a4/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237664793/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:40:07.928Z"
     },
     {
       "source": "yema007",
@@ -511421,6 +511418,37 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "259878494",
+      "uniqueKey": "yema007:259878494",
+      "title": "1984 Poland Home Retro Kit Vintage Shirt AAAAJersey Supply Yupoo6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/259878494?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Poland",
+      "competition": "WK & landenteams",
+      "club": "Poland",
+      "season": "1984",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/259878494/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/ed37db5695/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/259878494/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:00:12.573Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237793540",
       "uniqueKey": "yema007:237793540",
       "title": "1997 Poland Mens Home Retro Kit Vintage Soccer T-Shirt David Jersey Supply5",
@@ -511510,37 +511538,6 @@
       "coverUrl": "./assets/products/minkang/166257219/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T01:00:55.451Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "259878494",
-      "uniqueKey": "yema007:259878494",
-      "title": "1984 Poland Home Retro Kit Vintage Shirt AAAAJersey Supply Yupoo6",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/259878494?uid=1&isSubCate=false&referrercate=5217438",
-      "categoryId": null,
-      "collectionId": "5217438",
-      "sourceCollection": "more",
-      "sourceCategory": "David jersey",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Poland",
-      "competition": "WK & landenteams",
-      "club": "Poland",
-      "season": "2019/84",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/yema007/259878494/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/ed37db5695/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/259878494/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:42:01.406Z"
     },
     {
       "source": "yema007",
@@ -570388,6 +570385,37 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "259878513",
+      "uniqueKey": "yema007:259878513",
+      "title": "1980 Argentinos Juniors Home Retro Kit Vintage Shirt AAAAJersey Supply Yupoo4",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/259878513?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Overig",
+      "season": "1980",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/259878513/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/2ed2bf0414/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/259878513/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:00:12.573Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "259878500",
       "uniqueKey": "yema007:259878500",
       "title": "1981 Gremio Home Retro Kit Vintage Shirt AAAAJersey Supply Yupoo4",
@@ -570415,6 +570443,37 @@
       "coverUrl": "./assets/products/yema007/259878500/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T02:25:46.716Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "259878478",
+      "uniqueKey": "yema007:259878478",
+      "title": "1982 Peñarol Home Retro Kit Vintage Shirt AAAAJersey Supply Yupoo4",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/259878478?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Overig",
+      "season": "1982",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/259878478/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/a2820cab72/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/259878478/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:00:12.573Z"
     },
     {
       "source": "yema007",
@@ -571104,68 +571163,6 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
-      "sourceId": "259878513",
-      "uniqueKey": "yema007:259878513",
-      "title": "1980 Argentinos Juniors Home Retro Kit Vintage Shirt AAAAJersey Supply Yupoo4",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/259878513?uid=1&isSubCate=false&referrercate=5217438",
-      "categoryId": null,
-      "collectionId": "5217438",
-      "sourceCollection": "more",
-      "sourceCategory": "David jersey",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "David jersey",
-      "country": "Overig",
-      "competition": "David jersey",
-      "club": "Overig",
-      "season": "2019/80",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/yema007/259878513/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/2ed2bf0414/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/259878513/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:42:01.406Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "259878478",
-      "uniqueKey": "yema007:259878478",
-      "title": "1982 Peñarol Home Retro Kit Vintage Shirt AAAAJersey Supply Yupoo4",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/259878478?uid=1&isSubCate=false&referrercate=5217438",
-      "categoryId": null,
-      "collectionId": "5217438",
-      "sourceCollection": "more",
-      "sourceCategory": "David jersey",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "David jersey",
-      "country": "Overig",
-      "competition": "David jersey",
-      "club": "Overig",
-      "season": "2019/82",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/yema007/259878478/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/a2820cab72/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/259878478/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:42:01.407Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
       "sourceId": "237486417",
       "uniqueKey": "yema007:237486417",
       "title": "1998 Málaga CF Home Retro Kit Vintage Shirt David Jersey Dropship8",
@@ -571752,242 +571749,6 @@
       "coverUrl": "./assets/products/yema007/237683239/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:43:08.299Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237503051",
-      "uniqueKey": "yema007:237503051",
-      "title": "2025 Ultimate Móstoles Home Shirt Football Uniform David Jersey Supply9",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237503051?uid=1&isSubCate=false&referrercate=5217438",
-      "categoryId": null,
-      "collectionId": "5217438",
-      "sourceCollection": "more",
-      "sourceCategory": "David jersey",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "David jersey",
-      "country": "Overig",
-      "competition": "David jersey",
-      "club": "Overig",
-      "season": "2020/25",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/237503051/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/37b3480436/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237503051/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:38:25.225Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "259878434",
-      "uniqueKey": "yema007:259878434",
-      "title": "2026 Club Tijuana Third Shirt Long Sleeve Soccer Clothes AAAAJersey Supply Yupoo2",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/259878434?uid=1&isSubCate=false&referrercate=5217438",
-      "categoryId": null,
-      "collectionId": "5217438",
-      "sourceCollection": "more",
-      "sourceCategory": "David jersey",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "David jersey",
-      "country": "Overig",
-      "competition": "David jersey",
-      "club": "Overig",
-      "season": "2020/26",
-      "types": [
-        "Lange mouw"
-      ],
-      "images": [
-        "./assets/products/yema007/259878434/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/20c516772a/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/259878434/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:42:01.407Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "258525693",
-      "uniqueKey": "yema007:258525693",
-      "title": "2026 F1 Mercedes Formula racing Player version AAAAJersey Wholesale Yupoo17",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/258525693?uid=1&isSubCate=false&referrercate=5217438",
-      "categoryId": null,
-      "collectionId": "5217438",
-      "sourceCollection": "more",
-      "sourceCategory": "David jersey",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "David jersey",
-      "country": "Overig",
-      "competition": "David jersey",
-      "club": "Overig",
-      "season": "2020/26",
-      "types": [
-        "Player version"
-      ],
-      "images": [
-        "./assets/products/yema007/258525693/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/d861b80377/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/yema007/258525693/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:42:01.408Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "258525681",
-      "uniqueKey": "yema007:258525681",
-      "title": "2026 F1 Mercedes Formula racing POLO Shirt AAAAJersey Wholesale Yupoo15",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/258525681?uid=1&isSubCate=false&referrercate=5217438",
-      "categoryId": null,
-      "collectionId": "5217438",
-      "sourceCollection": "more",
-      "sourceCategory": "David jersey",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "David jersey",
-      "country": "Overig",
-      "competition": "David jersey",
-      "club": "Overig",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/258525681/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/cf9ce20410/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/yema007/258525681/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:42:01.408Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "258525688",
-      "uniqueKey": "yema007:258525688",
-      "title": "2026 F1 Mercedes Formula racing POLO Shirt AAAAJersey Wholesale Yupoo17",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/258525688?uid=1&isSubCate=false&referrercate=5217438",
-      "categoryId": null,
-      "collectionId": "5217438",
-      "sourceCollection": "more",
-      "sourceCategory": "David jersey",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "David jersey",
-      "country": "Overig",
-      "competition": "David jersey",
-      "club": "Overig",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/258525688/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/e01f7eb90d/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/yema007/258525688/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:42:01.408Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "258525675",
-      "uniqueKey": "yema007:258525675",
-      "title": "2026 F1 Mercedes Formula racing T shirt AAAAJersey Wholesale Yupoo14",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/258525675?uid=1&isSubCate=false&referrercate=5217438",
-      "categoryId": null,
-      "collectionId": "5217438",
-      "sourceCollection": "more",
-      "sourceCategory": "David jersey",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "David jersey",
-      "country": "Overig",
-      "competition": "David jersey",
-      "club": "Overig",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/258525675/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/ccb05901ee/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/yema007/258525675/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:42:01.408Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "258525652",
-      "uniqueKey": "yema007:258525652",
-      "title": "2026 F1 Mercedes wolf Formula racing T shirt AAAAJersey Wholesale Yupoo15",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/258525652?uid=1&isSubCate=false&referrercate=5217438",
-      "categoryId": null,
-      "collectionId": "5217438",
-      "sourceCollection": "more",
-      "sourceCategory": "David jersey",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "David jersey",
-      "country": "Overig",
-      "competition": "David jersey",
-      "club": "Overig",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/258525652/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/de6c8e89ec/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/258525652/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:42:01.408Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "258525659",
-      "uniqueKey": "yema007:258525659",
-      "title": "2026 F1 Mercedes wolf Formula racing T shirt(1) AAAAJersey Wholesale Yupoo17",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/258525659?uid=1&isSubCate=false&referrercate=5217438",
-      "categoryId": null,
-      "collectionId": "5217438",
-      "sourceCollection": "more",
-      "sourceCategory": "David jersey",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "David jersey",
-      "country": "Overig",
-      "competition": "David jersey",
-      "club": "Overig",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/yema007/258525659/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/2c98e4c859/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/yema007/258525659/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:42:01.408Z"
     },
     {
       "source": "yema007",
@@ -605896,6 +605657,35 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237503051",
+      "uniqueKey": "yema007:237503051",
+      "title": "2025 Ultimate Móstoles Home Shirt Football Uniform David Jersey Supply9",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237503051?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Overig",
+      "season": "2025",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/237503051/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/37b3480436/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237503051/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T03:55:48.386Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237517730",
       "uniqueKey": "yema007:237517730",
       "title": "2025 Uzbekistan Home Shirt Soccer Uniform David Jersey6",
@@ -631853,6 +631643,37 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "259878434",
+      "uniqueKey": "yema007:259878434",
+      "title": "2026 Club Tijuana Third Shirt Long Sleeve Soccer Clothes AAAAJersey Supply Yupoo2",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/259878434?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Overig",
+      "season": "2026",
+      "types": [
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/yema007/259878434/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/20c516772a/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/259878434/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:00:12.573Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237738834",
       "uniqueKey": "yema007:237738834",
       "title": "2026 Congo Away kit Football Shirt Player Version David Jersey Supply8",
@@ -632956,6 +632777,37 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "258525693",
+      "uniqueKey": "yema007:258525693",
+      "title": "2026 F1 Mercedes Formula racing Player version AAAAJersey Wholesale Yupoo17",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/258525693?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Overig",
+      "season": "2026",
+      "types": [
+        "Player version"
+      ],
+      "images": [
+        "./assets/products/yema007/258525693/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/d861b80377/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/yema007/258525693/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:00:12.573Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "258525707",
       "uniqueKey": "yema007:258525707",
       "title": "2026 F1 Mercedes Formula racing Player version Shirt AAAAJersey Wholesale Yupoo16",
@@ -632983,6 +632835,151 @@
       "coverUrl": "./assets/products/yema007/258525707/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T01:32:34.586Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "258525681",
+      "uniqueKey": "yema007:258525681",
+      "title": "2026 F1 Mercedes Formula racing POLO Shirt AAAAJersey Wholesale Yupoo15",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/258525681?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Overig",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/258525681/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/cf9ce20410/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/yema007/258525681/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:00:12.573Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "258525688",
+      "uniqueKey": "yema007:258525688",
+      "title": "2026 F1 Mercedes Formula racing POLO Shirt AAAAJersey Wholesale Yupoo17",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/258525688?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Overig",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/258525688/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/e01f7eb90d/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/yema007/258525688/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:00:12.573Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "258525675",
+      "uniqueKey": "yema007:258525675",
+      "title": "2026 F1 Mercedes Formula racing T shirt AAAAJersey Wholesale Yupoo14",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/258525675?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Overig",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/258525675/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/ccb05901ee/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/yema007/258525675/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:00:12.573Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "258525652",
+      "uniqueKey": "yema007:258525652",
+      "title": "2026 F1 Mercedes wolf Formula racing T shirt AAAAJersey Wholesale Yupoo15",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/258525652?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Overig",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/258525652/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/de6c8e89ec/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/258525652/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:00:12.573Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "258525659",
+      "uniqueKey": "yema007:258525659",
+      "title": "2026 F1 Mercedes wolf Formula racing T shirt(1) AAAAJersey Wholesale Yupoo17",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/258525659?uid=1&isSubCate=false&referrercate=5217438",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "David jersey",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "David jersey",
+      "country": "Overig",
+      "competition": "David jersey",
+      "club": "Overig",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/yema007/258525659/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/2c98e4c859/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/yema007/258525659/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:00:12.573Z"
     },
     {
       "source": "yema007",
@@ -749874,7 +749871,7 @@
       "country": "Overig",
       "competition": "New York Red Bull 纽约红牛",
       "club": "Overig",
-      "season": "2020/10",
+      "season": "2010",
       "types": [
         "Retro"
       ],
@@ -749886,7 +749883,7 @@
       ],
       "coverUrl": "./assets/products/yema007/237552845/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T19:41:27.896Z"
+      "updatedAt": "2026-10-27T03:59:31.111Z"
     },
     {
       "source": "yema007",
