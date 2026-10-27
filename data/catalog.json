@@ -1,14 +1,14 @@
 {
-  "lastSync": "2026-10-27T04:10:17.825Z",
+  "lastSync": "2026-10-27T04:15:12.396Z",
   "syncState": {
     "status": "in-progress",
-    "label": "popmo 500/2721",
+    "label": "popmo 950/2721",
     "batchSize": 25,
     "maxImages": 1
   },
   "syncProgress": {
     "currentSource": "popmo",
-    "nextIndex": 500,
+    "nextIndex": 950,
     "totalForSource": 2721,
     "completedSources": [
       "minkang",
@@ -17,13 +17,13 @@
   },
   "stats": {
     "discovered": 24378,
-    "added": 406,
-    "changed": 5258,
-    "unchanged": 16474,
+    "added": 407,
+    "changed": 5286,
+    "unchanged": 16892,
     "repaired": 0,
-    "skipped": 19,
-    "duplicatesRemoved": 396,
-    "batchesSaved": 888
+    "skipped": 22,
+    "duplicatesRemoved": 397,
+    "batchesSaved": 906
   },
   "sources": [
     {
@@ -73,7 +73,7 @@
     "Overige trainingskleding",
     "Overige voetbalproducten",
     "Riemen",
-    "Schoenen",
+    "Sandalen & slippers",
     "Voetbalschoenen"
   ],
   "competitions": [
@@ -245,12 +245,6 @@
   ],
   "seasons": [
     "Onbekend seizoen",
-    "2054/85",
-    "2045/14",
-    "2042/15",
-    "2041/30",
-    "2041/18",
-    "2028/70",
     "2027/28",
     "2027",
     "2026/42",
@@ -399,16 +393,13 @@
     "2020/02",
     "2020",
     "2019/97",
-    "2019/96",
     "2019/86",
     "2019/81",
     "2019/80",
     "2019/20",
-    "2019/09",
     "2019/07",
     "2019/01",
     "2019",
-    "2018/94",
     "2018/19",
     "2018",
     "2017/18",
@@ -420,7 +411,6 @@
     "2015",
     "2014/15",
     "2014",
-    "2013/37",
     "2013/14",
     "2013",
     "2012/14",
@@ -428,7 +418,6 @@
     "2012",
     "2011/12",
     "2011",
-    "2010/17",
     "2010/12",
     "2010/11",
     "2010/07",
@@ -440,7 +429,6 @@
     "2010/01",
     "2010/00",
     "2010",
-    "2009/57",
     "2009/10",
     "2009",
     "2008/10",
@@ -539,7 +527,6 @@
     "1986",
     "1985/87",
     "1985/86",
-    "1985/32",
     "1985",
     "1984/89",
     "1984/88",
@@ -567,7 +554,6 @@
     "1978/81",
     "1978/80",
     "1978/79",
-    "1978/66",
     "1978",
     "1977/82",
     "1977/80",
@@ -585,7 +571,6 @@
     "1974",
     "1973/75",
     "1973/74",
-    "1972/79",
     "1972",
     "1971/79",
     "1971",
@@ -602,6 +587,7 @@
     "1956",
     "1921/21",
     "1914/14",
+    "1909",
     "1907",
     "1906/06",
     "1903/03"
@@ -1981,35 +1967,6 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
-      "sourceId": "241325501",
-      "uniqueKey": "popmo:241325501",
-      "title": "HOKA ONE CLIFTON 1017",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/241325501?uid=1&isSubCate=false&referrercate=5242887",
-      "categoryId": null,
-      "collectionId": "5242887",
-      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2010/17",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/241325501/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/86316d37a7/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/241325501/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-26T02:45:41.246Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
       "sourceId": "208267865",
       "uniqueKey": "popmo:208267865",
       "title": "2013 Málaga home away S-2XL4",
@@ -2035,64 +1992,6 @@
       "coverUrl": "./assets/products/popmo/208267865/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T04:07:55.567Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "241326847",
-      "uniqueKey": "popmo:241326847",
-      "title": "NIKE AIR ZOOM VOMERO 1894",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/241326847?uid=1&isSubCate=false&referrercate=5242887",
-      "categoryId": null,
-      "collectionId": "5242887",
-      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2018/94",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/241326847/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/a05368490a/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/241326847/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-26T02:45:41.245Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "241328723",
-      "uniqueKey": "popmo:241328723",
-      "title": "NEW BALANCE 2002R27",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/241328723?uid=1&isSubCate=false&referrercate=5242887",
-      "categoryId": null,
-      "collectionId": "5242887",
-      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/02",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/241328723/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/533b23bc33/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/241328723/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-26T02:45:41.245Z"
     },
     {
       "source": "popmo",
@@ -2300,64 +2199,6 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
-      "sourceId": "241303318",
-      "uniqueKey": "popmo:241303318",
-      "title": "AIR JORDAN 4130",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/241303318?uid=1&isSubCate=false&referrercate=5242887",
-      "categoryId": null,
-      "collectionId": "5242887",
-      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2041/30",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/241303318/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/1c10e4a218/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/241303318/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:53:13.355Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "241327955",
-      "uniqueKey": "popmo:241327955",
-      "title": "NIKE AIR ZOOM PEGASUS 4215",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/241327955?uid=1&isSubCate=false&referrercate=5242887",
-      "categoryId": null,
-      "collectionId": "5242887",
-      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2042/15",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/241327955/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/33db3f9fb7/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/241327955/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-26T02:45:41.245Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
       "sourceId": "193422991",
       "uniqueKey": "popmo:193422991",
       "title": "AC Milan37",
@@ -2412,6 +2253,35 @@
       "imageCount": 1,
       "updatedAt": "2026-10-24T12:52:10.719Z",
       "season": "Onbekend seizoen"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "241303318",
+      "uniqueKey": "popmo:241303318",
+      "title": "AIR JORDAN 4130",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/241303318?uid=1&isSubCate=false&referrercate=5242887",
+      "categoryId": null,
+      "collectionId": "5242887",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "Onbekend seizoen",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/241303318/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/1c10e4a218/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/241303318/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:10:44.441Z"
     },
     {
       "source": "popmo",
@@ -2677,6 +2547,35 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "241325501",
+      "uniqueKey": "popmo:241325501",
+      "title": "HOKA ONE CLIFTON 1017",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/241325501?uid=1&isSubCate=false&referrercate=5242887",
+      "categoryId": null,
+      "collectionId": "5242887",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "Onbekend seizoen",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/241325501/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/86316d37a7/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/241325501/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:10:31.257Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "193422983",
       "uniqueKey": "popmo:193422983",
       "title": "Inter Milan23",
@@ -2880,6 +2779,35 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "241328723",
+      "uniqueKey": "popmo:241328723",
+      "title": "NEW BALANCE 2002R27",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/241328723?uid=1&isSubCate=false&referrercate=5242887",
+      "categoryId": null,
+      "collectionId": "5242887",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "Onbekend seizoen",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/241328723/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/533b23bc33/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/241328723/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:10:31.257Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "193422473",
       "uniqueKey": "popmo:193422473",
       "title": "Newcastle United6",
@@ -2905,6 +2833,64 @@
       "imageCount": 1,
       "updatedAt": "2026-10-24T12:43:03.277Z",
       "season": "Onbekend seizoen"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "241327955",
+      "uniqueKey": "popmo:241327955",
+      "title": "NIKE AIR ZOOM PEGASUS 4215",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/241327955?uid=1&isSubCate=false&referrercate=5242887",
+      "categoryId": null,
+      "collectionId": "5242887",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "Onbekend seizoen",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/241327955/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/33db3f9fb7/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/241327955/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:10:31.257Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "241326847",
+      "uniqueKey": "popmo:241326847",
+      "title": "NIKE AIR ZOOM VOMERO 1894",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/241326847?uid=1&isSubCate=false&referrercate=5242887",
+      "categoryId": null,
+      "collectionId": "5242887",
+      "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "sourceCategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "Onbekend seizoen",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/241326847/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/a05368490a/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/241326847/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:10:31.257Z"
     },
     {
       "source": "popmo",
@@ -34664,151 +34650,6 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
-      "sourceId": "196172116",
-      "uniqueKey": "popmo:196172116",
-      "title": "ADIDAS SL 7279",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/196172116?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "QIQIYG.COM POPMO Official: +84 775508751",
-      "sourceCategory": "other",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "other",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "1972/79",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/196172116/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/6f1d485f/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/196172116/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:53:23.956Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "197807335",
-      "uniqueKey": "popmo:197807335",
-      "title": "Travis Scott x Air Jordan 1 Low DM7866-20243",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/197807335?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "QIQIYG.COM POPMO Official: +84 775508751",
-      "sourceCategory": "other",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "other",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "1978/66",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/197807335/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/377b7c54/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/197807335/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:53:54.245Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "197803904",
-      "uniqueKey": "popmo:197803904",
-      "title": "Air Jordan 3 Retro 'Lucky Shorts'  CT8532-10128",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/197803904?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "QIQIYG.COM POPMO Official: +84 775508751",
-      "sourceCategory": "other",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "other",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "1985/32",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/197803904/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/96960a72/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/197803904/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:53:54.245Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "219337482",
-      "uniqueKey": "popmo:219337482",
-      "title": "0957 Spring Suit Fabric: 330g Cotton Black, Gray, Khaki Black Gray, Black Khaki, Gray Black Khaki Co41",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/219337482?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "QIQIYG.COM POPMO Official: +84 775508751",
-      "sourceCategory": "other",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "other",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2009/57",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/219337482/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/e7c0b337/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/219337482/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:53:13.355Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "187516209",
-      "uniqueKey": "popmo:187516209",
-      "title": "NIKE AIR FORCE 1337",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/187516209?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "QIQIYG.COM POPMO Official: +84 775508751",
-      "sourceCategory": "other",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "other",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2013/37",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/187516209/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/c6197a82/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/187516209/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:53:34.102Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
       "sourceId": "209086391",
       "uniqueKey": "popmo:209086391",
       "title": "The North Face Men’s 1996 Retro Nuptse Jacket82",
@@ -34823,7 +34664,7 @@
       "country": "Overig",
       "competition": "",
       "club": "",
-      "season": "2019/96",
+      "season": "1996",
       "types": [],
       "images": [
         "./assets/products/popmo/209086391/01.webp"
@@ -34833,7 +34674,7 @@
       ],
       "coverUrl": "./assets/products/popmo/209086391/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T19:53:23.956Z"
+      "updatedAt": "2026-10-27T04:11:01.513Z"
     },
     {
       "source": "popmo",
@@ -34852,7 +34693,7 @@
       "country": "Overig",
       "competition": "",
       "club": "",
-      "season": "2020/23",
+      "season": "2023",
       "types": [],
       "images": [
         "./assets/products/popmo/209149841/01.webp"
@@ -34862,7 +34703,7 @@
       ],
       "coverUrl": "./assets/products/popmo/209149841/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T19:53:23.956Z"
+      "updatedAt": "2026-10-27T04:10:44.441Z"
     },
     {
       "source": "popmo",
@@ -34881,7 +34722,7 @@
       "country": "Overig",
       "competition": "",
       "club": "",
-      "season": "2020/23",
+      "season": "2023",
       "types": [],
       "images": [
         "./assets/products/popmo/209067950/01.webp"
@@ -34891,7 +34732,7 @@
       ],
       "coverUrl": "./assets/products/popmo/209067950/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T19:53:34.103Z"
+      "updatedAt": "2026-10-27T04:11:01.514Z"
     },
     {
       "source": "popmo",
@@ -35099,10 +34940,10 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
-      "sourceId": "196171247",
-      "uniqueKey": "popmo:196171247",
-      "title": "AIR JORDAN 4118",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/196171247?uid=1",
+      "sourceId": "219337482",
+      "uniqueKey": "popmo:219337482",
+      "title": "0957 Spring Suit Fabric: 330g Cotton Black, Gray, Khaki Black Gray, Black Khaki, Gray Black Khaki Co41",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/219337482?uid=1",
       "categoryId": "0",
       "collectionId": null,
       "sourceCollection": "QIQIYG.COM POPMO Official: +84 775508751",
@@ -35113,46 +34954,17 @@
       "country": "Overig",
       "competition": "",
       "club": "",
-      "season": "2041/18",
+      "season": "Onbekend seizoen",
       "types": [],
       "images": [
-        "./assets/products/popmo/196171247/01.webp"
+        "./assets/products/popmo/219337482/01.webp"
       ],
       "sourceImages": [
-        "https://photo.yupoo.com/popmo/e9a19540/medium.jpg"
+        "https://photo.yupoo.com/popmo/e7c0b337/medium.jpg"
       ],
-      "coverUrl": "./assets/products/popmo/196171247/01.webp",
+      "coverUrl": "./assets/products/popmo/219337482/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T19:53:34.102Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "197800962",
-      "uniqueKey": "popmo:197800962",
-      "title": "Jordan 1 Retro High OG UNC Reimagined DZ5485-40232",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/197800962?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "QIQIYG.COM POPMO Official: +84 775508751",
-      "sourceCategory": "other",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "other",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2054/85",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/197800962/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/e852e204/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/197800962/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:53:54.245Z"
+      "updatedAt": "2026-10-27T04:10:44.441Z"
     },
     {
       "source": "popmo",
@@ -35360,6 +35172,35 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "196172116",
+      "uniqueKey": "popmo:196172116",
+      "title": "ADIDAS SL 7279",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/196172116?uid=1",
+      "categoryId": "0",
+      "collectionId": null,
+      "sourceCollection": "QIQIYG.COM POPMO Official: +84 775508751",
+      "sourceCategory": "other",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "other",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "Onbekend seizoen",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/196172116/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/6f1d485f/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/196172116/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:11:01.513Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "196175284",
       "uniqueKey": "popmo:196175284",
       "title": "ADIDAS SPEZIAL97",
@@ -35443,6 +35284,64 @@
       "imageCount": 1,
       "updatedAt": "2026-10-24T12:52:54.391Z",
       "season": "Onbekend seizoen"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "197803904",
+      "uniqueKey": "popmo:197803904",
+      "title": "Air Jordan 3 Retro 'Lucky Shorts'  CT8532-10128",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/197803904?uid=1",
+      "categoryId": "0",
+      "collectionId": null,
+      "sourceCollection": "QIQIYG.COM POPMO Official: +84 775508751",
+      "sourceCategory": "other",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "other",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "Onbekend seizoen",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/197803904/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/96960a72/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/197803904/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:11:33.994Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "196171247",
+      "uniqueKey": "popmo:196171247",
+      "title": "AIR JORDAN 4118",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/196171247?uid=1",
+      "categoryId": "0",
+      "collectionId": null,
+      "sourceCollection": "QIQIYG.COM POPMO Official: +84 775508751",
+      "sourceCategory": "other",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "other",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "Onbekend seizoen",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/196171247/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/e9a19540/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/196171247/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:11:01.513Z"
     },
     {
       "source": "popmo",
@@ -36288,6 +36187,35 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "197800962",
+      "uniqueKey": "popmo:197800962",
+      "title": "Jordan 1 Retro High OG UNC Reimagined DZ5485-40232",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/197800962?uid=1",
+      "categoryId": "0",
+      "collectionId": null,
+      "sourceCollection": "QIQIYG.COM POPMO Official: +84 775508751",
+      "sourceCategory": "other",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "other",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "Onbekend seizoen",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/197800962/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/e852e204/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/197800962/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:11:33.994Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "218816769",
       "uniqueKey": "popmo:218816769",
       "title": "Kid Jacket226",
@@ -36806,6 +36734,35 @@
       "imageCount": 1,
       "updatedAt": "2026-10-24T12:52:42.856Z",
       "season": "Onbekend seizoen"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "187516209",
+      "uniqueKey": "popmo:187516209",
+      "title": "NIKE AIR FORCE 1337",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/187516209?uid=1",
+      "categoryId": "0",
+      "collectionId": null,
+      "sourceCollection": "QIQIYG.COM POPMO Official: +84 775508751",
+      "sourceCategory": "other",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "other",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "Onbekend seizoen",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/187516209/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/c6197a82/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/187516209/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:11:01.513Z"
     },
     {
       "source": "popmo",
@@ -37390,35 +37347,6 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
-      "sourceId": "209068820",
-      "uniqueKey": "popmo:209068820",
-      "title": "Sp5der Phantom Web Hoodie Black22",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/209068820?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "QIQIYG.COM POPMO Official: +84 775508751",
-      "sourceCategory": "other",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "other",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/209068820/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/600aaf90/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/209068820/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-24T12:53:34.797Z",
-      "season": "Onbekend seizoen"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
       "sourceId": "196526368",
       "uniqueKey": "popmo:196526368",
       "title": "SPEEDCAT PUMA33",
@@ -37651,6 +37579,35 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "197807335",
+      "uniqueKey": "popmo:197807335",
+      "title": "Travis Scott x Air Jordan 1 Low DM7866-20243",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/197807335?uid=1",
+      "categoryId": "0",
+      "collectionId": null,
+      "sourceCollection": "QIQIYG.COM POPMO Official: +84 775508751",
+      "sourceCategory": "other",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "other",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "Onbekend seizoen",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/197807335/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/377b7c54/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/197807335/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:11:33.994Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "180684074",
       "uniqueKey": "popmo:180684074",
       "title": "WEST HAM1",
@@ -37676,6 +37633,35 @@
       "imageCount": 1,
       "updatedAt": "2026-10-24T12:55:01.475Z",
       "season": "Onbekend seizoen"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "256180112",
+      "uniqueKey": "popmo:256180112",
+      "title": "Real Sociedad \"REALA DESDE 1909\"2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/256180112?uid=1&isSubCate=false&referrercate=4911722",
+      "categoryId": null,
+      "collectionId": "4911722",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "1909",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/256180112/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/4285755bf4/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/256180112/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:12:22.111Z"
     },
     {
       "source": "popmo",
@@ -37734,35 +37720,6 @@
       "coverUrl": "./assets/products/popmo/239435538/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:56:20.903Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "256180112",
-      "uniqueKey": "popmo:256180112",
-      "title": "Real Sociedad \"REALA DESDE 1909\"2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/256180112?uid=1&isSubCate=false&referrercate=4911722",
-      "categoryId": null,
-      "collectionId": "4911722",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2019/09",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/256180112/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/4285755bf4/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/256180112/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:54:25.223Z"
     },
     {
       "source": "popmo",
@@ -67753,35 +67710,6 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
-      "sourceId": "198051513",
-      "uniqueKey": "popmo:198051513",
-      "title": "GLASSES4514",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/198051513?uid=1&isSubCate=false&referrercate=4724835",
-      "categoryId": null,
-      "collectionId": "4724835",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2045/14",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/198051513/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/ef6ae90e/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/198051513/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:54:15.077Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
       "sourceId": "227067955",
       "uniqueKey": "popmo:227067955",
       "title": "150th Welsh Long-sleeved Anniversary Edition (S-4XL)2",
@@ -68416,6 +68344,35 @@
       "coverUrl": "./assets/products/popmo/205691022/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T20:04:02.426Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "198051513",
+      "uniqueKey": "popmo:198051513",
+      "title": "GLASSES4514",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/198051513?uid=1&isSubCate=false&referrercate=4724835",
+      "categoryId": null,
+      "collectionId": "4724835",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "Onbekend seizoen",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/198051513/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/ef6ae90e/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/198051513/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:12:06.080Z"
     },
     {
       "source": "popmo",
@@ -69183,12 +69140,12 @@
       "sourceCollection": "QIQIYG.COM POPMO Official: +84 775508751",
       "sourceCategory": "other",
       "section": "Schoenen",
-      "category": "Schoenen",
+      "category": "Sandalen & slippers",
       "subcategory": "Sandalen & slippers",
       "country": "Overig",
       "competition": "",
       "club": "",
-      "season": "2028/70",
+      "season": "Onbekend seizoen",
       "types": [],
       "images": [
         "./assets/products/popmo/197797749/01.webp"
@@ -69198,7 +69155,7 @@
       ],
       "coverUrl": "./assets/products/popmo/197797749/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T19:53:54.246Z"
+      "updatedAt": "2026-10-27T04:11:33.994Z"
     },
     {
       "source": "popmo",
@@ -69212,11 +69169,12 @@
       "sourceCollection": "QIQIYG.COM POPMO Official: +84 775508751",
       "sourceCategory": "other",
       "section": "Schoenen",
-      "category": "Schoenen",
+      "category": "Sandalen & slippers",
       "subcategory": "Sandalen & slippers",
       "country": "Overig",
       "competition": "",
       "club": "",
+      "season": "Onbekend seizoen",
       "types": [],
       "images": [
         "./assets/products/popmo/196530737/01.webp"
@@ -69226,8 +69184,7 @@
       ],
       "coverUrl": "./assets/products/popmo/196530737/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-24T12:52:41.326Z",
-      "season": "Onbekend seizoen"
+      "updatedAt": "2026-10-27T04:10:44.441Z"
     },
     {
       "source": "yema007",
@@ -70185,6 +70142,35 @@
       "coverUrl": "./assets/albums/111539703/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-26T23:40:37.947Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "209068820",
+      "uniqueKey": "popmo:209068820",
+      "title": "Sp5der Phantom Web Hoodie Black22",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/209068820?uid=1",
+      "categoryId": "0",
+      "collectionId": null,
+      "sourceCollection": "QIQIYG.COM POPMO Official: +84 775508751",
+      "sourceCategory": "other",
+      "section": "Schoenen",
+      "category": "Voetbalschoenen",
+      "subcategory": "Overige merken",
+      "country": "Overig",
+      "competition": "",
+      "club": "Phantom",
+      "season": "Onbekend seizoen",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/209068820/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/600aaf90/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/209068820/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:11:01.514Z"
     },
     {
       "source": "dongshanstore",
@@ -294954,38 +294940,6 @@
       "updatedAt": "2026-10-25T18:06:07.362Z"
     },
     {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "259840999",
-      "uniqueKey": "popmo:259840999",
-      "title": "2627 Manchester United Retro Long-Sleeve Polo, Black, S–2XL2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/259840999?uid=1&isSubCate=false&referrercate=4911721",
-      "categoryId": null,
-      "collectionId": "4911721",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Manchester United",
-      "season": "2026/27",
-      "types": [
-        "Retro",
-        "Lange mouw"
-      ],
-      "images": [
-        "./assets/products/popmo/259840999/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/8111dc4ea4/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/259840999/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:46:29.714Z"
-    },
-    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237592872",
@@ -295016,6 +294970,38 @@
       "coverUrl": "./assets/products/yema007/237592872/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T01:38:04.605Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "259840999",
+      "uniqueKey": "popmo:259840999",
+      "title": "2627 Manchester United Retro Long-Sleeve Polo, Black, S–2XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/259840999?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Manchester United",
+      "season": "Onbekend seizoen",
+      "types": [
+        "Retro",
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/popmo/259840999/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/8111dc4ea4/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/259840999/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:12:22.111Z"
     },
     {
       "source": "yema007",
@@ -402975,35 +402961,6 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
-      "sourceId": "242308839",
-      "uniqueKey": "popmo:242308839",
-      "title": "2026 Argentina Collaboration Edition S-4XL2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/242308839?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Argentina",
-      "competition": "WK & landenteams",
-      "club": "Argentina",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/242308839/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/89e565edf7/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/242308839/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:55:59.934Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
       "sourceId": "230219061",
       "uniqueKey": "popmo:230219061",
       "title": "2026 Argentina Pre-Match Kit: Blue and White, S-4XL3",
@@ -403062,35 +403019,6 @@
       "coverUrl": "./assets/products/popmo/232956942/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:57:13.151Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "247888172",
-      "uniqueKey": "popmo:247888172",
-      "title": "2026 Argentina Striped Number Printed Special Jersey3",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/247888172?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Argentina",
-      "competition": "WK & landenteams",
-      "club": "Argentina",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/247888172/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/2690385bc0/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/247888172/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:48:19.290Z"
     },
     {
       "source": "popmo",
@@ -408567,6 +408495,35 @@
       "updatedAt": "2026-10-27T02:54:19.613Z"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "242308839",
+      "uniqueKey": "popmo:242308839",
+      "title": "2026 Argentina Collaboration Edition S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/242308839?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Argentina",
+      "competition": "WK & landenteams",
+      "club": "Argentina",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/242308839/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/89e565edf7/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/242308839/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:15:12.263Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237737116",
@@ -409396,6 +409353,35 @@
       "coverUrl": "./assets/products/yema007/259879717/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T02:54:19.613Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "247888172",
+      "uniqueKey": "popmo:247888172",
+      "title": "2026 Argentina Striped Number Printed Special Jersey3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/247888172?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Argentina",
+      "competition": "WK & landenteams",
+      "club": "Argentina",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/247888172/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/2690385bc0/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/247888172/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:14:16.657Z"
     },
     {
       "source": "yema007",
@@ -449530,37 +449516,6 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
-      "sourceId": "247887847",
-      "uniqueKey": "popmo:247887847",
-      "title": "2026 England Energy Dri-FIT Short-Sleeve Football Top1",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/247887847?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "England",
-      "competition": "WK & landenteams",
-      "club": "England",
-      "season": "2020/26",
-      "types": [
-        "Korte mouw"
-      ],
-      "images": [
-        "./assets/products/popmo/247887847/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/24af98d3a2/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/247887847/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:48:19.290Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
       "sourceId": "235558398",
       "uniqueKey": "popmo:235558398",
       "title": "England 2026 AOP Shirt Dark Steel Grey2",
@@ -449586,37 +449541,6 @@
       "coverUrl": "./assets/products/popmo/235558398/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T19:56:52.096Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "243642911",
-      "uniqueKey": "popmo:243642911",
-      "title": "Harry Kane #9 England National Team World Cup 2026 Home Short Sleeve Football Jersey2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/243642911?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "QIQIYG.COM POPMO Official: +84 775508751",
-      "sourceCategory": "other",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "England",
-      "competition": "WK & landenteams",
-      "club": "England",
-      "season": "2020/26",
-      "types": [
-        "Korte mouw"
-      ],
-      "images": [
-        "./assets/products/popmo/243642911/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/f72d95a49c/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/243642911/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:53:44.167Z"
     },
     {
       "source": "yema007",
@@ -452498,6 +452422,37 @@
       "season": "2025/26"
     },
     {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "247887847",
+      "uniqueKey": "popmo:247887847",
+      "title": "2026 England Energy Dri-FIT Short-Sleeve Football Top1",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/247887847?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "England",
+      "competition": "WK & landenteams",
+      "club": "England",
+      "season": "2026",
+      "types": [
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/popmo/247887847/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/24af98d3a2/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/247887847/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:14:16.657Z"
+    },
+    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237741561",
@@ -453932,6 +453887,37 @@
       "coverUrl": "./assets/products/minkang/242208318/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T00:44:30.218Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "243642911",
+      "uniqueKey": "popmo:243642911",
+      "title": "Harry Kane #9 England National Team World Cup 2026 Home Short Sleeve Football Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/243642911?uid=1",
+      "categoryId": "0",
+      "collectionId": null,
+      "sourceCollection": "QIQIYG.COM POPMO Official: +84 775508751",
+      "sourceCategory": "other",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "England",
+      "competition": "WK & landenteams",
+      "club": "England",
+      "season": "2026",
+      "types": [
+        "Korte mouw"
+      ],
+      "images": [
+        "./assets/products/popmo/243642911/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/f72d95a49c/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/243642911/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:11:19.481Z"
     },
     {
       "source": "yema007",
@@ -505883,64 +505869,6 @@
       "updatedAt": "2026-10-27T03:16:52.400Z"
     },
     {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "243252224",
-      "uniqueKey": "popmo:243252224",
-      "title": "HATO #3 Netherlands Home Jersey [2026 FIFA WORLD CUP]3",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/243252224?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "QIQIYG.COM POPMO Official: +84 775508751",
-      "sourceCategory": "other",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Netherlands",
-      "competition": "WK & landenteams",
-      "club": "Netherlands",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/243252224/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/6b085a3ea3/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/243252224/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:53:44.168Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "243251522",
-      "uniqueKey": "popmo:243251522",
-      "title": "J. TIMBER #2 Netherlands Home Jersey [2026 FIFA WORLD CUP]1",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/243251522?uid=1",
-      "categoryId": "0",
-      "collectionId": null,
-      "sourceCollection": "QIQIYG.COM POPMO Official: +84 775508751",
-      "sourceCategory": "other",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Netherlands",
-      "competition": "WK & landenteams",
-      "club": "Netherlands",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/243251522/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/b328a81e8e/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/popmo/243251522/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:53:44.168Z"
-    },
-    {
       "source": "minkang",
       "sourcePriority": 1,
       "sourceId": "221920359",
@@ -508055,6 +507983,64 @@
       "coverUrl": "./assets/products/yema007/241007359/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T03:16:19.359Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "243252224",
+      "uniqueKey": "popmo:243252224",
+      "title": "HATO #3 Netherlands Home Jersey [2026 FIFA WORLD CUP]3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/243252224?uid=1",
+      "categoryId": "0",
+      "collectionId": null,
+      "sourceCollection": "QIQIYG.COM POPMO Official: +84 775508751",
+      "sourceCategory": "other",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Netherlands",
+      "competition": "WK & landenteams",
+      "club": "Netherlands",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/243252224/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/6b085a3ea3/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/243252224/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:11:19.481Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "243251522",
+      "uniqueKey": "popmo:243251522",
+      "title": "J. TIMBER #2 Netherlands Home Jersey [2026 FIFA WORLD CUP]1",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/243251522?uid=1",
+      "categoryId": "0",
+      "collectionId": null,
+      "sourceCollection": "QIQIYG.COM POPMO Official: +84 775508751",
+      "sourceCategory": "other",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Netherlands",
+      "competition": "WK & landenteams",
+      "club": "Netherlands",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/243251522/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/b328a81e8e/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/popmo/243251522/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:11:19.481Z"
     },
     {
       "source": "minkang",
@@ -759878,37 +759864,6 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
-      "sourceId": "243444097",
-      "uniqueKey": "popmo:243444097",
-      "title": "2026 Newcastle Retro Style Stadium Jersey S-4XL4",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/243444097?uid=1&isSubCate=false&referrercate=4911721",
-      "categoryId": null,
-      "collectionId": "4911721",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "QIQIYG.COM POPMO Official: +84 775508751",
-      "club": "Overig",
-      "season": "2020/26",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/popmo/243444097/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/9002179bed/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/243444097/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:55:49.126Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
       "sourceId": "234113061",
       "uniqueKey": "popmo:234113061",
       "title": "2026 St. Pauli long-sleeved special edition jersey, sizes S-4X4",
@@ -763793,6 +763748,37 @@
       "coverUrl": "./assets/products/popmo/200174773/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T20:06:31.655Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "243444097",
+      "uniqueKey": "popmo:243444097",
+      "title": "2026 Newcastle Retro Style Stadium Jersey S-4XL4",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/243444097?uid=1&isSubCate=false&referrercate=4911721",
+      "categoryId": null,
+      "collectionId": "4911721",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "QIQIYG.COM POPMO Official: +84 775508751",
+      "club": "Overig",
+      "season": "2026",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/popmo/243444097/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/9002179bed/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/243444097/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:14:58.675Z"
     },
     {
       "source": "popmo",
