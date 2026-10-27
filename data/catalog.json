@@ -1,26 +1,26 @@
 {
-  "lastSync": "2026-10-27T00:30:06.091Z",
+  "lastSync": "2026-10-27T00:34:59.181Z",
   "syncState": {
     "status": "in-progress",
-    "label": "minkang 4625/7466",
+    "label": "minkang 4975/7466",
     "batchSize": 25,
     "maxImages": 1
   },
   "syncProgress": {
     "currentSource": "minkang",
-    "nextIndex": 4625,
+    "nextIndex": 4975,
     "totalForSource": 7466,
     "completedSources": []
   },
   "stats": {
     "discovered": 7466,
-    "added": 109,
-    "changed": 441,
-    "unchanged": 4070,
+    "added": 113,
+    "changed": 447,
+    "unchanged": 4410,
     "repaired": 0,
     "skipped": 5,
-    "duplicatesRemoved": 106,
-    "batchesSaved": 184
+    "duplicatesRemoved": 110,
+    "batchesSaved": 198
   },
   "sources": [
     {
@@ -11723,6 +11723,64 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "199191147",
+      "uniqueKey": "minkang:199191147",
+      "title": "Retro 2004 Zaragoza  Home S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/199191147?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2004",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/199191147/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/1e4d5f79/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/199191147/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:30:39.337Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "255032961",
+      "uniqueKey": "minkang:255032961",
+      "title": "Retro 2004 Zaragoza Home S-XXL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/255032961?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2004",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/255032961/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/2a9ffde043/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/255032961/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:30:22.456Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "190504572",
       "uniqueKey": "minkang:190504572",
       "title": "Retro Colo Colo 2004 Away S-XXL8",
@@ -14275,6 +14333,35 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "184318756",
+      "uniqueKey": "minkang:184318756",
+      "title": "Retro Malaga 2013 Away S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/184318756?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2013",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/184318756/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/2d17223d/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/184318756/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:32:32.770Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "112346175",
       "uniqueKey": "minkang:112346175",
       "title": "Retro Santos 2013 away S-XXL10",
@@ -16160,64 +16247,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "199191147",
-      "uniqueKey": "minkang:199191147",
-      "title": "Retro 2004 Zaragoza  Home S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/199191147?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/04",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/199191147/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/1e4d5f79/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/199191147/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:27:10.474Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "255032961",
-      "uniqueKey": "minkang:255032961",
-      "title": "Retro 2004 Zaragoza Home S-XXL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/255032961?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/04",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/255032961/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/2a9ffde043/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/255032961/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:26:59.322Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "108854284",
       "uniqueKey": "minkang:108854284",
       "title": "Retro 2008 Urawa Red Diamonds home S-XXL9",
@@ -16272,35 +16301,6 @@
       "coverUrl": "./assets/products/minkang/107943594/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:47:15.195Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "184318756",
-      "uniqueKey": "minkang:184318756",
-      "title": "Retro Malaga 2013 Away S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/184318756?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/13",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/184318756/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/2d17223d/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/184318756/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:27:54.421Z"
     },
     {
       "source": "minkang",
@@ -669039,6 +669039,37 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "212487043",
+      "uniqueKey": "minkang:212487043",
+      "title": "Real Valladolid 1984 Home Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212487043?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "1984",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/212487043/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/245db7da/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212487043/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:32:52.229Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "245506059",
       "uniqueKey": "minkang:245506059",
       "title": "Birmingham 84/85 Away Retro Jersey S-XXL7",
@@ -678682,6 +678713,37 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "212486032",
+      "uniqueKey": "minkang:212486032",
+      "title": "Malaga 1998 Home Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212486032?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "1998",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/212486032/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/ba09c1b3/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/212486032/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:32:14.588Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "245626184",
       "uniqueKey": "minkang:245626184",
       "title": "Sheffield Wednesday 1998 Away Retro Jersey S-4XL8",
@@ -682943,6 +683005,37 @@
       "coverUrl": "./assets/products/minkang/212486740/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-26T23:57:33.606Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "217356751",
+      "uniqueKey": "minkang:217356751",
+      "title": "Real Oviedo 2001 Away Retro Jersey S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/217356751?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "2001",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/217356751/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/79cef97e/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/217356751/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:34:04.336Z"
     },
     {
       "source": "minkang",
@@ -690284,37 +690377,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "212487043",
-      "uniqueKey": "minkang:212487043",
-      "title": "Real Valladolid 1984 Home Retro Jersey S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/212487043?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2019/84",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/212487043/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/245db7da/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/212487043/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:28:16.499Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "246278890",
       "uniqueKey": "minkang:246278890",
       "title": "Algeria 1986 Away Retro Jersey S-XXL6",
@@ -691367,37 +691429,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "212486032",
-      "uniqueKey": "minkang:212486032",
-      "title": "Malaga 1998 Home Retro Jersey S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/212486032?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2019/98",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/212486032/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/ba09c1b3/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/212486032/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:27:54.421Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "212243576",
       "uniqueKey": "minkang:212243576",
       "title": "South Africa 1998 Away Retro Jersey S-XXL8",
@@ -691609,37 +691640,6 @@
       "coverUrl": "./assets/products/minkang/212586225/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:42:15.847Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "217356751",
-      "uniqueKey": "minkang:217356751",
-      "title": "Real Oviedo 2001 Away Retro Jersey S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/217356751?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2020/01",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/217356751/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/79cef97e/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/217356751/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:28:59.971Z"
     },
     {
       "source": "minkang",
