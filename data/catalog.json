@@ -1,14 +1,14 @@
 {
-  "lastSync": "2026-10-27T04:20:18.178Z",
+  "lastSync": "2026-10-27T04:25:07.490Z",
   "syncState": {
     "status": "in-progress",
-    "label": "popmo 1500/2721",
+    "label": "popmo 1975/2721",
     "batchSize": 25,
     "maxImages": 1
   },
   "syncProgress": {
     "currentSource": "popmo",
-    "nextIndex": 1500,
+    "nextIndex": 1975,
     "totalForSource": 2721,
     "completedSources": [
       "minkang",
@@ -17,13 +17,13 @@
   },
   "stats": {
     "discovered": 24378,
-    "added": 415,
-    "changed": 5369,
-    "unchanged": 17351,
+    "added": 418,
+    "changed": 5379,
+    "unchanged": 17813,
     "repaired": 0,
     "skipped": 22,
-    "duplicatesRemoved": 405,
-    "batchesSaved": 928
+    "duplicatesRemoved": 408,
+    "batchesSaved": 947
   },
   "sources": [
     {
@@ -37808,93 +37808,6 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
-      "sourceId": "209646345",
-      "uniqueKey": "popmo:209646345",
-      "title": "2025 Finland Away Jersey2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/209646345?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/25",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/209646345/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/e7228205/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/209646345/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T20:02:14.332Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "209646154",
-      "uniqueKey": "popmo:209646154",
-      "title": "2025 Finland Home Jersey2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/209646154?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/25",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/209646154/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/5d36dc94/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/209646154/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T20:02:14.332Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "218413313",
-      "uniqueKey": "popmo:218413313",
-      "title": "2025 KOMBAT XXV GENOA Red-blue dk-yellow gold rich3",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/218413313?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/25",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/218413313/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/74a7d97c/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/218413313/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:59:59.559Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
       "sourceId": "202327023",
       "uniqueKey": "popmo:202327023",
       "title": "2025 Olympiacos FC 100th Anniversary Jersey2",
@@ -37978,122 +37891,6 @@
       "coverUrl": "./assets/products/popmo/202324490/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T20:05:10.983Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "215667899",
-      "uniqueKey": "popmo:215667899",
-      "title": "2026 New Zealand Home Stadium S-4XL2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/215667899?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/215667899/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/cdf3bc5f/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/215667899/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T20:00:41.069Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "217837545",
-      "uniqueKey": "popmo:217837545",
-      "title": "2026 United Arab Emirates 26 Home Jersey2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/217837545?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/217837545/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/a25003f8/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/217837545/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:59:59.559Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "215669009",
-      "uniqueKey": "popmo:215669009",
-      "title": "2026 US Promotional Outfit S-4XL2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/215669009?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/215669009/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/b90d3ac3/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/215669009/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T20:00:41.068Z"
-    },
-    {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "207072698",
-      "uniqueKey": "popmo:207072698",
-      "title": "2026 World Cup National Team.S-4XL2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/207072698?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/207072698/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/ebd4915f/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/207072698/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T20:03:15.014Z"
     },
     {
       "source": "popmo",
@@ -38993,6 +38790,93 @@
       "coverUrl": "./assets/products/popmo/202323495/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T04:10:03.405Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "209646345",
+      "uniqueKey": "popmo:209646345",
+      "title": "2025 Finland Away Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/209646345?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2025",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/209646345/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/e7228205/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/209646345/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:23:29.005Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "209646154",
+      "uniqueKey": "popmo:209646154",
+      "title": "2025 Finland Home Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/209646154?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2025",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/209646154/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/5d36dc94/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/209646154/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:23:29.005Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "218413313",
+      "uniqueKey": "popmo:218413313",
+      "title": "2025 KOMBAT XXV GENOA Red-blue dk-yellow gold rich3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/218413313?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2025",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/218413313/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/74a7d97c/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/218413313/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:20:31.716Z"
     },
     {
       "source": "popmo",
@@ -59790,6 +59674,35 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "215667899",
+      "uniqueKey": "popmo:215667899",
+      "title": "2026 New Zealand Home Stadium S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/215667899?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/215667899/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/cdf3bc5f/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/215667899/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:21:27.177Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "230704917",
       "uniqueKey": "popmo:230704917",
       "title": "2026 New Zealand Home3",
@@ -60225,6 +60138,35 @@
     {
       "source": "popmo",
       "sourcePriority": 3,
+      "sourceId": "217837545",
+      "uniqueKey": "popmo:217837545",
+      "title": "2026 United Arab Emirates 26 Home Jersey2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/217837545?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/217837545/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/a25003f8/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/217837545/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:20:31.716Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
       "sourceId": "220473617",
       "uniqueKey": "popmo:220473617",
       "title": "2026 Universidad Católica Puma Home kit2",
@@ -60250,6 +60192,35 @@
       "coverUrl": "./assets/products/popmo/220473617/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T04:19:36.101Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "215669009",
+      "uniqueKey": "popmo:215669009",
+      "title": "2026 US Promotional Outfit S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/215669009?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/215669009/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/b90d3ac3/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/215669009/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:21:27.177Z"
     },
     {
       "source": "popmo",
@@ -60308,6 +60279,35 @@
       "coverUrl": "./assets/products/popmo/231798818/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T04:17:06.746Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "207072698",
+      "uniqueKey": "popmo:207072698",
+      "title": "2026 World Cup National Team.S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/207072698?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/207072698/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/ebd4915f/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/207072698/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:24:51.958Z"
     },
     {
       "source": "popmo",
@@ -415029,35 +415029,6 @@
       "updatedAt": "2026-10-27T00:51:56.105Z"
     },
     {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "211443713",
-      "uniqueKey": "popmo:211443713",
-      "title": "2026 Belgium Home Jersey S-4XL2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/211443713?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Belgium",
-      "competition": "WK & landenteams",
-      "club": "Belgium",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/211443713/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/72f3849e/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/211443713/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T20:01:35.145Z"
-    },
-    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237458007",
@@ -415798,6 +415769,35 @@
       "coverUrl": "./assets/products/popmo/222351398/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T04:19:07.602Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "211443713",
+      "uniqueKey": "popmo:211443713",
+      "title": "2026 Belgium Home Jersey S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/211443713?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Belgium",
+      "competition": "WK & landenteams",
+      "club": "Belgium",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/211443713/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/72f3849e/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/211443713/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:22:24.519Z"
     },
     {
       "source": "yema007",
@@ -433991,35 +433991,6 @@
       "updatedAt": "2026-10-27T00:43:10.441Z"
     },
     {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "215670510",
-      "uniqueKey": "popmo:215670510",
-      "title": "2026 Canada Promotional Outfit S-4XL2",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/215670510?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Canada",
-      "competition": "WK & landenteams",
-      "club": "Canada",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/215670510/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/14789690/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/215670510/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T20:00:41.068Z"
-    },
-    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237680142",
@@ -434283,6 +434254,35 @@
       "coverUrl": "./assets/products/yema007/237800323/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T03:20:32.874Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "215670510",
+      "uniqueKey": "popmo:215670510",
+      "title": "2026 Canada Promotional Outfit S-4XL2",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/215670510?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Canada",
+      "competition": "WK & landenteams",
+      "club": "Canada",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/215670510/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/14789690/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/215670510/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:21:27.176Z"
     },
     {
       "source": "yema007",
@@ -495247,35 +495247,6 @@
       "updatedAt": "2026-10-27T00:58:12.072Z"
     },
     {
-      "source": "popmo",
-      "sourcePriority": 3,
-      "sourceId": "215666898",
-      "uniqueKey": "popmo:215666898",
-      "title": "2026 Mexico Promotional Jersey S-4XL3",
-      "sourceUrl": "https://popmo.x.yupoo.com/albums/215666898?uid=1&isSubCate=false&referrercate=4911752",
-      "categoryId": null,
-      "collectionId": "4911752",
-      "sourceCollection": "more",
-      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "WK & landenteams",
-      "country": "Mexico",
-      "competition": "WK & landenteams",
-      "club": "Mexico",
-      "season": "2020/26",
-      "types": [],
-      "images": [
-        "./assets/products/popmo/215666898/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/popmo/3a9ea33a/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/popmo/215666898/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T20:00:41.069Z"
-    },
-    {
       "source": "yema007",
       "sourcePriority": 2,
       "sourceId": "237625035",
@@ -499327,6 +499298,35 @@
       "coverUrl": "./assets/products/yema007/241009052/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T03:18:20.237Z"
+    },
+    {
+      "source": "popmo",
+      "sourcePriority": 3,
+      "sourceId": "215666898",
+      "uniqueKey": "popmo:215666898",
+      "title": "2026 Mexico Promotional Jersey S-4XL3",
+      "sourceUrl": "https://popmo.x.yupoo.com/albums/215666898?uid=1&isSubCate=false&referrercate=4911752",
+      "categoryId": null,
+      "collectionId": "4911752",
+      "sourceCollection": "more",
+      "sourceCategory": "QIQIYG.COM POPMO Official: +84 775508751",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "WK & landenteams",
+      "country": "Mexico",
+      "competition": "WK & landenteams",
+      "club": "Mexico",
+      "season": "2026",
+      "types": [],
+      "images": [
+        "./assets/products/popmo/215666898/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/popmo/3a9ea33a/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/popmo/215666898/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T04:21:27.177Z"
     },
     {
       "source": "popmo",
