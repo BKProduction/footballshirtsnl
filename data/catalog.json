@@ -1,26 +1,26 @@
 {
-  "lastSync": "2026-10-27T00:25:01.070Z",
+  "lastSync": "2026-10-27T00:30:06.091Z",
   "syncState": {
     "status": "in-progress",
-    "label": "minkang 4250/7466",
+    "label": "minkang 4625/7466",
     "batchSize": 25,
     "maxImages": 1
   },
   "syncProgress": {
     "currentSource": "minkang",
-    "nextIndex": 4250,
+    "nextIndex": 4625,
     "totalForSource": 7466,
     "completedSources": []
   },
   "stats": {
     "discovered": 7466,
-    "added": 107,
-    "changed": 430,
-    "unchanged": 3708,
+    "added": 109,
+    "changed": 441,
+    "unchanged": 4070,
     "repaired": 0,
     "skipped": 5,
-    "duplicatesRemoved": 104,
-    "batchesSaved": 169
+    "duplicatesRemoved": 106,
+    "batchesSaved": 184
   },
   "sources": [
     {
@@ -5024,6 +5024,35 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "150267109",
+      "uniqueKey": "minkang:150267109",
+      "title": "Retro Real Betis 1993 Home S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/150267109?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "1993",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/150267109/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/c0999a4f/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/150267109/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:27:41.159Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "182399746",
       "uniqueKey": "minkang:182399746",
       "title": "Retro  Fernandez 93/94 Away  S-XXL7",
@@ -7659,35 +7688,6 @@
       "imageCount": 1,
       "updatedAt": "2026-10-23T23:59:57.825Z",
       "season": "1997/98"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "181470199",
-      "uniqueKey": "minkang:181470199",
-      "title": "Retro Las Palmas 9798 away size S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/181470199?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "1997/98",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/181470199/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/05ad05fe/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/181470199/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:26:59.309Z"
     },
     {
       "source": "minkang",
@@ -11868,6 +11868,35 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "213790218",
+      "uniqueKey": "minkang:213790218",
+      "title": "Retro Osasuna 2005 Red Home S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/213790218?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2005",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/213790218/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/7ddb93e6/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/213790218/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:29:13.549Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "161463391",
       "uniqueKey": "minkang:161463391",
       "title": "kids M-U 05/06 home size: 16-288",
@@ -12241,6 +12270,64 @@
       "coverUrl": "./assets/products/minkang/114272926/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-26T23:55:01.105Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "213861920",
+      "uniqueKey": "minkang:213861920",
+      "title": "Retro Valencia 2006 away S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/213861920?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2006",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/213861920/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/bcde4318/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/213861920/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:28:20.531Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "214138205",
+      "uniqueKey": "minkang:214138205",
+      "title": "Retro Valencia 2006 Home S-XXL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214138205?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "2006",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/214138205/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/ff4a8d3f/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/214138205/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:28:20.528Z"
     },
     {
       "source": "minkang",
@@ -15522,35 +15609,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "150267109",
-      "uniqueKey": "minkang:150267109",
-      "title": "Retro Real Betis 1993 Home S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/150267109?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2019/93",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/150267109/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/c0999a4f/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/minkang/150267109/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:25:42.113Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "182398471",
       "uniqueKey": "minkang:182398471",
       "title": "Retro Eindhoven1994 Away  S-XXL7",
@@ -16156,93 +16214,6 @@
       "coverUrl": "./assets/products/minkang/255032961/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:26:59.322Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "213790218",
-      "uniqueKey": "minkang:213790218",
-      "title": "Retro Osasuna 2005 Red Home S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/213790218?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/05",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/213790218/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/7ddb93e6/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/213790218/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:26:15.157Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "213861920",
-      "uniqueKey": "minkang:213861920",
-      "title": "Retro Valencia 2006 away S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/213861920?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/06",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/213861920/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/bcde4318/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/213861920/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:26:04.208Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "214138205",
-      "uniqueKey": "minkang:214138205",
-      "title": "Retro Valencia 2006 Home S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/214138205?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "",
-      "club": "",
-      "season": "2020/06",
-      "types": [],
-      "images": [
-        "./assets/products/minkang/214138205/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/ff4a8d3f/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/214138205/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:26:04.208Z"
     },
     {
       "source": "minkang",
@@ -33962,6 +33933,35 @@
       "imageCount": 1,
       "updatedAt": "2026-10-24T00:34:16.762Z",
       "season": "Onbekend seizoen"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "181470199",
+      "uniqueKey": "minkang:181470199",
+      "title": "Retro Las Palmas 9798 away size S-XXL7",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/181470199?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "",
+      "club": "",
+      "season": "Onbekend seizoen",
+      "types": [],
+      "images": [
+        "./assets/products/minkang/181470199/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/05ad05fe/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/181470199/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:30:05.980Z"
     },
     {
       "source": "minkang",
@@ -668851,6 +668851,69 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "236819818",
+      "uniqueKey": "minkang:236819818",
+      "title": "Osasuna 1983 Home Retro Jersey S-XXL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/236819818?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "1983",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/minkang/236819818/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/4d8cd4fa4f/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/236819818/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:28:50.553Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "237218766",
+      "uniqueKey": "minkang:237218766",
+      "title": "Osasuna 1983 Home Retro Long Sleeve Jersey S-XXL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/237218766?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "1983",
+      "types": [
+        "Retro",
+        "Lange mouw"
+      ],
+      "images": [
+        "./assets/products/minkang/237218766/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/37c1030f76/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/237218766/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:28:50.550Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "237218444",
       "uniqueKey": "minkang:237218444",
       "title": "Frankfurt 83/84 Home Retro Long Sleeve Jersey S-XXL7",
@@ -690221,69 +690284,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "236819818",
-      "uniqueKey": "minkang:236819818",
-      "title": "Osasuna 1983 Home Retro Jersey S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/236819818?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2019/83",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/minkang/236819818/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/4d8cd4fa4f/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/236819818/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:26:15.156Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "237218766",
-      "uniqueKey": "minkang:237218766",
-      "title": "Osasuna 1983 Home Retro Long Sleeve Jersey S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/237218766?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2019/83",
-      "types": [
-        "Retro",
-        "Lange mouw"
-      ],
-      "images": [
-        "./assets/products/minkang/237218766/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/37c1030f76/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/237218766/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:26:15.156Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "212487043",
       "uniqueKey": "minkang:212487043",
       "title": "Real Valladolid 1984 Home Retro Jersey S-XXL7",
@@ -700121,130 +700121,6 @@
       "coverUrl": "./assets/products/minkang/210983032/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:27:10.474Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "210983070",
-      "uniqueKey": "minkang:210983070",
-      "title": "2526 Athletic Bilbao training suit black S-3XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/210983070?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2025/26",
-      "types": [
-        "Training"
-      ],
-      "images": [
-        "./assets/products/minkang/210983070/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/cef8cdc2/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/minkang/210983070/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:25:09.244Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "210983050",
-      "uniqueKey": "minkang:210983050",
-      "title": "2526 Athletic Bilbao training suit mint green S-3XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/210983050?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2025/26",
-      "types": [
-        "Training"
-      ],
-      "images": [
-        "./assets/products/minkang/210983050/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/f9d59cec/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/minkang/210983050/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:25:09.244Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "210983090",
-      "uniqueKey": "minkang:210983090",
-      "title": "2526 Athletic Bilbao training suit red S-3XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/210983090?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2025/26",
-      "types": [
-        "Training"
-      ],
-      "images": [
-        "./assets/products/minkang/210983090/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/d698abaf/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/minkang/210983090/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:25:09.244Z"
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "210983102",
-      "uniqueKey": "minkang:210983102",
-      "title": "2526 Athletic Bilbao training suit royal blue S-3XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/210983102?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overige voetbalproducten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "Overig",
-      "competition": "KANG Team Official ✅",
-      "club": "Overig",
-      "season": "2025/26",
-      "types": [
-        "Training"
-      ],
-      "images": [
-        "./assets/products/minkang/210983102/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/d439ba8e/medium.jpeg"
-      ],
-      "coverUrl": "./assets/products/minkang/210983102/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:25:09.244Z"
     },
     {
       "source": "minkang",
@@ -739909,6 +739785,130 @@
       "coverUrl": "./assets/products/minkang/189378450/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:03:12.188Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "210983070",
+      "uniqueKey": "minkang:210983070",
+      "title": "2526 Athletic Bilbao training suit black S-3XL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210983070?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "Onbekend seizoen",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/minkang/210983070/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/cef8cdc2/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/210983070/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:26:50.234Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "210983050",
+      "uniqueKey": "minkang:210983050",
+      "title": "2526 Athletic Bilbao training suit mint green S-3XL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210983050?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "Onbekend seizoen",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/minkang/210983050/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/f9d59cec/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/210983050/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:26:50.231Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "210983090",
+      "uniqueKey": "minkang:210983090",
+      "title": "2526 Athletic Bilbao training suit red S-3XL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210983090?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "Onbekend seizoen",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/minkang/210983090/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/d698abaf/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/minkang/210983090/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:26:50.232Z"
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "210983102",
+      "uniqueKey": "minkang:210983102",
+      "title": "2526 Athletic Bilbao training suit royal blue S-3XL2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210983102?uid=1&isSubCate=false&referrercate=680717",
+      "categoryId": null,
+      "collectionId": "680717",
+      "sourceCollection": "more",
+      "sourceCategory": "KANG Team Official ✅",
+      "section": "Voetbal",
+      "category": "Overige voetbalproducten",
+      "subcategory": "KANG Team Official ✅",
+      "country": "Overig",
+      "competition": "KANG Team Official ✅",
+      "club": "Overig",
+      "season": "Onbekend seizoen",
+      "types": [
+        "Training"
+      ],
+      "images": [
+        "./assets/products/minkang/210983102/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/d439ba8e/medium.jpeg"
+      ],
+      "coverUrl": "./assets/products/minkang/210983102/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T00:26:50.229Z"
     },
     {
       "source": "minkang",
