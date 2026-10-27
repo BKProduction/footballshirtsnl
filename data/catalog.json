@@ -1,14 +1,14 @@
 {
-  "lastSync": "2026-10-27T02:10:10.922Z",
+  "lastSync": "2026-10-27T02:15:13.884Z",
   "syncState": {
     "status": "in-progress",
-    "label": "yema007 3675/14191",
+    "label": "yema007 4075/14191",
     "batchSize": 25,
     "maxImages": 1
   },
   "syncProgress": {
     "currentSource": "yema007",
-    "nextIndex": 3675,
+    "nextIndex": 4075,
     "totalForSource": 14191,
     "completedSources": [
       "minkang"
@@ -16,13 +16,13 @@
   },
   "stats": {
     "discovered": 21657,
-    "added": 219,
-    "changed": 2060,
-    "unchanged": 8846,
+    "added": 221,
+    "changed": 2062,
+    "unchanged": 9242,
     "repaired": 0,
     "skipped": 16,
-    "duplicatesRemoved": 216,
-    "batchesSaved": 446
+    "duplicatesRemoved": 218,
+    "batchesSaved": 462
   },
   "sources": [
     {
@@ -254689,6 +254689,37 @@
     {
       "source": "yema007",
       "sourcePriority": 2,
+      "sourceId": "237488372",
+      "uniqueKey": "yema007:237488372",
+      "title": "1988 Retro Inter Milan home long-sleeved Size S-XXL8",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237488372?uid=1&isSubCate=true&referrercate=876783",
+      "categoryId": "876783",
+      "collectionId": "876783",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Inter Milan 国米",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Inter Milan",
+      "season": "1988",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237488372/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/98a9330f4a/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237488372/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:12:56.172Z"
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
       "sourceId": "237382922",
       "uniqueKey": "yema007:237382922",
       "title": "88-90 Inter Milan home12",
@@ -257472,37 +257503,6 @@
       "coverUrl": "./assets/products/minkang/222042886/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:16:46.195Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237488372",
-      "uniqueKey": "yema007:237488372",
-      "title": "1988 Retro Inter Milan home long-sleeved Size S-XXL8",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237488372?uid=1&isSubCate=true&referrercate=876783",
-      "categoryId": "876783",
-      "collectionId": "876783",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Inter Milan 国米",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Inter Milan",
-      "season": "2019/88",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/yema007/237488372/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/98a9330f4a/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237488372/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:28:47.775Z"
     },
     {
       "source": "yema007",
@@ -302551,6 +302551,37 @@
       "updatedAt": "2026-10-25T17:18:38.627Z"
     },
     {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237544671",
+      "uniqueKey": "yema007:237544671",
+      "title": "1994 Napoli Away Retro Kit Vintage Shirt Soccer David Jersey2",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237544671?uid=1&isSubCate=true&referrercate=876784",
+      "categoryId": "876784",
+      "collectionId": "876784",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Napoli 那不勒斯",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Clubteams",
+      "country": "Overig",
+      "competition": "Clubteams",
+      "club": "Napoli",
+      "season": "1994",
+      "types": [
+        "Retro"
+      ],
+      "images": [
+        "./assets/products/yema007/237544671/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/1ac8f5be7d/medium.jpg"
+      ],
+      "coverUrl": "./assets/products/yema007/237544671/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-10-27T02:14:22.009Z"
+    },
+    {
       "source": "minkang",
       "sourcePriority": 1,
       "sourceId": "257639031",
@@ -302893,37 +302924,6 @@
       "coverUrl": "./assets/products/minkang/211959253/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:18:38.627Z"
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237544671",
-      "uniqueKey": "yema007:237544671",
-      "title": "1994 Napoli Away Retro Kit Vintage Shirt Soccer David Jersey2",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237544671?uid=1&isSubCate=true&referrercate=876784",
-      "categoryId": "876784",
-      "collectionId": "876784",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Napoli 那不勒斯",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Clubteams",
-      "country": "Overig",
-      "competition": "Clubteams",
-      "club": "Napoli",
-      "season": "2019/94",
-      "types": [
-        "Retro"
-      ],
-      "images": [
-        "./assets/products/yema007/237544671/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/1ac8f5be7d/medium.jpg"
-      ],
-      "coverUrl": "./assets/products/yema007/237544671/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:29:43.203Z"
     },
     {
       "source": "yema007",
