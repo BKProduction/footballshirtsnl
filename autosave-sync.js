@@ -1,5 +1,4 @@
 import { spawn, spawnSync } from "node:child_process";
-import fs from "node:fs";
 
 const INTERVAL_MS = Number(process.env.AUTOSAVE_INTERVAL_MS || 300000);
 let child;
@@ -14,31 +13,48 @@ function git(args, allowFailure = false) {
   return result;
 }
 
-function hasChanges() {
-  return Boolean(git(["status", "--porcelain"], true).stdout.trim());
+function statusLines() {
+  return git(["status", "--porcelain"], true).stdout.trim();
+}
+
+function stagedChanges() {
+  return git(["diff", "--cached", "--quiet"], true).status !== 0;
+}
+
+function stageCheckpointFiles() {
+  git(["add", "-A", "--", "data/catalog.json"], true);
+  git(["add", "-A", "--", "data/sync-state.json"], true);
+  git(["add", "-A", "--", "assets/products"], true);
 }
 
 function saveCheckpoint(label) {
   if (saving) return false;
   saving = true;
+
   try {
     console.log(`\n[checkpoint] Start: ${label}`);
-    if (!hasChanges()) {
+
+    if (!statusLines()) {
       console.log(`[checkpoint] Geen nieuwe wijzigingen (${label}).`);
       return true;
     }
-    git(["add", "data/catalog.json", "data/sync-state.json", "assets/products"], true);
-    if (!hasChanges()) {
+
+    stageCheckpointFiles();
+
+    if (!stagedChanges()) {
       console.log(`[checkpoint] Geen relevante cataloguswijzigingen (${label}).`);
       return true;
     }
+
     git(["commit", "-m", `Autosave FootballshirtsNL ${new Date().toISOString()}`]);
+
     const push = git(["push", "origin", "HEAD:main"], true);
     if (push.status === 0) {
       console.log("[checkpoint] SUCCESS: voortgang opgeslagen.");
       return true;
     }
-    console.warn("[checkpoint] Push uitgesteld. De sync blijft lokaal veilig doorgaan.");
+
+    console.warn("[checkpoint] Push uitgesteld. Lokale commit blijft behouden; sync gaat verder.");
     return false;
   } finally {
     saving = false;
@@ -48,15 +64,21 @@ function saveCheckpoint(label) {
 function preflight() {
   git(["config", "user.name", "github-actions[bot]"], true);
   git(["config", "user.email", "41898282+github-actions[bot]@users.noreply.github.com"], true);
-  if (hasChanges()) throw new Error("Werkmap bevat al wijzigingen voordat de sync start.");
+
+  if (statusLines()) {
+    throw new Error("Werkmap bevat al wijzigingen voordat de sync start.");
+  }
+
   git(["pull", "--rebase", "origin", "main"]);
 }
 
 function finalPush() {
   saveCheckpoint("finale autosave");
-  const test = git(["push", "origin", "HEAD:main"], true);
-  if (test.status === 0) return;
-  console.log("[checkpoint] Remote is gewijzigd. Na beëindiging van sync volgt veilige rebase.");
+
+  const push = git(["push", "origin", "HEAD:main"], true);
+  if (push.status === 0) return;
+
+  console.log("[checkpoint] Remote gewijzigd; veilige rebase na beëindiging van sync.");
   git(["pull", "--rebase", "origin", "main"]);
   git(["push", "origin", "HEAD:main"]);
 }
