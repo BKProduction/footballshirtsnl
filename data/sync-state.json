@@ -25,9 +25,21 @@
       "discoveredAlbums": 2043,
       "categoryIndex": 40,
       "categoryTotal": 40,
-      "updatedAt": "2026-10-28T21:04:47.193Z",
-      "nextIndex": 1800,
+      "updatedAt": "2026-10-28T21:06:15.660Z",
+      "nextIndex": 2043,
       "total": 2043,
+      "completed": true,
+      "completedAt": "2026-10-28T21:06:15.660Z"
+    },
+    "dachang88": {
+      "discoveryPhase": "complete",
+      "discoveryComplete": true,
+      "discoveredAlbums": 765,
+      "categoryIndex": 49,
+      "categoryTotal": 49,
+      "updatedAt": "2026-10-28T21:09:53.919Z",
+      "nextIndex": 450,
+      "total": 765,
       "completed": false
     }
   }
