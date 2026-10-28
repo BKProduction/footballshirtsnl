@@ -8,12 +8,15 @@
       "updatedAt": "2026-10-28T13:07:22.921Z"
     },
     "yema007": {
-      "discoveryPhase": "categories",
-      "discoveryComplete": false,
-      "discoveredAlbums": 3261,
-      "categoryIndex": 226,
+      "discoveryPhase": "complete",
+      "discoveryComplete": true,
+      "discoveredAlbums": 3488,
+      "categoryIndex": 277,
       "categoryTotal": 277,
-      "updatedAt": "2026-10-28T20:29:53.274Z"
+      "updatedAt": "2026-10-28T20:34:51.156Z",
+      "nextIndex": 575,
+      "total": 3488,
+      "completed": false
     }
   }
 }
