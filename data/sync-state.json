@@ -37,9 +37,21 @@
       "discoveredAlbums": 765,
       "categoryIndex": 49,
       "categoryTotal": 49,
-      "updatedAt": "2026-10-28T21:09:53.919Z",
-      "nextIndex": 450,
+      "updatedAt": "2026-10-28T21:11:52.790Z",
+      "nextIndex": 765,
       "total": 765,
+      "completed": true,
+      "completedAt": "2026-10-28T21:11:52.790Z"
+    },
+    "dongshanstore": {
+      "discoveryPhase": "complete",
+      "discoveryComplete": true,
+      "discoveredAlbums": 1332,
+      "categoryIndex": 26,
+      "categoryTotal": 26,
+      "updatedAt": "2026-10-28T21:14:49.147Z",
+      "nextIndex": 325,
+      "total": 1332,
       "completed": false
     }
   }
