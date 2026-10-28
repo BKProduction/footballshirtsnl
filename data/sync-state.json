@@ -1,11 +1,19 @@
 {
-  "version": 1,
+  "version": 2,
   "sources": {
     "minkang": {
       "nextIndex": 7704,
       "total": 7704,
       "completed": true,
       "updatedAt": "2026-10-28T13:07:22.921Z"
+    },
+    "yema007": {
+      "discoveryPhase": "categories",
+      "discoveryComplete": false,
+      "discoveredAlbums": 3261,
+      "categoryIndex": 226,
+      "categoryTotal": 277,
+      "updatedAt": "2026-10-28T20:29:53.274Z"
     }
   }
 }
