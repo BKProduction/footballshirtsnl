@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "sources": {
     "minkang": {
       "nextIndex": 7704,
@@ -37,10 +37,10 @@
       "discoveredAlbums": 765,
       "categoryIndex": 49,
       "categoryTotal": 49,
-      "updatedAt": "2026-10-28T21:11:52.790Z",
-      "nextIndex": 765,
+      "updatedAt": "2026-10-28T23:40:17.782Z",
+      "nextIndex": 75,
       "total": 765,
-      "completed": true,
+      "completed": false,
       "completedAt": "2026-10-28T21:11:52.790Z"
     },
     "dongshanstore": {
@@ -68,5 +68,6 @@
       "completedAt": "2026-10-28T21:25:14.393Z"
     }
   },
-  "completedAt": "2026-10-28T21:25:14.394Z"
+  "completedAt": "2026-10-28T21:25:14.394Z",
+  "classificationVersion": 3
 }
