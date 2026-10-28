@@ -13,9 +13,21 @@
       "discoveredAlbums": 3488,
       "categoryIndex": 277,
       "categoryTotal": 277,
-      "updatedAt": "2026-10-28T20:49:45.622Z",
-      "nextIndex": 2950,
+      "updatedAt": "2026-10-28T20:53:01.989Z",
+      "nextIndex": 3488,
       "total": 3488,
+      "completed": true,
+      "completedAt": "2026-10-28T20:53:01.989Z"
+    },
+    "popmo": {
+      "discoveryPhase": "complete",
+      "discoveryComplete": true,
+      "discoveredAlbums": 2043,
+      "categoryIndex": 40,
+      "categoryTotal": 40,
+      "updatedAt": "2026-10-28T20:54:45.919Z",
+      "nextIndex": 150,
+      "total": 2043,
       "completed": false
     }
   }
