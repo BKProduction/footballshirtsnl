@@ -1,200 +1,86 @@
 import { spawn, spawnSync } from "node:child_process";
+import fs from "node:fs";
 
-const intervalMinutes = Math.max(
-  1,
-  Number(process.env.CHECKPOINT_MINUTES || 5)
-);
+const INTERVAL_MS = Number(process.env.AUTOSAVE_INTERVAL_MS || 300000);
+let child;
+let saving = false;
+let stopping = false;
 
-const intervalMs = intervalMinutes * 60 * 1000;
-
-let busy = false;
-let finished = false;
-
-function run(command, args, options = {}) {
-  return spawnSync(command, args, {
-    stdio: "inherit",
-    ...options
-  });
+function git(args, allowFailure = false) {
+  const result = spawnSync("git", args, { encoding: "utf8", stdio: ["ignore", "pipe", "pipe"] });
+  if (result.stdout) process.stdout.write(result.stdout);
+  if (result.stderr) process.stderr.write(result.stderr);
+  if (!allowFailure && result.status !== 0) throw new Error(`git ${args.join(" ")} mislukt`);
+  return result;
 }
 
-function checkpoint(label = "automatic checkpoint") {
-  if (busy) {
-    console.log(
-      `[checkpoint] Overgeslagen: vorig checkpoint is nog bezig (${label}).`
-    );
-    return;
-  }
+function hasChanges() {
+  return Boolean(git(["status", "--porcelain"], true).stdout.trim());
+}
 
-  busy = true;
-
+function saveCheckpoint(label) {
+  if (saving) return false;
+  saving = true;
   try {
-    console.log(
-      "========================================"
-    );
-    console.log(
-      `[checkpoint] Start: ${label}`
-    );
-    console.log(
-      "========================================"
-    );
-
-    /*
-     * Alleen de bestanden opslaan die tijdens de sync
-     * daadwerkelijk worden aangepast.
-     *
-     * BELANGRIJK:
-     * Geen git pull / rebase tijdens een draaiende sync.
-     * sync.js kan catalog.json namelijk ondertussen alweer
-     * wijzigen en dat kan conflicten veroorzaken.
-     */
-    run(
-      "git",
-      [
-        "add",
-        "assets/products",
-        "data/catalog.json"
-      ],
-      {
-        stdio: "ignore"
-      }
-    );
-
-    const diff = spawnSync(
-      "git",
-      [
-        "diff",
-        "--cached",
-        "--quiet"
-      ]
-    );
-
-    if (diff.status === 0) {
-      console.log(
-        `[checkpoint] Geen nieuwe wijzigingen (${label}).`
-      );
-      return;
+    console.log(`\n[checkpoint] Start: ${label}`);
+    if (!hasChanges()) {
+      console.log(`[checkpoint] Geen nieuwe wijzigingen (${label}).`);
+      return true;
     }
-
-    console.log(
-      "[checkpoint] Wijzigingen gevonden."
-    );
-
-    run(
-      "git",
-      [
-        "config",
-        "user.name",
-        "github-actions[bot]"
-      ]
-    );
-
-    run(
-      "git",
-      [
-        "config",
-        "user.email",
-        "41898282+github-actions[bot]@users.noreply.github.com"
-      ]
-    );
-
-    const stamp = new Date().toISOString();
-
-    const commit = run(
-      "git",
-      [
-        "commit",
-        "-m",
-        `Autosave FootballshirtsNL ${stamp}`
-      ]
-    );
-
-    if (commit.status !== 0) {
-      console.log(
-        "[checkpoint] Commit mislukt."
-      );
-      return;
+    git(["add", "data/catalog.json", "data/sync-state.json", "assets/products"], true);
+    if (!hasChanges()) {
+      console.log(`[checkpoint] Geen relevante cataloguswijzigingen (${label}).`);
+      return true;
     }
-
-    console.log(
-      "[checkpoint] Commit aangemaakt."
-    );
-
-    const branch =
-      process.env.GITHUB_REF_NAME || "main";
-
-    /*
-     * Eerst normaal pushen.
-     *
-     * Er hoort tijdens deze workflow geen andere writer
-     * nodig te zijn. Als main tóch gewijzigd is, gaan we
-     * NIET automatisch rebasen terwijl sync.js actief is.
-     *
-     * Dat voorkomt beschadiging of conflicten in
-     * data/catalog.json.
-     */
-    const push = run(
-      "git",
-      [
-        "push",
-        "origin",
-        `HEAD:${branch}`
-      ]
-    );
-
+    git(["commit", "-m", `Autosave FootballshirtsNL ${new Date().toISOString()}`]);
+    const push = git(["push", "origin", "HEAD:main"], true);
     if (push.status === 0) {
-      console.log(
-        `[checkpoint] SUCCES: voortgang opgeslagen ${stamp}`
-      );
-    } else {
-      console.log(
-        "[checkpoint] Push mislukt."
-      );
-      console.log(
-        "[checkpoint] Geen pull/rebase uitgevoerd om de draaiende sync te beschermen."
-      );
-      console.log(
-        "[checkpoint] De synchronisatie kan veilig verdergaan; een volgend checkpoint probeert opnieuw."
-      );
+      console.log("[checkpoint] SUCCESS: voortgang opgeslagen.");
+      return true;
     }
-  } catch (error) {
-    console.error(
-      `[checkpoint] Fout: ${error.message}`
-    );
+    console.warn("[checkpoint] Push uitgesteld. De sync blijft lokaal veilig doorgaan.");
+    return false;
   } finally {
-    busy = false;
+    saving = false;
   }
 }
 
-const child = spawn(
-  process.execPath,
-  ["sync.js"],
-  {
-    stdio: "inherit",
-    env: process.env
-  }
-);
-
-const timer = setInterval(
-  () => checkpoint("periodieke autosave"),
-  intervalMs
-);
-
-for (const signal of ["SIGINT", "SIGTERM"]) {
-  process.on(signal, () => {
-    if (!finished) {
-      checkpoint(`voor ${signal}`);
-    }
-
-    child.kill(signal);
-  });
+function preflight() {
+  git(["config", "user.name", "github-actions[bot]"], true);
+  git(["config", "user.email", "41898282+github-actions[bot]@users.noreply.github.com"], true);
+  if (hasChanges()) throw new Error("Werkmap bevat al wijzigingen voordat de sync start.");
+  git(["pull", "--rebase", "origin", "main"]);
 }
 
-child.on("exit", code => {
-  finished = true;
+function finalPush() {
+  saveCheckpoint("finale autosave");
+  const test = git(["push", "origin", "HEAD:main"], true);
+  if (test.status === 0) return;
+  console.log("[checkpoint] Remote is gewijzigd. Na beëindiging van sync volgt veilige rebase.");
+  git(["pull", "--rebase", "origin", "main"]);
+  git(["push", "origin", "HEAD:main"]);
+}
 
-  clearInterval(timer);
+async function stop(signal) {
+  if (stopping) return;
+  stopping = true;
+  console.log(`[checkpoint] Signaal ${signal} ontvangen.`);
+  if (child && !child.killed) child.kill("SIGTERM");
+  setTimeout(() => child && !child.killed && child.kill("SIGKILL"), 10000).unref();
+}
 
-  checkpoint("einde sync");
+process.on("SIGTERM", () => stop("SIGTERM"));
+process.on("SIGINT", () => stop("SIGINT"));
 
-  process.exitCode = code ?? 1;
-});
+try {
+  preflight();
+  child = spawn(process.execPath, ["sync.js"], { stdio: "inherit", env: process.env });
+  const interval = setInterval(() => saveCheckpoint("periodieke autosave"), INTERVAL_MS);
+  const exitCode = await new Promise(resolve => child.on("exit", code => resolve(code ?? 1)));
+  clearInterval(interval);
+  finalPush();
+  process.exitCode = exitCode;
+} catch (error) {
+  console.error(`[checkpoint] FATAAL: ${error.message}`);
+  process.exitCode = 1;
+}
