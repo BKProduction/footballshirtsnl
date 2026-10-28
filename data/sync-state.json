@@ -61,10 +61,12 @@
       "discoveredAlbums": 624,
       "categoryIndex": 16,
       "categoryTotal": 16,
-      "updatedAt": "2026-10-28T21:24:47.273Z",
-      "nextIndex": 550,
+      "updatedAt": "2026-10-28T21:25:14.393Z",
+      "nextIndex": 624,
       "total": 624,
-      "completed": false
+      "completed": true,
+      "completedAt": "2026-10-28T21:25:14.393Z"
     }
-  }
+  },
+  "completedAt": "2026-10-28T21:25:14.394Z"
 }
