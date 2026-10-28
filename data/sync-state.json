@@ -49,9 +49,21 @@
       "discoveredAlbums": 1332,
       "categoryIndex": 26,
       "categoryTotal": 26,
-      "updatedAt": "2026-10-28T21:19:46.693Z",
-      "nextIndex": 1125,
+      "updatedAt": "2026-10-28T21:21:04.506Z",
+      "nextIndex": 1332,
       "total": 1332,
+      "completed": true,
+      "completedAt": "2026-10-28T21:21:04.506Z"
+    },
+    "aosendi": {
+      "discoveryPhase": "complete",
+      "discoveryComplete": true,
+      "discoveredAlbums": 624,
+      "categoryIndex": 16,
+      "categoryTotal": 16,
+      "updatedAt": "2026-10-28T21:24:47.273Z",
+      "nextIndex": 550,
+      "total": 624,
       "completed": false
     }
   }
