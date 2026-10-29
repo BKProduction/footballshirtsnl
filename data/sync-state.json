@@ -1,6 +1,14 @@
 {
   "version": 6,
   "sources": {
+    "407131796": {
+      "run": "2026-10-29",
+      "discoveryComplete": true,
+      "discoveredAlbums": 3815,
+      "categoryIndex": 75,
+      "categoryTotal": 75,
+      "updatedAt": "2026-10-29T15:04:17.527Z"
+    },
     "minkang": {
       "nextIndex": 7704,
       "total": 7704,
@@ -87,6 +95,13 @@
     "completedAt": "2026-10-29T12:13:58.337Z"
   },
   "daily": {
+    "407131796": {
+      "run": "2026-10-29",
+      "nextIndex": 75,
+      "total": 3815,
+      "completed": false,
+      "updatedAt": "2026-10-29T15:05:58.775Z"
+    },
     "minkang": {
       "run": "2026-10-29",
       "nextIndex": 2692,
@@ -103,10 +118,10 @@
     },
     "popmo": {
       "run": "2026-10-29",
-      "nextIndex": 1925,
+      "nextIndex": 2043,
       "total": 2043,
-      "completed": false,
-      "updatedAt": "2026-10-29T15:00:58.186Z"
+      "completed": true,
+      "completedAt": "2026-10-29T15:02:35.115Z"
     }
   }
 }
