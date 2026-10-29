@@ -73,10 +73,10 @@
   "shoePhotoVersion": 2,
   "shoePhotoRepair": {
     "version": 3,
-    "phase": "collect",
-    "nextIndex": 525,
+    "phase": "download",
+    "nextIndex": 50,
     "total": 765,
     "completed": false,
-    "updatedAt": "2026-10-29T11:35:15.333Z"
+    "updatedAt": "2026-10-29T11:40:12.823Z"
   }
 }
