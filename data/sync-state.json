@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "sources": {
     "407131796": {
       "run": "2026-10-29",
@@ -178,5 +178,14 @@
       "completedAt": "2026-10-29T17:58:46.661Z"
     }
   },
-  "lastCompletedDailyRun": "2026-10-29"
+  "lastCompletedDailyRun": "2026-10-29",
+  "discovery": {
+    "minkang": {
+      "runDate": "2026-10-29",
+      "complete": false,
+      "albums": 2689,
+      "updatedAt": "2026-10-29T18:38:09.026Z"
+    }
+  },
+  "incremental": {}
 }
