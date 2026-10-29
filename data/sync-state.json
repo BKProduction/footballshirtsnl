@@ -5,11 +5,11 @@
       "nextIndex": 7704,
       "total": 7704,
       "completed": true,
-      "updatedAt": "2026-10-29T12:35:45.612Z",
+      "updatedAt": "2026-10-29T12:37:21.818Z",
       "run": "2026-10-29",
-      "discoveryComplete": false,
-      "discoveredAlbums": 2558,
-      "categoryIndex": 247,
+      "discoveryComplete": true,
+      "discoveredAlbums": 2692,
+      "categoryIndex": 297,
       "categoryTotal": 297
     },
     "yema007": {
@@ -84,5 +84,13 @@
     "completed": true,
     "completedAt": "2026-10-29T12:13:58.337Z"
   },
-  "daily": {}
+  "daily": {
+    "minkang": {
+      "run": "2026-10-29",
+      "nextIndex": 125,
+      "total": 2692,
+      "completed": false,
+      "updatedAt": "2026-10-29T12:40:23.488Z"
+    }
+  }
 }
