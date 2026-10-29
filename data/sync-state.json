@@ -65,11 +65,12 @@
       "discoveredAlbums": 1332,
       "categoryIndex": 26,
       "categoryTotal": 26,
-      "updatedAt": "2026-10-28T21:21:04.506Z",
+      "updatedAt": "2026-10-29T17:29:27.977Z",
       "nextIndex": 1332,
       "total": 1332,
       "completed": true,
-      "completedAt": "2026-10-28T21:21:04.506Z"
+      "completedAt": "2026-10-28T21:21:04.506Z",
+      "run": "2026-10-29"
     },
     "aosendi": {
       "discoveryPhase": "complete",
@@ -156,10 +157,17 @@
     },
     "dachang88": {
       "run": "2026-10-29",
-      "nextIndex": 525,
+      "nextIndex": 765,
       "total": 765,
+      "completed": true,
+      "completedAt": "2026-10-29T17:28:49.455Z"
+    },
+    "dongshanstore": {
+      "run": "2026-10-29",
+      "nextIndex": 75,
+      "total": 1332,
       "completed": false,
-      "updatedAt": "2026-10-29T17:26:15.230Z"
+      "updatedAt": "2026-10-29T17:31:05.864Z"
     }
   }
 }
