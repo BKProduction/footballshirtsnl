@@ -89,6 +89,14 @@
       "categoryIndex": 85,
       "categoryTotal": 85,
       "updatedAt": "2026-10-29T16:22:43.923Z"
+    },
+    "hema168": {
+      "run": "2026-10-29",
+      "discoveryComplete": true,
+      "discoveredAlbums": 187,
+      "categoryIndex": 44,
+      "categoryTotal": 44,
+      "updatedAt": "2026-10-29T17:16:13.440Z"
     }
   },
   "completedAt": "2026-10-29T11:20:07.166Z",
@@ -133,10 +141,10 @@
     },
     "yuhuaxieye1": {
       "run": "2026-10-29",
-      "nextIndex": 1875,
+      "nextIndex": 2089,
       "total": 2089,
-      "completed": false,
-      "updatedAt": "2026-10-29T17:10:56.433Z"
+      "completed": true,
+      "completedAt": "2026-10-29T17:15:17.656Z"
     }
   }
 }
