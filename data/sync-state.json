@@ -102,9 +102,9 @@
       "updatedAt": "2026-10-29T17:16:13.440Z"
     }
   },
-  "completedAt": "2026-10-29T11:20:07.166Z",
+  "completedAt": "2026-10-29T17:58:46.662Z",
   "classificationVersion": 4,
-  "shoePhotoVersion": 2,
+  "shoePhotoVersion": 6,
   "shoePhotoRepair": {
     "version": 3,
     "phase": "completed",
@@ -172,10 +172,11 @@
     },
     "aosendi": {
       "run": "2026-10-29",
-      "nextIndex": 425,
+      "nextIndex": 624,
       "total": 624,
-      "completed": false,
-      "updatedAt": "2026-10-29T17:55:47.073Z"
+      "completed": true,
+      "completedAt": "2026-10-29T17:58:46.661Z"
     }
-  }
+  },
+  "lastCompletedDailyRun": "2026-10-29"
 }
