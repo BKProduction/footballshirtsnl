@@ -9,7 +9,7 @@ const STATE_PATH = "data/sync-state.json";
 const DISCOVERY_DIR = "data/discovery";
 const ASSET_ROOT = "assets/products";
 const DAILY_RUN = new Date().toISOString().slice(0, 10);
-const SHOE_PHOTO_VERSION = 4;
+const SHOE_PHOTO_VERSION = 5;
 
 const SOURCES = [
   { key: "minkang", base: "https://minkang.x.yupoo.com", priority: 1, seeds: ["718623"] },
@@ -325,19 +325,40 @@ async function processAlbum(source, album, previous, forceShoeRepair) {
     if (error.status !== 404) console.warn(`[${source.key}] album ${id}: ${error.message}`);
   }
 
-  const candidates = detail?.images?.length ? detail.images : (album.previewImage ? [album.previewImage] : []);
-  const stored = [];
-  const overwrite = forceShoeRepair && source.mode === "shoes";
-  if (overwrite && candidates.length) await fs.rm(folder, { recursive: true, force: true });
+  const candidates = unique(
+    detail?.images?.length
+      ? detail.images
+      : (album.previewImage ? [album.previewImage] : [])
+  ).filter(validProductImageUrl).slice(0, MAX_IMAGES);
 
-  for (let index = 0; index < Math.min(candidates.length, MAX_IMAGES); index++) {
-    const file = path.join(folder, `${String(index + 1).padStart(2, "0")}.webp`);
-    if (await downloadImage(candidates[index], file, referer, overwrite)) stored.push(file.replaceAll(path.sep, "/"));
-  }
+  let stored = [];
 
-  if (!stored.length && !overwrite && previous?.images?.length) stored.push(...previous.images);
-  if (!stored.length && overwrite && previous?.images?.length) {
-    // Oude logo's niet opnieuw registreren; de kaart toont dan neutraal "Geen foto".
+  if (source.mode === "shoes") {
+    /*
+     * Nieuwe schoenfotomethode:
+     * photo.yupoo.com blokkeert downloads vanuit GitHub Actions met HTTP 567.
+     * Daarom worden de echte, gevalideerde Yupoo-product-URL's rechtstreeks in
+     * catalog.json gezet. De browser laadt deze URL's als normale <img src>.
+     * Er wordt voor schoenen dus niets meer vanuit GitHub Actions gedownload.
+     */
+    stored = candidates;
+
+    if (!stored.length && previous?.images?.some(validProductImageUrl)) {
+      stored = previous.images.filter(validProductImageUrl).slice(0, MAX_IMAGES);
+    }
+
+    if (forceShoeRepair) {
+      await fs.rm(folder, { recursive: true, force: true });
+    }
+  } else {
+    for (let index = 0; index < candidates.length; index++) {
+      const file = path.join(folder, `${String(index + 1).padStart(2, "0")}.webp`);
+      if (await downloadImage(candidates[index], file, referer, false)) {
+        stored.push(file.replaceAll(path.sep, "/"));
+      }
+    }
+
+    if (!stored.length && previous?.images?.length) stored.push(...previous.images);
   }
 
   const title = detail?.title || album.title || previous?.title || `Product ${id}`;
@@ -375,7 +396,6 @@ async function main() {
   const forceShoeRepair = Number(state.shoePhotoVersion || 0) < SHOE_PHOTO_VERSION;
   if (forceShoeRepair) {
     console.log(`[dachang88] schoenfotoherstel versie ${SHOE_PHOTO_VERSION} geactiveerd`);
-    await fs.rm(path.join(ASSET_ROOT, "dachang88"), { recursive: true, force: true });
   }
 
   const warnings = [];
