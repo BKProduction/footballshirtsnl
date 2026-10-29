@@ -84,11 +84,11 @@
     },
     "yuhuaxieye1": {
       "run": "2026-10-29",
-      "discoveryComplete": false,
-      "discoveredAlbums": 302,
-      "categoryIndex": 12,
+      "discoveryComplete": true,
+      "discoveredAlbums": 2089,
+      "categoryIndex": 85,
       "categoryTotal": 85,
-      "updatedAt": "2026-10-29T16:21:15.228Z"
+      "updatedAt": "2026-10-29T16:22:43.923Z"
     }
   },
   "completedAt": "2026-10-29T11:20:07.166Z",
@@ -130,6 +130,13 @@
       "total": 2043,
       "completed": true,
       "completedAt": "2026-10-29T15:02:35.115Z"
+    },
+    "yuhuaxieye1": {
+      "run": "2026-10-29",
+      "nextIndex": 125,
+      "total": 2089,
+      "completed": false,
+      "updatedAt": "2026-10-29T16:26:07.831Z"
     }
   }
 }
