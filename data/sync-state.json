@@ -78,11 +78,12 @@
       "discoveredAlbums": 624,
       "categoryIndex": 16,
       "categoryTotal": 16,
-      "updatedAt": "2026-10-28T21:25:14.393Z",
+      "updatedAt": "2026-10-29T17:50:08.420Z",
       "nextIndex": 624,
       "total": 624,
       "completed": true,
-      "completedAt": "2026-10-28T21:25:14.393Z"
+      "completedAt": "2026-10-28T21:25:14.393Z",
+      "run": "2026-10-29"
     },
     "yuhuaxieye1": {
       "run": "2026-10-29",
@@ -164,10 +165,17 @@
     },
     "dongshanstore": {
       "run": "2026-10-29",
-      "nextIndex": 1050,
+      "nextIndex": 1332,
       "total": 1332,
+      "completed": true,
+      "completedAt": "2026-10-29T17:49:42.239Z"
+    },
+    "aosendi": {
+      "run": "2026-10-29",
+      "nextIndex": 50,
+      "total": 624,
       "completed": false,
-      "updatedAt": "2026-10-29T17:46:00.018Z"
+      "updatedAt": "2026-10-29T17:50:55.810Z"
     }
   }
 }
