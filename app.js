@@ -1,8 +1,8 @@
 let catalog = { products: [] };
 let selectedPath = [];
 let visibleLimit = 120;
-
 const PAGE_SIZE = 120;
+
 const grid = document.querySelector("#grid");
 const detail = document.querySelector("#detail");
 const query = document.querySelector("#q");
@@ -11,11 +11,7 @@ const heading = document.querySelector("#heading");
 const meta = document.querySelector("#meta");
 
 const esc = value => String(value ?? "").replace(/[&<>"']/g, character => ({
-  "&": "&amp;",
-  "<": "&lt;",
-  ">": "&gt;",
-  '"': "&quot;",
-  "'": "&#39;"
+  "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
 })[character]);
 
 function products() {
@@ -36,96 +32,63 @@ function productId(product) {
   return product.uniqueKey || `${product.source || "onbekend"}:${product.sourceId || "onbekend"}`;
 }
 
-function productSeason(product) {
-  const value = text(product.season);
-  if (!value || /onbekend/i.test(value)) return "Seizoen onbekend";
-
-  const match = value.match(/\b((?:19|20)?\d{2})\s*[\/_-]\s*((?:19|20)?\d{2})\b/);
-  if (!match) return value;
-
-  let first = Number(match[1]);
-  if (match[1].length === 2) first += first >= 50 ? 1900 : 2000;
-
-  let second = Number(match[2]);
-  if (match[2].length === 2) {
-    second += Math.floor(first / 100) * 100;
-    if (second < first) second += 100;
-  }
-
-  return `${first}-${second}`;
-}
-
 function trainingType(product) {
-  const explicit = text(product.trainingType || product.productType);
-  if (explicit) return explicit;
-
-  const haystack = [product.title, product.subcategory, ...(product.types || [])]
-    .filter(Boolean)
-    .join(" ")
-    .toLowerCase();
-
-  if (/half[- ]?zip|quarter[- ]?zip/.test(haystack)) return "Half-zip";
-  if (/windbreaker|windjack/.test(haystack)) return "Windjacks";
-  if (/hoodie|hooded/.test(haystack)) return "Hoodies";
-  if (/jacket|coat|jas/.test(haystack)) return "Jassen";
-  if (/tracksuit|training suit|trainingspak|set/.test(haystack)) return "Trainingspakken";
-  if (/pants|trousers|broek/.test(haystack)) return "Trainingsbroeken";
-  if (/shorts|short/.test(haystack)) return "Trainingsshorts";
-  if (/long sleeve|lange mouw/.test(haystack)) return "Lange mouw";
-  if (/short sleeve|korte mouw/.test(haystack)) return "Korte mouw";
+  const value = [product.title, product.subcategory, ...(product.types || [])].filter(Boolean).join(" ").toLowerCase();
+  if (/half[- ]?zip|quarter[- ]?zip/.test(value)) return "Half-zip";
+  if (/windbreaker|windjack|windproof/.test(value)) return "Windjacks";
+  if (/hoodie|hooded/.test(value)) return "Hoodies";
+  if (/jacket|coat|jas/.test(value)) return "Jassen";
+  if (/tracksuit|training suit|trainingspak|training set/.test(value)) return "Trainingspakken";
+  if (/pants|trousers|broek/.test(value)) return "Trainingsbroeken";
+  if (/shorts|short/.test(value)) return "Trainingsshorts";
+  if (/long sleeve|lange mouw/.test(value)) return "Lange mouw";
+  if (/short sleeve|korte mouw/.test(value)) return "Korte mouw";
   return "Overige trainingskleding";
 }
 
-function normalizedSection(product) {
-  const section = text(product.section, "Overige producten");
-  if (section === "Schoenen" && text(product.category) === "Voetbalschoenen") return "Voetbalschoenen";
-  return section;
-}
-
 function productPath(product) {
-  const section = normalizedSection(product);
+  const section = text(product.section, "Overige producten");
   const category = text(product.category, "Overige producten");
   const subcategory = text(product.subcategory || product.competition, "Overig");
-  const club = text(product.club, "Overig");
-  const season = productSeason(product);
+  const club = text(product.club, subcategory);
+  const season = text(product.season, "Seizoen onbekend");
 
-  // Shirts en trainingskleding komen samen onder Voetbal > team > club/land > seizoen.
   if (section === "Voetbal" || section === "Trainingskleding") {
-    const teamCategory = category === "Landenteams" ? "Landenteams" : category === "Clubteams" ? "Clubteams" : "Overig";
-    const teamName = club !== "Overig" ? club : subcategory;
+    const rootCategory = category === "Clubteams" ? "Clubteams" : category === "Landenteams" ? "Landenteams" : "Overig";
     const productType = section === "Trainingskleding" ? "Trainingskleding" : "Shirts";
 
-    if (teamCategory === "Clubteams") {
-      const competition = text(product.competition || subcategory, "Overige clubs");
-      return ["Voetbal", "Clubteams", competition, teamName, season, productType, ...(productType === "Trainingskleding" ? [trainingType(product)] : [])];
+    if (rootCategory === "Clubteams") {
+      const path = ["Voetbal", "Clubteams", text(product.competition || subcategory, "Overige competities"), club, season, productType];
+      if (productType === "Trainingskleding") path.push(trainingType(product));
+      return path;
     }
 
-    if (teamCategory === "Landenteams") {
-      return ["Voetbal", "Landenteams", teamName, season, productType, ...(productType === "Trainingskleding" ? [trainingType(product)] : [])];
+    if (rootCategory === "Landenteams") {
+      const path = ["Voetbal", "Landenteams", club, season, productType];
+      if (productType === "Trainingskleding") path.push(trainingType(product));
+      return path;
     }
 
-    return ["Voetbal", "Overig", teamName || "Overig", season, productType, ...(productType === "Trainingskleding" ? [trainingType(product)] : [])];
+    const path = ["Voetbal", "Overig", club, season, productType];
+    if (productType === "Trainingskleding") path.push(trainingType(product));
+    return path;
   }
 
-  if (section === "Voetbalschoenen") {
-    const brand = category === "Voetbalschoenen" ? text(product.subcategory, "Overige merken") : category;
-    const model = category === "Voetbalschoenen" ? text(product.club, "Overige modellen") : subcategory;
+  if (section === "Voetbalschoenen" || (section === "Schoenen" && category === "Voetbalschoenen")) {
+    const brand = section === "Voetbalschoenen" ? category : subcategory;
+    const model = section === "Voetbalschoenen" ? subcategory : text(product.club, "Overig model");
     return ["Voetbalschoenen", brand, model];
   }
 
   return [section, category, subcategory];
 }
 
-function startsWithPath(fullPath, filterPath) {
-  return filterPath.every((value, index) => fullPath[index] === value);
+function samePath(a, b) {
+  return a.length === b.length && a.every((value, index) => value === b[index]);
 }
 
-function samePath(first, second) {
-  return first.length === second.length && first.every((value, index) => value === second[index]);
-}
-
-function isPrefix(prefix, fullPath) {
-  return prefix.every((value, index) => fullPath[index] === value);
+function pathStartsWith(path, prefix) {
+  return prefix.every((value, index) => path[index] === value);
 }
 
 function createNode() {
@@ -134,62 +97,48 @@ function createNode() {
 
 function buildTree() {
   const root = createNode();
-
   for (const product of products()) {
     let node = root;
     node.count++;
-
     for (const label of productPath(product)) {
       if (!node.children.has(label)) node.children.set(label, createNode());
       node = node.children.get(label);
       node.count++;
     }
   }
-
   return root;
 }
 
-function labelSort(first, second) {
-  if (first === "Seizoen onbekend") return 1;
-  if (second === "Seizoen onbekend") return -1;
-
-  const firstSeason = /^(19|20)\d{2}-/.test(first);
-  const secondSeason = /^(19|20)\d{2}-/.test(second);
-  if (firstSeason && secondSeason) return Number(second.slice(0, 4)) - Number(first.slice(0, 4));
-
-  return first.localeCompare(second, "nl", { numeric: true });
+function labelSort(a, b) {
+  if (a === "Seizoen onbekend") return 1;
+  if (b === "Seizoen onbekend") return -1;
+  if (/^(19|20)\d{2}-/.test(a) && /^(19|20)\d{2}-/.test(b)) return Number(b.slice(0, 4)) - Number(a.slice(0, 4));
+  return a.localeCompare(b, "nl", { numeric: true });
 }
 
 function navButton(label, path, count) {
   return `<button class="nav-pill${samePath(path, selectedPath) ? " active" : ""}" data-path="${esc(JSON.stringify(path))}">
-    <span>${esc(label)}</span>
-    <span>${formatNumber(count)}</span>
+    <span>${esc(label)}</span><span>${formatNumber(count)}</span>
   </button>`;
 }
 
 function renderTree(node, currentPath = []) {
-  return [...node.children.entries()]
-    .sort(([first], [second]) => labelSort(first, second))
-    .map(([label, child]) => {
-      const nextPath = [...currentPath, label];
-
-      if (!child.children.size) return navButton(label, nextPath, child.count);
-
-      return `<details class="nav-group" ${isPrefix(nextPath, selectedPath) ? "open" : ""}>
-        <summary>${esc(label)}<span>${formatNumber(child.count)}</span></summary>
-        <div class="nav-level">
-          ${navButton(`Alles binnen ${label}`, nextPath, child.count)}
-          ${renderTree(child, nextPath)}
-        </div>
-      </details>`;
-    })
-    .join("");
+  return [...node.children.entries()].sort(([a], [b]) => labelSort(a, b)).map(([label, child]) => {
+    const nextPath = [...currentPath, label];
+    if (!child.children.size) return navButton(label, nextPath, child.count);
+    return `<details class="nav-group" ${pathStartsWith(selectedPath, nextPath) ? "open" : ""}>
+      <summary>${esc(label)}<span>${formatNumber(child.count)}</span></summary>
+      <div class="nav-level">
+        ${navButton(`Alles binnen ${label}`, nextPath, child.count)}
+        ${renderTree(child, nextPath)}
+      </div>
+    </details>`;
+  }).join("");
 }
 
 function renderNavigation() {
   const tree = buildTree();
   categories.innerHTML = navButton("Alles", [], tree.count) + renderTree(tree);
-
   categories.querySelectorAll("button[data-path]").forEach(button => {
     button.onclick = () => {
       selectedPath = JSON.parse(button.dataset.path || "[]");
@@ -202,33 +151,20 @@ function renderNavigation() {
 }
 
 function searchableText(product) {
-  return [
-    product.title,
-    product.source,
-    product.country,
-    product.competition,
-    product.club,
-    productSeason(product),
-    ...productPath(product),
-    ...(Array.isArray(product.types) ? product.types : [])
-  ].filter(Boolean).join(" ").toLowerCase();
+  return [product.title, product.source, product.country, product.competition, product.club, product.season, ...productPath(product), ...(product.types || [])]
+    .filter(Boolean).join(" ").toLowerCase();
 }
 
 function filteredProducts() {
-  const searchTerm = query.value.trim().toLowerCase();
-  return products().filter(product => {
-    if (!startsWithPath(productPath(product), selectedPath)) return false;
-    return !searchTerm || searchableText(product).includes(searchTerm);
-  });
+  const term = query.value.trim().toLowerCase();
+  return products().filter(product => pathStartsWith(productPath(product), selectedPath) && (!term || searchableText(product).includes(term)));
 }
 
 function renderProducts() {
   detail.hidden = true;
   grid.hidden = false;
-
   const filtered = filteredProducts();
   const visible = filtered.slice(0, visibleLimit);
-
   heading.textContent = selectedPath.at(-1) || "Alle producten";
   meta.textContent = `${formatNumber(filtered.length)} ${filtered.length === 1 ? "product" : "producten"}`;
 
@@ -237,95 +173,50 @@ function renderProducts() {
     return;
   }
 
-  const cards = visible.map(product => {
+  grid.innerHTML = visible.map(product => {
     const image = product.coverUrl || product.images?.[0] || "";
     const label = productPath(product).slice(1).join(" · ");
     const imageCount = product.imageCount || product.images?.length || 0;
-
     return `<article class="card" data-id="${esc(productId(product))}">
-      ${image
-        ? `<img class="album-cover" loading="lazy" decoding="async" src="${esc(image)}" alt="${esc(product.title)}">`
-        : `<div class="album-cover no-image">Geen foto</div>`}
-      <div class="card-copy">
-        <span>${esc(label)}</span>
-        <strong>${esc(product.title)}</strong>
-        <small>${esc(imageCount)} foto's</small>
-      </div>
+      ${image ? `<img class="album-cover" loading="lazy" decoding="async" src="${esc(image)}" alt="${esc(product.title)}">` : `<div class="album-cover no-image">Geen foto</div>`}
+      <div class="card-copy"><span>${esc(label)}</span><strong>${esc(product.title)}</strong><small>${esc(imageCount)} foto's</small></div>
     </article>`;
-  }).join("");
+  }).join("") + (visible.length < filtered.length ? `<div class="load-more-wrap" style="grid-column:1/-1;text-align:center;padding:24px"><button id="loadMore" type="button">Meer producten laden (${formatNumber(visible.length)} van ${formatNumber(filtered.length)})</button></div>` : "");
 
-  const moreButton = visible.length < filtered.length
-    ? `<div class="load-more-wrap" style="grid-column:1/-1;text-align:center;padding:24px">
-        <button id="loadMore" type="button">Meer producten laden (${formatNumber(visible.length)} van ${formatNumber(filtered.length)})</button>
-      </div>`
-    : "";
-
-  grid.innerHTML = cards + moreButton;
-  grid.querySelectorAll(".card").forEach(card => {
-    card.onclick = () => openProduct(card.dataset.id);
-  });
-
+  grid.querySelectorAll(".card").forEach(card => card.onclick = () => openProduct(card.dataset.id));
   const loadMore = document.querySelector("#loadMore");
-  if (loadMore) {
-    loadMore.onclick = () => {
-      visibleLimit += PAGE_SIZE;
-      renderProducts();
-    };
-  }
+  if (loadMore) loadMore.onclick = () => { visibleLimit += PAGE_SIZE; renderProducts(); };
 }
 
 function openProduct(id) {
   const product = products().find(item => productId(item) === id);
   if (!product) return;
-
   grid.hidden = true;
   detail.hidden = false;
-
   const images = Array.isArray(product.images) ? product.images : [];
-  const breadcrumb = productPath(product).join(" › ");
-
   detail.innerHTML = `<button class="back" type="button">← Terug naar overzicht</button>
-    <p class="eyebrow">${esc(breadcrumb)}</p>
+    <p class="eyebrow">${esc(productPath(product).join(" › "))}</p>
     <h1>${esc(product.title)}</h1>
     ${product.types?.length ? `<p>${esc(product.types.join(" · "))}</p>` : ""}
-    <div class="detail-photos">
-      ${images.length
-        ? images.map((src, index) => `<img loading="lazy" decoding="async" src="${esc(src)}" alt="${esc(product.title)} foto ${index + 1}">`).join("")
-        : `<p class="empty-state">Voor dit product zijn nog geen foto's opgeslagen.</p>`}
-    </div>`;
-
-  detail.querySelector(".back").onclick = () => {
-    renderProducts();
-    window.scrollTo({ top: 0, behavior: "smooth" });
-  };
-
+    <div class="detail-photos">${images.length ? images.map((src, index) => `<img loading="lazy" decoding="async" src="${esc(src)}" alt="${esc(product.title)} foto ${index + 1}">`).join("") : `<p class="empty-state">Voor dit product zijn nog geen foto's opgeslagen.</p>`}</div>`;
+  detail.querySelector(".back").onclick = () => { renderProducts(); window.scrollTo({ top: 0, behavior: "smooth" }); };
   window.scrollTo({ top: 0, behavior: "smooth" });
-}
-
-function showLoadError(error) {
-  console.error("Catalogusfout:", error);
-  grid.innerHTML = `<p class="error">Catalogus kon niet worden geladen: ${esc(error.message)}</p>`;
-  heading.textContent = "Catalogus";
-  meta.textContent = "Laden mislukt";
 }
 
 async function loadCatalog() {
   try {
     const response = await fetch(`./data/catalog.json?v=${Date.now()}`, { cache: "no-store" });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
-
     catalog = await response.json();
-    console.log(`[Catalogus] ${products().length} producten uit alle bronnen geladen`);
     renderNavigation();
     renderProducts();
   } catch (error) {
-    showLoadError(error);
+    console.error("Catalogusfout:", error);
+    grid.innerHTML = `<p class="error">Catalogus kon niet worden geladen: ${esc(error.message)}</p>`;
+    heading.textContent = "Catalogus";
+    meta.textContent = "Laden mislukt";
   }
 }
 
-query.oninput = () => {
-  visibleLimit = PAGE_SIZE;
-  renderProducts();
-};
-
+query.oninput = () => { visibleLimit = PAGE_SIZE; renderProducts(); };
 loadCatalog();
