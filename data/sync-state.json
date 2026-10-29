@@ -81,6 +81,14 @@
       "total": 624,
       "completed": true,
       "completedAt": "2026-10-28T21:25:14.393Z"
+    },
+    "yuhuaxieye1": {
+      "run": "2026-10-29",
+      "discoveryComplete": false,
+      "discoveredAlbums": 302,
+      "categoryIndex": 12,
+      "categoryTotal": 85,
+      "updatedAt": "2026-10-29T16:21:15.228Z"
     }
   },
   "completedAt": "2026-10-29T11:20:07.166Z",
@@ -97,10 +105,10 @@
   "daily": {
     "407131796": {
       "run": "2026-10-29",
-      "nextIndex": 3600,
+      "nextIndex": 3815,
       "total": 3815,
-      "completed": false,
-      "updatedAt": "2026-10-29T16:15:54.633Z"
+      "completed": true,
+      "completedAt": "2026-10-29T16:20:51.440Z"
     },
     "minkang": {
       "run": "2026-10-29",
