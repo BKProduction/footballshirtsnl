@@ -37,11 +37,11 @@
       "discoveredAlbums": 765,
       "categoryIndex": 39,
       "categoryTotal": 39,
-      "updatedAt": "2026-10-29T06:34:12.416Z",
-      "nextIndex": 600,
+      "updatedAt": "2026-10-29T06:36:30.451Z",
+      "nextIndex": 765,
       "total": 765,
-      "completed": false,
-      "completedAt": "2026-10-29T00:12:39.004Z"
+      "completed": true,
+      "completedAt": "2026-10-29T06:36:30.778Z"
     },
     "dongshanstore": {
       "discoveryPhase": "complete",
@@ -68,7 +68,7 @@
       "completedAt": "2026-10-28T21:25:14.393Z"
     }
   },
-  "completedAt": "2026-10-29T06:06:09.213Z",
+  "completedAt": "2026-10-29T06:36:30.779Z",
   "classificationVersion": 4,
   "shoePhotoVersion": 2
 }
