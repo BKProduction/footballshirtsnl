@@ -31,11 +31,12 @@
       "discoveredAlbums": 2043,
       "categoryIndex": 40,
       "categoryTotal": 40,
-      "updatedAt": "2026-10-28T21:06:15.660Z",
+      "updatedAt": "2026-10-29T14:28:23.522Z",
       "nextIndex": 2043,
       "total": 2043,
       "completed": true,
-      "completedAt": "2026-10-28T21:06:15.660Z"
+      "completedAt": "2026-10-28T21:06:15.660Z",
+      "run": "2026-10-29"
     },
     "dachang88": {
       "discoveryPhase": "complete",
@@ -95,10 +96,17 @@
     },
     "yema007": {
       "run": "2026-10-29",
-      "nextIndex": 3400,
+      "nextIndex": 3488,
       "total": 3488,
+      "completed": true,
+      "completedAt": "2026-10-29T14:27:10.484Z"
+    },
+    "popmo": {
+      "run": "2026-10-29",
+      "nextIndex": 125,
+      "total": 2043,
       "completed": false,
-      "updatedAt": "2026-10-29T14:25:57.000Z"
+      "updatedAt": "2026-10-29T14:31:06.967Z"
     }
   }
 }
