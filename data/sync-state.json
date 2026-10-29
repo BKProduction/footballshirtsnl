@@ -14,15 +14,16 @@
     },
     "yema007": {
       "discoveryPhase": "complete",
-      "discoveryComplete": true,
-      "discoveredAlbums": 3488,
-      "categoryIndex": 277,
+      "discoveryComplete": false,
+      "discoveredAlbums": 1604,
+      "categoryIndex": 70,
       "categoryTotal": 277,
-      "updatedAt": "2026-10-28T20:53:01.989Z",
+      "updatedAt": "2026-10-29T13:20:46.590Z",
       "nextIndex": 3488,
       "total": 3488,
       "completed": true,
-      "completedAt": "2026-10-28T20:53:01.989Z"
+      "completedAt": "2026-10-28T20:53:01.989Z",
+      "run": "2026-10-29"
     },
     "popmo": {
       "discoveryPhase": "complete",
@@ -87,10 +88,10 @@
   "daily": {
     "minkang": {
       "run": "2026-10-29",
-      "nextIndex": 2475,
+      "nextIndex": 2692,
       "total": 2692,
-      "completed": false,
-      "updatedAt": "2026-10-29T13:15:40.576Z"
+      "completed": true,
+      "completedAt": "2026-10-29T13:18:57.480Z"
     }
   }
 }
