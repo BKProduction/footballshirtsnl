@@ -1,377 +1,427 @@
 import fs from "node:fs/promises";
 import path from "node:path";
+import crypto from "node:crypto";
 import * as cheerio from "cheerio";
 import pLimit from "p-limit";
 import sharp from "sharp";
 
-const CATALOG = "data/catalog.json";
-const STATE = "data/sync-state.json";
-const DISCOVERY = "data/discovery";
-const ASSETS = "assets/products";
+/*
+ * FootballshirtsNL - eenmalig en hervatbaar schoenfotoherstel
+ *
+ * Dit bestand wijzigt uitsluitend de images, coverUrl en imageCount van
+ * bestaande dachang88-producten in data/catalog.json. De indeling van alle
+ * producten en alle andere bronnen blijft volledig ongemoeid.
+ */
 
-const SOURCES = [
-  { key: "minkang", base: "https://minkang.x.yupoo.com", priority: 1, seeds: ["718623"] },
-  { key: "yema007", base: "https://yema007.x.yupoo.com", priority: 2, seeds: [] },
-  { key: "popmo", base: "https://popmo.x.yupoo.com", priority: 3, seeds: [] },
-  { key: "dachang88", base: "https://dachang88.x.yupoo.com", priority: 4, mode: "shoes", seeds: [] },
-  { key: "dongshanstore", base: "https://dongshanstore.x.yupoo.com", priority: 5, mode: "training", seeds: [] },
-  { key: "aosendi", base: "https://aosendi.x.yupoo.com", priority: 6, mode: "training", seeds: [] }
-];
+const CATALOG_PATH = "data/catalog.json";
+const STATE_PATH = "data/sync-state.json";
+const DISCOVERY_PATH = "data/discovery/dachang88.json";
+const CACHE_PATH = "data/shoe-photo-repair.json";
+const ASSET_ROOT = "assets/products/dachang88";
 
-const num = (name, fallback) => {
+const CONCURRENCY = numberSetting("SYNC_CONCURRENCY", 2);
+const BATCH_SIZE = numberSetting("SYNC_BATCH_SIZE", 25);
+const MAX_IMAGES = numberSetting("MAX_IMAGES_PER_ALBUM", 6);
+const REQUEST_TIMEOUT = numberSetting("SYNC_REQUEST_TIMEOUT_MS", 45000);
+const REQUEST_RETRIES = numberSetting("SYNC_REQUEST_RETRIES", 2);
+const REQUEST_DELAY = Math.max(0, Number(process.env.SYNC_DELAY_MS || 250));
+const PHOTO_REPAIR_VERSION = 3;
+const BASE_URL = "https://dachang88.x.yupoo.com";
+const limit = pLimit(CONCURRENCY);
+
+function numberSetting(name, fallback) {
   const value = Number(process.env[name] || fallback);
   return Number.isFinite(value) && value > 0 ? Math.floor(value) : fallback;
-};
+}
 
-const MAX_PAGES = num("SYNC_MAX_PAGES", 100);
-const MAX_CATEGORY_PAGES = num("SYNC_CATEGORY_MAX_PAGES", 100);
-const MAX_CATEGORIES = num("SYNC_MAX_CATEGORIES_PER_SOURCE", 500);
-const DISCOVERY_MINUTES = num("SYNC_MAX_DISCOVERY_MINUTES", 45);
-const MAX_IMAGES = num("MAX_IMAGES_PER_ALBUM", 6);
-const BATCH = num("SYNC_BATCH_SIZE", 25);
-const TIMEOUT = num("SYNC_REQUEST_TIMEOUT_MS", 45000);
-const RETRIES = num("SYNC_REQUEST_RETRIES", 2);
-const DELAY = Math.max(0, Number(process.env.SYNC_DELAY_MS || 250));
-const SOURCE_FILTER = String(process.env.SYNC_SOURCE || "").trim().toLowerCase();
-const limit = pLimit(num("SYNC_CONCURRENCY", 2));
 const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
-
 const unique = values => [...new Set(values.filter(Boolean))];
-const norm = (value = "") => String(value).normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
-const has = (text, terms) => terms.some(term => norm(text).includes(norm(term)));
-const absolute = (base, value) => { try { return new URL(value, base).href; } catch { return ""; } };
-const safe = value => norm(value).replace(/\s+/g, "-") || "product";
 
-const LEAGUES = [
-  ["Engeland", "Premier League", ["Arsenal", "Aston Villa", "Bournemouth", "Brentford", "Brighton", "Burnley", "Chelsea", "Crystal Palace", "Everton", "Fulham", "Leeds United", "Liverpool", "Manchester City", "Manchester United", "Newcastle United", "Nottingham Forest", "Sunderland", "Tottenham", "West Ham", "Wolverhampton"]],
-  ["Spanje", "La Liga", ["Athletic Bilbao", "Atletico Madrid", "Barcelona", "Real Betis", "Real Madrid", "Real Sociedad", "Sevilla", "Valencia", "Villarreal"]],
-  ["Italie", "Serie A", ["AC Milan", "Atalanta", "Bologna", "Fiorentina", "Inter Milan", "Juventus", "Lazio", "Napoli", "Roma"]],
-  ["Duitsland", "Bundesliga", ["Bayern Munich", "Bayer Leverkusen", "Borussia Dortmund", "Eintracht Frankfurt", "RB Leipzig", "Schalke 04", "Werder Bremen"]],
-  ["Frankrijk", "Ligue 1", ["Lille", "Lyon", "Marseille", "Monaco", "Nice", "Paris Saint-Germain", "PSG"]],
-  ["Nederland", "Eredivisie", ["Ajax", "AZ", "Feyenoord", "FC Twente", "PSV", "Sparta Rotterdam", "FC Utrecht", "Vitesse"]],
-  ["Portugal", "Primeira Liga", ["Benfica", "Porto", "Sporting CP"]],
-  ["Schotland", "Scottish Premiership", ["Celtic", "Rangers"]],
-  ["Turkije", "Super Lig", ["Besiktas", "Fenerbahce", "Galatasaray"]],
-  ["Verenigde Staten", "MLS", ["Inter Miami", "LA Galaxy", "Los Angeles FC", "New York City FC"]]
-];
-
-const COUNTRIES = ["Argentina", "Australia", "Austria", "Belgium", "Brazil", "Canada", "Chile", "China", "Colombia", "Croatia", "Denmark", "Ecuador", "England", "France", "Germany", "Ghana", "Italy", "Japan", "Mexico", "Morocco", "Netherlands", "Nigeria", "Norway", "Poland", "Portugal", "Saudi Arabia", "Scotland", "Senegal", "South Korea", "Spain", "Sweden", "Switzerland", "Turkey", "Tunisia", "Uruguay", "USA", "United States", "Wales"];
-const BRANDS = ["Nike", "Adidas", "Puma", "New Balance", "Mizuno", "Under Armour", "Joma"];
-const MODELS = [
-  ["Nike", "Mercurial", ["mercurial", "vapor", "superfly"]], ["Nike", "Phantom", ["phantom", "gx", "luna"]], ["Nike", "Tiempo", ["tiempo", "legend"]],
-  ["Adidas", "Predator", ["predator"]], ["Adidas", "F50", ["f50"]], ["Adidas", "Copa", ["adidas copa"]], ["Adidas", "X", ["speedportal", "speedflow", "crazyfast", "adidas x"]],
-  ["Puma", "Future", ["puma future", "future ultimate"]], ["Puma", "Ultra", ["puma ultra", "ultra ultimate"]], ["Puma", "King", ["puma king"]],
-  ["Mizuno", "Morelia", ["morelia"]], ["Mizuno", "Alpha", ["mizuno alpha"]], ["Joma", "Top Flex", ["top flex"]]
-];
-
-function season(text) {
-  let m = String(text).match(/\b((?:19|20)\d{2})\s*[\/_-]\s*((?:19|20)?\d{2})\b/);
-  if (m) {
-    const first = Number(m[1]);
-    let second = Number(m[2]);
-    if (m[2].length === 2) { second = Math.floor(first / 100) * 100 + second; if (second < first) second += 100; }
-    return `${first}-${second}`;
+function absoluteUrl(base, value) {
+  if (!value) return "";
+  try {
+    return new URL(value, base).href;
+  } catch {
+    return "";
   }
-  m = String(text).match(/\b(\d{2})\s*[\/_-]\s*(\d{2})\b/);
-  if (m) {
-    const first = Number(m[1]) >= 50 ? 1900 + Number(m[1]) : 2000 + Number(m[1]);
-    let second = Math.floor(first / 100) * 100 + Number(m[2]);
-    if (second < first) second += 100;
-    return `${first}-${second}`;
-  }
-  return "Seizoen onbekend";
 }
 
-function club(text) {
-  const n = norm(text);
-  return LEAGUES.flatMap(([country, competition, clubs]) => clubs.map(club => ({ country, competition, club }))).sort((a, b) => b.club.length - a.club.length).find(item => n.includes(norm(item.club))) || null;
+function sourceIdFromProduct(product) {
+  return String(
+    product.sourceId ||
+    product.sourceUrl?.match(/\/albums\/(\d+)/)?.[1] ||
+    product.uniqueKey?.split(":").at(-1) ||
+    ""
+  );
 }
 
-function country(text) {
-  const n = norm(text);
-  return COUNTRIES.find(item => n.includes(norm(item))) || "";
+function albumIdFromUrl(url) {
+  return String(url || "").match(/\/albums\/(\d+)/)?.[1] || "";
 }
 
-function classify(item, source) {
-  const text = [item.title, item.categoryTitle, item.collectionTitle].filter(Boolean).join(" ");
-  const n = norm(text), year = season(text), team = club(text), nation = country(text);
-
-  if (source.mode === "training" || has(text, ["tracksuit", "track suit", "training suit", "training set", "training wear", "pre match", "prematch", "windbreaker", "trainingspak", "trainingskleding"])) {
-    if (team) return { section: "Trainingskleding", category: "Clubteams", subcategory: team.competition, club: team.club, country: team.country, competition: team.competition, season: year, types: ["Trainingskleding"] };
-    if (nation) return { section: "Trainingskleding", category: "Landenteams", subcategory: nation, club: nation, country: nation, competition: "Landenteams", season: year, types: ["Trainingskleding"] };
-    return { section: "Trainingskleding", category: "Overig", subcategory: item.categoryTitle || "Overig", club: "Overig", country: "", competition: "", season: year, types: ["Trainingskleding"] };
+async function exists(file) {
+  try {
+    await fs.access(file);
+    return true;
+  } catch {
+    return false;
   }
+}
 
-  const explicit = ["football boot", "football boots", "soccer shoe", "soccer shoes", "soccer boot", "soccer boots", "cleats", "voetbalschoen", "voetbalschoenen"];
-  const strong = ["mercurial", "superfly", "phantom gx", "phantom luna", "tiempo legend", "adidas predator", "adidas f50", "adidas copa", "speedportal", "speedflow", "crazyfast", "puma future", "puma ultra", "puma king", "mizuno morelia", "mizuno alpha", "joma top flex"];
-  if (source.mode === "shoes" || has(text, explicit) || has(text, strong)) {
-    const brand = BRANDS.find(value => n.includes(norm(value))) || "Overige merken";
-    const model = MODELS.find(([b, , words]) => b === brand && words.some(word => n.includes(norm(word))))?.[1] || "Overig model";
-    return { section: "Voetbalschoenen", category: brand, subcategory: model, club: "", country: "", competition: "", season: "Seizoen onbekend", types: ["Voetbalschoenen"] };
+async function readJson(file, fallback) {
+  try {
+    return JSON.parse(await fs.readFile(file, "utf8"));
+  } catch {
+    return fallback;
   }
+}
 
-  if (team) return { section: "Voetbal", category: "Clubteams", subcategory: team.competition, club: team.club, country: team.country, competition: team.competition, season: year, types: ["Voetbalshirt"] };
-  if (nation) return { section: "Voetbal", category: "Landenteams", subcategory: nation, club: nation, country: nation, competition: "Landenteams", season: year, types: ["Voetbalshirt"] };
-  return { section: "Overige producten", category: "Overige producten", subcategory: item.categoryTitle || "Overig", club: "", country: "", competition: "", season: "Seizoen onbekend", types: ["Overig"] };
+async function writeJsonAtomic(file, data) {
+  await fs.mkdir(path.dirname(file), { recursive: true });
+  const temporary = `${file}.tmp`;
+  await fs.writeFile(temporary, JSON.stringify(data, null, 2) + "\n", "utf8");
+  await fs.rename(temporary, file);
 }
 
 class HttpError extends Error {
-  constructor(status, url) { super(`HTTP ${status} voor ${url}`); this.status = status; this.url = url; }
+  constructor(status, url) {
+    super(`HTTP ${status} voor ${url}`);
+    this.status = status;
+    this.url = url;
+  }
 }
 
 async function request(url, binary = false) {
-  let last;
-  for (let attempt = 0; attempt <= RETRIES; attempt++) {
-    await sleep(DELAY);
+  let lastError;
+
+  for (let attempt = 0; attempt <= REQUEST_RETRIES; attempt++) {
+    await sleep(REQUEST_DELAY);
     const controller = new AbortController();
-    const timer = setTimeout(() => controller.abort(), TIMEOUT);
+    const timer = setTimeout(() => controller.abort(), REQUEST_TIMEOUT);
+
     try {
-      const response = await fetch(url, { headers: { "user-agent": "Mozilla/5.0 FootballshirtsNL/1.0", accept: binary ? "image/avif,image/webp,image/*,*/*" : "text/html,application/xhtml+xml" }, signal: controller.signal });
+      const response = await fetch(url, {
+        headers: {
+          "user-agent": "Mozilla/5.0 FootballshirtsNL/1.0",
+          accept: binary
+            ? "image/avif,image/webp,image/apng,image/*,*/*;q=0.8"
+            : "text/html,application/xhtml+xml"
+        },
+        signal: controller.signal
+      });
+
       if (!response.ok) throw new HttpError(response.status, url);
-      return binary ? Buffer.from(await response.arrayBuffer()) : await response.text();
+      return binary
+        ? Buffer.from(await response.arrayBuffer())
+        : await response.text();
     } catch (error) {
-      last = error;
-      if (error.status === 404 || attempt === RETRIES) throw error;
+      lastError = error;
+      if (error?.status === 404 || attempt === REQUEST_RETRIES) throw error;
       await sleep(1000 * (attempt + 1));
-    } finally { clearTimeout(timer); }
+    } finally {
+      clearTimeout(timer);
+    }
   }
-  throw last;
+
+  throw lastError;
 }
 
-async function readJson(file, fallback) { try { return JSON.parse(await fs.readFile(file, "utf8")); } catch { return fallback; } }
-async function writeJson(file, data) { await fs.mkdir(path.dirname(file), { recursive: true }); const temp = `${file}.tmp`; await fs.writeFile(temp, JSON.stringify(data, null, 2) + "\n"); await fs.rename(temp, file); }
-async function exists(file) { try { await fs.access(file); return true; } catch { return false; } }
-function discoveryFile(source) { return path.join(DISCOVERY, `${source.key}.json`); }
-function freshDiscovery(source) { return { version: 4, source: source.key, phase: "index", indexPage: 1, categories: (source.seeds || []).map(id => ({ url: `${source.base}/categories/${id}`, title: "" })), categoryIndex: 0, categoryPage: 1, albums: [], complete: false }; }
-
-// FOTOHERSTEL: alleen echte Yupoo-productafbeeldingen toelaten.
-function isRealProductImage(url = "") {
+function isPossibleProductImage(url = "") {
   const value = String(url).toLowerCase();
   if (!value || !value.includes("photo.yupoo.com")) return false;
-  return !["logo", "avatar", "favicon", "default", "placeholder", "loading", "qrcode", "qr_code"].some(word => value.includes(word));
+
+  const forbidden = [
+    "logo", "avatar", "favicon", "default", "placeholder", "loading",
+    "qrcode", "qr_code", "icon", "sprite", "banner", "watermark"
+  ];
+
+  return !forbidden.some(word => value.includes(word));
 }
 
-// FOTOHERSTEL: zoek de thumbnail die daadwerkelijk bij de albumlink hoort.
-function productPreview($, element, source) {
-  const link = $(element);
-  const containers = [link, link.closest(".album__item, .showalbum__children, .index__album__item, li"), link.parent(), link.parent().parent()];
-  for (const container of containers) {
-    for (const image of container.find("img[data-origin-src],img[data-src],img[src]").toArray()) {
-      for (const raw of [$(image).attr("data-origin-src"), $(image).attr("data-src"), $(image).attr("src")]) {
-        const url = absolute(source.base, raw);
-        if (isRealProductImage(url)) return url.replace(/\/(small|medium|thumb)\//i, "/large/");
-      }
-    }
-  }
-  return "";
+function normalizeImageUrl(url) {
+  return String(url || "")
+    .replace(/\/(small|medium|thumb)\//i, "/large/")
+    .replace(/!.*$/, "");
 }
 
-function extractPage(html, source, inherited = "") {
-  const $ = cheerio.load(html), categories = new Map(), albums = new Map();
-  $("a[href*='/categories/'],a[href*='/collections/']").each((_, el) => {
-    const url = absolute(source.base, $(el).attr("href")).split("?")[0];
-    if (url) categories.set(url, { url, title: $(el).attr("title") || $(el).text().trim() });
+function candidateImagesFromHtml(html, pageUrl) {
+  const $ = cheerio.load(html);
+  const candidates = [];
+
+  const add = value => {
+    const url = normalizeImageUrl(absoluteUrl(pageUrl, value));
+    if (isPossibleProductImage(url)) candidates.push(url);
+  };
+
+  $("meta[property='og:image'], meta[name='twitter:image']").each((_, element) => {
+    add($(element).attr("content"));
   });
-  $("a[href*='/albums/']").each((_, el) => {
-    const fetchUrl = absolute(source.base, $(el).attr("href"));
-    const url = fetchUrl.split("?")[0];
-    if (!/\/albums\/\d+/.test(url)) return;
-    const img = $(el).find("img");
-    albums.set(url, {
-      url,
-      fetchUrl,
-      title: $(el).attr("title") || img.attr("alt") || $(el).text().trim() || `Product ${url.match(/\/albums\/(\d+)/)?.[1] || ""}`,
-      categoryTitle: inherited,
-      previewImage: productPreview($, el, source)
-    });
+
+  const productSelectors = [
+    ".showalbum__image img",
+    ".showalbum__children img",
+    ".album__photo img",
+    ".photo img",
+    "img[data-origin-src]",
+    "img[data-src]"
+  ];
+
+  $(productSelectors.join(",")).each((_, element) => {
+    add($(element).attr("data-origin-src"));
+    add($(element).attr("data-src"));
+    add($(element).attr("src"));
   });
-  const next = $("a[rel='next'],a.next,.pagination-next a").first().attr("href");
-  return { categories: [...categories.values()], albums: [...albums.values()], nextUrl: next ? absolute(source.base, next) : "" };
+
+  return unique(candidates).slice(0, 30);
 }
 
-function mergeAlbums(oldItems, newItems) {
-  const map = new Map(oldItems.map(x => [x.url, x]));
-  for (const item of newItems) map.set(item.url, { ...(map.get(item.url) || {}), ...item });
-  return [...map.values()].sort((a, b) => a.url.localeCompare(b.url, "en", { numeric: true }));
-}
-
-async function saveDiscovery(source, d, state) {
-  d.updatedAt = new Date().toISOString();
-  await writeJson(discoveryFile(source), d);
-  state.sources[source.key] = { ...(state.sources[source.key] || {}), discoveryComplete: d.complete, discoveredAlbums: d.albums.length, categoryIndex: d.categoryIndex, categoryTotal: d.categories.length, updatedAt: d.updatedAt };
-  await writeJson(STATE, state);
-}
-
-async function discover(source, state) {
-  let d = await readJson(discoveryFile(source), freshDiscovery(source));
-  if (d.complete) return d.albums;
-  const deadline = Date.now() + DISCOVERY_MINUTES * 60000;
-  console.log(`[${source.key}] ontdekking hervat: ${d.phase}, albums=${d.albums.length}`);
-  if (d.phase === "index") {
-    while (d.indexPage <= MAX_PAGES) {
-      if (Date.now() >= deadline) { await saveDiscovery(source, d, state); return null; }
-      const url = d.indexPage === 1 ? `${source.base}/albums` : `${source.base}/albums?page=${d.indexPage}`;
-      console.log(`[${source.key}] ontdekking indexpagina ${d.indexPage}/${MAX_PAGES}`);
-      try {
-        const page = extractPage(await request(url), source);
-        d.albums = mergeAlbums(d.albums, page.albums);
-        const map = new Map(d.categories.map(x => [x.url, x]));
-        page.categories.forEach(x => map.set(x.url, x));
-        d.categories = [...map.values()].slice(0, MAX_CATEGORIES);
-        d.indexPage++;
-        await saveDiscovery(source, d, state);
-        if ((!page.albums.length && !page.categories.length) || (!page.nextUrl && d.indexPage > 2)) break;
-      } catch (error) {
-        console.warn(`[${source.key}] index overgeslagen: ${error.message}`);
-        d.indexPage++;
-        await saveDiscovery(source, d, state);
-        if (error.status === 404) break;
-      }
-    }
-    d.phase = "categories";
-    await saveDiscovery(source, d, state);
+function discoveryMap(discovery) {
+  const map = new Map();
+  for (const album of discovery?.albums || []) {
+    const id = albumIdFromUrl(album.url || album.fetchUrl);
+    if (id) map.set(id, album);
   }
-  while (d.categoryIndex < d.categories.length) {
-    if (Date.now() >= deadline) { await saveDiscovery(source, d, state); return null; }
-    const c = d.categories[d.categoryIndex];
-    if (d.categoryPage > MAX_CATEGORY_PAGES) { d.categoryIndex++; d.categoryPage = 1; continue; }
-    console.log(`[${source.key}] ontdekking categorie ${d.categoryIndex + 1}/${d.categories.length}, pagina ${d.categoryPage}`);
-    const url = d.categoryPage === 1 ? c.url : `${c.url}${c.url.includes("?") ? "&" : "?"}page=${d.categoryPage}`;
+  return map;
+}
+
+function albumRequestUrls(product, discoveredAlbum) {
+  const canonical = product.sourceUrl || discoveredAlbum?.url || `${BASE_URL}/albums/${sourceIdFromProduct(product)}`;
+  const discovered = discoveredAlbum?.fetchUrl || discoveredAlbum?.url || "";
+
+  return unique([
+    discovered,
+    canonical,
+    `${canonical}${canonical.includes("?") ? "&" : "?"}uid=1`,
+    `${canonical}${canonical.includes("?") ? "&" : "?"}isSubCate=false`
+  ]);
+}
+
+async function collectCandidates(product, discoveredAlbum) {
+  const urls = albumRequestUrls(product, discoveredAlbum);
+  let lastError;
+
+  for (const pageUrl of urls) {
     try {
-      const page = extractPage(await request(url), source, c.title);
-      d.albums = mergeAlbums(d.albums, page.albums);
-      d.categoryPage++;
-      if (!page.albums.length || !page.nextUrl) { d.categoryIndex++; d.categoryPage = 1; }
-      await saveDiscovery(source, d, state);
+      const html = await request(pageUrl);
+      const images = candidateImagesFromHtml(html, pageUrl);
+      if (images.length) return { pageUrl, images };
     } catch (error) {
-      console.warn(`[${source.key}] categorie overgeslagen: ${error.message}`);
-      d.categoryIndex++;
-      d.categoryPage = 1;
-      await saveDiscovery(source, d, state);
+      lastError = error;
     }
   }
-  d.complete = true;
-  d.phase = "complete";
-  await saveDiscovery(source, d, state);
-  console.log(`[${source.key}] ontdekking voltooid: ${d.albums.length} albums`);
-  return d.albums;
+
+  const fallback = normalizeImageUrl(discoveredAlbum?.previewImage || "");
+  if (isPossibleProductImage(fallback)) {
+    return { pageUrl: urls[0] || product.sourceUrl, images: [fallback] };
+  }
+
+  if (lastError) {
+    console.warn(`[dachang88] geen albumpagina voor ${sourceIdFromProduct(product)}: ${lastError.message}`);
+  }
+
+  return { pageUrl: urls[0] || product.sourceUrl, images: [] };
 }
 
-function key(source, url) { return `${source.key}:${url.match(/\/albums\/(\d+)/)?.[1] || safe(url)}`; }
-async function saveImage(url, file, overwrite = false) { if (!overwrite && await exists(file)) return; await fs.mkdir(path.dirname(file), { recursive: true }); const temp = `${file}.tmp`; await sharp(await request(url, true)).rotate().webp({ quality: 82 }).toFile(temp); await fs.rename(temp, file); }
+async function validDownloadedImage(url) {
+  const buffer = await request(url, true);
+  const metadata = await sharp(buffer).metadata();
+  const width = Number(metadata.width || 0);
+  const height = Number(metadata.height || 0);
 
-function extractAlbum(html, album, source) {
-  const $ = cheerio.load(html), images = [];
-  $("img[data-origin-src],img[data-src],img[src]").each((_, el) => {
-    for (const raw of [$(el).attr("data-origin-src"), $(el).attr("data-src"), $(el).attr("src")]) {
-      const url = absolute(source.base, raw);
-      if (isRealProductImage(url)) images.push(url.replace(/\/(small|medium|thumb)\//i, "/large/"));
+  if (width < 300 || height < 300) {
+    throw new Error(`afbeelding te klein (${width}x${height})`);
+  }
+
+  const ratio = Math.max(width / height, height / width);
+  if (!Number.isFinite(ratio) || ratio > 3.5) {
+    throw new Error(`ongeldige beeldverhouding (${ratio.toFixed(2)})`);
+  }
+
+  return buffer;
+}
+
+async function saveRealImage(url, file) {
+  const buffer = await validDownloadedImage(url);
+  await fs.mkdir(path.dirname(file), { recursive: true });
+  const temporary = `${file}.tmp`;
+  await sharp(buffer).rotate().webp({ quality: 82 }).toFile(temporary);
+  await fs.rename(temporary, file);
+}
+
+function imageFrequency(cache) {
+  const frequencies = new Map();
+  for (const entry of Object.values(cache.albums || {})) {
+    for (const url of unique(entry.images || [])) {
+      frequencies.set(url, (frequencies.get(url) || 0) + 1);
     }
-  });
-  return { title: $("h1").first().text().trim() || $("meta[property='og:title']").attr("content") || album.title, images: unique(images).slice(0, MAX_IMAGES) };
+  }
+  return frequencies;
 }
 
-async function buildProduct(source, album, previous, detail = null) {
-  const id = album.url.match(/\/albums\/(\d+)/)?.[1] || safe(album.url);
-  const folder = path.join(ASSETS, source.key, id);
-  const images = [];
-  const incoming = detail?.images?.length ? detail.images : (album.previewImage ? [album.previewImage] : []);
-
-  // Alleen dachang88-foto's worden bewust opnieuw geschreven. Hiermee verdwijnt het oude Yupoo-logo.
-  if (source.key === "dachang88") {
-    await fs.rm(folder, { recursive: true, force: true });
-  }
-
-  for (let i = 0; i < incoming.length; i++) {
-    const file = path.join(folder, `${String(i + 1).padStart(2, "0")}.webp`);
-    try { await saveImage(incoming[i], file, source.key === "dachang88"); } catch (error) { console.warn(`[${source.key}] foto ${id}/${i + 1} overgeslagen: ${error.message}`); }
-    if (await exists(file)) images.push(file.replaceAll(path.sep, "/"));
-  }
-
-  if (!images.length && source.key !== "dachang88" && previous?.images?.length) images.push(...previous.images);
-  const title = detail?.title || album.title || `Product ${id}`;
-  return { uniqueKey: key(source, album.url), source: source.key, sourceId: id, sourceUrl: album.url, sourceCategory: album.categoryTitle || "", title, ...classify({ ...album, title }, source), images: unique(images), coverUrl: images[0] || "", imageCount: unique(images).length, updatedAt: new Date().toISOString() };
+function selectImages(entry, frequencies) {
+  return unique(entry?.images || [])
+    .filter(url => isPossibleProductImage(url))
+    // Een identieke afbeelding bij veel albums is vrijwel zeker een site-logo.
+    .filter(url => (frequencies.get(url) || 0) <= 3)
+    .slice(0, MAX_IMAGES);
 }
 
-async function processAlbum(source, album, previous) {
-  try {
-    const html = await request(album.fetchUrl || album.url);
-    return await buildProduct(source, album, previous, extractAlbum(html, album, source));
-  } catch (error) {
-    if (error.status === 404 && source.mode === "shoes") {
-      console.warn(`[${source.key}] albumpagina niet bereikbaar; echte overzichtsfoto wordt gebruikt: ${album.url}`);
-      return buildProduct(source, album, previous);
-    }
-    throw error;
-  }
-}
+async function saveProgress(catalog, state, cache, products, index, phase) {
+  cache.phase = phase;
+  cache.nextIndex = index;
+  cache.updatedAt = new Date().toISOString();
 
-const sortProducts = (a, b) => [a.section, a.category, a.subcategory, a.club, a.season, a.title].join("|").localeCompare([b.section, b.category, b.subcategory, b.club, b.season, b.title].join("|"), "nl");
-async function saveCatalog(map, warnings, status, currentSource = "") { await writeJson(CATALOG, { lastSync: new Date().toISOString(), status, currentSource: currentSource || undefined, products: [...map.values()].sort(sortProducts), warnings: warnings.slice(-200) }); }
+  state.shoePhotoRepair = {
+    version: PHOTO_REPAIR_VERSION,
+    phase,
+    nextIndex: index,
+    total: products.length,
+    completed: false,
+    updatedAt: cache.updatedAt
+  };
+
+  catalog.lastSync = cache.updatedAt;
+  catalog.status = "running";
+  catalog.currentSource = "dachang88-photo-repair";
+
+  await writeJsonAtomic(CACHE_PATH, cache);
+  await writeJsonAtomic(STATE_PATH, state);
+  await writeJsonAtomic(CATALOG_PATH, catalog);
+}
 
 async function main() {
-  const catalog = await readJson(CATALOG, { products: [], warnings: [] });
-  const items = Array.isArray(catalog.products) ? catalog.products : Array.isArray(catalog.albums) ? catalog.albums : [];
-  const map = new Map(items.map(p => [p.uniqueKey || `${p.source}:${p.sourceId}`, p]));
-  const state = await readJson(STATE, { version: 4, sources: {} });
-  state.version = 4;
-  state.sources ||= {};
+  const catalog = await readJson(CATALOG_PATH, { products: [], warnings: [] });
+  const state = await readJson(STATE_PATH, { sources: {} });
+  const discovery = await readJson(DISCOVERY_PATH, { albums: [] });
 
-  // ALLEEN FOTOHERSTEL. Classificatie van bestaande producten wordt hier niet aangepast.
-  if (Number(state.shoePhotoVersion || 0) < 2) {
-    console.log("[dachang88] schoenfotoherstel geactiveerd; alleen de schoenenbron wordt opnieuw verwerkt");
-    await fs.rm(path.join(ASSETS, "dachang88"), { recursive: true, force: true });
-    await fs.rm(discoveryFile(SOURCES.find(source => source.key === "dachang88")), { force: true });
-    state.sources.dachang88 = { ...(state.sources.dachang88 || {}), completed: false, discoveryComplete: false, nextIndex: 0, updatedAt: new Date().toISOString() };
-    state.shoePhotoVersion = 2;
-    await writeJson(STATE, state);
+  if (!Array.isArray(catalog.products)) {
+    throw new Error("data/catalog.json bevat geen products-lijst");
   }
 
-  const warnings = [];
-  const sources = SOURCES.filter(source => !SOURCE_FILTER || source.key === SOURCE_FILTER).sort((a, b) => a.priority - b.priority);
-  if (!sources.length) throw new Error(`Onbekende SYNC_SOURCE: ${SOURCE_FILTER}`);
+  const targets = catalog.products.filter(product => product.source === "dachang88");
+  if (!targets.length) {
+    throw new Error("Geen bestaande dachang88-producten gevonden in data/catalog.json");
+  }
 
-  for (const source of sources) {
-    if (state.sources[source.key]?.completed) {
-      console.log(`[${source.key}] reeds voltooid; overgeslagen`);
-      continue;
-    }
-    console.log(`\n[${source.key}] bron gestart`);
-    const albums = await discover(source, state);
-    if (!albums) { await saveCatalog(map, warnings, "paused", source.key); return; }
-    const start = Math.min(Number(state.sources[source.key]?.nextIndex || 0), albums.length);
-    console.log(`[${source.key}] ${albums.length} albums; hervat bij ${start}/${albums.length}`);
+  if (Number(state.shoePhotoRepair?.version || 0) === PHOTO_REPAIR_VERSION && state.shoePhotoRepair?.completed === true) {
+    console.log(`[dachang88] schoenfotoherstel versie ${PHOTO_REPAIR_VERSION} is al voltooid; niets gewijzigd`);
+    return;
+  }
 
-    for (let offset = start; offset < albums.length; offset += BATCH) {
-      const batch = albums.slice(offset, offset + BATCH);
-      const results = await Promise.all(batch.map(album => limit(async () => {
-        try { return await processAlbum(source, album, map.get(key(source, album.url))); }
-        catch (error) {
-          if (error.status === 404) { console.warn(`[${source.key}] niet bereikbaar: ${album.url}`); return null; }
-          warnings.push(`[${source.key}] ${album.url}: ${error.message}`);
-          return null;
-        }
+  const discovered = discoveryMap(discovery);
+  const cache = await readJson(CACHE_PATH, {
+    version: PHOTO_REPAIR_VERSION,
+    phase: "collect",
+    nextIndex: 0,
+    albums: {}
+  });
+
+  if (cache.version !== PHOTO_REPAIR_VERSION) {
+    cache.version = PHOTO_REPAIR_VERSION;
+    cache.phase = "collect";
+    cache.nextIndex = 0;
+    cache.albums = {};
+  }
+
+  console.log(`[dachang88] alleen schoenfotoherstel gestart voor ${targets.length} producten`);
+
+  if (cache.phase === "collect") {
+    for (let offset = Number(cache.nextIndex || 0); offset < targets.length; offset += BATCH_SIZE) {
+      const batch = targets.slice(offset, offset + BATCH_SIZE);
+      const results = await Promise.all(batch.map(product => limit(async () => {
+        const id = sourceIdFromProduct(product);
+        const entry = await collectCandidates(product, discovered.get(id));
+        return { id, entry };
       })));
-      results.filter(Boolean).forEach(product => map.set(product.uniqueKey, product));
-      state.sources[source.key] = { ...(state.sources[source.key] || {}), nextIndex: offset + batch.length, total: albums.length, completed: offset + batch.length >= albums.length, updatedAt: new Date().toISOString() };
-      await saveCatalog(map, warnings, "running", source.key);
-      await writeJson(STATE, state);
-      console.log(`[${source.key}] ${offset + batch.length}/${albums.length}; hervatpunt opgeslagen`);
+
+      for (const { id, entry } of results) {
+        cache.albums[id] = entry;
+      }
+
+      await saveProgress(catalog, state, cache, targets, offset + batch.length, "collect");
+      console.log(`[dachang88] fotolinks ${offset + batch.length}/${targets.length} verzameld`);
     }
 
-    state.sources[source.key] = { ...(state.sources[source.key] || {}), completed: true, nextIndex: albums.length, total: albums.length, completedAt: new Date().toISOString() };
-    await writeJson(STATE, state);
+    cache.phase = "download";
+    cache.nextIndex = 0;
+    await saveProgress(catalog, state, cache, targets, 0, "download");
   }
 
-  state.completedAt = new Date().toISOString();
-  await writeJson(STATE, state);
-  await saveCatalog(map, warnings, "completed");
-  console.log(`[Catalogus] ${map.size} producten opgeslagen.`);
+  const frequencies = imageFrequency(cache);
+
+  for (let offset = Number(cache.nextIndex || 0); offset < targets.length; offset += BATCH_SIZE) {
+    const batch = targets.slice(offset, offset + BATCH_SIZE);
+
+    await Promise.all(batch.map(product => limit(async () => {
+      const id = sourceIdFromProduct(product);
+      const selected = selectImages(cache.albums[id], frequencies);
+      const folder = path.join(ASSET_ROOT, id);
+      const stored = [];
+
+      // Pas verwijderen nadat bruikbare, niet-herhaalde productfoto's zijn gevonden.
+      if (selected.length) {
+        await fs.rm(folder, { recursive: true, force: true });
+      }
+
+      for (let index = 0; index < selected.length; index++) {
+        const file = path.join(folder, `${String(index + 1).padStart(2, "0")}.webp`);
+        try {
+          await saveRealImage(selected[index], file);
+          stored.push(file.replaceAll(path.sep, "/"));
+        } catch (error) {
+          console.warn(`[dachang88] ${id} foto ${index + 1} overgeslagen: ${error.message}`);
+        }
+      }
+
+      if (stored.length) {
+        product.images = stored;
+        product.coverUrl = stored[0];
+        product.imageCount = stored.length;
+        product.updatedAt = new Date().toISOString();
+      } else {
+        // Een oude logo-afbeelding niet opnieuw als geldige foto registreren.
+        product.images = [];
+        product.coverUrl = "";
+        product.imageCount = 0;
+        product.updatedAt = new Date().toISOString();
+      }
+    })));
+
+    await saveProgress(catalog, state, cache, targets, offset + batch.length, "download");
+    console.log(`[dachang88] echte schoenfoto's ${offset + batch.length}/${targets.length} verwerkt`);
+  }
+
+  const completedAt = new Date().toISOString();
+  cache.phase = "completed";
+  cache.nextIndex = targets.length;
+  cache.completedAt = completedAt;
+
+  state.shoePhotoRepair = {
+    version: PHOTO_REPAIR_VERSION,
+    phase: "completed",
+    nextIndex: targets.length,
+    total: targets.length,
+    completed: true,
+    completedAt
+  };
+
+  catalog.lastSync = completedAt;
+  catalog.status = "completed";
+  delete catalog.currentSource;
+
+  await writeJsonAtomic(CACHE_PATH, cache);
+  await writeJsonAtomic(STATE_PATH, state);
+  await writeJsonAtomic(CATALOG_PATH, catalog);
+
+  console.log(`[dachang88] schoenfotoherstel voltooid voor ${targets.length} producten`);
 }
 
 main().catch(async error => {
-  console.error("Synchronisatie mislukt:", error);
-  const catalog = await readJson(CATALOG, { products: [], warnings: [] });
-  await writeJson(CATALOG, { ...catalog, status: "failed", failedAt: new Date().toISOString(), warnings: [...(catalog.warnings || []), error.message].slice(-200) });
+  console.error("Schoenfotoherstel mislukt:", error);
+  const catalog = await readJson(CATALOG_PATH, { products: [], warnings: [] });
+  catalog.status = "failed";
+  catalog.failedAt = new Date().toISOString();
+  catalog.warnings = [...(catalog.warnings || []), error.message].slice(-200);
+  await writeJsonAtomic(CATALOG_PATH, catalog);
   process.exitCode = 1;
 });
