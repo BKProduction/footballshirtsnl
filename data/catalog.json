@@ -1,5 +1,5 @@
 {
-  "lastSync": "2026-10-30T15:13:19.713Z",
+  "lastSync": "2026-10-30T15:17:39.647Z",
   "status": "running",
   "currentSource": "popmo",
   "products": [
@@ -80650,27 +80650,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Brazil League",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Eredivisie",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
       "country": "",
-      "competition": "Eredivisie",
-      "club": "AZ",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/201307537/01.webp"
+        "assets/products/popmo/201307537/01.webp",
+        "assets/products/popmo/201307537/02.webp",
+        "assets/products/popmo/201307537/03.webp",
+        "assets/products/popmo/201307537/04.webp",
+        "assets/products/popmo/201307537/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/c4a64014/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/201307537/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:48.907Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:16:46.833Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -80746,130 +80750,150 @@
       "source": "popmo",
       "sourceId": "201324430",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/201324430",
-      "sourceCategory": "Brazil League",
+      "sourceCategory": "more",
       "title": "25-26 Bahia Away (without footmark). S-4XL2",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Eredivisie",
-      "club": "AZ",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "club": "",
       "country": "",
-      "competition": "Eredivisie",
-      "season": "2025-2026",
+      "competition": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/201324430/01.webp"
+        "assets/products/popmo/201324430/01.webp",
+        "assets/products/popmo/201324430/02.webp",
+        "assets/products/popmo/201324430/03.webp",
+        "assets/products/popmo/201324430/04.webp",
+        "assets/products/popmo/201324430/05.webp"
       ],
       "coverUrl": "assets/products/popmo/201324430/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:53.395Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:16:28.037Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:201131712",
       "source": "popmo",
       "sourceId": "201131712",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/201131712",
-      "sourceCategory": "Brazil League",
+      "sourceCategory": "more",
       "title": "25-26 Bahia Black Goalkeeper.S-4XL2",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Eredivisie",
-      "club": "AZ",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "club": "",
       "country": "",
-      "competition": "Eredivisie",
-      "season": "2025-2026",
+      "competition": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/201131712/01.webp"
+        "assets/products/popmo/201131712/01.webp",
+        "assets/products/popmo/201131712/02.webp",
+        "assets/products/popmo/201131712/03.webp",
+        "assets/products/popmo/201131712/04.webp",
+        "assets/products/popmo/201131712/05.webp"
       ],
       "coverUrl": "assets/products/popmo/201131712/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:41.310Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:17:07.361Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:201324042",
       "source": "popmo",
       "sourceId": "201324042",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/201324042",
-      "sourceCategory": "Brazil League",
+      "sourceCategory": "more",
       "title": "25-26 Bahia Home Stadium (without footer). S-4XL2",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Eredivisie",
-      "club": "AZ",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "club": "",
       "country": "",
-      "competition": "Eredivisie",
-      "season": "2025-2026",
+      "competition": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/201324042/01.webp"
+        "assets/products/popmo/201324042/01.webp",
+        "assets/products/popmo/201324042/02.webp",
+        "assets/products/popmo/201324042/03.webp",
+        "assets/products/popmo/201324042/04.webp",
+        "assets/products/popmo/201324042/05.webp"
       ],
       "coverUrl": "assets/products/popmo/201324042/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:53.094Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:16:27.404Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:201344174",
       "source": "popmo",
       "sourceId": "201344174",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/201344174",
-      "sourceCategory": "Brazil League",
+      "sourceCategory": "more",
       "title": "25-26 Bahia Retro Special Edition.S-4XL2",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Eredivisie",
-      "club": "AZ",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "club": "",
       "country": "",
-      "competition": "Eredivisie",
-      "season": "2025-2026",
+      "competition": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/201344174/01.webp"
+        "assets/products/popmo/201344174/01.webp",
+        "assets/products/popmo/201344174/02.webp",
+        "assets/products/popmo/201344174/03.webp",
+        "assets/products/popmo/201344174/04.webp",
+        "assets/products/popmo/201344174/05.webp"
       ],
       "coverUrl": "assets/products/popmo/201344174/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:58:00.559Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:15:41.103Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:201433679",
       "source": "popmo",
       "sourceId": "201433679",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/201433679",
-      "sourceCategory": "Brazil League",
+      "sourceCategory": "more",
       "title": "25-26 Bahia Special Edition.S-4XL2",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Eredivisie",
-      "club": "AZ",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "club": "",
       "country": "",
-      "competition": "Eredivisie",
-      "season": "2025-2026",
+      "competition": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/201433679/01.webp"
+        "assets/products/popmo/201433679/01.webp",
+        "assets/products/popmo/201433679/02.webp",
+        "assets/products/popmo/201433679/03.webp",
+        "assets/products/popmo/201433679/04.webp",
+        "assets/products/popmo/201433679/05.webp"
       ],
       "coverUrl": "assets/products/popmo/201433679/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:58:06.320Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:14:55.677Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -80881,79 +80905,92 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Brazil League",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Eredivisie",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
       "country": "",
-      "competition": "Eredivisie",
-      "club": "AZ",
-      "season": "2025-2026",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/206524815/01.webp"
+        "assets/products/popmo/206524815/01.webp",
+        "assets/products/popmo/206524815/02.webp",
+        "assets/products/popmo/206524815/03.webp",
+        "assets/products/popmo/206524815/04.webp",
+        "assets/products/popmo/206524815/05.webp",
+        "assets/products/popmo/206524815/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/60b1823a/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/206524815/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:59:33.792Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T15:14:15.771Z",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:201329889",
       "source": "popmo",
       "sourceId": "201329889",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/201329889",
-      "sourceCategory": "Brazil League",
+      "sourceCategory": "more",
       "title": "25-26 Botafogo Special Edition Black.S-4XL2",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Eredivisie",
-      "club": "AZ",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "club": "",
       "country": "",
-      "competition": "Eredivisie",
-      "season": "2025-2026",
+      "competition": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/201329889/01.webp"
+        "assets/products/popmo/201329889/01.webp",
+        "assets/products/popmo/201329889/02.webp",
+        "assets/products/popmo/201329889/03.webp",
+        "assets/products/popmo/201329889/04.webp",
+        "assets/products/popmo/201329889/05.webp"
       ],
       "coverUrl": "assets/products/popmo/201329889/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:57.743Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:16:02.211Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:201327922",
       "source": "popmo",
       "sourceId": "201327922",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/201327922",
-      "sourceCategory": "Brazil League",
+      "sourceCategory": "more",
       "title": "25-26 Botafogo Special Edition White.S-4XL2",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Eredivisie",
-      "club": "AZ",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "club": "",
       "country": "",
-      "competition": "Eredivisie",
-      "season": "2025-2026",
+      "competition": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/201327922/01.webp"
+        "assets/products/popmo/201327922/01.webp",
+        "assets/products/popmo/201327922/02.webp",
+        "assets/products/popmo/201327922/03.webp",
+        "assets/products/popmo/201327922/04.webp",
+        "assets/products/popmo/201327922/05.webp"
       ],
       "coverUrl": "assets/products/popmo/201327922/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:55.987Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:16:07.752Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -81185,7 +81222,7 @@
       "source": "popmo",
       "sourceId": "201432299",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/201432299",
-      "sourceCategory": "Brazil League",
+      "sourceCategory": "more",
       "title": "25-26 Brazil International Home Long Sleeve. S-2XL2",
       "section": "Voetbal",
       "category": "Clubteams",
@@ -81198,13 +81235,17 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/201432299/01.webp"
+        "assets/products/popmo/201432299/01.webp",
+        "assets/products/popmo/201432299/02.webp",
+        "assets/products/popmo/201432299/03.webp",
+        "assets/products/popmo/201432299/04.webp",
+        "assets/products/popmo/201432299/05.webp"
       ],
       "coverUrl": "assets/products/popmo/201432299/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:58:04.218Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:15:05.509Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -81713,27 +81754,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Brazil League",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Eredivisie",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
       "country": "",
-      "competition": "Eredivisie",
-      "club": "AZ",
-      "season": "2025-2026",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/201886117/01.webp"
+        "assets/products/popmo/201886117/01.webp",
+        "assets/products/popmo/201886117/02.webp",
+        "assets/products/popmo/201886117/03.webp",
+        "assets/products/popmo/201886117/04.webp",
+        "assets/products/popmo/201886117/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/19346b03/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/201886117/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:58:13.613Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:14:47.812Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -81781,27 +81826,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Brazil League",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Eredivisie",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
       "country": "",
-      "competition": "Eredivisie",
-      "club": "AZ",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/202218286/01.webp"
+        "assets/products/popmo/202218286/01.webp",
+        "assets/products/popmo/202218286/02.webp",
+        "assets/products/popmo/202218286/03.webp",
+        "assets/products/popmo/202218286/04.webp",
+        "assets/products/popmo/202218286/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/965bdca8/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/202218286/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:58:16.745Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:14:39.062Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -81813,27 +81862,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Brazil League",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Eredivisie",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
       "country": "",
-      "competition": "Eredivisie",
-      "club": "AZ",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/202217985/01.webp"
+        "assets/products/popmo/202217985/01.webp",
+        "assets/products/popmo/202217985/02.webp",
+        "assets/products/popmo/202217985/03.webp",
+        "assets/products/popmo/202217985/04.webp",
+        "assets/products/popmo/202217985/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/c59f6e5a/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/202217985/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:58:15.900Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:14:38.714Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -82085,52 +82138,60 @@
       "source": "popmo",
       "sourceId": "201332733",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/201332733",
-      "sourceCategory": "Brazil League",
+      "sourceCategory": "more",
       "title": "25-26 Cruzeiro away. S-4XL2",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Eredivisie",
-      "club": "AZ",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "club": "",
       "country": "",
-      "competition": "Eredivisie",
-      "season": "2025-2026",
+      "competition": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/201332733/01.webp"
+        "assets/products/popmo/201332733/01.webp",
+        "assets/products/popmo/201332733/02.webp",
+        "assets/products/popmo/201332733/03.webp",
+        "assets/products/popmo/201332733/04.webp",
+        "assets/products/popmo/201332733/05.webp"
       ],
       "coverUrl": "assets/products/popmo/201332733/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:58:00.108Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:15:42.234Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:201345098",
       "source": "popmo",
       "sourceId": "201345098",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/201345098",
-      "sourceCategory": "Brazil League",
+      "sourceCategory": "more",
       "title": "25-26 Cruzeiro home. S-4XL2",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Eredivisie",
-      "club": "AZ",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "club": "",
       "country": "",
-      "competition": "Eredivisie",
-      "season": "2025-2026",
+      "competition": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/201345098/01.webp"
+        "assets/products/popmo/201345098/01.webp",
+        "assets/products/popmo/201345098/02.webp",
+        "assets/products/popmo/201345098/03.webp",
+        "assets/products/popmo/201345098/04.webp",
+        "assets/products/popmo/201345098/05.webp"
       ],
       "coverUrl": "assets/products/popmo/201345098/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:58:01.209Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:15:34.740Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -82236,26 +82297,30 @@
       "source": "popmo",
       "sourceId": "201327112",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/201327112",
-      "sourceCategory": "Brazil League",
+      "sourceCategory": "more",
       "title": "25-26 Flamenco Retro Special Edition.S-4XL2",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Eredivisie",
-      "club": "AZ",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "club": "",
       "country": "",
-      "competition": "Eredivisie",
-      "season": "2025-2026",
+      "competition": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/201327112/01.webp"
+        "assets/products/popmo/201327112/01.webp",
+        "assets/products/popmo/201327112/02.webp",
+        "assets/products/popmo/201327112/03.webp",
+        "assets/products/popmo/201327112/04.webp",
+        "assets/products/popmo/201327112/05.webp"
       ],
       "coverUrl": "assets/products/popmo/201327112/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:54.662Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:16:18.338Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -82298,26 +82363,30 @@
       "source": "popmo",
       "sourceId": "201431916",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/201431916",
-      "sourceCategory": "Brazil League",
+      "sourceCategory": "more",
       "title": "25-26 Flamengo Retro Edition Beige.S-2XL2",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Eredivisie",
-      "club": "AZ",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "club": "",
       "country": "",
-      "competition": "Eredivisie",
-      "season": "2025-2026",
+      "competition": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/201431916/01.webp"
+        "assets/products/popmo/201431916/01.webp",
+        "assets/products/popmo/201431916/02.webp",
+        "assets/products/popmo/201431916/03.webp",
+        "assets/products/popmo/201431916/04.webp",
+        "assets/products/popmo/201431916/05.webp"
       ],
       "coverUrl": "assets/products/popmo/201431916/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:58:03.560Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:15:23.148Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -82431,27 +82500,32 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Brazil League",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Eredivisie",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
       "country": "",
-      "competition": "Eredivisie",
-      "club": "AZ",
-      "season": "2025-2026",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/207071248/01.webp"
+        "assets/products/popmo/207071248/01.webp",
+        "assets/products/popmo/207071248/02.webp",
+        "assets/products/popmo/207071248/03.webp",
+        "assets/products/popmo/207071248/04.webp",
+        "assets/products/popmo/207071248/05.webp",
+        "assets/products/popmo/207071248/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/419beccd/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/207071248/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:59:48.591Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T15:14:08.804Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -82463,27 +82537,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Brazil League",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Eredivisie",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
       "country": "",
-      "competition": "Eredivisie",
-      "club": "AZ",
-      "season": "2025-2026",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/201323140/01.webp"
+        "assets/products/popmo/201323140/01.webp",
+        "assets/products/popmo/201323140/02.webp",
+        "assets/products/popmo/201323140/03.webp",
+        "assets/products/popmo/201323140/04.webp",
+        "assets/products/popmo/201323140/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/2bf1ea21/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/201323140/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:51.901Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:16:36.950Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -82495,53 +82573,61 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Brazil League",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Eredivisie",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
       "country": "",
-      "competition": "Eredivisie",
-      "club": "AZ",
-      "season": "2025-2026",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/201307416/01.webp"
+        "assets/products/popmo/201307416/01.webp",
+        "assets/products/popmo/201307416/02.webp",
+        "assets/products/popmo/201307416/03.webp",
+        "assets/products/popmo/201307416/04.webp",
+        "assets/products/popmo/201307416/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/3d207be8/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/201307416/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:48.095Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:16:46.997Z",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:201332437",
       "source": "popmo",
       "sourceId": "201332437",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/201332437",
-      "sourceCategory": "Brazil League",
+      "sourceCategory": "more",
       "title": "25-26 Gremio Home Stadium. S-4XL2",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Eredivisie",
-      "club": "AZ",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "club": "",
       "country": "",
-      "competition": "Eredivisie",
-      "season": "2025-2026",
+      "competition": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/201332437/01.webp"
+        "assets/products/popmo/201332437/01.webp",
+        "assets/products/popmo/201332437/02.webp",
+        "assets/products/popmo/201332437/03.webp",
+        "assets/products/popmo/201332437/04.webp",
+        "assets/products/popmo/201332437/05.webp"
       ],
       "coverUrl": "assets/products/popmo/201332437/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:59.463Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:15:52.018Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -82579,52 +82665,60 @@
       "source": "popmo",
       "sourceId": "201325826",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/201325826",
-      "sourceCategory": "Brazil League",
+      "sourceCategory": "more",
       "title": "25-26 Mineiro America Home. S-4XL2",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Eredivisie",
-      "club": "AZ",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "club": "",
       "country": "",
-      "competition": "Eredivisie",
-      "season": "2025-2026",
+      "competition": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/201325826/01.webp"
+        "assets/products/popmo/201325826/01.webp",
+        "assets/products/popmo/201325826/02.webp",
+        "assets/products/popmo/201325826/03.webp",
+        "assets/products/popmo/201325826/04.webp",
+        "assets/products/popmo/201325826/05.webp"
       ],
       "coverUrl": "assets/products/popmo/201325826/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:54.346Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:16:18.899Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:201330257",
       "source": "popmo",
       "sourceId": "201330257",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/201330257",
-      "sourceCategory": "Brazil League",
+      "sourceCategory": "more",
       "title": "25-26 Mineiro Special Edition.S-4XL2",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Eredivisie",
-      "club": "AZ",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "club": "",
       "country": "",
-      "competition": "Eredivisie",
-      "season": "2025-2026",
+      "competition": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/201330257/01.webp"
+        "assets/products/popmo/201330257/01.webp",
+        "assets/products/popmo/201330257/02.webp",
+        "assets/products/popmo/201330257/03.webp",
+        "assets/products/popmo/201330257/04.webp",
+        "assets/products/popmo/201330257/05.webp"
       ],
       "coverUrl": "assets/products/popmo/201330257/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:58.390Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:15:58.517Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -82709,27 +82803,32 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Brazil League",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Eredivisie",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
       "country": "",
-      "competition": "Eredivisie",
-      "club": "AZ",
-      "season": "2025-2026",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/201307064/01.webp"
+        "assets/products/popmo/201307064/01.webp",
+        "assets/products/popmo/201307064/02.webp",
+        "assets/products/popmo/201307064/03.webp",
+        "assets/products/popmo/201307064/04.webp",
+        "assets/products/popmo/201307064/05.webp",
+        "assets/products/popmo/201307064/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/9c678302/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/201307064/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:47.622Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T15:16:58.196Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -82741,79 +82840,92 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Brazil League",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Eredivisie",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
       "country": "",
-      "competition": "Eredivisie",
-      "club": "AZ",
-      "season": "2025-2026",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/209610215/01.webp"
+        "assets/products/popmo/209610215/01.webp",
+        "assets/products/popmo/209610215/02.webp",
+        "assets/products/popmo/209610215/03.webp",
+        "assets/products/popmo/209610215/04.webp",
+        "assets/products/popmo/209610215/05.webp",
+        "assets/products/popmo/209610215/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/7ee1d42c/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/209610215/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:00:44.510Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T15:13:31.340Z",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:201327632",
       "source": "popmo",
       "sourceId": "201327632",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/201327632",
-      "sourceCategory": "Brazil League",
+      "sourceCategory": "more",
       "title": "25-26 Parana Home.S-4XL2",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Eredivisie",
-      "club": "AZ",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "club": "",
       "country": "",
-      "competition": "Eredivisie",
-      "season": "2025-2026",
+      "competition": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/201327632/01.webp"
+        "assets/products/popmo/201327632/01.webp",
+        "assets/products/popmo/201327632/02.webp",
+        "assets/products/popmo/201327632/03.webp",
+        "assets/products/popmo/201327632/04.webp",
+        "assets/products/popmo/201327632/05.webp"
       ],
       "coverUrl": "assets/products/popmo/201327632/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:55.373Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:16:10.658Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:201131568",
       "source": "popmo",
       "sourceId": "201131568",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/201131568",
-      "sourceCategory": "Brazil League",
+      "sourceCategory": "more",
       "title": "25-26 Paysandu home vest. S-4XL2",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Eredivisie",
-      "club": "AZ",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "club": "",
       "country": "",
-      "competition": "Eredivisie",
-      "season": "2025-2026",
+      "competition": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/201131568/01.webp"
+        "assets/products/popmo/201131568/01.webp",
+        "assets/products/popmo/201131568/02.webp",
+        "assets/products/popmo/201131568/03.webp",
+        "assets/products/popmo/201131568/04.webp",
+        "assets/products/popmo/201131568/05.webp"
       ],
       "coverUrl": "assets/products/popmo/201131568/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:40.623Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:17:13.520Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -82825,105 +82937,121 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Brazil League",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Eredivisie",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
       "country": "",
-      "competition": "Eredivisie",
-      "club": "AZ",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/202321507/01.webp"
+        "assets/products/popmo/202321507/01.webp",
+        "assets/products/popmo/202321507/02.webp",
+        "assets/products/popmo/202321507/03.webp",
+        "assets/products/popmo/202321507/04.webp",
+        "assets/products/popmo/202321507/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/18ef032b/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/202321507/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:58:24.353Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:14:30.255Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:201430886",
       "source": "popmo",
       "sourceId": "201430886",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/201430886",
-      "sourceCategory": "Brazil League",
+      "sourceCategory": "more",
       "title": "25-26 Recife Home.S-4XL2",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Eredivisie",
-      "club": "AZ",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "club": "",
       "country": "",
-      "competition": "Eredivisie",
-      "season": "2025-2026",
+      "competition": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/201430886/01.webp"
+        "assets/products/popmo/201430886/01.webp",
+        "assets/products/popmo/201430886/02.webp",
+        "assets/products/popmo/201430886/03.webp",
+        "assets/products/popmo/201430886/04.webp",
+        "assets/products/popmo/201430886/05.webp"
       ],
       "coverUrl": "assets/products/popmo/201430886/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:58:01.857Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:15:32.115Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:201132167",
       "source": "popmo",
       "sourceId": "201132167",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/201132167",
-      "sourceCategory": "Brazil League",
+      "sourceCategory": "more",
       "title": "25-26 Santos home vest. S-4XL2",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Eredivisie",
-      "club": "AZ",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "club": "",
       "country": "",
-      "competition": "Eredivisie",
-      "season": "2025-2026",
+      "competition": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/201132167/01.webp"
+        "assets/products/popmo/201132167/01.webp",
+        "assets/products/popmo/201132167/02.webp",
+        "assets/products/popmo/201132167/03.webp",
+        "assets/products/popmo/201132167/04.webp",
+        "assets/products/popmo/201132167/05.webp"
       ],
       "coverUrl": "assets/products/popmo/201132167/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:42.406Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:16:55.147Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:201433324",
       "source": "popmo",
       "sourceId": "201433324",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/201433324",
-      "sourceCategory": "Brazil League",
+      "sourceCategory": "more",
       "title": "25-26 Santos Home.S-4XL2",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Eredivisie",
-      "club": "AZ",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "club": "",
       "country": "",
-      "competition": "Eredivisie",
-      "season": "2025-2026",
+      "competition": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/201433324/01.webp"
+        "assets/products/popmo/201433324/01.webp",
+        "assets/products/popmo/201433324/02.webp",
+        "assets/products/popmo/201433324/03.webp",
+        "assets/products/popmo/201433324/04.webp",
+        "assets/products/popmo/201433324/05.webp"
       ],
       "coverUrl": "assets/products/popmo/201433324/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:58:06.303Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:14:56.041Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -82935,53 +83063,61 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Brazil League",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Eredivisie",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
       "country": "",
-      "competition": "Eredivisie",
-      "club": "AZ",
-      "season": "2025-2026",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/201323454/01.webp"
+        "assets/products/popmo/201323454/01.webp",
+        "assets/products/popmo/201323454/02.webp",
+        "assets/products/popmo/201323454/03.webp",
+        "assets/products/popmo/201323454/04.webp",
+        "assets/products/popmo/201323454/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/acc96a07/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/201323454/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:52.234Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:16:36.492Z",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:201432805",
       "source": "popmo",
       "sourceId": "201432805",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/201432805",
-      "sourceCategory": "Brazil League",
+      "sourceCategory": "more",
       "title": "25-26 Sao Paulo Home.S-4XL2",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Eredivisie",
-      "club": "AZ",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "club": "",
       "country": "",
-      "competition": "Eredivisie",
-      "season": "2025-2026",
+      "competition": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/201432805/01.webp"
+        "assets/products/popmo/201432805/01.webp",
+        "assets/products/popmo/201432805/02.webp",
+        "assets/products/popmo/201432805/03.webp",
+        "assets/products/popmo/201432805/04.webp",
+        "assets/products/popmo/201432805/05.webp"
       ],
       "coverUrl": "assets/products/popmo/201432805/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:58:04.604Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:15:04.769Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -83025,52 +83161,60 @@
       "source": "popmo",
       "sourceId": "201131920",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/201131920",
-      "sourceCategory": "Brazil League",
+      "sourceCategory": "more",
       "title": "25-26 Vasco da Gama Goalkeeper Orange.S-4XL2",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Eredivisie",
-      "club": "AZ",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "club": "",
       "country": "",
-      "competition": "Eredivisie",
-      "season": "2025-2026",
+      "competition": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/201131920/01.webp"
+        "assets/products/popmo/201131920/01.webp",
+        "assets/products/popmo/201131920/02.webp",
+        "assets/products/popmo/201131920/03.webp",
+        "assets/products/popmo/201131920/04.webp",
+        "assets/products/popmo/201131920/05.webp"
       ],
       "coverUrl": "assets/products/popmo/201131920/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:41.870Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:17:03.828Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:201332088",
       "source": "popmo",
       "sourceId": "201332088",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/201332088",
-      "sourceCategory": "Brazil League",
+      "sourceCategory": "more",
       "title": "25-26 Victoria Home.S-4XL2",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Eredivisie",
-      "club": "AZ",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "club": "",
       "country": "",
-      "competition": "Eredivisie",
-      "season": "2025-2026",
+      "competition": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/201332088/01.webp"
+        "assets/products/popmo/201332088/01.webp",
+        "assets/products/popmo/201332088/02.webp",
+        "assets/products/popmo/201332088/03.webp",
+        "assets/products/popmo/201332088/04.webp",
+        "assets/products/popmo/201332088/05.webp"
       ],
       "coverUrl": "assets/products/popmo/201332088/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:59.031Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:15:50.930Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -884293,15 +884437,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/219337482/01.webp"
+        "assets/products/popmo/219337482/01.webp",
+        "assets/products/popmo/219337482/02.webp",
+        "assets/products/popmo/219337482/03.webp",
+        "assets/products/popmo/219337482/04.webp",
+        "assets/products/popmo/219337482/05.webp",
+        "assets/products/popmo/219337482/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/e7c0b337/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/219337482/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:03:04.795Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T15:17:20.195Z",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "yuhuaxieye1:232382117",
@@ -886919,16 +887068,21 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/219300818/01.webp"
+        "assets/products/popmo/219300818/01.webp",
+        "assets/products/popmo/219300818/02.webp",
+        "assets/products/popmo/219300818/03.webp",
+        "assets/products/popmo/219300818/04.webp",
+        "assets/products/popmo/219300818/05.webp",
+        "assets/products/popmo/219300818/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/1be58a8b/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/219300818/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:03:00.619Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T15:17:29.388Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -887423,16 +887577,21 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/218816769/01.webp"
+        "assets/products/popmo/218816769/01.webp",
+        "assets/products/popmo/218816769/02.webp",
+        "assets/products/popmo/218816769/03.webp",
+        "assets/products/popmo/218816769/04.webp",
+        "assets/products/popmo/218816769/05.webp",
+        "assets/products/popmo/218816769/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/15fe0ae8/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/218816769/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:02:47.462Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T15:17:32.713Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "yuhuaxieye1:145139603",
@@ -888006,16 +888165,21 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/221097997/01.webp"
+        "assets/products/popmo/221097997/01.webp",
+        "assets/products/popmo/221097997/02.webp",
+        "assets/products/popmo/221097997/03.webp",
+        "assets/products/popmo/221097997/04.webp",
+        "assets/products/popmo/221097997/05.webp",
+        "assets/products/popmo/221097997/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/a1cf42cb/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/221097997/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:03:14.820Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T15:17:16.344Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -888819,16 +888983,21 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/219306231/01.webp"
+        "assets/products/popmo/219306231/01.webp",
+        "assets/products/popmo/219306231/02.webp",
+        "assets/products/popmo/219306231/03.webp",
+        "assets/products/popmo/219306231/04.webp",
+        "assets/products/popmo/219306231/05.webp",
+        "assets/products/popmo/219306231/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/a899fc97/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/219306231/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:03:01.719Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T15:17:24.894Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -889441,16 +889610,21 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/218798551/01.webp"
+        "assets/products/popmo/218798551/01.webp",
+        "assets/products/popmo/218798551/02.webp",
+        "assets/products/popmo/218798551/03.webp",
+        "assets/products/popmo/218798551/04.webp",
+        "assets/products/popmo/218798551/05.webp",
+        "assets/products/popmo/218798551/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/4bd6af4d/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/218798551/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:02:44.224Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T15:17:39.647Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "yuhuaxieye1:85828415",
@@ -892759,10 +892933,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Women Soccer Jersey",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -892771,15 +892945,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/207625508/01.webp"
+        "assets/products/popmo/207625508/01.webp",
+        "assets/products/popmo/207625508/02.webp",
+        "assets/products/popmo/207625508/03.webp",
+        "assets/products/popmo/207625508/04.webp",
+        "assets/products/popmo/207625508/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/9f1faa71/medium.png"
       ],
       "coverUrl": "assets/products/popmo/207625508/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:00:00.471Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:14:06.374Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -892823,10 +893001,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Women Soccer Jersey",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -892835,15 +893013,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/210162589/01.webp"
+        "assets/products/popmo/210162589/01.webp",
+        "assets/products/popmo/210162589/02.webp",
+        "assets/products/popmo/210162589/03.webp",
+        "assets/products/popmo/210162589/04.webp",
+        "assets/products/popmo/210162589/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/582064aa/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/210162589/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:00:59.982Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:13:33.709Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -892919,10 +893101,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Women Soccer Jersey",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -892931,15 +893113,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/207626346/01.webp"
+        "assets/products/popmo/207626346/01.webp",
+        "assets/products/popmo/207626346/02.webp",
+        "assets/products/popmo/207626346/03.webp",
+        "assets/products/popmo/207626346/04.webp",
+        "assets/products/popmo/207626346/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/16991614/medium.png"
       ],
       "coverUrl": "assets/products/popmo/207626346/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:00:01.656Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:13:59.535Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -893019,10 +893205,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Women Soccer Jersey",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -893031,15 +893217,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/207719061/01.webp"
+        "assets/products/popmo/207719061/01.webp",
+        "assets/products/popmo/207719061/02.webp",
+        "assets/products/popmo/207719061/03.webp",
+        "assets/products/popmo/207719061/04.webp",
+        "assets/products/popmo/207719061/05.webp",
+        "assets/products/popmo/207719061/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/c0204f36/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/207719061/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:00:06.424Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T15:13:46.313Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -893472,10 +893663,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Women Soccer Jersey",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -893484,15 +893675,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/202649866/01.webp"
+        "assets/products/popmo/202649866/01.webp",
+        "assets/products/popmo/202649866/02.webp",
+        "assets/products/popmo/202649866/03.webp",
+        "assets/products/popmo/202649866/04.webp",
+        "assets/products/popmo/202649866/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/10282518/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/202649866/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:58:33.590Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:14:16.870Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -893672,10 +893867,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Women Soccer Jersey",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -893683,16 +893878,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/202646120/01.webp"
+        "assets/products/popmo/202646120/01.webp",
+        "assets/products/popmo/202646120/02.webp",
+        "assets/products/popmo/202646120/03.webp",
+        "assets/products/popmo/202646120/04.webp",
+        "assets/products/popmo/202646120/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/e9d26ee3/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/202646120/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:58:32.901Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:14:30.137Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -893896,10 +894095,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Women Soccer Jersey",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -893908,15 +894107,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/207626503/01.webp"
+        "assets/products/popmo/207626503/01.webp",
+        "assets/products/popmo/207626503/02.webp",
+        "assets/products/popmo/207626503/03.webp",
+        "assets/products/popmo/207626503/04.webp",
+        "assets/products/popmo/207626503/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/feb50414/medium.png"
       ],
       "coverUrl": "assets/products/popmo/207626503/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:00:02.727Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:13:42.894Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -917296,52 +917499,60 @@
       "source": "popmo",
       "sourceId": "201431259",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/201431259",
-      "sourceCategory": "Brazil League",
+      "sourceCategory": "more",
       "title": "25-26 Palmeiras training suit.S-4XL2",
       "section": "Trainingskleding",
-      "category": "Clubteams",
-      "subcategory": "Eredivisie",
-      "club": "AZ",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "club": "Overig",
       "country": "",
-      "competition": "Eredivisie",
+      "competition": "",
       "season": "2025-2026",
       "types": [
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/popmo/201431259/01.webp"
+        "assets/products/popmo/201431259/01.webp",
+        "assets/products/popmo/201431259/02.webp",
+        "assets/products/popmo/201431259/03.webp",
+        "assets/products/popmo/201431259/04.webp",
+        "assets/products/popmo/201431259/05.webp"
       ],
       "coverUrl": "assets/products/popmo/201431259/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:58:02.274Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:15:23.122Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:201431658",
       "source": "popmo",
       "sourceId": "201431658",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/201431658",
-      "sourceCategory": "Brazil League",
+      "sourceCategory": "more",
       "title": "25-26 Sao Paulo Lake Blue Training Suit. S-4XL2",
       "section": "Trainingskleding",
-      "category": "Clubteams",
-      "subcategory": "Eredivisie",
-      "club": "AZ",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "club": "Overig",
       "country": "",
-      "competition": "Eredivisie",
+      "competition": "",
       "season": "2025-2026",
       "types": [
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/popmo/201431658/01.webp"
+        "assets/products/popmo/201431658/01.webp",
+        "assets/products/popmo/201431658/02.webp",
+        "assets/products/popmo/201431658/03.webp",
+        "assets/products/popmo/201431658/04.webp",
+        "assets/products/popmo/201431658/05.webp"
       ],
       "coverUrl": "assets/products/popmo/201431658/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:58:03.177Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:15:13.708Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
