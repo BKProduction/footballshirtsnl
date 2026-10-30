@@ -15,17 +15,9 @@
       "total": 2692
     },
     "yema007": {
-      "discoveryPhase": "complete",
-      "discoveryComplete": true,
-      "discoveredAlbums": 3488,
-      "categoryIndex": 277,
-      "categoryTotal": 277,
-      "updatedAt": "2026-10-29T13:25:35.135Z",
-      "nextIndex": 3488,
-      "total": 3488,
-      "completed": true,
-      "completedAt": "2026-10-28T20:53:01.989Z",
-      "run": "2026-10-29"
+      "run": "2026-10-29",
+      "nextIndex": 25,
+      "total": 3488
     },
     "popmo": {
       "discoveryPhase": "complete",
@@ -456,6 +448,25 @@
       "https://minkang.x.yupoo.com/categories/1028007",
       "https://minkang.x.yupoo.com/categories/1043967",
       "https://minkang.x.yupoo.com/categories/1043969"
+    ],
+    "yema007": [
+      "https://yema007.x.yupoo.com/categories/876795",
+      "https://yema007.x.yupoo.com/categories/876782",
+      "https://yema007.x.yupoo.com/categories/876783",
+      "https://yema007.x.yupoo.com/categories/876784",
+      "https://yema007.x.yupoo.com/categories/876785",
+      "https://yema007.x.yupoo.com/categories/876786",
+      "https://yema007.x.yupoo.com/categories/876787",
+      "https://yema007.x.yupoo.com/categories/876788",
+      "https://yema007.x.yupoo.com/categories/876789",
+      "https://yema007.x.yupoo.com/categories/876790",
+      "https://yema007.x.yupoo.com/categories/876791",
+      "https://yema007.x.yupoo.com/categories/876792",
+      "https://yema007.x.yupoo.com/categories/876793",
+      "https://yema007.x.yupoo.com/categories/876794",
+      "https://yema007.x.yupoo.com/categories/876746",
+      "https://yema007.x.yupoo.com/categories/876689",
+      "https://yema007.x.yupoo.com/categories/876714"
     ]
   }
 }
