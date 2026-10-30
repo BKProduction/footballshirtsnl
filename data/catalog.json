@@ -1,5 +1,5 @@
 {
-  "lastSync": "2026-10-30T02:24:45.516Z",
+  "lastSync": "2026-10-30T02:28:51.082Z",
   "status": "running",
   "currentSource": "minkang",
   "products": [
@@ -216276,7 +216276,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "MLS",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "MLS",
@@ -216288,15 +216288,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/177067069/01.webp"
+        "assets/products/minkang/177067069/01.webp",
+        "assets/products/minkang/177067069/02.webp",
+        "assets/products/minkang/177067069/03.webp",
+        "assets/products/minkang/177067069/04.webp",
+        "assets/products/minkang/177067069/05.webp",
+        "assets/products/minkang/177067069/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/39cc6a16/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/177067069/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:41:25.449Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:26:44.054Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -216308,7 +216313,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "MLS",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "MLS",
@@ -216320,15 +216325,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/177067268/01.webp"
+        "assets/products/minkang/177067268/01.webp",
+        "assets/products/minkang/177067268/03.webp",
+        "assets/products/minkang/177067268/04.webp",
+        "assets/products/minkang/177067268/05.webp",
+        "assets/products/minkang/177067268/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/f703546e/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/177067268/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:41:26.511Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T02:26:22.076Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -217378,7 +217387,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "MLS",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "MLS",
@@ -217390,15 +217399,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/213152561/01.webp"
+        "assets/products/minkang/213152561/01.webp",
+        "assets/products/minkang/213152561/02.webp",
+        "assets/products/minkang/213152561/03.webp",
+        "assets/products/minkang/213152561/04.webp",
+        "assets/products/minkang/213152561/05.webp",
+        "assets/products/minkang/213152561/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/3139331b/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/213152561/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:43:21.831Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:25:06.082Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -218809,7 +218823,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "MLS",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "MLS",
@@ -218821,15 +218835,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/212582686/01.webp"
+        "assets/products/minkang/212582686/01.webp",
+        "assets/products/minkang/212582686/02.webp",
+        "assets/products/minkang/212582686/03.webp",
+        "assets/products/minkang/212582686/04.webp",
+        "assets/products/minkang/212582686/05.webp",
+        "assets/products/minkang/212582686/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/fe0eee85/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/212582686/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:42:49.788Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:25:35.969Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -715504,10 +715523,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "MLS",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "MLS",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -715515,27 +715534,32 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/142208436/01.webp"
+        "assets/products/minkang/142208436/01.webp",
+        "assets/products/minkang/142208436/02.webp",
+        "assets/products/minkang/142208436/03.webp",
+        "assets/products/minkang/142208436/04.webp",
+        "assets/products/minkang/142208436/05.webp",
+        "assets/products/minkang/142208436/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/2820aa02/medium.jpeg"
       ],
       "coverUrl": "assets/products/minkang/142208436/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:40:52.842Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:28:00.868Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "minkang:139937537",
       "source": "minkang",
       "sourceId": "139937537",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/139937537",
-      "sourceCategory": "MLS",
+      "sourceCategory": "more",
       "title": "23/24 Miami Black S-XXL9",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "MLS",
+      "subcategory": "more",
       "club": "",
       "country": "",
       "competition": "",
@@ -715544,13 +715568,18 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/139937537/01.webp"
+        "assets/products/minkang/139937537/01.webp",
+        "assets/products/minkang/139937537/02.webp",
+        "assets/products/minkang/139937537/03.webp",
+        "assets/products/minkang/139937537/04.webp",
+        "assets/products/minkang/139937537/05.webp",
+        "assets/products/minkang/139937537/06.webp"
       ],
       "coverUrl": "assets/products/minkang/139937537/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:40:51.616Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:28:51.082Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -715562,10 +715591,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "MLS",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "MLS",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -715573,27 +715602,32 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/146852748/01.webp"
+        "assets/products/minkang/146852748/01.webp",
+        "assets/products/minkang/146852748/02.webp",
+        "assets/products/minkang/146852748/03.webp",
+        "assets/products/minkang/146852748/04.webp",
+        "assets/products/minkang/146852748/05.webp",
+        "assets/products/minkang/146852748/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/b981e2f9/medium.jpeg"
       ],
       "coverUrl": "assets/products/minkang/146852748/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:40:55.366Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:27:22.081Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "minkang:146852734",
       "source": "minkang",
       "sourceId": "146852734",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/146852734",
-      "sourceCategory": "MLS",
+      "sourceCategory": "more",
       "title": "23/24 Miami Joint Edition S-XXL10",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "MLS",
+      "subcategory": "more",
       "club": "",
       "country": "",
       "competition": "",
@@ -715602,13 +715636,18 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/146852734/01.webp"
+        "assets/products/minkang/146852734/01.webp",
+        "assets/products/minkang/146852734/02.webp",
+        "assets/products/minkang/146852734/03.webp",
+        "assets/products/minkang/146852734/04.webp",
+        "assets/products/minkang/146852734/05.webp",
+        "assets/products/minkang/146852734/06.webp"
       ],
       "coverUrl": "assets/products/minkang/146852734/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:40:55.434Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:27:26.810Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -715620,10 +715659,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "MLS",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "MLS",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -715631,16 +715670,21 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/146852728/01.webp"
+        "assets/products/minkang/146852728/01.webp",
+        "assets/products/minkang/146852728/02.webp",
+        "assets/products/minkang/146852728/03.webp",
+        "assets/products/minkang/146852728/04.webp",
+        "assets/products/minkang/146852728/05.webp",
+        "assets/products/minkang/146852728/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/29a58c4d/medium.jpeg"
       ],
       "coverUrl": "assets/products/minkang/146852728/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:40:53.837Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:27:44.315Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -715652,10 +715696,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "MLS",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "MLS",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -715663,16 +715707,21 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/139937549/01.webp"
+        "assets/products/minkang/139937549/01.webp",
+        "assets/products/minkang/139937549/02.webp",
+        "assets/products/minkang/139937549/03.webp",
+        "assets/products/minkang/139937549/04.webp",
+        "assets/products/minkang/139937549/05.webp",
+        "assets/products/minkang/139937549/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/cec41449/medium.jpeg"
       ],
       "coverUrl": "assets/products/minkang/139937549/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:40:51.700Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:28:39.100Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -715716,10 +715765,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "MLS",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "MLS",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -715727,16 +715776,21 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/158652501/01.webp"
+        "assets/products/minkang/158652501/01.webp",
+        "assets/products/minkang/158652501/02.webp",
+        "assets/products/minkang/158652501/03.webp",
+        "assets/products/minkang/158652501/04.webp",
+        "assets/products/minkang/158652501/05.webp",
+        "assets/products/minkang/158652501/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/198a078d/medium.jpeg"
       ],
       "coverUrl": "assets/products/minkang/158652501/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:41:00.032Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:26:59.129Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -715748,10 +715802,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "MLS",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "MLS",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -715759,16 +715813,21 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/155599588/01.webp"
+        "assets/products/minkang/155599588/01.webp",
+        "assets/products/minkang/155599588/02.webp",
+        "assets/products/minkang/155599588/03.webp",
+        "assets/products/minkang/155599588/04.webp",
+        "assets/products/minkang/155599588/05.webp",
+        "assets/products/minkang/155599588/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/db803343/medium.jpeg"
       ],
       "coverUrl": "assets/products/minkang/155599588/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:40:57.583Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:25:43.013Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -715780,10 +715839,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "MLS",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "MLS",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -715791,16 +715850,21 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/155688607/01.webp"
+        "assets/products/minkang/155688607/01.webp",
+        "assets/products/minkang/155688607/02.webp",
+        "assets/products/minkang/155688607/03.webp",
+        "assets/products/minkang/155688607/04.webp",
+        "assets/products/minkang/155688607/05.webp",
+        "assets/products/minkang/155688607/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/e85098b0/medium.jpeg"
       ],
       "coverUrl": "assets/products/minkang/155688607/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:40:58.767Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:25:30.972Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -715812,10 +715876,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "MLS",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "MLS",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -715823,16 +715887,21 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/172638243/01.webp"
+        "assets/products/minkang/172638243/01.webp",
+        "assets/products/minkang/172638243/02.webp",
+        "assets/products/minkang/172638243/03.webp",
+        "assets/products/minkang/172638243/04.webp",
+        "assets/products/minkang/172638243/05.webp",
+        "assets/products/minkang/172638243/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/df575b5d/medium.jpeg"
       ],
       "coverUrl": "assets/products/minkang/172638243/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:41:21.695Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:27:06.128Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -715881,10 +715950,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "MLS",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "MLS",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -715892,16 +715961,21 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/187279829/01.webp"
+        "assets/products/minkang/187279829/01.webp",
+        "assets/products/minkang/187279829/02.webp",
+        "assets/products/minkang/187279829/03.webp",
+        "assets/products/minkang/187279829/04.webp",
+        "assets/products/minkang/187279829/05.webp",
+        "assets/products/minkang/187279829/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/a35e5e3e/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/187279829/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:41:35.923Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:26:02.069Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -715913,10 +715987,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "MLS",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "MLS",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -715924,16 +715998,21 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/211563201/01.webp"
+        "assets/products/minkang/211563201/01.webp",
+        "assets/products/minkang/211563201/02.webp",
+        "assets/products/minkang/211563201/03.webp",
+        "assets/products/minkang/211563201/04.webp",
+        "assets/products/minkang/211563201/05.webp",
+        "assets/products/minkang/211563201/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/131a4c9a/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/211563201/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:42:29.090Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:25:10.576Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -715945,10 +716024,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "MLS",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "MLS",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -715956,16 +716035,21 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/186619528/01.webp"
+        "assets/products/minkang/186619528/01.webp",
+        "assets/products/minkang/186619528/02.webp",
+        "assets/products/minkang/186619528/03.webp",
+        "assets/products/minkang/186619528/04.webp",
+        "assets/products/minkang/186619528/05.webp",
+        "assets/products/minkang/186619528/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/e988ee8c/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/186619528/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:41:32.694Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:24:56.958Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -716051,10 +716135,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "MLS",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "MLS",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -716063,15 +716147,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/189343222/01.webp"
+        "assets/products/minkang/189343222/01.webp",
+        "assets/products/minkang/189343222/02.webp",
+        "assets/products/minkang/189343222/03.webp",
+        "assets/products/minkang/189343222/04.webp",
+        "assets/products/minkang/189343222/05.webp",
+        "assets/products/minkang/189343222/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/90aba207/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/189343222/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:41:43.051Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:26:05.307Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -716083,10 +716172,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "MLS",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "MLS",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -716094,16 +716183,21 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/188798076/01.webp"
+        "assets/products/minkang/188798076/01.webp",
+        "assets/products/minkang/188798076/02.webp",
+        "assets/products/minkang/188798076/03.webp",
+        "assets/products/minkang/188798076/04.webp",
+        "assets/products/minkang/188798076/05.webp",
+        "assets/products/minkang/188798076/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/5774b689/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/188798076/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:41:40.796Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:24:57.490Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -716433,10 +716527,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "MLS",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "MLS",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -716444,16 +716538,21 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/214781138/01.webp"
+        "assets/products/minkang/214781138/01.webp",
+        "assets/products/minkang/214781138/02.webp",
+        "assets/products/minkang/214781138/03.webp",
+        "assets/products/minkang/214781138/04.webp",
+        "assets/products/minkang/214781138/05.webp",
+        "assets/products/minkang/214781138/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/43502bb0/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/214781138/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:44:07.910Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:25:20.922Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -716501,10 +716600,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "MLS",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "MLS",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -716513,15 +716612,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/177067138/01.webp"
+        "assets/products/minkang/177067138/01.webp",
+        "assets/products/minkang/177067138/02.webp",
+        "assets/products/minkang/177067138/03.webp",
+        "assets/products/minkang/177067138/04.webp",
+        "assets/products/minkang/177067138/05.webp",
+        "assets/products/minkang/177067138/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/53d22e14/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/177067138/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:41:26.531Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:26:39.679Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -716533,10 +716637,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "MLS",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "MLS",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -716545,15 +716649,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/177067110/01.webp"
+        "assets/products/minkang/177067110/01.webp",
+        "assets/products/minkang/177067110/02.webp",
+        "assets/products/minkang/177067110/03.webp",
+        "assets/products/minkang/177067110/04.webp",
+        "assets/products/minkang/177067110/05.webp",
+        "assets/products/minkang/177067110/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/fc8d32cd/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/177067110/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:41:25.435Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:26:36.080Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -936826,7 +936935,7 @@
       "categoryId": "724814",
       "collectionId": "724814",
       "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "MLS",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
       "category": "Clubteams",
       "subcategory": "MLS",
@@ -936838,15 +936947,20 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/minkang/215946882/01.webp"
+        "assets/products/minkang/215946882/01.webp",
+        "assets/products/minkang/215946882/02.webp",
+        "assets/products/minkang/215946882/03.webp",
+        "assets/products/minkang/215946882/04.webp",
+        "assets/products/minkang/215946882/05.webp",
+        "assets/products/minkang/215946882/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/0acaec19/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/215946882/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:44:38.108Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:25:13.265Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -1037285,7 +1037399,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "MLS",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1037297,22 +1037411,26 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/minkang/210981762/01.webp"
+        "assets/products/minkang/210981762/01.webp",
+        "assets/products/minkang/210981762/02.webp",
+        "assets/products/minkang/210981762/03.webp",
+        "assets/products/minkang/210981762/04.webp",
+        "assets/products/minkang/210981762/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/72b306b0/medium.jpeg"
       ],
       "coverUrl": "assets/products/minkang/210981762/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:42:22.201Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T02:25:49.809Z",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "minkang:210981777",
       "source": "minkang",
       "sourceId": "210981777",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/210981777",
-      "sourceCategory": "MLS",
+      "sourceCategory": "more",
       "title": "25/26 Los Angeles Training suit gray S-3XL2",
       "section": "Trainingskleding",
       "category": "Overig",
@@ -1037325,13 +1037443,17 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/minkang/210981777/01.webp"
+        "assets/products/minkang/210981777/01.webp",
+        "assets/products/minkang/210981777/02.webp",
+        "assets/products/minkang/210981777/03.webp",
+        "assets/products/minkang/210981777/04.webp",
+        "assets/products/minkang/210981777/05.webp"
       ],
       "coverUrl": "assets/products/minkang/210981777/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:42:23.266Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T02:25:43.375Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
