@@ -1,5 +1,5 @@
 {
-  "lastSync": "2026-10-30T22:38:38.674Z",
+  "lastSync": "2026-10-30T22:43:18.317Z",
   "status": "running",
   "currentSource": "popmo",
   "products": [
@@ -82141,7 +82141,7 @@
       "source": "popmo",
       "sourceId": "201096921",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/201096921",
-      "sourceCategory": "Mexico & Chile League",
+      "sourceCategory": "more",
       "title": "25-26 Cruz Azul Away S~3XL2",
       "section": "Voetbal",
       "category": "Clubteams",
@@ -82154,20 +82154,24 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/201096921/01.webp"
+        "assets/products/popmo/201096921/01.webp",
+        "assets/products/popmo/201096921/02.webp",
+        "assets/products/popmo/201096921/03.webp",
+        "assets/products/popmo/201096921/04.webp",
+        "assets/products/popmo/201096921/05.webp"
       ],
       "coverUrl": "assets/products/popmo/201096921/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:31.836Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:41:50.044Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:201098246",
       "source": "popmo",
       "sourceId": "201098246",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/201098246",
-      "sourceCategory": "Mexico & Chile League",
+      "sourceCategory": "more",
       "title": "25-26 Cruz Azul Goalkeeper Green S~3XL2",
       "section": "Voetbal",
       "category": "Clubteams",
@@ -82180,13 +82184,17 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/201098246/01.webp"
+        "assets/products/popmo/201098246/01.webp",
+        "assets/products/popmo/201098246/02.webp",
+        "assets/products/popmo/201098246/03.webp",
+        "assets/products/popmo/201098246/04.webp",
+        "assets/products/popmo/201098246/05.webp"
       ],
       "coverUrl": "assets/products/popmo/201098246/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:32.889Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:41:50.744Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -82291,7 +82299,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Eredivisie",
@@ -82302,16 +82310,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/198300848/01.webp"
+        "assets/products/popmo/198300848/01.webp",
+        "assets/products/popmo/198300848/02.webp",
+        "assets/products/popmo/198300848/03.webp",
+        "assets/products/popmo/198300848/04.webp",
+        "assets/products/popmo/198300848/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/89805e4c/medium.png"
       ],
       "coverUrl": "assets/products/popmo/198300848/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:30.052Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:42:24.972Z",
       "season": "2025-2026",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:201332733",
@@ -96059,7 +96071,7 @@
       "source": "popmo",
       "sourceId": "201095885",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/201095885",
-      "sourceCategory": "Mexico & Chile League",
+      "sourceCategory": "more",
       "title": "[bo sheng] 25-26Cruz Azul Blue Cross Commemorative Edition S~4XL2",
       "section": "Voetbal",
       "category": "Clubteams",
@@ -96072,13 +96084,17 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/201095885/01.webp"
+        "assets/products/popmo/201095885/01.webp",
+        "assets/products/popmo/201095885/02.webp",
+        "assets/products/popmo/201095885/03.webp",
+        "assets/products/popmo/201095885/04.webp",
+        "assets/products/popmo/201095885/05.webp"
       ],
       "coverUrl": "assets/products/popmo/201095885/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:30.647Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:42:01.073Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "yema007:251707923",
@@ -104209,7 +104225,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Eredivisie",
@@ -104221,15 +104237,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/198158861/01.webp"
+        "assets/products/popmo/198158861/01.webp",
+        "assets/products/popmo/198158861/02.webp",
+        "assets/products/popmo/198158861/03.webp",
+        "assets/products/popmo/198158861/04.webp",
+        "assets/products/popmo/198158861/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/8ff6c588/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/198158861/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:55:39.568Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:39:06.186Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -315907,7 +315927,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -315919,15 +315939,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/198355295/01.webp"
+        "assets/products/popmo/198355295/01.webp",
+        "assets/products/popmo/198355295/02.webp",
+        "assets/products/popmo/198355295/03.webp",
+        "assets/products/popmo/198355295/04.webp",
+        "assets/products/popmo/198355295/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/9a28631f/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/198355295/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:37.924Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:38:44.514Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -316525,7 +316549,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -316536,16 +316560,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/198160065/01.webp"
+        "assets/products/popmo/198160065/01.webp",
+        "assets/products/popmo/198160065/02.webp",
+        "assets/products/popmo/198160065/03.webp",
+        "assets/products/popmo/198160065/04.webp",
+        "assets/products/popmo/198160065/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/87fe3cd6/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/198160065/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:55:41.251Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:38:55.921Z",
       "season": "2025-2026",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -321186,7 +321214,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -321198,15 +321226,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/198159351/01.webp"
+        "assets/products/popmo/198159351/01.webp",
+        "assets/products/popmo/198159351/02.webp",
+        "assets/products/popmo/198159351/03.webp",
+        "assets/products/popmo/198159351/04.webp",
+        "assets/products/popmo/198159351/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/87775b65/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/198159351/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:55:40.650Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:39:01.560Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -321323,7 +321355,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -321335,15 +321367,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/198159196/01.webp"
+        "assets/products/popmo/198159196/01.webp",
+        "assets/products/popmo/198159196/02.webp",
+        "assets/products/popmo/198159196/03.webp",
+        "assets/products/popmo/198159196/04.webp",
+        "assets/products/popmo/198159196/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/314dd5ae/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/198159196/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:55:39.996Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:39:01.162Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -385443,27 +385479,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2024-2025",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/198297005/01.webp"
+        "assets/products/popmo/198297005/01.webp",
+        "assets/products/popmo/198297005/02.webp",
+        "assets/products/popmo/198297005/03.webp",
+        "assets/products/popmo/198297005/04.webp",
+        "assets/products/popmo/198297005/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/5f4316dc/medium.png"
       ],
       "coverUrl": "assets/products/popmo/198297005/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:26.807Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:42:37.886Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -385563,26 +385603,30 @@
       "source": "popmo",
       "sourceId": "206853131",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/206853131",
-      "sourceCategory": "Mexico & Chile League",
+      "sourceCategory": "more",
       "title": "[player version] 25-26 Chivas Home Retro Commemorative Edition2",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "club": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "season": "2025-2026",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "club": "",
+      "country": "",
+      "competition": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/206853131/01.webp"
+        "assets/products/popmo/206853131/01.webp",
+        "assets/products/popmo/206853131/02.webp",
+        "assets/products/popmo/206853131/03.webp",
+        "assets/products/popmo/206853131/04.webp",
+        "assets/products/popmo/206853131/05.webp"
       ],
       "coverUrl": "assets/products/popmo/206853131/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:59:40.437Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:40:31.176Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -385594,27 +385638,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/206853564/01.webp"
+        "assets/products/popmo/206853564/01.webp",
+        "assets/products/popmo/206853564/02.webp",
+        "assets/products/popmo/206853564/03.webp",
+        "assets/products/popmo/206853564/04.webp",
+        "assets/products/popmo/206853564/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/5d96b5e4/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/206853564/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:59:41.513Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:40:25.782Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -385626,27 +385674,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/206853502/01.webp"
+        "assets/products/popmo/206853502/01.webp",
+        "assets/products/popmo/206853502/02.webp",
+        "assets/products/popmo/206853502/03.webp",
+        "assets/products/popmo/206853502/04.webp",
+        "assets/products/popmo/206853502/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/5d68a4c8/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/206853502/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:59:40.865Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:40:28.999Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -385658,27 +385710,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/206866715/01.webp"
+        "assets/products/popmo/206866715/01.webp",
+        "assets/products/popmo/206866715/02.webp",
+        "assets/products/popmo/206866715/03.webp",
+        "assets/products/popmo/206866715/04.webp",
+        "assets/products/popmo/206866715/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/8b7be164/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/206866715/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:59:42.225Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:40:24.133Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -385690,53 +385746,61 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/201306753/01.webp"
+        "assets/products/popmo/201306753/01.webp",
+        "assets/products/popmo/201306753/02.webp",
+        "assets/products/popmo/201306753/03.webp",
+        "assets/products/popmo/201306753/04.webp",
+        "assets/products/popmo/201306753/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/631a5e3a/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/201306753/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:46.530Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:41:17.290Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:201096182",
       "source": "popmo",
       "sourceId": "201096182",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/201096182",
-      "sourceCategory": "Mexico & Chile League",
+      "sourceCategory": "more",
       "title": "25-26 America Away Blue Gray S~3XL2",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "club": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "season": "2025-2026",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "club": "",
+      "country": "",
+      "competition": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/201096182/01.webp"
+        "assets/products/popmo/201096182/01.webp",
+        "assets/products/popmo/201096182/02.webp",
+        "assets/products/popmo/201096182/03.webp",
+        "assets/products/popmo/201096182/04.webp",
+        "assets/products/popmo/201096182/05.webp"
       ],
       "coverUrl": "assets/products/popmo/201096182/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:30.770Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:41:55.924Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -385748,53 +385812,61 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/201306816/01.webp"
+        "assets/products/popmo/201306816/01.webp",
+        "assets/products/popmo/201306816/02.webp",
+        "assets/products/popmo/201306816/03.webp",
+        "assets/products/popmo/201306816/04.webp",
+        "assets/products/popmo/201306816/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/addcd17d/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/201306816/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:47.031Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:41:11.870Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:201096497",
       "source": "popmo",
       "sourceId": "201096497",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/201096497",
-      "sourceCategory": "Mexico & Chile League",
+      "sourceCategory": "more",
       "title": "25-26 America Home Grey S~4XL2",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "club": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "season": "2025-2026",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "club": "",
+      "country": "",
+      "competition": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/201096497/01.webp"
+        "assets/products/popmo/201096497/01.webp",
+        "assets/products/popmo/201096497/02.webp",
+        "assets/products/popmo/201096497/03.webp",
+        "assets/products/popmo/201096497/04.webp",
+        "assets/products/popmo/201096497/05.webp"
       ],
       "coverUrl": "assets/products/popmo/201096497/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:31.918Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:41:56.037Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -385806,27 +385878,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2025-2026",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/206522439/01.webp"
+        "assets/products/popmo/206522439/01.webp",
+        "assets/products/popmo/206522439/02.webp",
+        "assets/products/popmo/206522439/03.webp",
+        "assets/products/popmo/206522439/04.webp",
+        "assets/products/popmo/206522439/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/a2732168/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/206522439/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:59:32.458Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:40:39.346Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -385838,27 +385914,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2025-2026",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/206521837/01.webp"
+        "assets/products/popmo/206521837/01.webp",
+        "assets/products/popmo/206521837/02.webp",
+        "assets/products/popmo/206521837/03.webp",
+        "assets/products/popmo/206521837/04.webp",
+        "assets/products/popmo/206521837/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/00baec4d/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/206521837/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:59:32.066Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:40:40.051Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -385870,27 +385950,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/198299124/01.webp"
+        "assets/products/popmo/198299124/01.webp",
+        "assets/products/popmo/198299124/02.webp",
+        "assets/products/popmo/198299124/03.webp",
+        "assets/products/popmo/198299124/04.webp",
+        "assets/products/popmo/198299124/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/0c213e98/medium.png"
       ],
       "coverUrl": "assets/products/popmo/198299124/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:28.977Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:42:31.378Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -385902,27 +385986,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/206521523/01.webp"
+        "assets/products/popmo/206521523/01.webp",
+        "assets/products/popmo/206521523/02.webp",
+        "assets/products/popmo/206521523/03.webp",
+        "assets/products/popmo/206521523/04.webp",
+        "assets/products/popmo/206521523/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/45da380e/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/206521523/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:59:31.292Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:40:44.568Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -385934,53 +386022,61 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/217045455/01.webp"
+        "assets/products/popmo/217045455/01.webp",
+        "assets/products/popmo/217045455/02.webp",
+        "assets/products/popmo/217045455/03.webp",
+        "assets/products/popmo/217045455/04.webp",
+        "assets/products/popmo/217045455/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/f6a98f1d/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/217045455/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:02:27.808Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:39:55.013Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:201098688",
       "source": "popmo",
       "sourceId": "201098688",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/201098688",
-      "sourceCategory": "Mexico & Chile League",
+      "sourceCategory": "more",
       "title": "25-26 American Special Edition Player S~3XL2",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "club": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "season": "2025-2026",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "club": "",
+      "country": "",
+      "competition": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/201098688/01.webp"
+        "assets/products/popmo/201098688/01.webp",
+        "assets/products/popmo/201098688/02.webp",
+        "assets/products/popmo/201098688/03.webp",
+        "assets/products/popmo/201098688/04.webp",
+        "assets/products/popmo/201098688/05.webp"
       ],
       "coverUrl": "assets/products/popmo/201098688/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:33.023Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:41:44.908Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -386028,27 +386124,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/198295379/01.webp"
+        "assets/products/popmo/198295379/01.webp",
+        "assets/products/popmo/198295379/02.webp",
+        "assets/products/popmo/198295379/03.webp",
+        "assets/products/popmo/198295379/04.webp",
+        "assets/products/popmo/198295379/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/f9143cc6/medium.png"
       ],
       "coverUrl": "assets/products/popmo/198295379/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:24.212Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:42:51.291Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -386060,27 +386160,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/198295445/01.webp"
+        "assets/products/popmo/198295445/01.webp",
+        "assets/products/popmo/198295445/02.webp",
+        "assets/products/popmo/198295445/03.webp",
+        "assets/products/popmo/198295445/04.webp",
+        "assets/products/popmo/198295445/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/8f5d3cab/medium.png"
       ],
       "coverUrl": "assets/products/popmo/198295445/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:25.375Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:42:45.341Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -386128,27 +386232,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/216854789/01.webp"
+        "assets/products/popmo/216854789/01.webp",
+        "assets/products/popmo/216854789/02.webp",
+        "assets/products/popmo/216854789/03.webp",
+        "assets/products/popmo/216854789/04.webp",
+        "assets/products/popmo/216854789/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/9265f624/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/216854789/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:02:26.724Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:39:55.122Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -386160,27 +386268,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/198530555/01.webp"
+        "assets/products/popmo/198530555/01.webp",
+        "assets/products/popmo/198530555/02.webp",
+        "assets/products/popmo/198530555/03.webp",
+        "assets/products/popmo/198530555/04.webp",
+        "assets/products/popmo/198530555/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/583158be/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/198530555/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:44.811Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:42:19.915Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -386260,27 +386372,32 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/206993264/01.webp"
+        "assets/products/popmo/206993264/01.webp",
+        "assets/products/popmo/206993264/02.webp",
+        "assets/products/popmo/206993264/03.webp",
+        "assets/products/popmo/206993264/04.webp",
+        "assets/products/popmo/206993264/05.webp",
+        "assets/products/popmo/206993264/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/312fbb74/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/206993264/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:59:43.711Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:40:20.326Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -386292,27 +386409,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/203003970/01.webp"
+        "assets/products/popmo/203003970/01.webp",
+        "assets/products/popmo/203003970/02.webp",
+        "assets/products/popmo/203003970/03.webp",
+        "assets/products/popmo/203003970/04.webp",
+        "assets/products/popmo/203003970/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/9e03a4fe/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/203003970/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:58:38.620Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:41:11.373Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -386324,27 +386445,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/198350287/01.webp"
+        "assets/products/popmo/198350287/01.webp",
+        "assets/products/popmo/198350287/02.webp",
+        "assets/products/popmo/198350287/03.webp",
+        "assets/products/popmo/198350287/04.webp",
+        "assets/products/popmo/198350287/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/a7415432/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/198350287/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:33.318Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:42:19.584Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -386467,27 +386592,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/198162087/01.webp"
+        "assets/products/popmo/198162087/01.webp",
+        "assets/products/popmo/198162087/02.webp",
+        "assets/products/popmo/198162087/03.webp",
+        "assets/products/popmo/198162087/04.webp",
+        "assets/products/popmo/198162087/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/4975bc8f/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/198162087/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:55:42.537Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:43:18.317Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -386499,27 +386628,32 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/198171808/01.webp"
+        "assets/products/popmo/198171808/01.webp",
+        "assets/products/popmo/198171808/02.webp",
+        "assets/products/popmo/198171808/03.webp",
+        "assets/products/popmo/198171808/04.webp",
+        "assets/products/popmo/198171808/05.webp",
+        "assets/products/popmo/198171808/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/a4223a79/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/198171808/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:55:48.674Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:43:09.848Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -386642,27 +386776,32 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/198172470/01.webp"
+        "assets/products/popmo/198172470/01.webp",
+        "assets/products/popmo/198172470/02.webp",
+        "assets/products/popmo/198172470/03.webp",
+        "assets/products/popmo/198172470/04.webp",
+        "assets/products/popmo/198172470/05.webp",
+        "assets/products/popmo/198172470/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/a79bf8aa/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/198172470/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:55:49.660Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:43:07.153Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -386706,26 +386845,30 @@
       "source": "popmo",
       "sourceId": "198279036",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/198279036",
-      "sourceCategory": "Mexico & Chile League",
+      "sourceCategory": "more",
       "title": "25-26 Colo Colo Centennial Edition S-XXL2",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "club": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "season": "2025-2026",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "club": "",
+      "country": "",
+      "competition": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/198279036/01.webp"
+        "assets/products/popmo/198279036/01.webp",
+        "assets/products/popmo/198279036/02.webp",
+        "assets/products/popmo/198279036/03.webp",
+        "assets/products/popmo/198279036/04.webp",
+        "assets/products/popmo/198279036/05.webp"
       ],
       "coverUrl": "assets/products/popmo/198279036/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:17.355Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:43:03.793Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -386774,27 +386917,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/198170827/01.webp"
+        "assets/products/popmo/198170827/01.webp",
+        "assets/products/popmo/198170827/02.webp",
+        "assets/products/popmo/198170827/03.webp",
+        "assets/products/popmo/198170827/04.webp",
+        "assets/products/popmo/198170827/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/bdf4a6fd/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/198170827/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:55:46.672Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:43:12.016Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -386806,27 +386953,32 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/206168929/01.webp"
+        "assets/products/popmo/206168929/01.webp",
+        "assets/products/popmo/206168929/02.webp",
+        "assets/products/popmo/206168929/03.webp",
+        "assets/products/popmo/206168929/04.webp",
+        "assets/products/popmo/206168929/05.webp",
+        "assets/products/popmo/206168929/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/9eb088d2/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/206168929/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:59:27.716Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:40:54.799Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -386912,27 +387064,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/209927150/01.webp"
+        "assets/products/popmo/209927150/01.webp",
+        "assets/products/popmo/209927150/02.webp",
+        "assets/products/popmo/209927150/03.webp",
+        "assets/products/popmo/209927150/04.webp",
+        "assets/products/popmo/209927150/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/1842afb1/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/209927150/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:00:52.662Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:40:06.751Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -386981,27 +387137,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/198279880/01.webp"
+        "assets/products/popmo/198279880/01.webp",
+        "assets/products/popmo/198279880/02.webp",
+        "assets/products/popmo/198279880/03.webp",
+        "assets/products/popmo/198279880/04.webp",
+        "assets/products/popmo/198279880/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/3b10468e/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/198279880/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:18.265Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:43:01.810Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -387013,27 +387173,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/215339866/01.webp"
+        "assets/products/popmo/215339866/01.webp",
+        "assets/products/popmo/215339866/02.webp",
+        "assets/products/popmo/215339866/03.webp",
+        "assets/products/popmo/215339866/04.webp",
+        "assets/products/popmo/215339866/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/d42643a9/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/215339866/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:02:07.841Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:40:00.719Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -387228,27 +387392,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/215864716/01.webp"
+        "assets/products/popmo/215864716/01.webp",
+        "assets/products/popmo/215864716/02.webp",
+        "assets/products/popmo/215864716/03.webp",
+        "assets/products/popmo/215864716/04.webp",
+        "assets/products/popmo/215864716/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/42069bc1/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/215864716/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:02:17.507Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:40:01.041Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -387297,27 +387465,32 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/206768472/01.webp"
+        "assets/products/popmo/206768472/01.webp",
+        "assets/products/popmo/206768472/02.webp",
+        "assets/products/popmo/206768472/03.webp",
+        "assets/products/popmo/206768472/04.webp",
+        "assets/products/popmo/206768472/05.webp",
+        "assets/products/popmo/206768472/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/e6b8100f/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/206768472/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:59:37.752Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:40:34.773Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -387329,105 +387502,120 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/206521084/01.webp"
+        "assets/products/popmo/206521084/01.webp",
+        "assets/products/popmo/206521084/02.webp",
+        "assets/products/popmo/206521084/03.webp",
+        "assets/products/popmo/206521084/04.webp",
+        "assets/products/popmo/206521084/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/d676699d/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/206521084/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:59:29.927Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:40:49.813Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:201102309",
       "source": "popmo",
       "sourceId": "201102309",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/201102309",
-      "sourceCategory": "Mexico & Chile League",
+      "sourceCategory": "more",
       "title": "25-26 Mexico Goalkeeper Green S~3XL3",
       "section": "Voetbal",
       "category": "Landenteams",
-      "subcategory": "Chile",
-      "club": "Chile",
-      "country": "Chile",
+      "subcategory": "Mexico",
+      "club": "Mexico",
+      "country": "Mexico",
       "competition": "Landenteams",
       "season": "2025-2026",
       "types": [
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/201102309/01.webp"
+        "assets/products/popmo/201102309/01.webp",
+        "assets/products/popmo/201102309/02.webp",
+        "assets/products/popmo/201102309/03.webp",
+        "assets/products/popmo/201102309/04.webp",
+        "assets/products/popmo/201102309/05.webp",
+        "assets/products/popmo/201102309/06.webp"
       ],
       "coverUrl": "assets/products/popmo/201102309/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:35.542Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:41:39.650Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:201111454",
       "source": "popmo",
       "sourceId": "201111454",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/201111454",
-      "sourceCategory": "Mexico & Chile League",
+      "sourceCategory": "more",
       "title": "25-26 Mexico Gold Cup Special Edition Player S~3XL1",
       "section": "Voetbal",
       "category": "Landenteams",
-      "subcategory": "Chile",
-      "club": "Chile",
-      "country": "Chile",
+      "subcategory": "Mexico",
+      "club": "Mexico",
+      "country": "Mexico",
       "competition": "Landenteams",
       "season": "2025-2026",
       "types": [
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/201111454/01.webp"
+        "assets/products/popmo/201111454/01.webp",
+        "assets/products/popmo/201111454/02.webp",
+        "assets/products/popmo/201111454/03.webp"
       ],
       "coverUrl": "assets/products/popmo/201111454/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:38.746Z",
+      "imageCount": 3,
+      "updatedAt": "2026-10-30T22:41:20.660Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:201111756",
       "source": "popmo",
       "sourceId": "201111756",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/201111756",
-      "sourceCategory": "Mexico & Chile League",
+      "sourceCategory": "more",
       "title": "25-26 Mexico World Cup Special Edition White S~3XL2",
       "section": "Voetbal",
       "category": "Landenteams",
-      "subcategory": "Chile",
-      "club": "Chile",
-      "country": "Chile",
+      "subcategory": "Mexico",
+      "club": "Mexico",
+      "country": "Mexico",
       "competition": "Landenteams",
       "season": "2025-2026",
       "types": [
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/201111756/01.webp"
+        "assets/products/popmo/201111756/01.webp",
+        "assets/products/popmo/201111756/02.webp",
+        "assets/products/popmo/201111756/03.webp",
+        "assets/products/popmo/201111756/04.webp",
+        "assets/products/popmo/201111756/05.webp"
       ],
       "coverUrl": "assets/products/popmo/201111756/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:39.408Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:41:17.662Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -387439,27 +387627,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/205202362/01.webp"
+        "assets/products/popmo/205202362/01.webp",
+        "assets/products/popmo/205202362/02.webp",
+        "assets/products/popmo/205202362/03.webp",
+        "assets/products/popmo/205202362/04.webp",
+        "assets/products/popmo/205202362/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/469c6659/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/205202362/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:59:17.646Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:41:00.342Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -387471,27 +387663,29 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/206522617/01.webp"
+        "assets/products/popmo/206522617/01.webp",
+        "assets/products/popmo/206522617/02.webp",
+        "assets/products/popmo/206522617/03.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/d9f9d98a/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/206522617/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:59:33.275Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 3,
+      "updatedAt": "2026-10-30T22:40:34.287Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -387683,26 +387877,30 @@
       "source": "popmo",
       "sourceId": "201099036",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/201099036",
-      "sourceCategory": "Mexico & Chile League",
+      "sourceCategory": "more",
       "title": "25-26 Player issue Tiger Special Edition Black Green S~3XL2",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "club": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "season": "2025-2026",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "club": "",
+      "country": "",
+      "competition": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/201099036/01.webp"
+        "assets/products/popmo/201099036/01.webp",
+        "assets/products/popmo/201099036/02.webp",
+        "assets/products/popmo/201099036/03.webp",
+        "assets/products/popmo/201099036/04.webp",
+        "assets/products/popmo/201099036/05.webp"
       ],
       "coverUrl": "assets/products/popmo/201099036/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:33.972Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:41:45.024Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -387714,27 +387912,32 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/210160932/01.webp"
+        "assets/products/popmo/210160932/01.webp",
+        "assets/products/popmo/210160932/02.webp",
+        "assets/products/popmo/210160932/03.webp",
+        "assets/products/popmo/210160932/04.webp",
+        "assets/products/popmo/210160932/05.webp",
+        "assets/products/popmo/210160932/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/b6be0d8f/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/210160932/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:00:59.582Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:40:07.975Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -387746,27 +387949,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/203335638/01.webp"
+        "assets/products/popmo/203335638/01.webp",
+        "assets/products/popmo/203335638/02.webp",
+        "assets/products/popmo/203335638/03.webp",
+        "assets/products/popmo/203335638/04.webp",
+        "assets/products/popmo/203335638/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/1115119e/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/203335638/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:58:43.763Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:41:05.865Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -387778,27 +387985,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/201100496/01.webp"
+        "assets/products/popmo/201100496/01.webp",
+        "assets/products/popmo/201100496/02.webp",
+        "assets/products/popmo/201100496/03.webp",
+        "assets/products/popmo/201100496/04.webp",
+        "assets/products/popmo/201100496/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/af2b64c0/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/201100496/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:35.771Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:41:39.493Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -387810,27 +388021,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/200331565/01.webp"
+        "assets/products/popmo/200331565/01.webp",
+        "assets/products/popmo/200331565/02.webp",
+        "assets/products/popmo/200331565/03.webp",
+        "assets/products/popmo/200331565/04.webp",
+        "assets/products/popmo/200331565/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/5bfa8490/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/200331565/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:08.190Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:42:14.113Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -387842,27 +388057,32 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/198300559/01.webp"
+        "assets/products/popmo/198300559/01.webp",
+        "assets/products/popmo/198300559/02.webp",
+        "assets/products/popmo/198300559/03.webp",
+        "assets/products/popmo/198300559/04.webp",
+        "assets/products/popmo/198300559/05.webp",
+        "assets/products/popmo/198300559/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/eabd2502/medium.png"
       ],
       "coverUrl": "assets/products/popmo/198300559/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:29.251Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:42:26.211Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -387874,27 +388094,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/217493165/01.webp"
+        "assets/products/popmo/217493165/01.webp",
+        "assets/products/popmo/217493165/02.webp",
+        "assets/products/popmo/217493165/03.webp",
+        "assets/products/popmo/217493165/04.webp",
+        "assets/products/popmo/217493165/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/826f14f0/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/217493165/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:02:30.618Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:39:49.255Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -387943,27 +388167,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2025-2026",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/206521362/01.webp"
+        "assets/products/popmo/206521362/01.webp",
+        "assets/products/popmo/206521362/02.webp",
+        "assets/products/popmo/206521362/03.webp",
+        "assets/products/popmo/206521362/04.webp",
+        "assets/products/popmo/206521362/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/9af64048/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/206521362/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:59:30.970Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:40:44.907Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -387975,27 +388203,32 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2025-2026",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/218690395/01.webp"
+        "assets/products/popmo/218690395/01.webp",
+        "assets/products/popmo/218690395/02.webp",
+        "assets/products/popmo/218690395/03.webp",
+        "assets/products/popmo/218690395/04.webp",
+        "assets/products/popmo/218690395/05.webp",
+        "assets/products/popmo/218690395/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/cb041350/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/218690395/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:02:42.957Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:39:47.211Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -388007,53 +388240,61 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/198294873/01.webp"
+        "assets/products/popmo/198294873/01.webp",
+        "assets/products/popmo/198294873/02.webp",
+        "assets/products/popmo/198294873/03.webp",
+        "assets/products/popmo/198294873/04.webp",
+        "assets/products/popmo/198294873/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/4332b55b/medium.png"
       ],
       "coverUrl": "assets/products/popmo/198294873/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:23.008Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:42:51.506Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:201042491",
       "source": "popmo",
       "sourceId": "201042491",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/201042491",
-      "sourceCategory": "Mexico & Chile League",
+      "sourceCategory": "more",
       "title": "25-26 Tiger Goalkeeper Blue S~3XL2",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "club": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "season": "2025-2026",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "club": "",
+      "country": "",
+      "competition": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/201042491/01.webp"
+        "assets/products/popmo/201042491/01.webp",
+        "assets/products/popmo/201042491/02.webp",
+        "assets/products/popmo/201042491/03.webp",
+        "assets/products/popmo/201042491/04.webp",
+        "assets/products/popmo/201042491/05.webp"
       ],
       "coverUrl": "assets/products/popmo/201042491/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:27.473Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:42:02.091Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -388065,27 +388306,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/198299066/01.webp"
+        "assets/products/popmo/198299066/01.webp",
+        "assets/products/popmo/198299066/02.webp",
+        "assets/products/popmo/198299066/03.webp",
+        "assets/products/popmo/198299066/04.webp",
+        "assets/products/popmo/198299066/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/d4e9acba/medium.png"
       ],
       "coverUrl": "assets/products/popmo/198299066/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:27.887Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:42:33.721Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -388097,53 +388342,61 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/201040251/01.webp"
+        "assets/products/popmo/201040251/01.webp",
+        "assets/products/popmo/201040251/02.webp",
+        "assets/products/popmo/201040251/03.webp",
+        "assets/products/popmo/201040251/04.webp",
+        "assets/products/popmo/201040251/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/1b2f94a1/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/201040251/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:25.532Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:42:07.207Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:201110939",
       "source": "popmo",
       "sourceId": "201110939",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/201110939",
-      "sourceCategory": "Mexico & Chile League",
+      "sourceCategory": "more",
       "title": "25-26 Tigres away2",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "club": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "season": "2025-2026",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "club": "",
+      "country": "",
+      "competition": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/201110939/01.webp"
+        "assets/products/popmo/201110939/01.webp",
+        "assets/products/popmo/201110939/02.webp",
+        "assets/products/popmo/201110939/03.webp",
+        "assets/products/popmo/201110939/04.webp",
+        "assets/products/popmo/201110939/05.webp"
       ],
       "coverUrl": "assets/products/popmo/201110939/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:37.870Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:41:26.502Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -388155,27 +388408,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2025-2026",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/203973591/01.webp"
+        "assets/products/popmo/203973591/01.webp",
+        "assets/products/popmo/203973591/02.webp",
+        "assets/products/popmo/203973591/03.webp",
+        "assets/products/popmo/203973591/04.webp",
+        "assets/products/popmo/203973591/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/84418102/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/203973591/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:58:48.522Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:41:05.883Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -388187,53 +388444,61 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/200938785/01.webp"
+        "assets/products/popmo/200938785/01.webp",
+        "assets/products/popmo/200938785/02.webp",
+        "assets/products/popmo/200938785/03.webp",
+        "assets/products/popmo/200938785/04.webp",
+        "assets/products/popmo/200938785/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/cf3ba907/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/200938785/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:16.331Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:42:12.088Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:201102479",
       "source": "popmo",
       "sourceId": "201102479",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/201102479",
-      "sourceCategory": "Mexico & Chile League",
+      "sourceCategory": "more",
       "title": "25-26 Tigres Pink Goalkeeper S~3XL2",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "club": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "season": "2025-2026",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "club": "",
+      "country": "",
+      "competition": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/201102479/01.webp"
+        "assets/products/popmo/201102479/01.webp",
+        "assets/products/popmo/201102479/02.webp",
+        "assets/products/popmo/201102479/03.webp",
+        "assets/products/popmo/201102479/04.webp",
+        "assets/products/popmo/201102479/05.webp"
       ],
       "coverUrl": "assets/products/popmo/201102479/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:37.023Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:41:33.786Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -388245,27 +388510,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/200939020/01.webp"
+        "assets/products/popmo/200939020/01.webp",
+        "assets/products/popmo/200939020/02.webp",
+        "assets/products/popmo/200939020/03.webp",
+        "assets/products/popmo/200939020/04.webp",
+        "assets/products/popmo/200939020/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/cd66c6ae/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/200939020/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:17.599Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:42:08.537Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -388277,27 +388546,32 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2025-2026",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/207301443/01.webp"
+        "assets/products/popmo/207301443/01.webp",
+        "assets/products/popmo/207301443/02.webp",
+        "assets/products/popmo/207301443/03.webp",
+        "assets/products/popmo/207301443/04.webp",
+        "assets/products/popmo/207301443/05.webp",
+        "assets/products/popmo/207301443/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/f5c0e127/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/207301443/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:59:51.875Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:40:18.804Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -388722,7 +388996,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -388733,16 +389007,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/208049526/01.webp"
+        "assets/products/popmo/208049526/01.webp",
+        "assets/products/popmo/208049526/02.webp",
+        "assets/products/popmo/208049526/03.webp",
+        "assets/products/popmo/208049526/04.webp",
+        "assets/products/popmo/208049526/05.webp",
+        "assets/products/popmo/208049526/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/91a8c033/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/208049526/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:00:15.981Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:40:13.324Z",
       "season": "2025-2026",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -389048,27 +389327,32 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2026-2027",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/237988362/01.webp"
+        "assets/products/popmo/237988362/01.webp",
+        "assets/products/popmo/237988362/02.webp",
+        "assets/products/popmo/237988362/03.webp",
+        "assets/products/popmo/237988362/04.webp",
+        "assets/products/popmo/237988362/05.webp",
+        "assets/products/popmo/237988362/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/0e016bb90b/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/237988362/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:06:27.248Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:39:18.192Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -389217,27 +389501,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/247883342/01.webp"
+        "assets/products/popmo/247883342/01.webp",
+        "assets/products/popmo/247883342/02.webp",
+        "assets/products/popmo/247883342/03.webp",
+        "assets/products/popmo/247883342/04.webp",
+        "assets/products/popmo/247883342/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/f99497aedd/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/247883342/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:10:54.798Z",
-      "season": "2026-2027",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:39:16.712Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -389249,27 +389537,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/248360836/01.webp"
+        "assets/products/popmo/248360836/01.webp",
+        "assets/products/popmo/248360836/02.webp",
+        "assets/products/popmo/248360836/03.webp",
+        "assets/products/popmo/248360836/04.webp",
+        "assets/products/popmo/248360836/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/9e37aada22/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/248360836/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:11:09.096Z",
-      "season": "2026-2027",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:39:12.313Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -389281,27 +389573,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2026-2027",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/236148024/01.webp"
+        "assets/products/popmo/236148024/01.webp",
+        "assets/products/popmo/236148024/02.webp",
+        "assets/products/popmo/236148024/03.webp",
+        "assets/products/popmo/236148024/04.webp",
+        "assets/products/popmo/236148024/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/952940b127/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/236148024/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:05:56.538Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:39:28.650Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -389313,27 +389609,32 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/237266717/01.webp"
+        "assets/products/popmo/237266717/01.webp",
+        "assets/products/popmo/237266717/02.webp",
+        "assets/products/popmo/237266717/03.webp",
+        "assets/products/popmo/237266717/04.webp",
+        "assets/products/popmo/237266717/05.webp",
+        "assets/products/popmo/237266717/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/cd51252290/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/237266717/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:06:12.918Z",
-      "season": "2026-2027",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:39:26.498Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -389490,27 +389791,32 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2026-2027",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/223029479/01.webp"
+        "assets/products/popmo/223029479/01.webp",
+        "assets/products/popmo/223029479/02.webp",
+        "assets/products/popmo/223029479/03.webp",
+        "assets/products/popmo/223029479/04.webp",
+        "assets/products/popmo/223029479/05.webp",
+        "assets/products/popmo/223029479/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/09dbeea1/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/223029479/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:03:27.527Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:39:36.815Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -389559,27 +389865,32 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/224598234/01.webp"
+        "assets/products/popmo/224598234/01.webp",
+        "assets/products/popmo/224598234/02.webp",
+        "assets/products/popmo/224598234/03.webp",
+        "assets/products/popmo/224598234/04.webp",
+        "assets/products/popmo/224598234/05.webp",
+        "assets/products/popmo/224598234/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/6c6bd01d/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/224598234/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:03:36.783Z",
-      "season": "2026-2027",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:39:33.531Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "yema007:253425019",
@@ -389730,27 +390041,32 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/222699967/01.webp"
+        "assets/products/popmo/222699967/01.webp",
+        "assets/products/popmo/222699967/02.webp",
+        "assets/products/popmo/222699967/03.webp",
+        "assets/products/popmo/222699967/04.webp",
+        "assets/products/popmo/222699967/05.webp",
+        "assets/products/popmo/222699967/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/7ba92f05/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/222699967/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:03:25.183Z",
-      "season": "2026-2027",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:39:42.293Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -389762,27 +390078,29 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2026-2027",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/206521298/01.webp"
+        "assets/products/popmo/206521298/01.webp",
+        "assets/products/popmo/206521298/02.webp",
+        "assets/products/popmo/206521298/03.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/c0f344e97b/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/206521298/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:59:30.062Z",
-      "classificationVersion": 1
+      "imageCount": 3,
+      "updatedAt": "2026-10-30T22:40:48.648Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -389794,27 +390112,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/248428892/01.webp"
+        "assets/products/popmo/248428892/01.webp",
+        "assets/products/popmo/248428892/02.webp",
+        "assets/products/popmo/248428892/03.webp",
+        "assets/products/popmo/248428892/04.webp",
+        "assets/products/popmo/248428892/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/80f823b511/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/248428892/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:11:19.695Z",
-      "season": "2026-2027",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:39:11.579Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -389936,7 +390258,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -389947,16 +390269,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/242434459/01.webp"
+        "assets/products/popmo/242434459/01.webp",
+        "assets/products/popmo/242434459/02.webp",
+        "assets/products/popmo/242434459/03.webp",
+        "assets/products/popmo/242434459/04.webp",
+        "assets/products/popmo/242434459/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/0c589afc59/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/242434459/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:07:33.499Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:39:22.427Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -389968,7 +390294,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -389979,16 +390305,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/223028656/01.webp"
+        "assets/products/popmo/223028656/01.webp",
+        "assets/products/popmo/223028656/02.webp",
+        "assets/products/popmo/223028656/03.webp",
+        "assets/products/popmo/223028656/04.webp",
+        "assets/products/popmo/223028656/05.webp",
+        "assets/products/popmo/223028656/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/aa0d442f/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/223028656/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:03:26.276Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:39:38.919Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -393168,27 +393499,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/220473617/01.webp"
+        "assets/products/popmo/220473617/01.webp",
+        "assets/products/popmo/220473617/02.webp",
+        "assets/products/popmo/220473617/03.webp",
+        "assets/products/popmo/220473617/04.webp",
+        "assets/products/popmo/220473617/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/3ad1924f/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/220473617/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:03:11.878Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:39:43.973Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -393200,27 +393535,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/227646784/01.webp"
+        "assets/products/popmo/227646784/01.webp",
+        "assets/products/popmo/227646784/02.webp",
+        "assets/products/popmo/227646784/03.webp",
+        "assets/products/popmo/227646784/04.webp",
+        "assets/products/popmo/227646784/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/a0f71be4/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/227646784/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:03:53.723Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:39:31.308Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -815162,10 +815501,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -815173,16 +815512,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/198171193/01.webp"
+        "assets/products/popmo/198171193/01.webp",
+        "assets/products/popmo/198171193/02.webp",
+        "assets/products/popmo/198171193/03.webp",
+        "assets/products/popmo/198171193/04.webp",
+        "assets/products/popmo/198171193/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/e9743f0c/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/198171193/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:55:47.729Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:38:55.889Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -815698,10 +816041,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -815709,16 +816052,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/198171630/01.webp"
+        "assets/products/popmo/198171630/01.webp",
+        "assets/products/popmo/198171630/02.webp",
+        "assets/products/popmo/198171630/03.webp",
+        "assets/products/popmo/198171630/04.webp",
+        "assets/products/popmo/198171630/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/8192d361/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/198171630/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:55:48.092Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:38:50.529Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -815838,10 +816185,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -815849,16 +816196,21 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/198354917/01.webp"
+        "assets/products/popmo/198354917/01.webp",
+        "assets/products/popmo/198354917/02.webp",
+        "assets/products/popmo/198354917/03.webp",
+        "assets/products/popmo/198354917/04.webp",
+        "assets/products/popmo/198354917/05.webp",
+        "assets/products/popmo/198354917/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/9bedf804/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/198354917/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:37.810Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:38:45.567Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -816871,10 +817223,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -816882,16 +817234,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/198287837/01.webp"
+        "assets/products/popmo/198287837/01.webp",
+        "assets/products/popmo/198287837/02.webp",
+        "assets/products/popmo/198287837/03.webp",
+        "assets/products/popmo/198287837/04.webp",
+        "assets/products/popmo/198287837/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/8d2c92ed/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/198287837/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:20.552Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:38:50.249Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -1001964,27 +1002320,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "country": "",
+      "competition": "",
+      "club": "Overig",
       "season": "2025-2026",
       "types": [
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/popmo/198291484/01.webp"
+        "assets/products/popmo/198291484/01.webp",
+        "assets/products/popmo/198291484/02.webp",
+        "assets/products/popmo/198291484/03.webp",
+        "assets/products/popmo/198291484/04.webp",
+        "assets/products/popmo/198291484/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/ad238a9e/medium.png"
       ],
       "coverUrl": "assets/products/popmo/198291484/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:21.818Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:42:57.126Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -1001996,27 +1002356,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "country": "",
+      "competition": "",
+      "club": "Overig",
       "types": [
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/popmo/198296704/01.webp"
+        "assets/products/popmo/198296704/01.webp",
+        "assets/products/popmo/198296704/02.webp",
+        "assets/products/popmo/198296704/03.webp",
+        "assets/products/popmo/198296704/04.webp",
+        "assets/products/popmo/198296704/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/1ab79d70/medium.png"
       ],
       "coverUrl": "assets/products/popmo/198296704/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:25.565Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:42:45.876Z",
       "season": "2025-2026",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -1002028,27 +1002392,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "country": "",
+      "competition": "",
+      "club": "Overig",
       "types": [
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/popmo/198296794/01.webp"
+        "assets/products/popmo/198296794/01.webp",
+        "assets/products/popmo/198296794/02.webp",
+        "assets/products/popmo/198296794/03.webp",
+        "assets/products/popmo/198296794/04.webp",
+        "assets/products/popmo/198296794/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/faa8a2af/medium.png"
       ],
       "coverUrl": "assets/products/popmo/198296794/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:26.623Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:42:39.026Z",
       "season": "2025-2026",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -1002060,27 +1002428,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "country": "",
+      "competition": "",
+      "club": "Overig",
       "season": "2025-2026",
       "types": [
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/popmo/198291566/01.webp"
+        "assets/products/popmo/198291566/01.webp",
+        "assets/products/popmo/198291566/02.webp",
+        "assets/products/popmo/198291566/03.webp",
+        "assets/products/popmo/198291566/04.webp",
+        "assets/products/popmo/198291566/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/9d5e8d57/medium.png"
       ],
       "coverUrl": "assets/products/popmo/198291566/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:22.892Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:42:56.866Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -1002092,27 +1002464,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "country": "",
+      "competition": "",
+      "club": "Overig",
       "types": [
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/popmo/198169871/01.webp"
+        "assets/products/popmo/198169871/01.webp",
+        "assets/products/popmo/198169871/02.webp",
+        "assets/products/popmo/198169871/03.webp",
+        "assets/products/popmo/198169871/04.webp",
+        "assets/products/popmo/198169871/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/71457906/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/198169871/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:55:46.847Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:43:15.782Z",
       "season": "2025-2026",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -1002124,27 +1002500,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "country": "",
+      "competition": "",
+      "club": "Overig",
       "season": "2025-2026",
       "types": [
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/popmo/207386327/01.webp"
+        "assets/products/popmo/207386327/01.webp",
+        "assets/products/popmo/207386327/02.webp",
+        "assets/products/popmo/207386327/03.webp",
+        "assets/products/popmo/207386327/04.webp",
+        "assets/products/popmo/207386327/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/94e7b676/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/207386327/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:59:56.998Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:40:13.399Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -1002188,52 +1002568,61 @@
       "source": "popmo",
       "sourceId": "201111185",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/201111185",
-      "sourceCategory": "Mexico & Chile League",
+      "sourceCategory": "more",
       "title": "25-26 Mexico pre-match suit S~3XL2",
       "section": "Trainingskleding",
       "category": "Landenteams",
-      "subcategory": "Chile",
-      "club": "Chile",
-      "country": "Chile",
+      "subcategory": "Mexico",
+      "club": "Mexico",
+      "country": "Mexico",
       "competition": "Landenteams",
       "season": "2025-2026",
       "types": [
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/popmo/201111185/01.webp"
+        "assets/products/popmo/201111185/01.webp",
+        "assets/products/popmo/201111185/02.webp",
+        "assets/products/popmo/201111185/03.webp",
+        "assets/products/popmo/201111185/04.webp",
+        "assets/products/popmo/201111185/05.webp"
       ],
       "coverUrl": "assets/products/popmo/201111185/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:38.246Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:41:22.667Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:201102389",
       "source": "popmo",
       "sourceId": "201102389",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/201102389",
-      "sourceCategory": "Mexico & Chile League",
+      "sourceCategory": "more",
       "title": "25-26 Mexico training suit green S~3XL3",
       "section": "Trainingskleding",
       "category": "Landenteams",
-      "subcategory": "Chile",
-      "club": "Chile",
-      "country": "Chile",
+      "subcategory": "Mexico",
+      "club": "Mexico",
+      "country": "Mexico",
       "competition": "Landenteams",
       "season": "2025-2026",
       "types": [
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/popmo/201102389/01.webp"
+        "assets/products/popmo/201102389/01.webp",
+        "assets/products/popmo/201102389/02.webp",
+        "assets/products/popmo/201102389/03.webp",
+        "assets/products/popmo/201102389/04.webp",
+        "assets/products/popmo/201102389/05.webp",
+        "assets/products/popmo/201102389/06.webp"
       ],
       "coverUrl": "assets/products/popmo/201102389/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:36.664Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:41:34.686Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -1002282,7 +1002671,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -1002293,16 +1002682,21 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/popmo/206489086/01.webp"
+        "assets/products/popmo/206489086/01.webp",
+        "assets/products/popmo/206489086/02.webp",
+        "assets/products/popmo/206489086/03.webp",
+        "assets/products/popmo/206489086/04.webp",
+        "assets/products/popmo/206489086/05.webp",
+        "assets/products/popmo/206489086/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/1ce93915/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/206489086/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:59:28.665Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:40:55.156Z",
       "season": "2025-2026",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -1002388,27 +1002782,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "country": "",
+      "competition": "",
+      "club": "Overig",
       "types": [
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/popmo/247885532/01.webp"
+        "assets/products/popmo/247885532/01.webp",
+        "assets/products/popmo/247885532/02.webp",
+        "assets/products/popmo/247885532/03.webp",
+        "assets/products/popmo/247885532/04.webp",
+        "assets/products/popmo/247885532/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/fa49220883/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/247885532/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:10:57.259Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:39:06.265Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
