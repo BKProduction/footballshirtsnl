@@ -1,5 +1,5 @@
 {
-  "lastSync": "2026-10-30T00:34:30.603Z",
+  "lastSync": "2026-10-30T00:38:35.338Z",
   "status": "running",
   "currentSource": "minkang",
   "products": [
@@ -85053,7 +85053,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "LIGA MX",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Eredivisie",
@@ -85065,15 +85065,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/257731426/01.webp"
+        "assets/products/minkang/257731426/01.webp",
+        "assets/products/minkang/257731426/02.webp",
+        "assets/products/minkang/257731426/03.webp",
+        "assets/products/minkang/257731426/04.webp",
+        "assets/products/minkang/257731426/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/d9dad8633c/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/257731426/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:04:40.758Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:38:11.929Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -85213,7 +85217,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "LIGA MX",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Eredivisie",
@@ -85225,15 +85229,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/257731561/01.webp"
+        "assets/products/minkang/257731561/01.webp",
+        "assets/products/minkang/257731561/02.webp",
+        "assets/products/minkang/257731561/03.webp",
+        "assets/products/minkang/257731561/04.webp",
+        "assets/products/minkang/257731561/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/b87154c709/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/257731561/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:04:41.654Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:38:17.865Z",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "minkang:257731623",
@@ -109874,15 +109882,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/257336179/01.webp"
+        "assets/products/minkang/257336179/01.webp",
+        "assets/products/minkang/257336179/02.webp",
+        "assets/products/minkang/257336179/03.webp",
+        "assets/products/minkang/257336179/04.webp",
+        "assets/products/minkang/257336179/05.webp",
+        "assets/products/minkang/257336179/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/49bb9345f2/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/257336179/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:02:47.239Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:38:34.392Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -136425,15 +136438,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/257337278/01.webp"
+        "assets/products/minkang/257337278/01.webp",
+        "assets/products/minkang/257337278/02.webp",
+        "assets/products/minkang/257337278/03.webp",
+        "assets/products/minkang/257337278/04.webp",
+        "assets/products/minkang/257337278/05.webp",
+        "assets/products/minkang/257337278/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/e9c78326c6/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/257337278/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:02:53.207Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:38:28.735Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -136488,15 +136506,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/257336045/01.webp"
+        "assets/products/minkang/257336045/01.webp",
+        "assets/products/minkang/257336045/02.webp",
+        "assets/products/minkang/257336045/03.webp",
+        "assets/products/minkang/257336045/04.webp",
+        "assets/products/minkang/257336045/05.webp",
+        "assets/products/minkang/257336045/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/32f6198b65/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/257336045/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:02:47.428Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:38:35.338Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -142823,15 +142846,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/257337677/01.webp"
+        "assets/products/minkang/257337677/01.webp",
+        "assets/products/minkang/257337677/02.webp",
+        "assets/products/minkang/257337677/03.webp",
+        "assets/products/minkang/257337677/04.webp",
+        "assets/products/minkang/257337677/05.webp",
+        "assets/products/minkang/257337677/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/8dd61a44f8/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/257337677/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:02:54.302Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:38:23.537Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -177653,15 +177681,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/257337534/01.webp"
+        "assets/products/minkang/257337534/01.webp",
+        "assets/products/minkang/257337534/02.webp",
+        "assets/products/minkang/257337534/03.webp",
+        "assets/products/minkang/257337534/04.webp",
+        "assets/products/minkang/257337534/05.webp",
+        "assets/products/minkang/257337534/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/d385212d59/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/257337534/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:02:54.069Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:38:23.464Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -179343,15 +179376,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/257336279/01.webp"
+        "assets/products/minkang/257336279/01.webp",
+        "assets/products/minkang/257336279/02.webp",
+        "assets/products/minkang/257336279/03.webp",
+        "assets/products/minkang/257336279/04.webp",
+        "assets/products/minkang/257336279/05.webp",
+        "assets/products/minkang/257336279/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/7d0d04a02a/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/257336279/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:02:48.490Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:38:30.051Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -232516,7 +232554,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽🌍 National Teams",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Premier League",
@@ -232528,15 +232566,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/248187954/01.webp"
+        "assets/products/minkang/248187954/01.webp",
+        "assets/products/minkang/248187954/02.webp",
+        "assets/products/minkang/248187954/03.webp",
+        "assets/products/minkang/248187954/04.webp",
+        "assets/products/minkang/248187954/05.webp",
+        "assets/products/minkang/248187954/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/1e7c4205ae/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/248187954/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:53:11.817Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:36:41.145Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -323091,7 +323134,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Serie A",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Serie A",
@@ -323103,15 +323146,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/257727495/01.webp"
+        "assets/products/minkang/257727495/01.webp",
+        "assets/products/minkang/257727495/02.webp",
+        "assets/products/minkang/257727495/03.webp",
+        "assets/products/minkang/257727495/04.webp",
+        "assets/products/minkang/257727495/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/a13cdfee0f/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/257727495/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:04:07.623Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:38:00.121Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -323285,7 +323332,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Serie A",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Serie A",
@@ -323297,15 +323344,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/257727734/01.webp"
+        "assets/products/minkang/257727734/01.webp",
+        "assets/products/minkang/257727734/02.webp",
+        "assets/products/minkang/257727734/03.webp",
+        "assets/products/minkang/257727734/04.webp",
+        "assets/products/minkang/257727734/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/3ee6bb1b87/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/257727734/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:04:09.049Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:37:55.295Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -348349,7 +348400,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽🌍 National Teams",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Super Lig",
@@ -348361,15 +348412,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/246278861/01.webp"
+        "assets/products/minkang/246278861/01.webp",
+        "assets/products/minkang/246278861/02.webp",
+        "assets/products/minkang/246278861/03.webp",
+        "assets/products/minkang/246278861/04.webp",
+        "assets/products/minkang/246278861/05.webp",
+        "assets/products/minkang/246278861/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/136257ead3/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/246278861/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:52:19.690Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:37:50.109Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -364860,7 +364916,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽🌍 National Teams",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Argentina",
@@ -364872,15 +364928,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/249065596/01.webp"
+        "assets/products/minkang/249065596/01.webp",
+        "assets/products/minkang/249065596/02.webp",
+        "assets/products/minkang/249065596/03.webp",
+        "assets/products/minkang/249065596/04.webp",
+        "assets/products/minkang/249065596/05.webp",
+        "assets/products/minkang/249065596/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/70321d2233/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/249065596/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:53:32.876Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:36:26.687Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -365562,7 +365623,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽🌍 National Teams",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Argentina",
@@ -365573,16 +365634,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/256508573/01.webp"
+        "assets/products/minkang/256508573/01.webp",
+        "assets/products/minkang/256508573/02.webp",
+        "assets/products/minkang/256508573/03.webp",
+        "assets/products/minkang/256508573/04.webp",
+        "assets/products/minkang/256508573/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/bdacecc9db/medium.jpeg"
       ],
       "coverUrl": "assets/products/minkang/256508573/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:01:44.279Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:35:24.942Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -385580,7 +385645,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽🌍 National Teams",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Colombia",
@@ -385592,15 +385657,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/252314484/01.webp"
+        "assets/products/minkang/252314484/01.webp",
+        "assets/products/minkang/252314484/02.webp",
+        "assets/products/minkang/252314484/03.webp",
+        "assets/products/minkang/252314484/04.webp",
+        "assets/products/minkang/252314484/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/4d824c9208/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/252314484/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:55:01.517Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:35:42.361Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -385612,7 +385681,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽🌍 National Teams",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Colombia",
@@ -385624,15 +385693,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/252314498/01.webp"
+        "assets/products/minkang/252314498/01.webp",
+        "assets/products/minkang/252314498/02.webp",
+        "assets/products/minkang/252314498/03.webp",
+        "assets/products/minkang/252314498/04.webp",
+        "assets/products/minkang/252314498/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/e3eeb9d8a6/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/252314498/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:55:02.728Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:35:47.985Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -387254,7 +387327,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽🌍 National Teams",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Croatia",
@@ -387266,15 +387339,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/256508720/01.webp"
+        "assets/products/minkang/256508720/01.webp",
+        "assets/products/minkang/256508720/02.webp",
+        "assets/products/minkang/256508720/03.webp",
+        "assets/products/minkang/256508720/04.webp",
+        "assets/products/minkang/256508720/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/d3eeae01ea/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/256508720/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:01:46.564Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:35:18.705Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -395890,7 +395967,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽Long sleeve shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "England",
@@ -395902,15 +395979,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/256508740/01.webp"
+        "assets/products/minkang/256508740/01.webp",
+        "assets/products/minkang/256508740/02.webp",
+        "assets/products/minkang/256508740/03.webp",
+        "assets/products/minkang/256508740/04.webp",
+        "assets/products/minkang/256508740/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/ff8b02a303/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/256508740/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:01:47.471Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:35:18.254Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -395986,7 +396067,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽🌍 National Teams",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "England",
@@ -395998,15 +396079,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/256508749/01.webp"
+        "assets/products/minkang/256508749/01.webp",
+        "assets/products/minkang/256508749/02.webp",
+        "assets/products/minkang/256508749/03.webp",
+        "assets/products/minkang/256508749/04.webp",
+        "assets/products/minkang/256508749/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/7e7cf63e62/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/256508749/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:01:47.812Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:35:13.184Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -396087,7 +396172,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽🌍 National Teams",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "England",
@@ -396099,15 +396184,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/252314614/01.webp"
+        "assets/products/minkang/252314614/01.webp",
+        "assets/products/minkang/252314614/02.webp",
+        "assets/products/minkang/252314614/03.webp",
+        "assets/products/minkang/252314614/04.webp",
+        "assets/products/minkang/252314614/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/6ac9219866/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/252314614/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:55:05.202Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:35:48.558Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -402590,7 +402679,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽🌍 National Teams",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "France",
@@ -402602,15 +402691,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/247185956/01.webp"
+        "assets/products/minkang/247185956/01.webp",
+        "assets/products/minkang/247185956/02.webp",
+        "assets/products/minkang/247185956/03.webp",
+        "assets/products/minkang/247185956/04.webp",
+        "assets/products/minkang/247185956/05.webp",
+        "assets/products/minkang/247185956/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/b73842101c/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/247185956/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:52:44.181Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:37:23.382Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -402686,7 +402780,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽🌍 National Teams",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "France",
@@ -402698,15 +402792,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/252314661/01.webp"
+        "assets/products/minkang/252314661/01.webp",
+        "assets/products/minkang/252314661/02.webp",
+        "assets/products/minkang/252314661/03.webp",
+        "assets/products/minkang/252314661/04.webp",
+        "assets/products/minkang/252314661/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/90d1a2eada/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/252314661/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:55:06.812Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:35:53.589Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -415208,7 +415306,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽🌍 National Teams",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Germany",
@@ -415220,15 +415318,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/252314153/01.webp"
+        "assets/products/minkang/252314153/01.webp",
+        "assets/products/minkang/252314153/02.webp",
+        "assets/products/minkang/252314153/03.webp",
+        "assets/products/minkang/252314153/04.webp",
+        "assets/products/minkang/252314153/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/00d5ca64da/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/252314153/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:54:56.771Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:36:08.972Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -434969,7 +435071,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽🌍 National Teams",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Japan",
@@ -434981,15 +435083,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/248665292/01.webp"
+        "assets/products/minkang/248665292/01.webp",
+        "assets/products/minkang/248665292/02.webp",
+        "assets/products/minkang/248665292/03.webp",
+        "assets/products/minkang/248665292/04.webp",
+        "assets/products/minkang/248665292/05.webp",
+        "assets/products/minkang/248665292/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/97d5ccaea4/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/248665292/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:53:23.298Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:36:35.384Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -435001,7 +435108,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽🌍 National Teams",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Japan",
@@ -435013,15 +435120,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/247186216/01.webp"
+        "assets/products/minkang/247186216/01.webp",
+        "assets/products/minkang/247186216/02.webp",
+        "assets/products/minkang/247186216/03.webp",
+        "assets/products/minkang/247186216/04.webp",
+        "assets/products/minkang/247186216/05.webp",
+        "assets/products/minkang/247186216/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/8d7a2f8295/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/247186216/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:52:45.357Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:37:12.906Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -435033,7 +435145,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽🌍 National Teams",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Japan",
@@ -435045,15 +435157,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/247186019/01.webp"
+        "assets/products/minkang/247186019/01.webp",
+        "assets/products/minkang/247186019/02.webp",
+        "assets/products/minkang/247186019/03.webp",
+        "assets/products/minkang/247186019/04.webp",
+        "assets/products/minkang/247186019/05.webp",
+        "assets/products/minkang/247186019/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/fbcdf41220/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/247186019/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:52:44.941Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:37:19.425Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -443008,7 +443125,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽🌍 National Teams",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Mexico",
@@ -443020,15 +443137,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/246278836/01.webp"
+        "assets/products/minkang/246278836/01.webp",
+        "assets/products/minkang/246278836/02.webp",
+        "assets/products/minkang/246278836/03.webp",
+        "assets/products/minkang/246278836/04.webp",
+        "assets/products/minkang/246278836/05.webp",
+        "assets/products/minkang/246278836/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/acbfd8d7f8/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/246278836/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:52:18.344Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:37:48.393Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -443040,7 +443162,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽🌍 National Teams",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Mexico",
@@ -443052,15 +443174,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/256508984/01.webp"
+        "assets/products/minkang/256508984/01.webp",
+        "assets/products/minkang/256508984/02.webp",
+        "assets/products/minkang/256508984/03.webp",
+        "assets/products/minkang/256508984/04.webp",
+        "assets/products/minkang/256508984/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/c127bc2124/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/256508984/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:01:51.407Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:35:06.752Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -449290,7 +449416,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽🌍 National Teams",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Netherlands",
@@ -449302,15 +449428,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/248663467/01.webp"
+        "assets/products/minkang/248663467/01.webp",
+        "assets/products/minkang/248663467/02.webp",
+        "assets/products/minkang/248663467/03.webp",
+        "assets/products/minkang/248663467/04.webp",
+        "assets/products/minkang/248663467/05.webp",
+        "assets/products/minkang/248663467/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/f3d7850843/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/248663467/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:53:17.109Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:36:29.423Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -449322,7 +449453,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽🌍 National Teams",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Netherlands",
@@ -449334,15 +449465,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/248665195/01.webp"
+        "assets/products/minkang/248665195/01.webp",
+        "assets/products/minkang/248665195/02.webp",
+        "assets/products/minkang/248665195/03.webp",
+        "assets/products/minkang/248665195/04.webp",
+        "assets/products/minkang/248665195/05.webp",
+        "assets/products/minkang/248665195/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/08375a9ac3/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/248665195/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:53:22.159Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:36:34.268Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -463338,7 +463474,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽Long sleeve shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Portugal",
@@ -463350,15 +463486,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/256509035/01.webp"
+        "assets/products/minkang/256509035/01.webp",
+        "assets/products/minkang/256509035/02.webp",
+        "assets/products/minkang/256509035/03.webp",
+        "assets/products/minkang/256509035/04.webp",
+        "assets/products/minkang/256509035/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/432ed38ad3/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/256509035/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:01:52.643Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:35:01.216Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -463370,7 +463510,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽🌍 National Teams",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Portugal",
@@ -463382,15 +463522,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/256509049/01.webp"
+        "assets/products/minkang/256509049/01.webp",
+        "assets/products/minkang/256509049/02.webp",
+        "assets/products/minkang/256509049/03.webp",
+        "assets/products/minkang/256509049/04.webp",
+        "assets/products/minkang/256509049/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/019d9292f9/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/256509049/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:01:53.529Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:34:50.375Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -463402,7 +463546,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽Long sleeve shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Portugal",
@@ -463414,15 +463558,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/256509064/01.webp"
+        "assets/products/minkang/256509064/01.webp",
+        "assets/products/minkang/256509064/02.webp",
+        "assets/products/minkang/256509064/03.webp",
+        "assets/products/minkang/256509064/04.webp",
+        "assets/products/minkang/256509064/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/c9cbaa7ecd/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/256509064/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:01:53.964Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:35:00.785Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -463434,7 +463582,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽🌍 National Teams",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Portugal",
@@ -463446,15 +463594,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/256509083/01.webp"
+        "assets/products/minkang/256509083/01.webp",
+        "assets/products/minkang/256509083/02.webp",
+        "assets/products/minkang/256509083/03.webp",
+        "assets/products/minkang/256509083/04.webp",
+        "assets/products/minkang/256509083/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/424696667f/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/256509083/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:01:54.758Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:34:48.220Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -463466,7 +463618,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽Long sleeve shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Portugal",
@@ -463478,15 +463630,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/256509139/01.webp"
+        "assets/products/minkang/256509139/01.webp",
+        "assets/products/minkang/256509139/02.webp",
+        "assets/products/minkang/256509139/03.webp",
+        "assets/products/minkang/256509139/04.webp",
+        "assets/products/minkang/256509139/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/31fbf82544/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/256509139/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:01:56.211Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:34:55.448Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -463498,7 +463654,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽🌍 National Teams",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Portugal",
@@ -463510,15 +463666,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/256509159/01.webp"
+        "assets/products/minkang/256509159/01.webp",
+        "assets/products/minkang/256509159/02.webp",
+        "assets/products/minkang/256509159/03.webp",
+        "assets/products/minkang/256509159/04.webp",
+        "assets/products/minkang/256509159/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/733e8ff641/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/256509159/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:01:56.199Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:34:45.536Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -463530,7 +463690,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽Long sleeve shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Portugal",
@@ -463542,15 +463702,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/256509180/01.webp"
+        "assets/products/minkang/256509180/01.webp",
+        "assets/products/minkang/256509180/02.webp",
+        "assets/products/minkang/256509180/03.webp",
+        "assets/products/minkang/256509180/04.webp",
+        "assets/products/minkang/256509180/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/6260776861/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/256509180/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:01:57.357Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:34:54.109Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -463562,7 +463726,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽🌍 National Teams",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Portugal",
@@ -463574,15 +463738,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/256509204/01.webp"
+        "assets/products/minkang/256509204/01.webp",
+        "assets/products/minkang/256509204/02.webp",
+        "assets/products/minkang/256509204/03.webp",
+        "assets/products/minkang/256509204/04.webp",
+        "assets/products/minkang/256509204/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/80dab509f4/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/256509204/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:01:57.467Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:34:42.663Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -468143,7 +468311,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽🌍 National Teams",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Senegal",
@@ -468155,15 +468323,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/252315022/01.webp"
+        "assets/products/minkang/252315022/01.webp",
+        "assets/products/minkang/252315022/02.webp",
+        "assets/products/minkang/252315022/03.webp",
+        "assets/products/minkang/252315022/04.webp",
+        "assets/products/minkang/252315022/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/99de92c27f/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/252315022/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:55:11.991Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:35:53.526Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -470130,7 +470302,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽🌍 National Teams",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Spain",
@@ -470141,16 +470313,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/251100227/01.webp"
+        "assets/products/minkang/251100227/01.webp",
+        "assets/products/minkang/251100227/02.webp",
+        "assets/products/minkang/251100227/03.webp",
+        "assets/products/minkang/251100227/04.webp",
+        "assets/products/minkang/251100227/05.webp",
+        "assets/products/minkang/251100227/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/c5a6f8fb30/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/251100227/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:53:37.948Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:36:19.523Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -470162,7 +470339,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽🌍 National Teams",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Spain",
@@ -470173,16 +470350,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/251100383/01.webp"
+        "assets/products/minkang/251100383/01.webp",
+        "assets/products/minkang/251100383/02.webp",
+        "assets/products/minkang/251100383/03.webp",
+        "assets/products/minkang/251100383/04.webp",
+        "assets/products/minkang/251100383/05.webp",
+        "assets/products/minkang/251100383/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/faba5d7efc/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/251100383/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:53:39.339Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:36:12.066Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -470194,7 +470376,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽🌍 National Teams",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Spain",
@@ -470205,16 +470387,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/251100154/01.webp"
+        "assets/products/minkang/251100154/01.webp",
+        "assets/products/minkang/251100154/02.webp",
+        "assets/products/minkang/251100154/03.webp",
+        "assets/products/minkang/251100154/04.webp",
+        "assets/products/minkang/251100154/05.webp",
+        "assets/products/minkang/251100154/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/3e24a19ff1/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/251100154/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:53:37.726Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:36:22.478Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -470226,7 +470413,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽🌍 National Teams",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Spain",
@@ -470237,16 +470424,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/251100296/01.webp"
+        "assets/products/minkang/251100296/01.webp",
+        "assets/products/minkang/251100296/02.webp",
+        "assets/products/minkang/251100296/03.webp",
+        "assets/products/minkang/251100296/04.webp",
+        "assets/products/minkang/251100296/05.webp",
+        "assets/products/minkang/251100296/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/a6996e514a/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/251100296/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:53:39.161Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:36:15.634Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -477047,13 +477239,18 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/252353910/01.webp"
+        "assets/products/minkang/252353910/01.webp",
+        "assets/products/minkang/252353910/02.webp",
+        "assets/products/minkang/252353910/03.webp",
+        "assets/products/minkang/252353910/04.webp",
+        "assets/products/minkang/252353910/05.webp",
+        "assets/products/minkang/252353910/06.webp"
       ],
       "coverUrl": "assets/products/minkang/252353910/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:55:40.632Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:36:06.360Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -477065,7 +477262,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Spain",
@@ -477077,15 +477274,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/251868489/01.webp"
+        "assets/products/minkang/251868489/01.webp",
+        "assets/products/minkang/251868489/02.webp",
+        "assets/products/minkang/251868489/03.webp",
+        "assets/products/minkang/251868489/04.webp",
+        "assets/products/minkang/251868489/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/6893564337/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/251868489/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:54:30.735Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:35:39.810Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -477668,7 +477869,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽🌍 National Teams",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Spain",
@@ -477680,15 +477881,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/252315472/01.webp"
+        "assets/products/minkang/252315472/01.webp",
+        "assets/products/minkang/252315472/02.webp",
+        "assets/products/minkang/252315472/03.webp",
+        "assets/products/minkang/252315472/04.webp",
+        "assets/products/minkang/252315472/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/2d64de9b02/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/252315472/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:55:18.810Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:35:58.752Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -477712,15 +477917,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/252315488/01.webp"
+        "assets/products/minkang/252315488/01.webp",
+        "assets/products/minkang/252315488/02.webp",
+        "assets/products/minkang/252315488/03.webp",
+        "assets/products/minkang/252315488/04.webp",
+        "assets/products/minkang/252315488/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/d550a00e83/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/252315488/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:55:20.109Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:35:58.503Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -477732,7 +477941,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽🌍 National Teams",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Spain",
@@ -477744,15 +477953,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/252958202/01.webp"
+        "assets/products/minkang/252958202/01.webp",
+        "assets/products/minkang/252958202/02.webp",
+        "assets/products/minkang/252958202/03.webp",
+        "assets/products/minkang/252958202/04.webp",
+        "assets/products/minkang/252958202/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/f69100ed8d/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/252958202/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:55:57.811Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:35:24.703Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -478826,15 +479039,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/252315518/01.webp"
+        "assets/products/minkang/252315518/01.webp",
+        "assets/products/minkang/252315518/02.webp",
+        "assets/products/minkang/252315518/03.webp",
+        "assets/products/minkang/252315518/04.webp",
+        "assets/products/minkang/252315518/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/4b10982e8d/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/252315518/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:55:20.187Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:36:03.512Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -483849,7 +484066,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽🌍 National Teams",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Uruguay",
@@ -483861,15 +484078,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/251867337/01.webp"
+        "assets/products/minkang/251867337/01.webp",
+        "assets/products/minkang/251867337/02.webp",
+        "assets/products/minkang/251867337/03.webp",
+        "assets/products/minkang/251867337/04.webp",
+        "assets/products/minkang/251867337/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/c935b7f6db/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/251867337/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:54:11.516Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:35:34.903Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -483881,7 +484102,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽🌍 National Teams",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Uruguay",
@@ -483893,15 +484114,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/251867344/01.webp"
+        "assets/products/minkang/251867344/01.webp",
+        "assets/products/minkang/251867344/02.webp",
+        "assets/products/minkang/251867344/03.webp",
+        "assets/products/minkang/251867344/04.webp",
+        "assets/products/minkang/251867344/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/2d1707cf0b/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/251867344/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:54:13.278Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:35:34.277Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -483913,7 +484138,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽🌍 National Teams",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Uruguay",
@@ -483925,15 +484150,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/251867357/01.webp"
+        "assets/products/minkang/251867357/01.webp",
+        "assets/products/minkang/251867357/02.webp",
+        "assets/products/minkang/251867357/03.webp",
+        "assets/products/minkang/251867357/04.webp",
+        "assets/products/minkang/251867357/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/30d8ec8cd0/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/251867357/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:54:12.827Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:35:29.832Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -483945,7 +484174,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽🌍 National Teams",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Uruguay",
@@ -483957,15 +484186,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/251867370/01.webp"
+        "assets/products/minkang/251867370/01.webp",
+        "assets/products/minkang/251867370/02.webp",
+        "assets/products/minkang/251867370/03.webp",
+        "assets/products/minkang/251867370/04.webp",
+        "assets/products/minkang/251867370/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/6eb6e7bd94/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/251867370/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:54:14.056Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:35:29.794Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -487284,7 +487517,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽🌍 National Teams",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "USA",
@@ -487296,15 +487529,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/247186455/01.webp"
+        "assets/products/minkang/247186455/01.webp",
+        "assets/products/minkang/247186455/02.webp",
+        "assets/products/minkang/247186455/03.webp",
+        "assets/products/minkang/247186455/04.webp",
+        "assets/products/minkang/247186455/05.webp",
+        "assets/products/minkang/247186455/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/49295003bd/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/247186455/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:52:46.430Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:37:04.584Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -487316,7 +487554,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽🌍 National Teams",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "USA",
@@ -487328,15 +487566,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/246278714/01.webp"
+        "assets/products/minkang/246278714/01.webp",
+        "assets/products/minkang/246278714/02.webp",
+        "assets/products/minkang/246278714/03.webp",
+        "assets/products/minkang/246278714/04.webp",
+        "assets/products/minkang/246278714/05.webp",
+        "assets/products/minkang/246278714/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/41ddaaffe1/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/246278714/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:52:17.114Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:37:37.223Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -487348,7 +487591,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽🌍 National Teams",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "USA",
@@ -487360,15 +487603,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/247186584/01.webp"
+        "assets/products/minkang/247186584/01.webp",
+        "assets/products/minkang/247186584/02.webp",
+        "assets/products/minkang/247186584/03.webp",
+        "assets/products/minkang/247186584/04.webp",
+        "assets/products/minkang/247186584/05.webp",
+        "assets/products/minkang/247186584/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/5d8d4116e7/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/247186584/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:52:47.442Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:37:00.809Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -487380,7 +487628,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽🌍 National Teams",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "USA",
@@ -487392,15 +487640,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/246278741/01.webp"
+        "assets/products/minkang/246278741/01.webp",
+        "assets/products/minkang/246278741/02.webp",
+        "assets/products/minkang/246278741/03.webp",
+        "assets/products/minkang/246278741/04.webp",
+        "assets/products/minkang/246278741/05.webp",
+        "assets/products/minkang/246278741/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/f140cb47a3/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/246278741/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:52:18.123Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:37:38.770Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -621438,10 +621691,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽🌍 National Teams",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "⚽🌍 National Teams",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -621450,15 +621703,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/247186301/01.webp"
+        "assets/products/minkang/247186301/01.webp",
+        "assets/products/minkang/247186301/02.webp",
+        "assets/products/minkang/247186301/03.webp",
+        "assets/products/minkang/247186301/04.webp",
+        "assets/products/minkang/247186301/05.webp",
+        "assets/products/minkang/247186301/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/5c72f0ec78/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/247186301/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:52:46.188Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:37:14.027Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -621470,10 +621728,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽🌍 National Teams",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "⚽🌍 National Teams",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -621482,15 +621740,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/256508818/01.webp"
+        "assets/products/minkang/256508818/01.webp",
+        "assets/products/minkang/256508818/02.webp",
+        "assets/products/minkang/256508818/03.webp",
+        "assets/products/minkang/256508818/04.webp",
+        "assets/products/minkang/256508818/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/636fd1ee11/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/256508818/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:01:50.111Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:35:07.649Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -621676,10 +621938,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽🌍 National Teams",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "⚽🌍 National Teams",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -621688,15 +621950,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/247185848/01.webp"
+        "assets/products/minkang/247185848/01.webp",
+        "assets/products/minkang/247185848/02.webp",
+        "assets/products/minkang/247185848/03.webp",
+        "assets/products/minkang/247185848/04.webp",
+        "assets/products/minkang/247185848/05.webp",
+        "assets/products/minkang/247185848/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/eef640e9f6/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/247185848/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:52:43.756Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:37:27.337Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -624358,10 +624625,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽Long sleeve shirt",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "⚽Long sleeve shirt",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -624370,15 +624637,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/256508806/01.webp"
+        "assets/products/minkang/256508806/01.webp",
+        "assets/products/minkang/256508806/02.webp",
+        "assets/products/minkang/256508806/03.webp",
+        "assets/products/minkang/256508806/04.webp",
+        "assets/products/minkang/256508806/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/fbf8cd450d/medium.jpeg"
       ],
       "coverUrl": "assets/products/minkang/256508806/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:01:49.874Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:35:11.867Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -695352,10 +695623,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "LIGA MX",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "LIGA MX",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -695364,15 +695635,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/257731000/01.webp"
+        "assets/products/minkang/257731000/01.webp",
+        "assets/products/minkang/257731000/02.webp",
+        "assets/products/minkang/257731000/03.webp",
+        "assets/products/minkang/257731000/04.webp",
+        "assets/products/minkang/257731000/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/1568e161cb/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/257731000/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:04:33.486Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:38:00.322Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -695512,10 +695787,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "LIGA MX",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "LIGA MX",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -695524,15 +695799,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/257730945/01.webp"
+        "assets/products/minkang/257730945/01.webp",
+        "assets/products/minkang/257730945/02.webp",
+        "assets/products/minkang/257730945/03.webp",
+        "assets/products/minkang/257730945/04.webp",
+        "assets/products/minkang/257730945/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/85bb79b0e6/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/257730945/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:04:32.175Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:38:06.531Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -695836,10 +696115,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "LIGA MX",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "LIGA MX",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -695848,15 +696127,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/257731058/01.webp"
+        "assets/products/minkang/257731058/01.webp",
+        "assets/products/minkang/257731058/02.webp",
+        "assets/products/minkang/257731058/03.webp",
+        "assets/products/minkang/257731058/04.webp",
+        "assets/products/minkang/257731058/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/ead689e2ad/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/257731058/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:04:34.570Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:38:11.595Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -695972,10 +696255,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "LIGA MX",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "LIGA MX",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -695984,15 +696267,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/257731098/01.webp"
+        "assets/products/minkang/257731098/01.webp",
+        "assets/products/minkang/257731098/02.webp",
+        "assets/products/minkang/257731098/03.webp",
+        "assets/products/minkang/257731098/04.webp",
+        "assets/products/minkang/257731098/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/21035657b9/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/257731098/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:04:35.295Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:38:06.491Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -765392,15 +765679,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/257540484/01.webp"
+        "assets/products/minkang/257540484/01.webp",
+        "assets/products/minkang/257540484/02.webp",
+        "assets/products/minkang/257540484/03.webp",
+        "assets/products/minkang/257540484/04.webp",
+        "assets/products/minkang/257540484/05.webp",
+        "assets/products/minkang/257540484/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/4e65c8c372/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/257540484/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:03:08.752Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:38:17.602Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -874262,10 +874554,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Worldwide Other League",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Worldwide Other League",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -874274,15 +874566,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/257639186/01.webp"
+        "assets/products/minkang/257639186/01.webp",
+        "assets/products/minkang/257639186/02.webp",
+        "assets/products/minkang/257639186/03.webp",
+        "assets/products/minkang/257639186/04.webp",
+        "assets/products/minkang/257639186/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/7ec8126fb3/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/257639186/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:03:46.904Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:37:53.853Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -894747,7 +895043,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "💨🧥Windbreaker/Training Top",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
       "category": "Clubteams",
       "subcategory": "Eredivisie",
@@ -894758,23 +895054,28 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/minkang/247787987/01.webp"
+        "assets/products/minkang/247787987/01.webp",
+        "assets/products/minkang/247787987/02.webp",
+        "assets/products/minkang/247787987/03.webp",
+        "assets/products/minkang/247787987/04.webp",
+        "assets/products/minkang/247787987/05.webp",
+        "assets/products/minkang/247787987/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/ef28d795f5/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/247787987/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:53:00.034Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:36:47.572Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "minkang:247787823",
       "source": "minkang",
       "sourceId": "247787823",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/247787823",
-      "sourceCategory": "💨🧥Windbreaker/Training Top",
+      "sourceCategory": "more",
       "title": "Brazil Sportswear Jacket Coat Windbreaker S-XXL8",
       "section": "Trainingskleding",
       "category": "Clubteams",
@@ -894787,13 +895088,18 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/minkang/247787823/01.webp"
+        "assets/products/minkang/247787823/01.webp",
+        "assets/products/minkang/247787823/02.webp",
+        "assets/products/minkang/247787823/03.webp",
+        "assets/products/minkang/247787823/04.webp",
+        "assets/products/minkang/247787823/05.webp",
+        "assets/products/minkang/247787823/06.webp"
       ],
       "coverUrl": "assets/products/minkang/247787823/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:52:58.962Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:36:47.507Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "dongshanstore:239886748",
@@ -967875,8 +968181,8 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "💨🧥Windbreaker/Training Top",
-      "section": "Trainingskleding",
+      "sourceCategory": "more",
+      "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Argentina",
       "country": "Argentina",
@@ -967884,18 +968190,22 @@
       "club": "Argentina",
       "season": "Seizoen onbekend",
       "types": [
-        "Trainingskleding"
+        "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/256687738/01.webp"
+        "assets/products/minkang/256687738/01.webp",
+        "assets/products/minkang/256687738/02.webp",
+        "assets/products/minkang/256687738/03.webp",
+        "assets/products/minkang/256687738/04.webp",
+        "assets/products/minkang/256687738/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/ca1a101d98/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/256687738/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:02:08.485Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:34:37.384Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -984209,7 +984519,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "💨🧥Windbreaker/Training Top",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
       "category": "Landenteams",
       "subcategory": "Mexico",
@@ -984221,15 +984531,20 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/minkang/247787092/01.webp"
+        "assets/products/minkang/247787092/01.webp",
+        "assets/products/minkang/247787092/02.webp",
+        "assets/products/minkang/247787092/03.webp",
+        "assets/products/minkang/247787092/04.webp",
+        "assets/products/minkang/247787092/05.webp",
+        "assets/products/minkang/247787092/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/ec6a4fd074/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/247787092/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:52:53.684Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:36:54.104Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -984523,7 +984838,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "💨🧥Windbreaker/Training Top",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
       "category": "Landenteams",
       "subcategory": "Netherlands",
@@ -984534,16 +984849,21 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/minkang/247788046/01.webp"
+        "assets/products/minkang/247788046/01.webp",
+        "assets/products/minkang/247788046/02.webp",
+        "assets/products/minkang/247788046/03.webp",
+        "assets/products/minkang/247788046/04.webp",
+        "assets/products/minkang/247788046/05.webp",
+        "assets/products/minkang/247788046/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/26a6891511/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/247788046/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:53:01.384Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:36:41.430Z",
       "season": "2010-2011",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -987997,7 +988317,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "💨🧥Windbreaker/Training Top",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
       "category": "Landenteams",
       "subcategory": "Portugal",
@@ -988009,15 +988329,20 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/minkang/247787336/01.webp"
+        "assets/products/minkang/247787336/01.webp",
+        "assets/products/minkang/247787336/02.webp",
+        "assets/products/minkang/247787336/03.webp",
+        "assets/products/minkang/247787336/04.webp",
+        "assets/products/minkang/247787336/05.webp",
+        "assets/products/minkang/247787336/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/72ea6d7afd/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/247787336/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:52:56.056Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:36:55.335Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -988309,8 +988634,8 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "💨🧥Windbreaker/Training Top",
-      "section": "Trainingskleding",
+      "sourceCategory": "more",
+      "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Senegal",
       "country": "Senegal",
@@ -988318,18 +988643,20 @@
       "club": "Senegal",
       "season": "Seizoen onbekend",
       "types": [
-        "Trainingskleding"
+        "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/256661373/01.webp"
+        "assets/products/minkang/256661373/01.webp",
+        "assets/products/minkang/256661373/02.webp",
+        "assets/products/minkang/256661373/03.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/e1c7757dab/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/256661373/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:02:07.129Z",
-      "classificationVersion": 1
+      "imageCount": 3,
+      "updatedAt": "2026-10-30T00:34:39.836Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -988341,8 +988668,8 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "💨🧥Windbreaker/Training Top",
-      "section": "Trainingskleding",
+      "sourceCategory": "more",
+      "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Senegal",
       "country": "Senegal",
@@ -988350,18 +988677,20 @@
       "club": "Senegal",
       "season": "Seizoen onbekend",
       "types": [
-        "Trainingskleding"
+        "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/256661401/01.webp"
+        "assets/products/minkang/256661401/01.webp",
+        "assets/products/minkang/256661401/02.webp",
+        "assets/products/minkang/256661401/03.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/0fbe3d958a/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/256661401/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:02:08.283Z",
-      "classificationVersion": 1
+      "imageCount": 3,
+      "updatedAt": "2026-10-30T00:34:35.124Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
