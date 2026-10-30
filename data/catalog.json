@@ -1,5 +1,5 @@
 {
-  "lastSync": "2026-10-30T00:48:39.661Z",
+  "lastSync": "2026-10-30T00:52:25.383Z",
   "status": "running",
   "currentSource": "minkang",
   "products": [
@@ -303952,7 +303952,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Scottish League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -303964,15 +303964,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/255633750/01.webp"
+        "assets/products/minkang/255633750/01.webp",
+        "assets/products/minkang/255633750/02.webp",
+        "assets/products/minkang/255633750/03.webp",
+        "assets/products/minkang/255633750/04.webp",
+        "assets/products/minkang/255633750/05.webp",
+        "assets/products/minkang/255633750/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/0accc4754e/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/255633750/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:59:26.741Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:49:11.674Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -303984,7 +303989,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Scottish League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -303996,22 +304001,26 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/255633813/01.webp"
+        "assets/products/minkang/255633813/01.webp",
+        "assets/products/minkang/255633813/02.webp",
+        "assets/products/minkang/255633813/03.webp",
+        "assets/products/minkang/255633813/04.webp",
+        "assets/products/minkang/255633813/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/1da5ef1273/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/255633813/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:59:27.775Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:49:05.921Z",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "minkang:255633778",
       "source": "minkang",
       "sourceId": "255633778",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/255633778",
-      "sourceCategory": "Scottish League",
+      "sourceCategory": "more",
       "title": "Celtic 87/88 Home Retro Jersey S-XXL2",
       "section": "Voetbal",
       "category": "Clubteams",
@@ -304024,13 +304033,17 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/255633778/01.webp"
+        "assets/products/minkang/255633778/01.webp",
+        "assets/products/minkang/255633778/02.webp",
+        "assets/products/minkang/255633778/03.webp",
+        "assets/products/minkang/255633778/04.webp",
+        "assets/products/minkang/255633778/05.webp"
       ],
       "coverUrl": "assets/products/minkang/255633778/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:59:26.656Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:49:08.098Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -304324,7 +304337,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Scottish League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -304336,15 +304349,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/255633831/01.webp"
+        "assets/products/minkang/255633831/01.webp",
+        "assets/products/minkang/255633831/02.webp",
+        "assets/products/minkang/255633831/03.webp",
+        "assets/products/minkang/255633831/04.webp",
+        "assets/products/minkang/255633831/05.webp",
+        "assets/products/minkang/255633831/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/a62e959b74/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/255633831/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:59:27.807Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:49:03.558Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -304419,7 +304437,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Scottish League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -304430,16 +304448,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/214131638/01.webp"
+        "assets/products/minkang/214131638/01.webp",
+        "assets/products/minkang/214131638/02.webp",
+        "assets/products/minkang/214131638/03.webp",
+        "assets/products/minkang/214131638/04.webp",
+        "assets/products/minkang/214131638/05.webp",
+        "assets/products/minkang/214131638/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/45f37b09/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/214131638/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:44:00.724Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:52:25.383Z",
       "season": "1992-1993",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -304971,7 +304994,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Scottish League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -304983,15 +305006,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/255633211/01.webp"
+        "assets/products/minkang/255633211/01.webp",
+        "assets/products/minkang/255633211/02.webp",
+        "assets/products/minkang/255633211/03.webp",
+        "assets/products/minkang/255633211/04.webp",
+        "assets/products/minkang/255633211/05.webp",
+        "assets/products/minkang/255633211/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/208e1cad76/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/255633211/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:59:21.716Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:50:07.752Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -305035,7 +305063,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Scottish League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -305047,15 +305075,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/255633247/01.webp"
+        "assets/products/minkang/255633247/01.webp",
+        "assets/products/minkang/255633247/02.webp",
+        "assets/products/minkang/255633247/03.webp",
+        "assets/products/minkang/255633247/04.webp",
+        "assets/products/minkang/255633247/05.webp",
+        "assets/products/minkang/255633247/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/a01193534e/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/255633247/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:59:21.581Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:50:02.271Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -305131,7 +305164,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Scottish League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -305143,15 +305176,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/255633277/01.webp"
+        "assets/products/minkang/255633277/01.webp",
+        "assets/products/minkang/255633277/02.webp",
+        "assets/products/minkang/255633277/03.webp",
+        "assets/products/minkang/255633277/04.webp",
+        "assets/products/minkang/255633277/05.webp",
+        "assets/products/minkang/255633277/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/fb7788f24f/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/255633277/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:59:22.740Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:50:02.353Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -305195,7 +305233,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Scottish League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -305207,15 +305245,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/255633412/01.webp"
+        "assets/products/minkang/255633412/01.webp",
+        "assets/products/minkang/255633412/02.webp",
+        "assets/products/minkang/255633412/03.webp",
+        "assets/products/minkang/255633412/04.webp",
+        "assets/products/minkang/255633412/05.webp",
+        "assets/products/minkang/255633412/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/98e2472b2c/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/255633412/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:59:22.966Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:49:23.190Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -305322,7 +305365,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Scottish League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -305334,15 +305377,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/255633485/01.webp"
+        "assets/products/minkang/255633485/01.webp",
+        "assets/products/minkang/255633485/02.webp",
+        "assets/products/minkang/255633485/03.webp",
+        "assets/products/minkang/255633485/04.webp",
+        "assets/products/minkang/255633485/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/bda71a023f/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/255633485/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:59:24.016Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:49:22.187Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -305386,7 +305433,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Scottish League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -305398,15 +305445,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/255633581/01.webp"
+        "assets/products/minkang/255633581/01.webp",
+        "assets/products/minkang/255633581/02.webp",
+        "assets/products/minkang/255633581/03.webp",
+        "assets/products/minkang/255633581/04.webp",
+        "assets/products/minkang/255633581/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/fa33bd65a5/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/255633581/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:59:24.213Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:49:18.873Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -307835,7 +307886,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Scottish League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -307847,15 +307898,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/255633599/01.webp"
+        "assets/products/minkang/255633599/01.webp",
+        "assets/products/minkang/255633599/02.webp",
+        "assets/products/minkang/255633599/03.webp",
+        "assets/products/minkang/255633599/04.webp",
+        "assets/products/minkang/255633599/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/ce7e820611/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/255633599/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:59:25.483Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:49:13.898Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -307867,7 +307922,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Scottish League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -307879,27 +307934,32 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/244522042/01.webp"
+        "assets/products/minkang/244522042/01.webp",
+        "assets/products/minkang/244522042/02.webp",
+        "assets/products/minkang/244522042/03.webp",
+        "assets/products/minkang/244522042/04.webp",
+        "assets/products/minkang/244522042/05.webp",
+        "assets/products/minkang/244522042/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/43c24064bb/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/244522042/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:51:15.948Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:51:08.516Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
       "sourcePriority": 1,
       "sourceId": "245426128",
       "uniqueKey": "minkang:245426128",
-      "title": "Celtic 26/27 Home Kids Kit Jersey Size 16-2810",
+      "title": "Celtic 26/27 Home Kids Kit Jersey Size：16-2810",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/245426128",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Scottish League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -307911,15 +307971,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/245426128/01.webp"
+        "assets/products/minkang/245426128/01.webp",
+        "assets/products/minkang/245426128/02.webp",
+        "assets/products/minkang/245426128/03.webp",
+        "assets/products/minkang/245426128/04.webp",
+        "assets/products/minkang/245426128/05.webp",
+        "assets/products/minkang/245426128/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/f6a31ba440/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/245426128/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:51:48.644Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:50:51.074Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -307931,7 +307996,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Scottish League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -307943,15 +308008,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/251103228/01.webp"
+        "assets/products/minkang/251103228/01.webp",
+        "assets/products/minkang/251103228/02.webp",
+        "assets/products/minkang/251103228/03.webp",
+        "assets/products/minkang/251103228/04.webp",
+        "assets/products/minkang/251103228/05.webp",
+        "assets/products/minkang/251103228/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/07265795b7/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/251103228/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:53:46.239Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:50:29.156Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -307999,7 +308069,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Scottish League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -308011,15 +308081,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/244865712/01.webp"
+        "assets/products/minkang/244865712/01.webp",
+        "assets/products/minkang/244865712/02.webp",
+        "assets/products/minkang/244865712/03.webp",
+        "assets/products/minkang/244865712/04.webp",
+        "assets/products/minkang/244865712/05.webp",
+        "assets/products/minkang/244865712/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/5458d0c033/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/244865712/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:51:28.950Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:50:59.732Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -308031,7 +308106,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Scottish League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -308043,15 +308118,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/255633636/01.webp"
+        "assets/products/minkang/255633636/01.webp",
+        "assets/products/minkang/255633636/02.webp",
+        "assets/products/minkang/255633636/03.webp",
+        "assets/products/minkang/255633636/04.webp",
+        "assets/products/minkang/255633636/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/e144b8d25b/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/255633636/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:59:25.509Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:49:17.069Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -308063,7 +308142,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Scottish League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -308075,15 +308154,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/253283961/01.webp"
+        "assets/products/minkang/253283961/01.webp",
+        "assets/products/minkang/253283961/02.webp",
+        "assets/products/minkang/253283961/03.webp",
+        "assets/products/minkang/253283961/04.webp",
+        "assets/products/minkang/253283961/05.webp",
+        "assets/products/minkang/253283961/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/5a50f89ec0/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/253283961/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:56:07.396Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:50:21.225Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -308095,7 +308179,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Scottish League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -308107,15 +308191,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/229931863/01.webp"
+        "assets/products/minkang/229931863/01.webp",
+        "assets/products/minkang/229931863/02.webp",
+        "assets/products/minkang/229931863/03.webp",
+        "assets/products/minkang/229931863/04.webp",
+        "assets/products/minkang/229931863/05.webp",
+        "assets/products/minkang/229931863/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/e31fcf79/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/229931863/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:47:59.760Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:51:17.587Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -308127,7 +308216,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Scottish League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -308139,15 +308228,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/229894004/01.webp"
+        "assets/products/minkang/229894004/01.webp",
+        "assets/products/minkang/229894004/02.webp",
+        "assets/products/minkang/229894004/03.webp",
+        "assets/products/minkang/229894004/04.webp",
+        "assets/products/minkang/229894004/05.webp",
+        "assets/products/minkang/229894004/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/2d4d9c04/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/229894004/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:47:52.260Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:51:24.601Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -308317,7 +308411,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Scottish League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -308329,15 +308423,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/252957624/01.webp"
+        "assets/products/minkang/252957624/01.webp",
+        "assets/products/minkang/252957624/02.webp",
+        "assets/products/minkang/252957624/03.webp",
+        "assets/products/minkang/252957624/04.webp",
+        "assets/products/minkang/252957624/05.webp",
+        "assets/products/minkang/252957624/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/10ef887ff1/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/252957624/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:55:45.687Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:50:08.089Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -308349,7 +308448,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Shorts",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -308361,15 +308460,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/236110269/01.webp"
+        "assets/products/minkang/236110269/01.webp",
+        "assets/products/minkang/236110269/02.webp",
+        "assets/products/minkang/236110269/03.webp",
+        "assets/products/minkang/236110269/04.webp",
+        "assets/products/minkang/236110269/05.webp",
+        "assets/products/minkang/236110269/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/2f9c41e310/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/236110269/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:49:07.990Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:51:19.502Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -308381,7 +308485,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Scottish League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -308393,15 +308497,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/237392233/01.webp"
+        "assets/products/minkang/237392233/01.webp",
+        "assets/products/minkang/237392233/02.webp",
+        "assets/products/minkang/237392233/03.webp",
+        "assets/products/minkang/237392233/04.webp",
+        "assets/products/minkang/237392233/05.webp",
+        "assets/products/minkang/237392233/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/8f85011cc9/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/237392233/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:49:40.909Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:51:11.465Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -308477,7 +308586,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Scottish League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -308489,15 +308598,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/227758347/01.webp"
+        "assets/products/minkang/227758347/01.webp",
+        "assets/products/minkang/227758347/02.webp",
+        "assets/products/minkang/227758347/03.webp",
+        "assets/products/minkang/227758347/04.webp",
+        "assets/products/minkang/227758347/05.webp",
+        "assets/products/minkang/227758347/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/3b1f88b0/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/227758347/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:47:37.066Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:51:27.653Z",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "yema007:237656147",
@@ -308764,7 +308878,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Scottish League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -308776,15 +308890,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/213862903/01.webp"
+        "assets/products/minkang/213862903/01.webp",
+        "assets/products/minkang/213862903/02.webp",
+        "assets/products/minkang/213862903/03.webp",
+        "assets/products/minkang/213862903/04.webp",
+        "assets/products/minkang/213862903/05.webp",
+        "assets/products/minkang/213862903/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/63d2397b/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/213862903/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:43:51.554Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:52:10.988Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -308892,7 +309011,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Scottish League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -308904,15 +309023,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/213861477/01.webp"
+        "assets/products/minkang/213861477/01.webp",
+        "assets/products/minkang/213861477/02.webp",
+        "assets/products/minkang/213861477/03.webp",
+        "assets/products/minkang/213861477/04.webp",
+        "assets/products/minkang/213861477/05.webp",
+        "assets/products/minkang/213861477/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/64b1a6fd/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/213861477/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:43:49.022Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:52:01.726Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -309188,7 +309312,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Scottish League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -309200,15 +309324,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/213862301/01.webp"
+        "assets/products/minkang/213862301/01.webp",
+        "assets/products/minkang/213862301/02.webp",
+        "assets/products/minkang/213862301/03.webp",
+        "assets/products/minkang/213862301/04.webp",
+        "assets/products/minkang/213862301/05.webp",
+        "assets/products/minkang/213862301/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/a8639100/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/213862301/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:43:50.119Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:52:00.241Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -309220,7 +309349,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Scottish League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -309232,15 +309361,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/213862769/01.webp"
+        "assets/products/minkang/213862769/01.webp",
+        "assets/products/minkang/213862769/02.webp",
+        "assets/products/minkang/213862769/03.webp",
+        "assets/products/minkang/213862769/04.webp",
+        "assets/products/minkang/213862769/05.webp",
+        "assets/products/minkang/213862769/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/d5f5f76f/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/213862769/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:43:51.201Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:52:12.440Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -310035,7 +310169,7 @@
       "categoryId": "724848",
       "collectionId": "724848",
       "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "Scottish League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -310047,15 +310181,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/216215328/01.webp"
+        "assets/products/minkang/216215328/01.webp",
+        "assets/products/minkang/216215328/02.webp",
+        "assets/products/minkang/216215328/03.webp",
+        "assets/products/minkang/216215328/04.webp",
+        "assets/products/minkang/216215328/05.webp",
+        "assets/products/minkang/216215328/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/b9ac8ef1/medium.jpeg"
       ],
       "coverUrl": "assets/products/minkang/216215328/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:44:41.252Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:51:36.619Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -310195,7 +310334,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Scottish League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -310207,15 +310346,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/213862262/01.webp"
+        "assets/products/minkang/213862262/01.webp",
+        "assets/products/minkang/213862262/02.webp",
+        "assets/products/minkang/213862262/03.webp",
+        "assets/products/minkang/213862262/04.webp",
+        "assets/products/minkang/213862262/05.webp",
+        "assets/products/minkang/213862262/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/5bb623f9/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/213862262/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:43:49.872Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:51:53.357Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -310227,7 +310371,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Scottish League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -310239,15 +310383,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/213863125/01.webp"
+        "assets/products/minkang/213863125/01.webp",
+        "assets/products/minkang/213863125/02.webp",
+        "assets/products/minkang/213863125/03.webp",
+        "assets/products/minkang/213863125/04.webp",
+        "assets/products/minkang/213863125/05.webp",
+        "assets/products/minkang/213863125/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/91aec0d9/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/213863125/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:43:52.808Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:52:06.026Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -310391,7 +310540,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Scottish League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -310403,15 +310552,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/213866522/01.webp"
+        "assets/products/minkang/213866522/01.webp",
+        "assets/products/minkang/213866522/02.webp",
+        "assets/products/minkang/213866522/03.webp",
+        "assets/products/minkang/213866522/04.webp",
+        "assets/products/minkang/213866522/05.webp",
+        "assets/products/minkang/213866522/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/464ad226/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/213866522/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:43:56.703Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:52:05.649Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -311224,7 +311378,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Scottish League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -311236,15 +311390,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/213267408/01.webp"
+        "assets/products/minkang/213267408/01.webp",
+        "assets/products/minkang/213267408/02.webp",
+        "assets/products/minkang/213267408/03.webp",
+        "assets/products/minkang/213267408/04.webp",
+        "assets/products/minkang/213267408/05.webp",
+        "assets/products/minkang/213267408/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/12174af8/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/213267408/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:43:23.169Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:52:18.988Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -311256,7 +311415,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Scottish League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -311268,15 +311427,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/216215281/01.webp"
+        "assets/products/minkang/216215281/01.webp",
+        "assets/products/minkang/216215281/02.webp",
+        "assets/products/minkang/216215281/03.webp",
+        "assets/products/minkang/216215281/04.webp",
+        "assets/products/minkang/216215281/05.webp",
+        "assets/products/minkang/216215281/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/9ebebc9a/medium.jpeg"
       ],
       "coverUrl": "assets/products/minkang/216215281/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:44:39.755Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:51:45.861Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -311288,7 +311452,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Scottish League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -311300,15 +311464,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/216215310/01.webp"
+        "assets/products/minkang/216215310/01.webp",
+        "assets/products/minkang/216215310/02.webp",
+        "assets/products/minkang/216215310/03.webp",
+        "assets/products/minkang/216215310/04.webp",
+        "assets/products/minkang/216215310/05.webp",
+        "assets/products/minkang/216215310/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/efa7f8c6/medium.jpeg"
       ],
       "coverUrl": "assets/products/minkang/216215310/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:44:40.255Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:51:43.998Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -311320,7 +311489,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Scottish League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -311332,15 +311501,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/213268979/01.webp"
+        "assets/products/minkang/213268979/01.webp",
+        "assets/products/minkang/213268979/02.webp",
+        "assets/products/minkang/213268979/03.webp",
+        "assets/products/minkang/213268979/04.webp",
+        "assets/products/minkang/213268979/05.webp",
+        "assets/products/minkang/213268979/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/a11e117a/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/213268979/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:43:23.221Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:52:22.269Z",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "yema007:251707738",
@@ -312140,7 +312314,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Scottish League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -312152,15 +312326,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/245427692/01.webp"
+        "assets/products/minkang/245427692/01.webp",
+        "assets/products/minkang/245427692/02.webp",
+        "assets/products/minkang/245427692/03.webp",
+        "assets/products/minkang/245427692/04.webp",
+        "assets/products/minkang/245427692/05.webp",
+        "assets/products/minkang/245427692/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/cd76142b20/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/245427692/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:51:52.308Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:50:51.923Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -312172,7 +312351,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Scottish League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -312184,15 +312363,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/244623420/01.webp"
+        "assets/products/minkang/244623420/01.webp",
+        "assets/products/minkang/244623420/02.webp",
+        "assets/products/minkang/244623420/03.webp",
+        "assets/products/minkang/244623420/04.webp",
+        "assets/products/minkang/244623420/05.webp",
+        "assets/products/minkang/244623420/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/38959fbf93/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/244623420/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:51:19.725Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:51:00.798Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -312204,7 +312388,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Scottish League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -312216,15 +312400,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/253283155/01.webp"
+        "assets/products/minkang/253283155/01.webp",
+        "assets/products/minkang/253283155/02.webp",
+        "assets/products/minkang/253283155/03.webp",
+        "assets/products/minkang/253283155/04.webp",
+        "assets/products/minkang/253283155/05.webp",
+        "assets/products/minkang/253283155/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/ee8de9a4cb/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/253283155/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:56:05.179Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:50:21.720Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -312236,7 +312425,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Scottish League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -312248,15 +312437,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/249065323/01.webp"
+        "assets/products/minkang/249065323/01.webp",
+        "assets/products/minkang/249065323/02.webp",
+        "assets/products/minkang/249065323/03.webp",
+        "assets/products/minkang/249065323/04.webp",
+        "assets/products/minkang/249065323/05.webp",
+        "assets/products/minkang/249065323/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/af6465a89b/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/249065323/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:53:31.772Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:50:34.947Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -312268,7 +312462,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Scottish League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -312280,15 +312474,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/253817748/01.webp"
+        "assets/products/minkang/253817748/01.webp",
+        "assets/products/minkang/253817748/02.webp",
+        "assets/products/minkang/253817748/03.webp",
+        "assets/products/minkang/253817748/04.webp",
+        "assets/products/minkang/253817748/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/0e66aabe83/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/253817748/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:56:46.167Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:50:14.118Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -312364,7 +312562,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Scottish League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -312376,15 +312574,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/212234660/01.webp"
+        "assets/products/minkang/212234660/01.webp",
+        "assets/products/minkang/212234660/02.webp",
+        "assets/products/minkang/212234660/03.webp",
+        "assets/products/minkang/212234660/04.webp",
+        "assets/products/minkang/212234660/05.webp",
+        "assets/products/minkang/212234660/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/8fc07199/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/212234660/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:42:35.862Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:52:17.571Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -700464,10 +700667,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Liga Profesional",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Liga Profesional",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -700475,16 +700678,21 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/186059667/01.webp"
+        "assets/products/minkang/186059667/01.webp",
+        "assets/products/minkang/186059667/02.webp",
+        "assets/products/minkang/186059667/03.webp",
+        "assets/products/minkang/186059667/04.webp",
+        "assets/products/minkang/186059667/05.webp",
+        "assets/products/minkang/186059667/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/08388e40/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/186059667/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:41:31.746Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:48:58.490Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -700570,10 +700778,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Liga Profesional",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Liga Profesional",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -700581,16 +700789,21 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/189426056/01.webp"
+        "assets/products/minkang/189426056/01.webp",
+        "assets/products/minkang/189426056/02.webp",
+        "assets/products/minkang/189426056/03.webp",
+        "assets/products/minkang/189426056/04.webp",
+        "assets/products/minkang/189426056/05.webp",
+        "assets/products/minkang/189426056/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/c7db689e/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/189426056/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:41:45.625Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:48:49.929Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -700787,10 +701000,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Liga Profesional",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Liga Profesional",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -700798,16 +701011,21 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/189426041/01.webp"
+        "assets/products/minkang/189426041/01.webp",
+        "assets/products/minkang/189426041/02.webp",
+        "assets/products/minkang/189426041/03.webp",
+        "assets/products/minkang/189426041/04.webp",
+        "assets/products/minkang/189426041/05.webp",
+        "assets/products/minkang/189426041/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/b992c3aa/medium.jpeg"
       ],
       "coverUrl": "assets/products/minkang/189426041/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:41:44.457Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:48:50.245Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -700893,10 +701111,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Liga Profesional",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Liga Profesional",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -700904,16 +701122,21 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/189426027/01.webp"
+        "assets/products/minkang/189426027/01.webp",
+        "assets/products/minkang/189426027/02.webp",
+        "assets/products/minkang/189426027/03.webp",
+        "assets/products/minkang/189426027/04.webp",
+        "assets/products/minkang/189426027/05.webp",
+        "assets/products/minkang/189426027/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/1c7ce917/medium.jpeg"
       ],
       "coverUrl": "assets/products/minkang/189426027/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:41:44.632Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:49:01.639Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -829046,10 +829269,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Scottish League",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Scottish League",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -829058,15 +829281,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/213793653/01.webp"
+        "assets/products/minkang/213793653/01.webp",
+        "assets/products/minkang/213793653/02.webp",
+        "assets/products/minkang/213793653/03.webp",
+        "assets/products/minkang/213793653/04.webp",
+        "assets/products/minkang/213793653/05.webp",
+        "assets/products/minkang/213793653/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/9022a5fc/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/213793653/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:43:30.795Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:51:34.379Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -829078,10 +829306,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Scottish League",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Scottish League",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -829090,15 +829318,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/245838705/01.webp"
+        "assets/products/minkang/245838705/01.webp",
+        "assets/products/minkang/245838705/02.webp",
+        "assets/products/minkang/245838705/03.webp",
+        "assets/products/minkang/245838705/04.webp",
+        "assets/products/minkang/245838705/05.webp",
+        "assets/products/minkang/245838705/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/f164707e65/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/245838705/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:52:14.622Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:50:42.588Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -829110,10 +829343,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Scottish League",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Scottish League",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -829122,15 +829355,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/247186934/01.webp"
+        "assets/products/minkang/247186934/01.webp",
+        "assets/products/minkang/247186934/02.webp",
+        "assets/products/minkang/247186934/03.webp",
+        "assets/products/minkang/247186934/04.webp",
+        "assets/products/minkang/247186934/05.webp",
+        "assets/products/minkang/247186934/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/5cce54b5de/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/247186934/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:52:48.985Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T00:50:38.159Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -829142,10 +829380,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Scottish League",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Scottish League",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -829154,15 +829392,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/252347781/01.webp"
+        "assets/products/minkang/252347781/01.webp",
+        "assets/products/minkang/252347781/02.webp",
+        "assets/products/minkang/252347781/03.webp",
+        "assets/products/minkang/252347781/04.webp",
+        "assets/products/minkang/252347781/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/92059e9c2a/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/252347781/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:55:30.828Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T00:50:15.137Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
