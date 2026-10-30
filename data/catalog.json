@@ -1,5 +1,5 @@
 {
-  "lastSync": "2026-10-30T02:38:28.034Z",
+  "lastSync": "2026-10-30T02:43:30.197Z",
   "status": "running",
   "currentSource": "minkang",
   "products": [
@@ -59481,7 +59481,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Bundesliga",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Bundesliga",
@@ -59493,15 +59493,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/256508645/01.webp"
+        "assets/products/minkang/256508645/01.webp",
+        "assets/products/minkang/256508645/02.webp",
+        "assets/products/minkang/256508645/03.webp",
+        "assets/products/minkang/256508645/04.webp",
+        "assets/products/minkang/256508645/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/a6fbee31b3/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/256508645/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:01:46.190Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T02:43:24.924Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -66142,7 +66146,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Bundesliga",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Bundesliga",
@@ -66154,15 +66158,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/251869348/01.webp"
+        "assets/products/minkang/251869348/01.webp",
+        "assets/products/minkang/251869348/02.webp",
+        "assets/products/minkang/251869348/03.webp",
+        "assets/products/minkang/251869348/04.webp",
+        "assets/products/minkang/251869348/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/7234dd0328/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/251869348/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:54:39.661Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T02:39:33.376Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -82169,7 +82177,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Worldwide Other League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Eredivisie",
@@ -82181,15 +82189,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/226515216/01.webp"
+        "assets/products/minkang/226515216/01.webp",
+        "assets/products/minkang/226515216/02.webp",
+        "assets/products/minkang/226515216/03.webp",
+        "assets/products/minkang/226515216/04.webp",
+        "assets/products/minkang/226515216/05.webp",
+        "assets/products/minkang/226515216/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/0b7fcad5/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/226515216/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:47:15.577Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:38:36.188Z",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:233586025",
@@ -85132,7 +85145,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "LIGA MX",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Eredivisie",
@@ -85144,15 +85157,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/257731296/01.webp"
+        "assets/products/minkang/257731296/01.webp",
+        "assets/products/minkang/257731296/02.webp",
+        "assets/products/minkang/257731296/03.webp",
+        "assets/products/minkang/257731296/04.webp",
+        "assets/products/minkang/257731296/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/8efdee5428/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/257731296/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:04:37.748Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T02:39:03.137Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -85368,7 +85385,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "LIGA MX",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Eredivisie",
@@ -85380,15 +85397,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/257731482/01.webp"
+        "assets/products/minkang/257731482/01.webp",
+        "assets/products/minkang/257731482/02.webp",
+        "assets/products/minkang/257731482/03.webp",
+        "assets/products/minkang/257731482/04.webp",
+        "assets/products/minkang/257731482/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/b19a19d6c9/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/257731482/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:04:40.706Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T02:38:57.902Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -135938,7 +135959,7 @@
       "categoryId": null,
       "collectionId": "680717",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "La Liga",
@@ -135950,15 +135971,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/255031555/01.webp"
+        "assets/products/minkang/255031555/01.webp",
+        "assets/products/minkang/255031555/02.webp",
+        "assets/products/minkang/255031555/03.webp",
+        "assets/products/minkang/255031555/04.webp",
+        "assets/products/minkang/255031555/05.webp",
+        "assets/products/minkang/255031555/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/df9ba83d89/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/255031555/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:57:47.633Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:39:07.911Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -136599,7 +136625,7 @@
       "categoryId": null,
       "collectionId": "680717",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "La Liga",
@@ -136611,15 +136637,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/239479036/01.webp"
+        "assets/products/minkang/239479036/01.webp",
+        "assets/products/minkang/239479036/02.webp",
+        "assets/products/minkang/239479036/03.webp",
+        "assets/products/minkang/239479036/04.webp",
+        "assets/products/minkang/239479036/05.webp",
+        "assets/products/minkang/239479036/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/c5b20fb9b7/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/239479036/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:50:25.763Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:42:53.333Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -137316,7 +137347,7 @@
       "categoryId": null,
       "collectionId": "680717",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "La Liga",
@@ -137328,15 +137359,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/251869318/01.webp"
+        "assets/products/minkang/251869318/01.webp",
+        "assets/products/minkang/251869318/02.webp",
+        "assets/products/minkang/251869318/03.webp",
+        "assets/products/minkang/251869318/04.webp",
+        "assets/products/minkang/251869318/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/b56fa6d07b/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/251869318/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:54:39.570Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T02:39:31.682Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -178675,7 +178710,7 @@
       "categoryId": null,
       "collectionId": "680717",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "La Liga",
@@ -178687,15 +178722,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/251868440/01.webp"
+        "assets/products/minkang/251868440/01.webp",
+        "assets/products/minkang/251868440/02.webp",
+        "assets/products/minkang/251868440/03.webp",
+        "assets/products/minkang/251868440/04.webp",
+        "assets/products/minkang/251868440/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/bdba0c82d6/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/251868440/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:54:29.463Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T02:39:19.769Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -179520,7 +179559,7 @@
       "categoryId": null,
       "collectionId": "680717",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "La Liga",
@@ -179532,15 +179571,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/248188175/01.webp"
+        "assets/products/minkang/248188175/01.webp",
+        "assets/products/minkang/248188175/02.webp",
+        "assets/products/minkang/248188175/03.webp",
+        "assets/products/minkang/248188175/04.webp",
+        "assets/products/minkang/248188175/05.webp",
+        "assets/products/minkang/248188175/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/c34dccb013/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/248188175/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:53:12.768Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:40:14.539Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -179552,7 +179596,7 @@
       "categoryId": null,
       "collectionId": "680717",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "La Liga",
@@ -179564,15 +179608,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/248188006/01.webp"
+        "assets/products/minkang/248188006/01.webp",
+        "assets/products/minkang/248188006/02.webp",
+        "assets/products/minkang/248188006/03.webp",
+        "assets/products/minkang/248188006/04.webp",
+        "assets/products/minkang/248188006/05.webp",
+        "assets/products/minkang/248188006/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/8dfc9fc402/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/248188006/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:53:11.839Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:40:18.509Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -180311,7 +180360,7 @@
       "categoryId": null,
       "collectionId": "680717",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "La Liga",
@@ -180323,15 +180372,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/248187654/01.webp"
+        "assets/products/minkang/248187654/01.webp",
+        "assets/products/minkang/248187654/02.webp",
+        "assets/products/minkang/248187654/03.webp",
+        "assets/products/minkang/248187654/04.webp",
+        "assets/products/minkang/248187654/05.webp",
+        "assets/products/minkang/248187654/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/5393d1ff06/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/248187654/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:53:07.845Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:40:23.730Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -233488,7 +233542,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Premier League",
@@ -233500,15 +233554,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/239478138/01.webp"
+        "assets/products/minkang/239478138/01.webp",
+        "assets/products/minkang/239478138/02.webp",
+        "assets/products/minkang/239478138/03.webp",
+        "assets/products/minkang/239478138/04.webp",
+        "assets/products/minkang/239478138/05.webp",
+        "assets/products/minkang/239478138/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/aae6231f61/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/239478138/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:50:22.918Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:43:04.773Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -233758,7 +233817,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Premier League",
@@ -233770,15 +233829,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/248188332/01.webp"
+        "assets/products/minkang/248188332/01.webp",
+        "assets/products/minkang/248188332/02.webp",
+        "assets/products/minkang/248188332/03.webp",
+        "assets/products/minkang/248188332/04.webp",
+        "assets/products/minkang/248188332/05.webp",
+        "assets/products/minkang/248188332/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/3907e3f93e/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/248188332/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:53:14.469Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:40:27.451Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -234206,7 +234270,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Premier League",
@@ -234218,15 +234282,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/248188293/01.webp"
+        "assets/products/minkang/248188293/01.webp",
+        "assets/products/minkang/248188293/02.webp",
+        "assets/products/minkang/248188293/03.webp",
+        "assets/products/minkang/248188293/04.webp",
+        "assets/products/minkang/248188293/05.webp",
+        "assets/products/minkang/248188293/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/01db5acf03/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/248188293/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:53:14.189Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:40:33.717Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -234269,7 +234338,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Premier League",
@@ -234281,15 +234350,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/248187464/01.webp"
+        "assets/products/minkang/248187464/01.webp",
+        "assets/products/minkang/248187464/02.webp",
+        "assets/products/minkang/248187464/03.webp",
+        "assets/products/minkang/248187464/04.webp",
+        "assets/products/minkang/248187464/05.webp",
+        "assets/products/minkang/248187464/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/987a5a4181/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/248187464/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:53:06.948Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:40:42.481Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -248068,7 +248142,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Premier League",
@@ -248080,15 +248154,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/251869498/01.webp"
+        "assets/products/minkang/251869498/01.webp",
+        "assets/products/minkang/251869498/02.webp",
+        "assets/products/minkang/251869498/03.webp",
+        "assets/products/minkang/251869498/04.webp",
+        "assets/products/minkang/251869498/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/01e126bd2c/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/251869498/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:54:44.527Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T02:39:37.125Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -248271,7 +248349,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Premier League",
@@ -248283,15 +248361,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/248187735/01.webp"
+        "assets/products/minkang/248187735/01.webp",
+        "assets/products/minkang/248187735/02.webp",
+        "assets/products/minkang/248187735/03.webp",
+        "assets/products/minkang/248187735/04.webp",
+        "assets/products/minkang/248187735/05.webp",
+        "assets/products/minkang/248187735/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/9fb3c1fedc/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/248187735/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:53:08.702Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:39:52.617Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -264699,7 +264782,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Premier League",
@@ -264711,15 +264794,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/251868139/01.webp"
+        "assets/products/minkang/251868139/01.webp",
+        "assets/products/minkang/251868139/02.webp",
+        "assets/products/minkang/251868139/03.webp",
+        "assets/products/minkang/251868139/04.webp",
+        "assets/products/minkang/251868139/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/32a747c716/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/251868139/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:54:24.187Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T02:39:09.199Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -289251,7 +289338,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Premier League",
@@ -289263,15 +289350,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/248187890/01.webp"
+        "assets/products/minkang/248187890/01.webp",
+        "assets/products/minkang/248187890/02.webp",
+        "assets/products/minkang/248187890/03.webp",
+        "assets/products/minkang/248187890/04.webp",
+        "assets/products/minkang/248187890/05.webp",
+        "assets/products/minkang/248187890/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/1830c6d576/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/248187890/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:53:10.481Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:39:57.606Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -289345,7 +289437,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Premier League",
@@ -289357,15 +289449,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/248187521/01.webp"
+        "assets/products/minkang/248187521/01.webp",
+        "assets/products/minkang/248187521/02.webp",
+        "assets/products/minkang/248187521/03.webp",
+        "assets/products/minkang/248187521/04.webp",
+        "assets/products/minkang/248187521/05.webp",
+        "assets/products/minkang/248187521/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/1a47d855e2/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/248187521/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:53:07.439Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:40:05.173Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -367249,7 +367346,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Argentina",
@@ -367261,15 +367358,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/239477752/01.webp"
+        "assets/products/minkang/239477752/01.webp",
+        "assets/products/minkang/239477752/02.webp",
+        "assets/products/minkang/239477752/03.webp",
+        "assets/products/minkang/239477752/04.webp",
+        "assets/products/minkang/239477752/05.webp",
+        "assets/products/minkang/239477752/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/c6be01bea8/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/239477752/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:50:21.569Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:43:11.486Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -367889,7 +367991,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Argentina",
@@ -367901,15 +368003,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/239477848/01.webp"
+        "assets/products/minkang/239477848/01.webp",
+        "assets/products/minkang/239477848/02.webp",
+        "assets/products/minkang/239477848/03.webp",
+        "assets/products/minkang/239477848/04.webp",
+        "assets/products/minkang/239477848/05.webp",
+        "assets/products/minkang/239477848/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/94ed058b13/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/239477848/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:50:21.615Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:43:10.037Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -388768,7 +388875,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Colombia",
@@ -388780,15 +388887,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/239480054/01.webp"
+        "assets/products/minkang/239480054/01.webp",
+        "assets/products/minkang/239480054/02.webp",
+        "assets/products/minkang/239480054/03.webp",
+        "assets/products/minkang/239480054/04.webp",
+        "assets/products/minkang/239480054/05.webp",
+        "assets/products/minkang/239480054/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/cd8428e038/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/239480054/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:50:28.095Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:42:55.962Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -399461,7 +399573,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "England",
@@ -399473,15 +399585,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/239480408/01.webp"
+        "assets/products/minkang/239480408/01.webp",
+        "assets/products/minkang/239480408/02.webp",
+        "assets/products/minkang/239480408/03.webp",
+        "assets/products/minkang/239480408/04.webp",
+        "assets/products/minkang/239480408/05.webp",
+        "assets/products/minkang/239480408/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/f403924c76/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/239480408/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:50:29.400Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:42:47.390Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -399493,7 +399610,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "England",
@@ -399505,15 +399622,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/239480546/01.webp"
+        "assets/products/minkang/239480546/01.webp",
+        "assets/products/minkang/239480546/02.webp",
+        "assets/products/minkang/239480546/03.webp",
+        "assets/products/minkang/239480546/04.webp",
+        "assets/products/minkang/239480546/05.webp",
+        "assets/products/minkang/239480546/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/21f3aa4422/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/239480546/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:50:30.461Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:42:45.979Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -406063,7 +406185,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "France",
@@ -406075,15 +406197,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/239480757/01.webp"
+        "assets/products/minkang/239480757/01.webp",
+        "assets/products/minkang/239480757/02.webp",
+        "assets/products/minkang/239480757/03.webp",
+        "assets/products/minkang/239480757/04.webp",
+        "assets/products/minkang/239480757/05.webp",
+        "assets/products/minkang/239480757/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/59642f4ff3/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/239480757/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:50:31.853Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:42:38.686Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -406095,7 +406222,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "France",
@@ -406107,15 +406234,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/239480793/01.webp"
+        "assets/products/minkang/239480793/01.webp",
+        "assets/products/minkang/239480793/02.webp",
+        "assets/products/minkang/239480793/03.webp",
+        "assets/products/minkang/239480793/04.webp",
+        "assets/products/minkang/239480793/05.webp",
+        "assets/products/minkang/239480793/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/ed7f5dcd47/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/239480793/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:50:31.841Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:42:40.417Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -418690,7 +418822,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Germany",
@@ -418702,15 +418834,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/239061174/01.webp"
+        "assets/products/minkang/239061174/01.webp",
+        "assets/products/minkang/239061174/02.webp",
+        "assets/products/minkang/239061174/03.webp",
+        "assets/products/minkang/239061174/04.webp",
+        "assets/products/minkang/239061174/05.webp",
+        "assets/products/minkang/239061174/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/c0db38b7c8/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/239061174/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:50:12.961Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:43:23.677Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -438662,7 +438799,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Japan",
@@ -438674,15 +438811,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/239481050/01.webp"
+        "assets/products/minkang/239481050/01.webp",
+        "assets/products/minkang/239481050/02.webp",
+        "assets/products/minkang/239481050/03.webp",
+        "assets/products/minkang/239481050/04.webp",
+        "assets/products/minkang/239481050/05.webp",
+        "assets/products/minkang/239481050/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/f70286491b/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/239481050/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:50:32.967Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:42:28.240Z",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:244251830",
@@ -446595,7 +446737,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Mexico",
@@ -446607,15 +446749,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/239481891/01.webp"
+        "assets/products/minkang/239481891/01.webp",
+        "assets/products/minkang/239481891/02.webp",
+        "assets/products/minkang/239481891/03.webp",
+        "assets/products/minkang/239481891/04.webp",
+        "assets/products/minkang/239481891/05.webp",
+        "assets/products/minkang/239481891/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/5c3ad4a3a8/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/239481891/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:50:35.582Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:42:27.251Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -446737,7 +446884,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Mexico",
@@ -446749,15 +446896,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/239481961/01.webp"
+        "assets/products/minkang/239481961/01.webp",
+        "assets/products/minkang/239481961/02.webp",
+        "assets/products/minkang/239481961/03.webp",
+        "assets/products/minkang/239481961/04.webp",
+        "assets/products/minkang/239481961/05.webp",
+        "assets/products/minkang/239481961/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/9558190a74/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/239481961/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:50:35.602Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:42:19.934Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -446911,7 +447063,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Mexico",
@@ -446923,15 +447075,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/239482161/01.webp"
+        "assets/products/minkang/239482161/01.webp",
+        "assets/products/minkang/239482161/02.webp",
+        "assets/products/minkang/239482161/03.webp",
+        "assets/products/minkang/239482161/04.webp",
+        "assets/products/minkang/239482161/05.webp",
+        "assets/products/minkang/239482161/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/3bb71a6194/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/239482161/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:50:36.854Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:42:19.361Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -452880,7 +453037,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Netherlands",
@@ -452892,15 +453049,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/239482240/01.webp"
+        "assets/products/minkang/239482240/01.webp",
+        "assets/products/minkang/239482240/02.webp",
+        "assets/products/minkang/239482240/03.webp",
+        "assets/products/minkang/239482240/04.webp",
+        "assets/products/minkang/239482240/05.webp",
+        "assets/products/minkang/239482240/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/77e761986a/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/239482240/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:50:37.789Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:42:11.657Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -452949,7 +453111,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Netherlands",
@@ -452961,15 +453123,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/239482328/01.webp"
+        "assets/products/minkang/239482328/01.webp",
+        "assets/products/minkang/239482328/02.webp",
+        "assets/products/minkang/239482328/03.webp",
+        "assets/products/minkang/239482328/04.webp",
+        "assets/products/minkang/239482328/05.webp",
+        "assets/products/minkang/239482328/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/93eb5dec97/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/239482328/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:50:37.925Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:42:10.383Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -467345,7 +467512,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Portugal",
@@ -467357,15 +467524,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/239061373/01.webp"
+        "assets/products/minkang/239061373/01.webp",
+        "assets/products/minkang/239061373/02.webp",
+        "assets/products/minkang/239061373/03.webp",
+        "assets/products/minkang/239061373/04.webp",
+        "assets/products/minkang/239061373/05.webp",
+        "assets/products/minkang/239061373/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/d2e4a99ba4/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/239061373/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:50:14.044Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:43:19.203Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -491300,7 +491472,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "USA",
@@ -491312,15 +491484,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/239483151/01.webp"
+        "assets/products/minkang/239483151/01.webp",
+        "assets/products/minkang/239483151/02.webp",
+        "assets/products/minkang/239483151/03.webp",
+        "assets/products/minkang/239483151/04.webp",
+        "assets/products/minkang/239483151/05.webp",
+        "assets/products/minkang/239483151/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/44da65fdd2/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/239483151/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:50:42.019Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:41:56.843Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -491332,7 +491509,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "USA",
@@ -491344,15 +491521,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/239483205/01.webp"
+        "assets/products/minkang/239483205/01.webp",
+        "assets/products/minkang/239483205/02.webp",
+        "assets/products/minkang/239483205/03.webp",
+        "assets/products/minkang/239483205/04.webp",
+        "assets/products/minkang/239483205/05.webp",
+        "assets/products/minkang/239483205/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/06ab83357b/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/239483205/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:50:43.612Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:41:56.206Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -626974,10 +627156,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "⚽💁🏻‍♀️Women's shirt",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -626986,15 +627168,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/244625405/01.webp"
+        "assets/products/minkang/244625405/01.webp",
+        "assets/products/minkang/244625405/02.webp",
+        "assets/products/minkang/244625405/03.webp",
+        "assets/products/minkang/244625405/04.webp",
+        "assets/products/minkang/244625405/05.webp",
+        "assets/products/minkang/244625405/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/df5caeb3ce/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/244625405/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:51:23.887Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:41:23.610Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -627006,10 +627193,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "⚽💁🏻‍♀️Women's shirt",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -627018,15 +627205,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/239478469/01.webp"
+        "assets/products/minkang/239478469/01.webp",
+        "assets/products/minkang/239478469/02.webp",
+        "assets/products/minkang/239478469/03.webp",
+        "assets/products/minkang/239478469/04.webp",
+        "assets/products/minkang/239478469/05.webp",
+        "assets/products/minkang/239478469/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/098642ab72/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/239478469/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:50:23.978Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:43:01.631Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -627038,10 +627230,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "⚽💁🏻‍♀️Women's shirt",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -627050,15 +627242,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/251102306/01.webp"
+        "assets/products/minkang/251102306/01.webp",
+        "assets/products/minkang/251102306/02.webp",
+        "assets/products/minkang/251102306/03.webp",
+        "assets/products/minkang/251102306/04.webp",
+        "assets/products/minkang/251102306/05.webp",
+        "assets/products/minkang/251102306/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/d7cc268806/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/251102306/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:53:44.994Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:39:44.592Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -627070,10 +627267,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "⚽💁🏻‍♀️Women's shirt",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -627082,15 +627279,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/251102149/01.webp"
+        "assets/products/minkang/251102149/01.webp",
+        "assets/products/minkang/251102149/02.webp",
+        "assets/products/minkang/251102149/03.webp",
+        "assets/products/minkang/251102149/04.webp",
+        "assets/products/minkang/251102149/05.webp",
+        "assets/products/minkang/251102149/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/695491e815/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/251102149/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:53:43.504Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:39:49.057Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -627102,10 +627304,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "⚽💁🏻‍♀️Women's shirt",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -627114,15 +627316,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/240053152/01.webp"
+        "assets/products/minkang/240053152/01.webp",
+        "assets/products/minkang/240053152/02.webp",
+        "assets/products/minkang/240053152/03.webp",
+        "assets/products/minkang/240053152/04.webp",
+        "assets/products/minkang/240053152/05.webp",
+        "assets/products/minkang/240053152/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/d8e37d4fe6/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/240053152/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:50:44.834Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:41:47.858Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -627134,10 +627341,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "⚽💁🏻‍♀️Women's shirt",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -627146,15 +627353,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/242880773/01.webp"
+        "assets/products/minkang/242880773/01.webp",
+        "assets/products/minkang/242880773/02.webp",
+        "assets/products/minkang/242880773/03.webp",
+        "assets/products/minkang/242880773/04.webp",
+        "assets/products/minkang/242880773/05.webp",
+        "assets/products/minkang/242880773/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/9bd0ab33cf/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/242880773/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:51:07.513Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:41:19.449Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -627166,10 +627378,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "⚽💁🏻‍♀️Women's shirt",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -627178,15 +627390,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/244625584/01.webp"
+        "assets/products/minkang/244625584/01.webp",
+        "assets/products/minkang/244625584/02.webp",
+        "assets/products/minkang/244625584/03.webp",
+        "assets/products/minkang/244625584/04.webp",
+        "assets/products/minkang/244625584/05.webp",
+        "assets/products/minkang/244625584/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/e2f0f19bfc/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/244625584/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:51:23.961Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:41:11.773Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -627198,10 +627415,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "⚽💁🏻‍♀️Women's shirt",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -627210,15 +627427,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/242880452/01.webp"
+        "assets/products/minkang/242880452/01.webp",
+        "assets/products/minkang/242880452/02.webp",
+        "assets/products/minkang/242880452/03.webp",
+        "assets/products/minkang/242880452/04.webp",
+        "assets/products/minkang/242880452/05.webp",
+        "assets/products/minkang/242880452/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/069a47656b/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/242880452/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:51:07.136Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:41:29.941Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -627230,10 +627452,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "⚽💁🏻‍♀️Women's shirt",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -627242,15 +627464,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/247796018/01.webp"
+        "assets/products/minkang/247796018/01.webp",
+        "assets/products/minkang/247796018/02.webp",
+        "assets/products/minkang/247796018/03.webp",
+        "assets/products/minkang/247796018/04.webp",
+        "assets/products/minkang/247796018/05.webp",
+        "assets/products/minkang/247796018/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/d0d621ae4c/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/247796018/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:53:04.895Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:40:50.910Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -627262,10 +627489,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "⚽💁🏻‍♀️Women's shirt",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -627274,15 +627501,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/251849532/01.webp"
+        "assets/products/minkang/251849532/01.webp",
+        "assets/products/minkang/251849532/02.webp",
+        "assets/products/minkang/251849532/03.webp",
+        "assets/products/minkang/251849532/04.webp",
+        "assets/products/minkang/251849532/05.webp",
+        "assets/products/minkang/251849532/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/1daa5775a1/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/251849532/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:53:46.311Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:39:42.104Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -627294,10 +627526,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "⚽💁🏻‍♀️Women's shirt",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -627306,15 +627538,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/244625783/01.webp"
+        "assets/products/minkang/244625783/01.webp",
+        "assets/products/minkang/244625783/02.webp",
+        "assets/products/minkang/244625783/03.webp",
+        "assets/products/minkang/244625783/04.webp",
+        "assets/products/minkang/244625783/05.webp",
+        "assets/products/minkang/244625783/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/e939b869ca/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/244625783/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:51:24.987Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:41:04.756Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -627326,10 +627563,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "⚽💁🏻‍♀️Women's shirt",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -627338,15 +627575,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/242208668/01.webp"
+        "assets/products/minkang/242208668/01.webp",
+        "assets/products/minkang/242208668/02.webp",
+        "assets/products/minkang/242208668/03.webp",
+        "assets/products/minkang/242208668/04.webp",
+        "assets/products/minkang/242208668/05.webp",
+        "assets/products/minkang/242208668/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/c1a0f9c4f7/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/242208668/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:50:55.911Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:41:38.205Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -627358,10 +627600,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "⚽💁🏻‍♀️Women's shirt",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -627370,15 +627612,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/244625950/01.webp"
+        "assets/products/minkang/244625950/01.webp",
+        "assets/products/minkang/244625950/02.webp",
+        "assets/products/minkang/244625950/03.webp",
+        "assets/products/minkang/244625950/04.webp",
+        "assets/products/minkang/244625950/05.webp",
+        "assets/products/minkang/244625950/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/6cc5250e14/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/244625950/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:51:25.353Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:41:04.608Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -627390,10 +627637,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "⚽💁🏻‍♀️Women's shirt",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -627402,15 +627649,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/251868150/01.webp"
+        "assets/products/minkang/251868150/01.webp",
+        "assets/products/minkang/251868150/02.webp",
+        "assets/products/minkang/251868150/03.webp",
+        "assets/products/minkang/251868150/04.webp",
+        "assets/products/minkang/251868150/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/788758bec3/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/251868150/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:54:25.719Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T02:39:13.637Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -627422,10 +627673,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "⚽💁🏻‍♀️Women's shirt",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -627434,15 +627685,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/248188114/01.webp"
+        "assets/products/minkang/248188114/01.webp",
+        "assets/products/minkang/248188114/02.webp",
+        "assets/products/minkang/248188114/03.webp",
+        "assets/products/minkang/248188114/04.webp",
+        "assets/products/minkang/248188114/05.webp",
+        "assets/products/minkang/248188114/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/d52c50f213/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/248188114/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:53:13.336Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:40:11.752Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -627454,10 +627710,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "⚽💁🏻‍♀️Women's shirt",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -627466,15 +627722,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/248187833/01.webp"
+        "assets/products/minkang/248187833/01.webp",
+        "assets/products/minkang/248187833/02.webp",
+        "assets/products/minkang/248187833/03.webp",
+        "assets/products/minkang/248187833/04.webp",
+        "assets/products/minkang/248187833/05.webp",
+        "assets/products/minkang/248187833/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/6773bd9ec1/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/248187833/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:53:10.492Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:40:35.311Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -627486,10 +627747,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "⚽💁🏻‍♀️Women's shirt",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -627498,15 +627759,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/251868185/01.webp"
+        "assets/products/minkang/251868185/01.webp",
+        "assets/products/minkang/251868185/02.webp",
+        "assets/products/minkang/251868185/03.webp",
+        "assets/products/minkang/251868185/04.webp",
+        "assets/products/minkang/251868185/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/90ffaf9333/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/251868185/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:54:25.667Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T02:39:15.406Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -627518,10 +627783,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "⚽💁🏻‍♀️Women's shirt",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -627530,15 +627795,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/244626595/01.webp"
+        "assets/products/minkang/244626595/01.webp",
+        "assets/products/minkang/244626595/02.webp",
+        "assets/products/minkang/244626595/03.webp",
+        "assets/products/minkang/244626595/04.webp",
+        "assets/products/minkang/244626595/05.webp",
+        "assets/products/minkang/244626595/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/e33bb3e708/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/244626595/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:51:26.261Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:40:57.842Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -627550,10 +627820,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "⚽💁🏻‍♀️Women's shirt",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -627562,15 +627832,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/239482399/01.webp"
+        "assets/products/minkang/239482399/01.webp",
+        "assets/products/minkang/239482399/02.webp",
+        "assets/products/minkang/239482399/03.webp",
+        "assets/products/minkang/239482399/04.webp",
+        "assets/products/minkang/239482399/05.webp",
+        "assets/products/minkang/239482399/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/e11f6cf193/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/239482399/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:50:38.907Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:42:04.452Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -627582,10 +627857,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "⚽💁🏻‍♀️Women's shirt",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -627594,15 +627869,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/240053794/01.webp"
+        "assets/products/minkang/240053794/01.webp",
+        "assets/products/minkang/240053794/02.webp",
+        "assets/products/minkang/240053794/03.webp",
+        "assets/products/minkang/240053794/04.webp",
+        "assets/products/minkang/240053794/05.webp",
+        "assets/products/minkang/240053794/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/1b7d37944d/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/240053794/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:50:45.929Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:41:47.746Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -627614,10 +627894,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "⚽💁🏻‍♀️Women's shirt",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -627626,15 +627906,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/239482450/01.webp"
+        "assets/products/minkang/239482450/01.webp",
+        "assets/products/minkang/239482450/02.webp",
+        "assets/products/minkang/239482450/03.webp",
+        "assets/products/minkang/239482450/04.webp",
+        "assets/products/minkang/239482450/05.webp",
+        "assets/products/minkang/239482450/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/830e1ea247/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/239482450/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:50:39.172Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:42:03.712Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -627646,10 +627931,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "⚽💁🏻‍♀️Women's shirt",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -627658,15 +627943,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/242210777/01.webp"
+        "assets/products/minkang/242210777/01.webp",
+        "assets/products/minkang/242210777/02.webp",
+        "assets/products/minkang/242210777/03.webp",
+        "assets/products/minkang/242210777/04.webp",
+        "assets/products/minkang/242210777/05.webp",
+        "assets/products/minkang/242210777/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/d5536341e8/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/242210777/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:50:59.715Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:41:37.856Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -627678,10 +627968,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "⚽💁🏻‍♀️Women's shirt",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -627690,15 +627980,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/244627082/01.webp"
+        "assets/products/minkang/244627082/01.webp",
+        "assets/products/minkang/244627082/02.webp",
+        "assets/products/minkang/244627082/03.webp",
+        "assets/products/minkang/244627082/04.webp",
+        "assets/products/minkang/244627082/05.webp",
+        "assets/products/minkang/244627082/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/906d3e80f8/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/244627082/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:51:26.760Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:40:57.269Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -627710,10 +628005,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "⚽💁🏻‍♀️Women's shirt",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -627722,15 +628017,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/244627259/01.webp"
+        "assets/products/minkang/244627259/01.webp",
+        "assets/products/minkang/244627259/02.webp",
+        "assets/products/minkang/244627259/03.webp",
+        "assets/products/minkang/244627259/04.webp",
+        "assets/products/minkang/244627259/05.webp",
+        "assets/products/minkang/244627259/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/384f2c2801/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/244627259/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:51:27.609Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:40:49.364Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -627742,10 +628042,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "⚽💁🏻‍♀️Women's shirt",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -627754,15 +628054,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/239061548/01.webp"
+        "assets/products/minkang/239061548/01.webp",
+        "assets/products/minkang/239061548/02.webp",
+        "assets/products/minkang/239061548/03.webp",
+        "assets/products/minkang/239061548/04.webp",
+        "assets/products/minkang/239061548/05.webp",
+        "assets/products/minkang/239061548/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/18747408d7/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/239061548/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:50:14.359Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:43:16.795Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -627774,10 +628079,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "⚽💁🏻‍♀️Women's shirt",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -627786,15 +628091,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/247796202/01.webp"
+        "assets/products/minkang/247796202/01.webp",
+        "assets/products/minkang/247796202/02.webp",
+        "assets/products/minkang/247796202/03.webp",
+        "assets/products/minkang/247796202/04.webp",
+        "assets/products/minkang/247796202/05.webp",
+        "assets/products/minkang/247796202/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/7a0204ef64/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/247796202/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:53:05.673Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:40:42.268Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -627806,10 +628116,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "⚽💁🏻‍♀️Women's shirt",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -627818,15 +628128,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/242210968/01.webp"
+        "assets/products/minkang/242210968/01.webp",
+        "assets/products/minkang/242210968/02.webp",
+        "assets/products/minkang/242210968/03.webp",
+        "assets/products/minkang/242210968/04.webp",
+        "assets/products/minkang/242210968/05.webp",
+        "assets/products/minkang/242210968/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/32e859fbe2/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/242210968/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:51:02.022Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:41:29.856Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -688169,10 +688484,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Bundesliga",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Bundesliga",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -688181,15 +688496,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/256428103/01.webp"
+        "assets/products/minkang/256428103/01.webp",
+        "assets/products/minkang/256428103/02.webp",
+        "assets/products/minkang/256428103/03.webp",
+        "assets/products/minkang/256428103/04.webp",
+        "assets/products/minkang/256428103/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/a71238a596/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/256428103/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:01:28.796Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T02:43:30.197Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -699065,10 +699384,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "LIGA MX",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "LIGA MX",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -699077,15 +699396,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/251869167/01.webp"
+        "assets/products/minkang/251869167/01.webp",
+        "assets/products/minkang/251869167/02.webp",
+        "assets/products/minkang/251869167/03.webp",
+        "assets/products/minkang/251869167/04.webp",
+        "assets/products/minkang/251869167/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/da21cf3bb4/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/251869167/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:54:35.923Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T02:39:25.556Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -699193,10 +699516,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "LIGA MX",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "LIGA MX",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -699205,15 +699528,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/251869249/01.webp"
+        "assets/products/minkang/251869249/01.webp",
+        "assets/products/minkang/251869249/02.webp",
+        "assets/products/minkang/251869249/03.webp",
+        "assets/products/minkang/251869249/04.webp",
+        "assets/products/minkang/251869249/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/54643c026f/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/251869249/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:54:38.570Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T02:39:27.785Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -700225,10 +700552,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "LIGA MX",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "LIGA MX",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -700237,15 +700564,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/257730969/01.webp"
+        "assets/products/minkang/257730969/01.webp",
+        "assets/products/minkang/257730969/02.webp",
+        "assets/products/minkang/257730969/03.webp",
+        "assets/products/minkang/257730969/04.webp",
+        "assets/products/minkang/257730969/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/c2b5754193/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/257730969/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:04:32.558Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T02:38:56.917Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -702001,10 +702332,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "LIGA MX",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "LIGA MX",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -702013,15 +702344,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/251868554/01.webp"
+        "assets/products/minkang/251868554/01.webp",
+        "assets/products/minkang/251868554/02.webp",
+        "assets/products/minkang/251868554/03.webp",
+        "assets/products/minkang/251868554/04.webp",
+        "assets/products/minkang/251868554/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/f5b2ce7d89/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/251868554/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:54:31.918Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T02:39:22.020Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -879730,10 +880065,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Worldwide Other League",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Worldwide Other League",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -879742,15 +880077,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/226515623/01.webp"
+        "assets/products/minkang/226515623/01.webp",
+        "assets/products/minkang/226515623/02.webp",
+        "assets/products/minkang/226515623/03.webp",
+        "assets/products/minkang/226515623/04.webp",
+        "assets/products/minkang/226515623/05.webp",
+        "assets/products/minkang/226515623/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/e2e6dbb1/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/226515623/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:47:16.945Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:38:37.339Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -880928,10 +881268,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Worldwide Other League",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Worldwide Other League",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -880940,15 +881280,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/224798880/01.webp"
+        "assets/products/minkang/224798880/01.webp",
+        "assets/products/minkang/224798880/02.webp",
+        "assets/products/minkang/224798880/03.webp",
+        "assets/products/minkang/224798880/04.webp",
+        "assets/products/minkang/224798880/05.webp",
+        "assets/products/minkang/224798880/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/df6877c4/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/224798880/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:47:02.399Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:38:50.763Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -880960,10 +881305,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Worldwide Other League",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Worldwide Other League",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -880972,15 +881317,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/224798889/01.webp"
+        "assets/products/minkang/224798889/01.webp",
+        "assets/products/minkang/224798889/02.webp",
+        "assets/products/minkang/224798889/03.webp",
+        "assets/products/minkang/224798889/04.webp",
+        "assets/products/minkang/224798889/05.webp",
+        "assets/products/minkang/224798889/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/1b95f3b9/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/224798889/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:47:03.332Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:38:51.830Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -880992,10 +881342,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Worldwide Other League",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Worldwide Other League",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -881004,15 +881354,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/224798899/01.webp"
+        "assets/products/minkang/224798899/01.webp",
+        "assets/products/minkang/224798899/02.webp",
+        "assets/products/minkang/224798899/03.webp",
+        "assets/products/minkang/224798899/04.webp",
+        "assets/products/minkang/224798899/05.webp",
+        "assets/products/minkang/224798899/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/74d6f6d3/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/224798899/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:47:03.542Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:38:43.835Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -881024,10 +881379,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Worldwide Other League",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Worldwide Other League",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -881036,15 +881391,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/224798911/01.webp"
+        "assets/products/minkang/224798911/01.webp",
+        "assets/products/minkang/224798911/02.webp",
+        "assets/products/minkang/224798911/03.webp",
+        "assets/products/minkang/224798911/04.webp",
+        "assets/products/minkang/224798911/05.webp",
+        "assets/products/minkang/224798911/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/97e62985/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/224798911/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:47:04.515Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:38:43.908Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
