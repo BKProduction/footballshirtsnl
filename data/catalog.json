@@ -1,5 +1,5 @@
 {
-  "lastSync": "2026-10-30T02:19:53.489Z",
+  "lastSync": "2026-10-30T02:24:45.516Z",
   "status": "running",
   "currentSource": "minkang",
   "products": [
@@ -189198,7 +189198,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -189210,15 +189210,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/218705861/01.webp"
+        "assets/products/minkang/218705861/01.webp",
+        "assets/products/minkang/218705861/02.webp",
+        "assets/products/minkang/218705861/03.webp",
+        "assets/products/minkang/218705861/04.webp",
+        "assets/products/minkang/218705861/05.webp",
+        "assets/products/minkang/218705861/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/7cc0bfa3/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/218705861/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:44:52.831Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:23:18.083Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -190872,7 +190877,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -190884,15 +190889,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/244523773/01.webp"
+        "assets/products/minkang/244523773/01.webp",
+        "assets/products/minkang/244523773/02.webp",
+        "assets/products/minkang/244523773/03.webp",
+        "assets/products/minkang/244523773/04.webp",
+        "assets/products/minkang/244523773/05.webp",
+        "assets/products/minkang/244523773/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/60d3b132ba/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/244523773/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:51:17.542Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:21:29.057Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -190941,7 +190951,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -190953,15 +190963,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/249066321/01.webp"
+        "assets/products/minkang/249066321/01.webp",
+        "assets/products/minkang/249066321/02.webp",
+        "assets/products/minkang/249066321/03.webp",
+        "assets/products/minkang/249066321/04.webp",
+        "assets/products/minkang/249066321/05.webp",
+        "assets/products/minkang/249066321/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/742bcc6522/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/249066321/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:53:33.492Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:20:49.103Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -191009,7 +191024,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -191021,15 +191036,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/244882068/01.webp"
+        "assets/products/minkang/244882068/01.webp",
+        "assets/products/minkang/244882068/02.webp",
+        "assets/products/minkang/244882068/03.webp",
+        "assets/products/minkang/244882068/04.webp",
+        "assets/products/minkang/244882068/05.webp",
+        "assets/products/minkang/244882068/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/4f122b4585/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/244882068/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:51:30.819Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:21:13.028Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -191699,7 +191719,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -191711,15 +191731,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/246279507/01.webp"
+        "assets/products/minkang/246279507/01.webp",
+        "assets/products/minkang/246279507/02.webp",
+        "assets/products/minkang/246279507/03.webp",
+        "assets/products/minkang/246279507/04.webp",
+        "assets/products/minkang/246279507/05.webp",
+        "assets/products/minkang/246279507/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/febb30790d/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/246279507/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:52:24.026Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:20:59.331Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -194406,7 +194431,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -194418,15 +194443,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/217774957/01.webp"
+        "assets/products/minkang/217774957/01.webp",
+        "assets/products/minkang/217774957/02.webp",
+        "assets/products/minkang/217774957/03.webp",
+        "assets/products/minkang/217774957/04.webp",
+        "assets/products/minkang/217774957/05.webp",
+        "assets/products/minkang/217774957/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/4e7858a5/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/217774957/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:44:51.351Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:23:24.474Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -195258,7 +195288,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -195270,15 +195300,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/252314732/01.webp"
+        "assets/products/minkang/252314732/01.webp",
+        "assets/products/minkang/252314732/02.webp",
+        "assets/products/minkang/252314732/03.webp",
+        "assets/products/minkang/252314732/04.webp",
+        "assets/products/minkang/252314732/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/201dfd8f8d/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/252314732/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:55:09.317Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T02:20:21.723Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -195435,7 +195469,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -195447,15 +195481,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/252350520/01.webp"
+        "assets/products/minkang/252350520/01.webp",
+        "assets/products/minkang/252350520/02.webp",
+        "assets/products/minkang/252350520/03.webp",
+        "assets/products/minkang/252350520/04.webp",
+        "assets/products/minkang/252350520/05.webp",
+        "assets/products/minkang/252350520/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/7e1f6e85df/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/252350520/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:55:37.737Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:20:38.182Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -195467,7 +195506,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -195479,15 +195518,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/251099505/01.webp"
+        "assets/products/minkang/251099505/01.webp",
+        "assets/products/minkang/251099505/02.webp",
+        "assets/products/minkang/251099505/03.webp",
+        "assets/products/minkang/251099505/04.webp",
+        "assets/products/minkang/251099505/05.webp",
+        "assets/products/minkang/251099505/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/9bb0428ef1/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/251099505/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:53:36.827Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:20:44.912Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -195499,7 +195543,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -195511,15 +195555,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/251103053/01.webp"
+        "assets/products/minkang/251103053/01.webp",
+        "assets/products/minkang/251103053/02.webp",
+        "assets/products/minkang/251103053/03.webp",
+        "assets/products/minkang/251103053/04.webp",
+        "assets/products/minkang/251103053/05.webp",
+        "assets/products/minkang/251103053/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/5c160dd63f/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/251103053/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:53:45.218Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:20:42.045Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -195531,7 +195580,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -195543,15 +195592,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/239253288/01.webp"
+        "assets/products/minkang/239253288/01.webp",
+        "assets/products/minkang/239253288/02.webp",
+        "assets/products/minkang/239253288/03.webp",
+        "assets/products/minkang/239253288/04.webp",
+        "assets/products/minkang/239253288/05.webp",
+        "assets/products/minkang/239253288/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/1c1b4b260c/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/239253288/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:50:20.479Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:21:38.183Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -195563,7 +195617,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -195575,15 +195629,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/225669627/01.webp"
+        "assets/products/minkang/225669627/01.webp",
+        "assets/products/minkang/225669627/02.webp",
+        "assets/products/minkang/225669627/03.webp",
+        "assets/products/minkang/225669627/04.webp",
+        "assets/products/minkang/225669627/05.webp",
+        "assets/products/minkang/225669627/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/bcfab7e8/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/225669627/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:47:10.211Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:22:27.009Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -197514,7 +197573,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -197526,15 +197585,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/252957871/01.webp"
+        "assets/products/minkang/252957871/01.webp",
+        "assets/products/minkang/252957871/02.webp",
+        "assets/products/minkang/252957871/03.webp",
+        "assets/products/minkang/252957871/04.webp",
+        "assets/products/minkang/252957871/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/a8a3b7850f/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/252957871/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:55:50.146Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T02:20:09.805Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -197546,7 +197609,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -197558,15 +197621,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/251870065/01.webp"
+        "assets/products/minkang/251870065/01.webp",
+        "assets/products/minkang/251870065/02.webp",
+        "assets/products/minkang/251870065/03.webp",
+        "assets/products/minkang/251870065/04.webp",
+        "assets/products/minkang/251870065/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/7b80f29a24/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/251870065/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:54:50.950Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T02:20:16.381Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -197578,7 +197645,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -197590,15 +197657,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/252957882/01.webp"
+        "assets/products/minkang/252957882/01.webp",
+        "assets/products/minkang/252957882/02.webp",
+        "assets/products/minkang/252957882/03.webp",
+        "assets/products/minkang/252957882/04.webp",
+        "assets/products/minkang/252957882/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/56f737db96/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/252957882/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:55:50.506Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T02:20:10.436Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -197739,7 +197810,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -197751,15 +197822,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/222223122/01.webp"
+        "assets/products/minkang/222223122/01.webp",
+        "assets/products/minkang/222223122/02.webp",
+        "assets/products/minkang/222223122/03.webp",
+        "assets/products/minkang/222223122/04.webp",
+        "assets/products/minkang/222223122/05.webp",
+        "assets/products/minkang/222223122/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/18f72e8b/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/222223122/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:46:06.353Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:22:40.823Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -197771,7 +197847,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -197783,15 +197859,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/222223269/01.webp"
+        "assets/products/minkang/222223269/01.webp",
+        "assets/products/minkang/222223269/02.webp",
+        "assets/products/minkang/222223269/03.webp",
+        "assets/products/minkang/222223269/04.webp",
+        "assets/products/minkang/222223269/05.webp",
+        "assets/products/minkang/222223269/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/d916c40c/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/222223269/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:46:06.777Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:22:33.200Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -197803,7 +197884,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -197815,15 +197896,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/226671598/01.webp"
+        "assets/products/minkang/226671598/01.webp",
+        "assets/products/minkang/226671598/02.webp",
+        "assets/products/minkang/226671598/03.webp",
+        "assets/products/minkang/226671598/04.webp",
+        "assets/products/minkang/226671598/05.webp",
+        "assets/products/minkang/226671598/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/d000a1f3/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/226671598/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:47:30.778Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:22:13.292Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -198389,7 +198475,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -198401,15 +198487,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/247186845/01.webp"
+        "assets/products/minkang/247186845/01.webp",
+        "assets/products/minkang/247186845/02.webp",
+        "assets/products/minkang/247186845/03.webp",
+        "assets/products/minkang/247186845/04.webp",
+        "assets/products/minkang/247186845/05.webp",
+        "assets/products/minkang/247186845/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/7e14faa415/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/247186845/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:52:48.676Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:20:54.158Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -199486,7 +199577,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -199498,15 +199589,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/217439065/01.webp"
+        "assets/products/minkang/217439065/01.webp",
+        "assets/products/minkang/217439065/02.webp",
+        "assets/products/minkang/217439065/03.webp",
+        "assets/products/minkang/217439065/04.webp",
+        "assets/products/minkang/217439065/05.webp",
+        "assets/products/minkang/217439065/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/0e989af7/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/217439065/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:44:48.528Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:23:30.289Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -199549,7 +199645,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -199561,15 +199657,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/220231431/01.webp"
+        "assets/products/minkang/220231431/01.webp",
+        "assets/products/minkang/220231431/02.webp",
+        "assets/products/minkang/220231431/03.webp",
+        "assets/products/minkang/220231431/04.webp",
+        "assets/products/minkang/220231431/05.webp",
+        "assets/products/minkang/220231431/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/1041932a/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/220231431/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:45:07.727Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:22:58.769Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -200656,7 +200757,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -200668,15 +200769,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/221920410/01.webp"
+        "assets/products/minkang/221920410/01.webp",
+        "assets/products/minkang/221920410/02.webp",
+        "assets/products/minkang/221920410/03.webp",
+        "assets/products/minkang/221920410/04.webp",
+        "assets/products/minkang/221920410/05.webp",
+        "assets/products/minkang/221920410/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/45c39cbd/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/221920410/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:46:05.217Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:22:46.197Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -201185,7 +201291,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -201197,15 +201303,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/222043137/01.webp"
+        "assets/products/minkang/222043137/01.webp",
+        "assets/products/minkang/222043137/02.webp",
+        "assets/products/minkang/222043137/03.webp",
+        "assets/products/minkang/222043137/04.webp",
+        "assets/products/minkang/222043137/05.webp",
+        "assets/products/minkang/222043137/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/9b700509/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/222043137/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:46:05.667Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:22:38.202Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -210296,7 +210407,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -210308,15 +210419,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/216226057/01.webp"
+        "assets/products/minkang/216226057/01.webp",
+        "assets/products/minkang/216226057/02.webp",
+        "assets/products/minkang/216226057/03.webp",
+        "assets/products/minkang/216226057/04.webp",
+        "assets/products/minkang/216226057/05.webp",
+        "assets/products/minkang/216226057/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/73f0eda8/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/216226057/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:44:41.423Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:23:44.832Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -210328,7 +210444,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -210340,15 +210456,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/217111021/01.webp"
+        "assets/products/minkang/217111021/01.webp",
+        "assets/products/minkang/217111021/02.webp",
+        "assets/products/minkang/217111021/03.webp",
+        "assets/products/minkang/217111021/04.webp",
+        "assets/products/minkang/217111021/05.webp",
+        "assets/products/minkang/217111021/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/a5da1665/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/217111021/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:44:46.232Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:23:31.945Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -210391,7 +210512,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -210403,15 +210524,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/220231457/01.webp"
+        "assets/products/minkang/220231457/01.webp",
+        "assets/products/minkang/220231457/02.webp",
+        "assets/products/minkang/220231457/03.webp",
+        "assets/products/minkang/220231457/04.webp",
+        "assets/products/minkang/220231457/05.webp",
+        "assets/products/minkang/220231457/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/a7f4955a/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/220231457/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:45:09.489Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:22:52.722Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -210423,7 +210549,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -210435,15 +210561,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/229206310/01.webp"
+        "assets/products/minkang/229206310/01.webp",
+        "assets/products/minkang/229206310/02.webp",
+        "assets/products/minkang/229206310/03.webp",
+        "assets/products/minkang/229206310/04.webp",
+        "assets/products/minkang/229206310/05.webp",
+        "assets/products/minkang/229206310/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/34b4d3c6/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/229206310/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:47:47.731Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:22:09.480Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -210455,7 +210586,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -210467,15 +210598,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/230750174/01.webp"
+        "assets/products/minkang/230750174/01.webp",
+        "assets/products/minkang/230750174/02.webp",
+        "assets/products/minkang/230750174/03.webp",
+        "assets/products/minkang/230750174/04.webp",
+        "assets/products/minkang/230750174/05.webp",
+        "assets/products/minkang/230750174/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/4ee194c9/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/230750174/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:48:03.089Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:21:55.258Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -210487,7 +210623,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -210499,15 +210635,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/230750095/01.webp"
+        "assets/products/minkang/230750095/01.webp",
+        "assets/products/minkang/230750095/02.webp",
+        "assets/products/minkang/230750095/03.webp",
+        "assets/products/minkang/230750095/04.webp",
+        "assets/products/minkang/230750095/05.webp",
+        "assets/products/minkang/230750095/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/1654d9e0/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/230750095/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:48:02.011Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:22:00.914Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -210519,7 +210660,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -210531,15 +210672,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/229932884/01.webp"
+        "assets/products/minkang/229932884/01.webp",
+        "assets/products/minkang/229932884/02.webp",
+        "assets/products/minkang/229932884/03.webp",
+        "assets/products/minkang/229932884/04.webp",
+        "assets/products/minkang/229932884/05.webp",
+        "assets/products/minkang/229932884/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/6fc3423f/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/229932884/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:48:00.832Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:22:03.436Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -210656,7 +210802,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -210668,15 +210814,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/217775077/01.webp"
+        "assets/products/minkang/217775077/01.webp",
+        "assets/products/minkang/217775077/02.webp",
+        "assets/products/minkang/217775077/03.webp",
+        "assets/products/minkang/217775077/04.webp",
+        "assets/products/minkang/217775077/05.webp",
+        "assets/products/minkang/217775077/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/5992b26f/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/217775077/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:44:51.033Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:23:25.310Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -210688,7 +210839,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -210700,15 +210851,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/216812561/01.webp"
+        "assets/products/minkang/216812561/01.webp",
+        "assets/products/minkang/216812561/02.webp",
+        "assets/products/minkang/216812561/03.webp",
+        "assets/products/minkang/216812561/04.webp",
+        "assets/products/minkang/216812561/05.webp",
+        "assets/products/minkang/216812561/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/4f7fb147/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/216812561/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:44:45.007Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:23:38.838Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -210751,7 +210907,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -210763,15 +210919,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/231426385/01.webp"
+        "assets/products/minkang/231426385/01.webp",
+        "assets/products/minkang/231426385/02.webp",
+        "assets/products/minkang/231426385/03.webp",
+        "assets/products/minkang/231426385/04.webp",
+        "assets/products/minkang/231426385/05.webp",
+        "assets/products/minkang/231426385/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/c25f4328/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/231426385/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:48:28.600Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:21:46.020Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -210783,7 +210944,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -210795,15 +210956,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/231426352/01.webp"
+        "assets/products/minkang/231426352/01.webp",
+        "assets/products/minkang/231426352/02.webp",
+        "assets/products/minkang/231426352/03.webp",
+        "assets/products/minkang/231426352/04.webp",
+        "assets/products/minkang/231426352/05.webp",
+        "assets/products/minkang/231426352/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/0cde1e03/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/231426352/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:48:27.121Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:21:52.971Z",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:237600766",
@@ -213398,7 +213564,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -213410,15 +213576,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/242210859/01.webp"
+        "assets/products/minkang/242210859/01.webp",
+        "assets/products/minkang/242210859/02.webp",
+        "assets/products/minkang/242210859/03.webp",
+        "assets/products/minkang/242210859/04.webp",
+        "assets/products/minkang/242210859/05.webp",
+        "assets/products/minkang/242210859/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/ad12cd0255/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/242210859/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:51:01.042Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:21:30.343Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -213430,7 +213601,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -213442,15 +213613,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/245427647/01.webp"
+        "assets/products/minkang/245427647/01.webp",
+        "assets/products/minkang/245427647/02.webp",
+        "assets/products/minkang/245427647/03.webp",
+        "assets/products/minkang/245427647/04.webp",
+        "assets/products/minkang/245427647/05.webp",
+        "assets/products/minkang/245427647/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/4a2989be34/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/245427647/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:51:51.129Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:21:01.917Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -213498,7 +213674,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -213510,15 +213686,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/252351361/01.webp"
+        "assets/products/minkang/252351361/01.webp",
+        "assets/products/minkang/252351361/02.webp",
+        "assets/products/minkang/252351361/03.webp",
+        "assets/products/minkang/252351361/04.webp",
+        "assets/products/minkang/252351361/05.webp",
+        "assets/products/minkang/252351361/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/1bb48f73a1/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/252351361/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:55:39.095Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:20:35.417Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -213530,7 +213711,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -213542,15 +213723,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/245423123/01.webp"
+        "assets/products/minkang/245423123/01.webp",
+        "assets/products/minkang/245423123/02.webp",
+        "assets/products/minkang/245423123/03.webp",
+        "assets/products/minkang/245423123/04.webp",
+        "assets/products/minkang/245423123/05.webp",
+        "assets/products/minkang/245423123/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/edf85713a5/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/245423123/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:51:35.407Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:21:06.516Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -213599,7 +213785,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -213611,15 +213797,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/251868377/01.webp"
+        "assets/products/minkang/251868377/01.webp",
+        "assets/products/minkang/251868377/02.webp",
+        "assets/products/minkang/251868377/03.webp",
+        "assets/products/minkang/251868377/04.webp",
+        "assets/products/minkang/251868377/05.webp",
+        "assets/products/minkang/251868377/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/fa4b3440a4/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/251868377/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:54:28.114Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:20:15.271Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -213631,7 +213822,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -213643,15 +213834,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/252314949/01.webp"
+        "assets/products/minkang/252314949/01.webp",
+        "assets/products/minkang/252314949/02.webp",
+        "assets/products/minkang/252314949/03.webp",
+        "assets/products/minkang/252314949/04.webp",
+        "assets/products/minkang/252314949/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/85b25c4a2c/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/252314949/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:55:10.910Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T02:20:27.508Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -214729,7 +214924,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -214741,15 +214936,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/252957932/01.webp"
+        "assets/products/minkang/252957932/01.webp",
+        "assets/products/minkang/252957932/02.webp",
+        "assets/products/minkang/252957932/03.webp",
+        "assets/products/minkang/252957932/04.webp",
+        "assets/products/minkang/252957932/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/410acbff92/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/252957932/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:55:52.616Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T02:20:03.410Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -217714,7 +217913,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "MLS",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "MLS",
@@ -217726,15 +217925,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/229204695/01.webp"
+        "assets/products/minkang/229204695/01.webp",
+        "assets/products/minkang/229204695/02.webp",
+        "assets/products/minkang/229204695/03.webp",
+        "assets/products/minkang/229204695/04.webp",
+        "assets/products/minkang/229204695/05.webp",
+        "assets/products/minkang/229204695/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/16f28576/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/229204695/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:47:46.115Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:24:12.605Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -217746,7 +217950,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "MLS",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "MLS",
@@ -217758,15 +217962,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/229204219/01.webp"
+        "assets/products/minkang/229204219/01.webp",
+        "assets/products/minkang/229204219/02.webp",
+        "assets/products/minkang/229204219/03.webp",
+        "assets/products/minkang/229204219/04.webp",
+        "assets/products/minkang/229204219/05.webp",
+        "assets/products/minkang/229204219/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/3106f7b7/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/229204219/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:47:44.842Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:24:22.076Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -217778,7 +217987,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "MLS",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "MLS",
@@ -217790,15 +217999,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/235531424/01.webp"
+        "assets/products/minkang/235531424/01.webp",
+        "assets/products/minkang/235531424/02.webp",
+        "assets/products/minkang/235531424/03.webp",
+        "assets/products/minkang/235531424/04.webp",
+        "assets/products/minkang/235531424/05.webp",
+        "assets/products/minkang/235531424/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/5f7d76d806/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/235531424/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:49:04.066Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:24:06.014Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -217918,7 +218132,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "MLS",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "MLS",
@@ -217930,15 +218144,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/237392659/01.webp"
+        "assets/products/minkang/237392659/01.webp",
+        "assets/products/minkang/237392659/02.webp",
+        "assets/products/minkang/237392659/03.webp",
+        "assets/products/minkang/237392659/04.webp",
+        "assets/products/minkang/237392659/05.webp",
+        "assets/products/minkang/237392659/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/880cee66ec/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/237392659/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:49:41.489Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:24:19.062Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -218024,7 +218243,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "MLS",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "MLS",
@@ -218036,15 +218255,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/251866539/01.webp"
+        "assets/products/minkang/251866539/01.webp",
+        "assets/products/minkang/251866539/02.webp",
+        "assets/products/minkang/251866539/03.webp",
+        "assets/products/minkang/251866539/04.webp",
+        "assets/products/minkang/251866539/05.webp",
+        "assets/products/minkang/251866539/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/ebdb6e3415/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/251866539/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:53:47.434Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:23:58.365Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -218056,7 +218280,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "MLS",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "MLS",
@@ -218068,15 +218292,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/228200363/01.webp"
+        "assets/products/minkang/228200363/01.webp",
+        "assets/products/minkang/228200363/02.webp",
+        "assets/products/minkang/228200363/03.webp",
+        "assets/products/minkang/228200363/04.webp",
+        "assets/products/minkang/228200363/05.webp",
+        "assets/products/minkang/228200363/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/bd54fe19/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/228200363/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:47:40.752Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:24:27.430Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -705546,10 +705775,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Ligue 1",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -705558,15 +705787,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/219522196/01.webp"
+        "assets/products/minkang/219522196/01.webp",
+        "assets/products/minkang/219522196/02.webp",
+        "assets/products/minkang/219522196/03.webp",
+        "assets/products/minkang/219522196/04.webp",
+        "assets/products/minkang/219522196/05.webp",
+        "assets/products/minkang/219522196/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/1c8c37f8/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/219522196/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:45:01.821Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:23:09.159Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -705578,10 +705812,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Ligue 1",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -705590,15 +705824,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/219398686/01.webp"
+        "assets/products/minkang/219398686/01.webp",
+        "assets/products/minkang/219398686/02.webp",
+        "assets/products/minkang/219398686/03.webp",
+        "assets/products/minkang/219398686/04.webp",
+        "assets/products/minkang/219398686/05.webp",
+        "assets/products/minkang/219398686/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/73c9e156/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/219398686/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:45:01.546Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:23:12.212Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -705646,10 +705885,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Ligue 1",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -705658,15 +705897,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/226671422/01.webp"
+        "assets/products/minkang/226671422/01.webp",
+        "assets/products/minkang/226671422/02.webp",
+        "assets/products/minkang/226671422/03.webp",
+        "assets/products/minkang/226671422/04.webp",
+        "assets/products/minkang/226671422/05.webp",
+        "assets/products/minkang/226671422/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/80c396ab/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/226671422/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:47:29.666Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:22:15.612Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -705678,10 +705922,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Ligue 1",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -705690,15 +705934,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/238462172/01.webp"
+        "assets/products/minkang/238462172/01.webp",
+        "assets/products/minkang/238462172/02.webp",
+        "assets/products/minkang/238462172/03.webp",
+        "assets/products/minkang/238462172/04.webp",
+        "assets/products/minkang/238462172/05.webp",
+        "assets/products/minkang/238462172/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/73399da431/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/238462172/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:49:47.725Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:21:38.448Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -705746,10 +705995,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Ligue 1",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -705758,15 +706007,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/224798928/01.webp"
+        "assets/products/minkang/224798928/01.webp",
+        "assets/products/minkang/224798928/02.webp",
+        "assets/products/minkang/224798928/03.webp",
+        "assets/products/minkang/224798928/04.webp",
+        "assets/products/minkang/224798928/05.webp",
+        "assets/products/minkang/224798928/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/02e8c14c/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/224798928/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:47:04.618Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:21:43.540Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -705814,10 +706068,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Ligue 1",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -705826,15 +706080,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/252347902/01.webp"
+        "assets/products/minkang/252347902/01.webp",
+        "assets/products/minkang/252347902/02.webp",
+        "assets/products/minkang/252347902/03.webp",
+        "assets/products/minkang/252347902/04.webp",
+        "assets/products/minkang/252347902/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/b3746acb48/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/252347902/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:55:34.390Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T02:20:29.089Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -705846,10 +706104,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Ligue 1",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -705858,15 +706116,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/244623564/01.webp"
+        "assets/products/minkang/244623564/01.webp",
+        "assets/products/minkang/244623564/02.webp",
+        "assets/products/minkang/244623564/03.webp",
+        "assets/products/minkang/244623564/04.webp",
+        "assets/products/minkang/244623564/05.webp",
+        "assets/products/minkang/244623564/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/7a13165fbd/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/244623564/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:51:21.111Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:21:19.450Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -705878,10 +706141,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Ligue 1",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -705890,30 +706153,35 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/244623738/01.webp"
+        "assets/products/minkang/244623738/01.webp",
+        "assets/products/minkang/244623738/02.webp",
+        "assets/products/minkang/244623738/03.webp",
+        "assets/products/minkang/244623738/04.webp",
+        "assets/products/minkang/244623738/05.webp",
+        "assets/products/minkang/244623738/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/509bcdf215/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/244623738/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:51:21.087Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:21:21.920Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
       "sourcePriority": 1,
       "sourceId": "245426206",
       "uniqueKey": "minkang:245426206",
-      "title": "RC Lens 26/27 Home Kids Kit Jersey Size 16-2811",
+      "title": "RC Lens 26/27 Home Kids Kit Jersey Size：16-2811",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/245426206",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Ligue 1",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -705922,15 +706190,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/245426206/01.webp"
+        "assets/products/minkang/245426206/01.webp",
+        "assets/products/minkang/245426206/02.webp",
+        "assets/products/minkang/245426206/03.webp",
+        "assets/products/minkang/245426206/04.webp",
+        "assets/products/minkang/245426206/05.webp",
+        "assets/products/minkang/245426206/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/aceb0d3ff7/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/245426206/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:51:49.971Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:21:08.006Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -706122,10 +706395,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Ligue 1",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -706134,15 +706407,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/244624161/01.webp"
+        "assets/products/minkang/244624161/01.webp",
+        "assets/products/minkang/244624161/02.webp",
+        "assets/products/minkang/244624161/03.webp",
+        "assets/products/minkang/244624161/04.webp",
+        "assets/products/minkang/244624161/05.webp",
+        "assets/products/minkang/244624161/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/18ae3508cc/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/244624161/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:51:22.463Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:21:14.906Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -706154,10 +706432,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Ligue 1",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -706166,15 +706444,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/229900455/01.webp"
+        "assets/products/minkang/229900455/01.webp",
+        "assets/products/minkang/229900455/02.webp",
+        "assets/products/minkang/229900455/03.webp",
+        "assets/products/minkang/229900455/04.webp",
+        "assets/products/minkang/229900455/05.webp",
+        "assets/products/minkang/229900455/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/a18c7d1c/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/229900455/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:47:58.470Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:22:07.450Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -715561,10 +715844,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "MLS",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "MLS",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -715572,16 +715855,21 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/188798731/01.webp"
+        "assets/products/minkang/188798731/01.webp",
+        "assets/products/minkang/188798731/02.webp",
+        "assets/products/minkang/188798731/03.webp",
+        "assets/products/minkang/188798731/04.webp",
+        "assets/products/minkang/188798731/05.webp",
+        "assets/products/minkang/188798731/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/4c0e4da1/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/188798731/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:41:41.822Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:24:45.516Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -715689,10 +715977,10 @@
       "categoryId": "724814",
       "collectionId": "724814",
       "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "MLS",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "MLS",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -715701,15 +715989,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/214653197/01.webp"
+        "assets/products/minkang/214653197/01.webp",
+        "assets/products/minkang/214653197/02.webp",
+        "assets/products/minkang/214653197/03.webp",
+        "assets/products/minkang/214653197/04.webp",
+        "assets/products/minkang/214653197/05.webp",
+        "assets/products/minkang/214653197/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/0c3f4173/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/214653197/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:44:06.501Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:24:36.133Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -715721,10 +716014,10 @@
       "categoryId": "724814",
       "collectionId": "724814",
       "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "MLS",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "MLS",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -715733,15 +716026,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/214780466/01.webp"
+        "assets/products/minkang/214780466/01.webp",
+        "assets/products/minkang/214780466/02.webp",
+        "assets/products/minkang/214780466/03.webp",
+        "assets/products/minkang/214780466/04.webp",
+        "assets/products/minkang/214780466/05.webp",
+        "assets/products/minkang/214780466/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/1398028e/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/214780466/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:44:07.319Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:24:40.166Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -716027,10 +716325,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "MLS",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "MLS",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -716039,15 +716337,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/251866777/01.webp"
+        "assets/products/minkang/251866777/01.webp",
+        "assets/products/minkang/251866777/02.webp",
+        "assets/products/minkang/251866777/03.webp",
+        "assets/products/minkang/251866777/04.webp",
+        "assets/products/minkang/251866777/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/69297f44d9/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/251866777/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:53:53.446Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T02:23:59.404Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -716163,10 +716465,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "MLS",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "MLS",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -716175,15 +716477,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/252347818/01.webp"
+        "assets/products/minkang/252347818/01.webp",
+        "assets/products/minkang/252347818/02.webp",
+        "assets/products/minkang/252347818/03.webp",
+        "assets/products/minkang/252347818/04.webp",
+        "assets/products/minkang/252347818/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/aaf6b741e0/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/252347818/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:55:31.917Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T02:23:52.201Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -716259,10 +716565,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "MLS",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "MLS",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -716271,15 +716577,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/251868237/01.webp"
+        "assets/products/minkang/251868237/01.webp",
+        "assets/products/minkang/251868237/02.webp",
+        "assets/products/minkang/251868237/03.webp",
+        "assets/products/minkang/251868237/04.webp",
+        "assets/products/minkang/251868237/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/be7946a2d2/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/251868237/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:54:26.811Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T02:23:45.532Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -716291,10 +716601,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "MLS",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "MLS",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -716303,15 +716613,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/226515943/01.webp"
+        "assets/products/minkang/226515943/01.webp",
+        "assets/products/minkang/226515943/02.webp",
+        "assets/products/minkang/226515943/03.webp",
+        "assets/products/minkang/226515943/04.webp",
+        "assets/products/minkang/226515943/05.webp",
+        "assets/products/minkang/226515943/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/91e09a0d/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/226515943/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:47:17.345Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:24:28.650Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -716395,10 +716710,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "MLS",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "MLS",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -716407,15 +716722,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/251867184/01.webp"
+        "assets/products/minkang/251867184/01.webp",
+        "assets/products/minkang/251867184/02.webp",
+        "assets/products/minkang/251867184/03.webp",
+        "assets/products/minkang/251867184/04.webp",
+        "assets/products/minkang/251867184/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/3f23ff6079/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/251867184/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:54:04.605Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T02:23:51.758Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -716463,10 +716782,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "MLS",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "MLS",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -716475,15 +716794,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/220231680/01.webp"
+        "assets/products/minkang/220231680/01.webp",
+        "assets/products/minkang/220231680/02.webp",
+        "assets/products/minkang/220231680/03.webp",
+        "assets/products/minkang/220231680/04.webp",
+        "assets/products/minkang/220231680/05.webp",
+        "assets/products/minkang/220231680/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/9a6f1cd0/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/220231680/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:45:09.803Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:24:32.727Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -934815,7 +935139,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -934827,15 +935151,20 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/minkang/219394799/01.webp"
+        "assets/products/minkang/219394799/01.webp",
+        "assets/products/minkang/219394799/02.webp",
+        "assets/products/minkang/219394799/03.webp",
+        "assets/products/minkang/219394799/04.webp",
+        "assets/products/minkang/219394799/05.webp",
+        "assets/products/minkang/219394799/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/e5cc46eb/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/219394799/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:44:59.294Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:23:18.022Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -934847,7 +935176,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -934859,15 +935188,20 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/minkang/223853032/01.webp"
+        "assets/products/minkang/223853032/01.webp",
+        "assets/products/minkang/223853032/02.webp",
+        "assets/products/minkang/223853032/03.webp",
+        "assets/products/minkang/223853032/04.webp",
+        "assets/products/minkang/223853032/05.webp",
+        "assets/products/minkang/223853032/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/e636b0e6/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/223853032/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:46:55.977Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:22:31.898Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -934879,7 +935213,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -934891,15 +935225,20 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/minkang/223853167/01.webp"
+        "assets/products/minkang/223853167/01.webp",
+        "assets/products/minkang/223853167/02.webp",
+        "assets/products/minkang/223853167/03.webp",
+        "assets/products/minkang/223853167/04.webp",
+        "assets/products/minkang/223853167/05.webp",
+        "assets/products/minkang/223853167/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/42ad34ca/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/223853167/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:46:56.150Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:22:21.582Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -935324,7 +935663,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -935336,15 +935675,19 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/minkang/252957915/01.webp"
+        "assets/products/minkang/252957915/01.webp",
+        "assets/products/minkang/252957915/02.webp",
+        "assets/products/minkang/252957915/03.webp",
+        "assets/products/minkang/252957915/04.webp",
+        "assets/products/minkang/252957915/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/7297bd47b3/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/252957915/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:55:51.893Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T02:20:00.169Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -935356,7 +935699,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -935368,15 +935711,20 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/minkang/247795839/01.webp"
+        "assets/products/minkang/247795839/01.webp",
+        "assets/products/minkang/247795839/02.webp",
+        "assets/products/minkang/247795839/03.webp",
+        "assets/products/minkang/247795839/04.webp",
+        "assets/products/minkang/247795839/05.webp",
+        "assets/products/minkang/247795839/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/35cc1a5122/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/247795839/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:53:03.935Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:20:52.983Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -935388,7 +935736,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -935400,15 +935748,19 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/minkang/251870184/01.webp"
+        "assets/products/minkang/251870184/01.webp",
+        "assets/products/minkang/251870184/02.webp",
+        "assets/products/minkang/251870184/03.webp",
+        "assets/products/minkang/251870184/04.webp",
+        "assets/products/minkang/251870184/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/752532da54/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/251870184/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:54:54.422Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T02:20:22.414Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -935674,7 +936026,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -935686,15 +936038,20 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/minkang/221176703/01.webp"
+        "assets/products/minkang/221176703/01.webp",
+        "assets/products/minkang/221176703/02.webp",
+        "assets/products/minkang/221176703/03.webp",
+        "assets/products/minkang/221176703/04.webp",
+        "assets/products/minkang/221176703/05.webp",
+        "assets/products/minkang/221176703/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/65e0be6d/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/221176703/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:45:18.981Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:22:52.554Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -935706,7 +936063,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Ligue 1",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -935718,15 +936075,20 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/minkang/221176745/01.webp"
+        "assets/products/minkang/221176745/01.webp",
+        "assets/products/minkang/221176745/02.webp",
+        "assets/products/minkang/221176745/03.webp",
+        "assets/products/minkang/221176745/04.webp",
+        "assets/products/minkang/221176745/05.webp",
+        "assets/products/minkang/221176745/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/712ee44b/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/221176745/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:45:18.854Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T02:22:45.889Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
