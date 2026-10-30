@@ -1,5 +1,5 @@
 {
-  "lastSync": "2026-10-30T14:28:39.830Z",
+  "lastSync": "2026-10-30T14:33:33.094Z",
   "status": "running",
   "currentSource": "popmo",
   "products": [
@@ -221336,7 +221336,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "USA MLS",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "MLS",
@@ -221348,15 +221348,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/231667595/01.webp"
+        "assets/products/popmo/231667595/01.webp",
+        "assets/products/popmo/231667595/02.webp",
+        "assets/products/popmo/231667595/03.webp",
+        "assets/products/popmo/231667595/04.webp",
+        "assets/products/popmo/231667595/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/d88db992/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/231667595/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:04:39.413Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T14:29:30.713Z",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "yema007:253424969",
@@ -221577,7 +221581,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "USA MLS",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "MLS",
@@ -221589,15 +221593,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/249629791/01.webp"
+        "assets/products/popmo/249629791/01.webp",
+        "assets/products/popmo/249629791/02.webp",
+        "assets/products/popmo/249629791/03.webp",
+        "assets/products/popmo/249629791/04.webp",
+        "assets/products/popmo/249629791/05.webp",
+        "assets/products/popmo/249629791/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/86c44a4c2f/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/249629791/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:12:22.098Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T14:28:55.057Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -223749,7 +223758,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "USA MLS",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "MLS",
@@ -223761,15 +223770,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/230666337/01.webp"
+        "assets/products/popmo/230666337/01.webp",
+        "assets/products/popmo/230666337/02.webp",
+        "assets/products/popmo/230666337/03.webp",
+        "assets/products/popmo/230666337/04.webp",
+        "assets/products/popmo/230666337/05.webp",
+        "assets/products/popmo/230666337/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/93ec2448/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/230666337/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:04:27.155Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T14:29:35.151Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -309579,7 +309593,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Portuguese League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Primeira Liga",
@@ -309591,15 +309605,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/215664221/01.webp"
+        "assets/products/popmo/215664221/01.webp",
+        "assets/products/popmo/215664221/02.webp",
+        "assets/products/popmo/215664221/03.webp",
+        "assets/products/popmo/215664221/04.webp",
+        "assets/products/popmo/215664221/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/4fcfc28f/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/215664221/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:02:13.313Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T14:28:52.434Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -314785,7 +314803,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -314797,15 +314815,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/250315665/01.webp"
+        "assets/products/popmo/250315665/01.webp",
+        "assets/products/popmo/250315665/02.webp",
+        "assets/products/popmo/250315665/03.webp",
+        "assets/products/popmo/250315665/04.webp",
+        "assets/products/popmo/250315665/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/f85e70c3f5/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/250315665/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:12:43.742Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T14:32:47.947Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -315059,7 +315081,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -315071,15 +315093,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/253464899/01.webp"
+        "assets/products/popmo/253464899/01.webp",
+        "assets/products/popmo/253464899/02.webp",
+        "assets/products/popmo/253464899/03.webp",
+        "assets/products/popmo/253464899/04.webp",
+        "assets/products/popmo/253464899/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/0b6866c2da/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/253464899/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:14:10.634Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T14:32:15.224Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -357847,15 +357873,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/259831950/01.webp"
+        "assets/products/popmo/259831950/01.webp",
+        "assets/products/popmo/259831950/02.webp",
+        "assets/products/popmo/259831950/03.webp",
+        "assets/products/popmo/259831950/04.webp",
+        "assets/products/popmo/259831950/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/cc1efaf6ea/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/259831950/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:16:39.329Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T14:31:20.943Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -357879,15 +357909,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/259832082/01.webp"
+        "assets/products/popmo/259832082/01.webp",
+        "assets/products/popmo/259832082/02.webp",
+        "assets/products/popmo/259832082/03.webp",
+        "assets/products/popmo/259832082/04.webp",
+        "assets/products/popmo/259832082/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/dc24024f4c/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/259832082/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:16:39.559Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T14:31:19.671Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -498029,27 +498063,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "USA MLS",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "USA",
-      "country": "USA",
-      "competition": "Landenteams",
-      "club": "USA",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/218996820/01.webp"
+        "assets/products/popmo/218996820/01.webp",
+        "assets/products/popmo/218996820/02.webp",
+        "assets/products/popmo/218996820/03.webp",
+        "assets/products/popmo/218996820/04.webp",
+        "assets/products/popmo/218996820/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/77595cf7/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/218996820/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:02:54.683Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T14:30:20.939Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -498061,27 +498099,32 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "USA MLS",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "USA",
-      "country": "USA",
-      "competition": "Landenteams",
-      "club": "USA",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/209858699/01.webp"
+        "assets/products/popmo/209858699/01.webp",
+        "assets/products/popmo/209858699/02.webp",
+        "assets/products/popmo/209858699/03.webp",
+        "assets/products/popmo/209858699/04.webp",
+        "assets/products/popmo/209858699/05.webp",
+        "assets/products/popmo/209858699/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/caf4c210/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/209858699/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:00:50.197Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T14:30:31.890Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -498349,27 +498392,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "USA MLS",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "USA",
-      "country": "USA",
-      "competition": "Landenteams",
-      "club": "USA",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/202322231/01.webp"
+        "assets/products/popmo/202322231/01.webp",
+        "assets/products/popmo/202322231/02.webp",
+        "assets/products/popmo/202322231/03.webp",
+        "assets/products/popmo/202322231/04.webp",
+        "assets/products/popmo/202322231/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/42dedf1d/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/202322231/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:58:25.406Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T14:30:50.603Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -498381,27 +498428,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "USA MLS",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "USA",
-      "country": "USA",
-      "competition": "Landenteams",
-      "club": "USA",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/202322125/01.webp"
+        "assets/products/popmo/202322125/01.webp",
+        "assets/products/popmo/202322125/02.webp",
+        "assets/products/popmo/202322125/03.webp",
+        "assets/products/popmo/202322125/04.webp",
+        "assets/products/popmo/202322125/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/6a13a68f/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/202322125/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:58:24.387Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T14:30:54.348Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -498445,27 +498496,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "USA MLS",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "USA",
-      "country": "USA",
-      "competition": "Landenteams",
-      "club": "USA",
-      "season": "2025-2026",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/208042784/01.webp"
+        "assets/products/popmo/208042784/01.webp",
+        "assets/products/popmo/208042784/02.webp",
+        "assets/products/popmo/208042784/03.webp",
+        "assets/products/popmo/208042784/04.webp",
+        "assets/products/popmo/208042784/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/53e20ca7/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/208042784/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:00:13.493Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T14:30:42.234Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -498664,27 +498719,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "USA MLS",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "USA",
-      "country": "USA",
-      "competition": "Landenteams",
-      "club": "USA",
-      "season": "2025-2026",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/218688948/01.webp"
+        "assets/products/popmo/218688948/01.webp",
+        "assets/products/popmo/218688948/02.webp",
+        "assets/products/popmo/218688948/03.webp",
+        "assets/products/popmo/218688948/04.webp",
+        "assets/products/popmo/218688948/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/4614e44e/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/218688948/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:02:41.842Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T14:30:26.680Z",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:237267540",
@@ -498856,27 +498915,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "USA MLS",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "USA",
-      "country": "USA",
-      "competition": "Landenteams",
-      "club": "USA",
-      "season": "2026-2027",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/236818218/01.webp"
+        "assets/products/popmo/236818218/01.webp",
+        "assets/products/popmo/236818218/02.webp",
+        "assets/products/popmo/236818218/03.webp",
+        "assets/products/popmo/236818218/04.webp",
+        "assets/products/popmo/236818218/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/6d7e483290/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/236818218/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:06:10.623Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T14:29:12.722Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -498888,27 +498951,32 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "USA MLS",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "USA",
-      "country": "USA",
-      "competition": "Landenteams",
-      "club": "USA",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/227647824/01.webp"
+        "assets/products/popmo/227647824/01.webp",
+        "assets/products/popmo/227647824/02.webp",
+        "assets/products/popmo/227647824/03.webp",
+        "assets/products/popmo/227647824/04.webp",
+        "assets/products/popmo/227647824/05.webp",
+        "assets/products/popmo/227647824/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/6ab89e96/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/227647824/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:03:55.920Z",
-      "season": "2026-2027",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T14:29:57.220Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -498920,27 +498988,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "USA MLS",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "USA",
-      "country": "USA",
-      "competition": "Landenteams",
-      "club": "USA",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/227830075/01.webp"
+        "assets/products/popmo/227830075/01.webp",
+        "assets/products/popmo/227830075/02.webp",
+        "assets/products/popmo/227830075/03.webp",
+        "assets/products/popmo/227830075/04.webp",
+        "assets/products/popmo/227830075/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/fd31e067/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/227830075/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:03:58.385Z",
-      "season": "2026-2027",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T14:30:12.025Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -498952,27 +499024,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "USA MLS",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "USA",
-      "country": "USA",
-      "competition": "Landenteams",
-      "club": "USA",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/227043133/01.webp"
+        "assets/products/popmo/227043133/01.webp",
+        "assets/products/popmo/227043133/02.webp",
+        "assets/products/popmo/227043133/03.webp",
+        "assets/products/popmo/227043133/04.webp",
+        "assets/products/popmo/227043133/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/0a9b4eac/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/227043133/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:03:48.867Z",
-      "season": "2026-2027",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T14:30:17.553Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -498984,27 +499060,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "USA MLS",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "USA",
-      "country": "USA",
-      "competition": "Landenteams",
-      "club": "USA",
-      "season": "2026-2027",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/227045069/01.webp"
+        "assets/products/popmo/227045069/01.webp",
+        "assets/products/popmo/227045069/02.webp",
+        "assets/products/popmo/227045069/03.webp",
+        "assets/products/popmo/227045069/04.webp",
+        "assets/products/popmo/227045069/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/5a890972/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/227045069/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:03:50.377Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T14:30:07.638Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -499016,27 +499096,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "USA MLS",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "USA",
-      "country": "USA",
-      "competition": "Landenteams",
-      "club": "USA",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/248758885/01.webp"
+        "assets/products/popmo/248758885/01.webp",
+        "assets/products/popmo/248758885/02.webp",
+        "assets/products/popmo/248758885/03.webp",
+        "assets/products/popmo/248758885/04.webp",
+        "assets/products/popmo/248758885/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/b906bc47e4/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/248758885/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:11:28.149Z",
-      "season": "2026-2027",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T14:29:02.629Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -499048,27 +499132,31 @@
       "categoryId": null,
       "collectionId": "4911738",
       "sourceCollection": "Home | QIQIYG.COM POPMO Official: +84 775508751 | Supplier Product Catalog",
-      "sourceCategory": "USA MLS",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "USA",
-      "country": "USA",
-      "competition": "Landenteams",
-      "club": "USA",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/239144770/01.webp"
+        "assets/products/popmo/239144770/01.webp",
+        "assets/products/popmo/239144770/02.webp",
+        "assets/products/popmo/239144770/03.webp",
+        "assets/products/popmo/239144770/04.webp",
+        "assets/products/popmo/239144770/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/d11060539b/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/239144770/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:06:38.779Z",
-      "season": "2026-2027",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T14:29:12.857Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -499080,27 +499168,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "USA MLS",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "USA",
-      "country": "USA",
-      "competition": "Landenteams",
-      "club": "USA",
-      "season": "2026-2027",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/228850111/01.webp"
+        "assets/products/popmo/228850111/01.webp",
+        "assets/products/popmo/228850111/02.webp",
+        "assets/products/popmo/228850111/03.webp",
+        "assets/products/popmo/228850111/04.webp",
+        "assets/products/popmo/228850111/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/c4e48f2f/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/228850111/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:04:15.013Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T14:29:46.695Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -499112,27 +499204,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "USA MLS",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "USA",
-      "country": "USA",
-      "competition": "Landenteams",
-      "club": "USA",
-      "season": "2026-2027",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/232763521/01.webp"
+        "assets/products/popmo/232763521/01.webp",
+        "assets/products/popmo/232763521/02.webp",
+        "assets/products/popmo/232763521/03.webp",
+        "assets/products/popmo/232763521/04.webp",
+        "assets/products/popmo/232763521/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/33ff6e3d/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/232763521/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:04:43.964Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T14:29:22.533Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -499144,27 +499240,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "USA MLS",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "USA",
-      "country": "USA",
-      "competition": "Landenteams",
-      "club": "USA",
-      "season": "2026-2027",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/233895234/01.webp"
+        "assets/products/popmo/233895234/01.webp",
+        "assets/products/popmo/233895234/02.webp",
+        "assets/products/popmo/233895234/03.webp",
+        "assets/products/popmo/233895234/04.webp",
+        "assets/products/popmo/233895234/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/5094f68674/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/233895234/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:05:06.533Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T14:29:20.386Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -499327,27 +499427,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "USA MLS",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "USA",
-      "country": "USA",
-      "competition": "Landenteams",
-      "club": "USA",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/227867483/01.webp"
+        "assets/products/popmo/227867483/01.webp",
+        "assets/products/popmo/227867483/02.webp",
+        "assets/products/popmo/227867483/03.webp",
+        "assets/products/popmo/227867483/04.webp",
+        "assets/products/popmo/227867483/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/db384df5/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/227867483/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:04:00.648Z",
-      "season": "2026-2027",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T14:29:48.792Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -499359,27 +499463,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "USA MLS",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "USA",
-      "country": "USA",
-      "competition": "Landenteams",
-      "club": "USA",
-      "season": "2026-2027",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/239144875/01.webp"
+        "assets/products/popmo/239144875/01.webp",
+        "assets/products/popmo/239144875/02.webp",
+        "assets/products/popmo/239144875/03.webp",
+        "assets/products/popmo/239144875/04.webp",
+        "assets/products/popmo/239144875/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/485f326c50/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/239144875/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:06:38.920Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T14:29:05.308Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -500882,27 +500990,32 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "USA MLS",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "USA",
-      "country": "USA",
-      "competition": "Landenteams",
-      "club": "USA",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/209452437/01.webp"
+        "assets/products/popmo/209452437/01.webp",
+        "assets/products/popmo/209452437/02.webp",
+        "assets/products/popmo/209452437/03.webp",
+        "assets/products/popmo/209452437/04.webp",
+        "assets/products/popmo/209452437/05.webp",
+        "assets/products/popmo/209452437/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/bb16a01c/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/209452437/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:00:42.378Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T14:30:42.390Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -500914,27 +501027,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "USA MLS",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "USA",
-      "country": "USA",
-      "competition": "Landenteams",
-      "club": "USA",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/230217671/01.webp"
+        "assets/products/popmo/230217671/01.webp",
+        "assets/products/popmo/230217671/02.webp",
+        "assets/products/popmo/230217671/03.webp",
+        "assets/products/popmo/230217671/04.webp",
+        "assets/products/popmo/230217671/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/8534fa63/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/230217671/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:04:25.387Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T14:29:40.650Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -741152,15 +741269,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/259831111/01.webp"
+        "assets/products/popmo/259831111/01.webp",
+        "assets/products/popmo/259831111/02.webp",
+        "assets/products/popmo/259831111/03.webp",
+        "assets/products/popmo/259831111/04.webp",
+        "assets/products/popmo/259831111/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/25d3750194/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/259831111/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:16:37.024Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T14:31:36.812Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -741184,15 +741305,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/259831268/01.webp"
+        "assets/products/popmo/259831268/01.webp",
+        "assets/products/popmo/259831268/02.webp",
+        "assets/products/popmo/259831268/03.webp",
+        "assets/products/popmo/259831268/04.webp",
+        "assets/products/popmo/259831268/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/fbbc5ced4e/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/259831268/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:16:37.208Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T14:31:43.089Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -741216,15 +741341,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/259830992/01.webp"
+        "assets/products/popmo/259830992/01.webp",
+        "assets/products/popmo/259830992/02.webp",
+        "assets/products/popmo/259830992/03.webp",
+        "assets/products/popmo/259830992/04.webp",
+        "assets/products/popmo/259830992/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/79feef1b90/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/259830992/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:16:35.490Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T14:31:47.166Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -744765,15 +744894,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/259836387/01.webp"
+        "assets/products/popmo/259836387/01.webp",
+        "assets/products/popmo/259836387/02.webp",
+        "assets/products/popmo/259836387/03.webp",
+        "assets/products/popmo/259836387/04.webp",
+        "assets/products/popmo/259836387/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/03337a5592/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/259836387/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:16:45.821Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T14:31:08.419Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -746653,10 +746786,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "more",
+      "sourceCategory": "Other South America clubs",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "more",
+      "subcategory": "Other South America clubs",
       "country": "",
       "competition": "",
       "club": "",
@@ -746665,15 +746798,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/259830514/01.webp"
+        "assets/products/popmo/259830514/01.webp",
+        "assets/products/popmo/259830514/02.webp",
+        "assets/products/popmo/259830514/03.webp",
+        "assets/products/popmo/259830514/04.webp",
+        "assets/products/popmo/259830514/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/2e5aca58b5/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/259830514/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:16:33.814Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T14:33:23.297Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -748340,16 +748477,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/256609876/01.webp"
+        "assets/products/popmo/256609876/01.webp",
+        "assets/products/popmo/256609876/02.webp",
+        "assets/products/popmo/256609876/03.webp",
+        "assets/products/popmo/256609876/04.webp",
+        "assets/products/popmo/256609876/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/3f63470799/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/256609876/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:15:44.043Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T14:31:57.592Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -748614,16 +748755,18 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/256056501/01.webp"
+        "assets/products/popmo/256056501/01.webp",
+        "assets/products/popmo/256056501/02.webp",
+        "assets/products/popmo/256056501/03.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/a195fc634b/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/256056501/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:15:20.288Z",
+      "imageCount": 3,
+      "updatedAt": "2026-10-30T14:31:54.133Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -810472,10 +810615,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -810483,16 +810626,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/249673307/01.webp"
+        "assets/products/popmo/249673307/01.webp",
+        "assets/products/popmo/249673307/02.webp",
+        "assets/products/popmo/249673307/03.webp",
+        "assets/products/popmo/249673307/04.webp",
+        "assets/products/popmo/249673307/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/1df93ca73c/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/249673307/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:12:27.069Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T14:32:51.939Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -811516,10 +811663,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -811528,15 +811675,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/251044195/01.webp"
+        "assets/products/popmo/251044195/01.webp",
+        "assets/products/popmo/251044195/02.webp",
+        "assets/products/popmo/251044195/03.webp",
+        "assets/products/popmo/251044195/04.webp",
+        "assets/products/popmo/251044195/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/e4a497e5b1/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/251044195/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:12:57.140Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T14:32:39.196Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -811580,10 +811731,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -811592,15 +811743,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/242904681/01.webp"
+        "assets/products/popmo/242904681/01.webp",
+        "assets/products/popmo/242904681/02.webp",
+        "assets/products/popmo/242904681/03.webp",
+        "assets/products/popmo/242904681/04.webp",
+        "assets/products/popmo/242904681/05.webp",
+        "assets/products/popmo/242904681/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/eb05bc9b79/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/242904681/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:07:45.290Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T14:33:14.510Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -811676,10 +811832,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -811687,16 +811843,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/239987454/01.webp"
+        "assets/products/popmo/239987454/01.webp",
+        "assets/products/popmo/239987454/02.webp",
+        "assets/products/popmo/239987454/03.webp",
+        "assets/products/popmo/239987454/04.webp",
+        "assets/products/popmo/239987454/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/e2553a29aa/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/239987454/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:06:57.867Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T14:33:12.694Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -811772,10 +811932,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -811784,15 +811944,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/251045044/01.webp"
+        "assets/products/popmo/251045044/01.webp",
+        "assets/products/popmo/251045044/02.webp",
+        "assets/products/popmo/251045044/03.webp",
+        "assets/products/popmo/251045044/04.webp",
+        "assets/products/popmo/251045044/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/cf3bb2766f/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/251045044/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:13:00.780Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T14:32:36.479Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -811836,10 +812000,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -811848,15 +812012,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/246864050/01.webp"
+        "assets/products/popmo/246864050/01.webp",
+        "assets/products/popmo/246864050/02.webp",
+        "assets/products/popmo/246864050/03.webp",
+        "assets/products/popmo/246864050/04.webp",
+        "assets/products/popmo/246864050/05.webp",
+        "assets/products/popmo/246864050/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/4621e0780e/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/246864050/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:10:22.297Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T14:32:57.777Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -811868,10 +812037,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -811880,15 +812049,17 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/251051051/01.webp"
+        "assets/products/popmo/251051051/01.webp",
+        "assets/products/popmo/251051051/02.webp",
+        "assets/products/popmo/251051051/03.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/a24fbb8e5c/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/251051051/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:13:06.756Z",
-      "classificationVersion": 1
+      "imageCount": 3,
+      "updatedAt": "2026-10-30T14:32:25.663Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -811900,10 +812071,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -811912,15 +812083,17 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/251051362/01.webp"
+        "assets/products/popmo/251051362/01.webp",
+        "assets/products/popmo/251051362/02.webp",
+        "assets/products/popmo/251051362/03.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/34ac4fd4ec/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/251051362/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:13:07.863Z",
-      "classificationVersion": 1
+      "imageCount": 3,
+      "updatedAt": "2026-10-30T14:32:25.134Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -811932,10 +812105,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -811944,15 +812117,17 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/251051397/01.webp"
+        "assets/products/popmo/251051397/01.webp",
+        "assets/products/popmo/251051397/02.webp",
+        "assets/products/popmo/251051397/03.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/66e90d00f2/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/251051397/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:13:09.128Z",
-      "classificationVersion": 1
+      "imageCount": 3,
+      "updatedAt": "2026-10-30T14:32:19.498Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -811996,10 +812171,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -812008,15 +812183,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/244863320/01.webp"
+        "assets/products/popmo/244863320/01.webp",
+        "assets/products/popmo/244863320/02.webp",
+        "assets/products/popmo/244863320/03.webp",
+        "assets/products/popmo/244863320/04.webp",
+        "assets/products/popmo/244863320/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/82ac8676d0/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/244863320/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:09:41.170Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T14:33:00.747Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -812028,10 +812207,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -812039,16 +812218,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/253906629/01.webp"
+        "assets/products/popmo/253906629/01.webp",
+        "assets/products/popmo/253906629/02.webp",
+        "assets/products/popmo/253906629/03.webp",
+        "assets/products/popmo/253906629/04.webp",
+        "assets/products/popmo/253906629/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/a35a7dc80f/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/253906629/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:14:29.006Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T14:32:11.032Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -812060,10 +812243,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -812071,16 +812254,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/253906797/01.webp"
+        "assets/products/popmo/253906797/01.webp",
+        "assets/products/popmo/253906797/02.webp",
+        "assets/products/popmo/253906797/03.webp",
+        "assets/products/popmo/253906797/04.webp",
+        "assets/products/popmo/253906797/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/36ec4a3082/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/253906797/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:14:29.300Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T14:32:05.188Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -812124,10 +812311,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -812136,15 +812323,17 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/244668806/01.webp"
+        "assets/products/popmo/244668806/01.webp",
+        "assets/products/popmo/244668806/02.webp",
+        "assets/products/popmo/244668806/03.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/045eeb0fc1/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/244668806/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:09:35.974Z",
-      "classificationVersion": 1
+      "imageCount": 3,
+      "updatedAt": "2026-10-30T14:33:04.252Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -812455,16 +812644,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/247884248/01.webp"
+        "assets/products/popmo/247884248/01.webp",
+        "assets/products/popmo/247884248/02.webp",
+        "assets/products/popmo/247884248/03.webp",
+        "assets/products/popmo/247884248/04.webp",
+        "assets/products/popmo/247884248/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/6f00c36aff/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/247884248/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:10:55.969Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T14:33:33.094Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -812519,16 +812712,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/247884660/01.webp"
+        "assets/products/popmo/247884660/01.webp",
+        "assets/products/popmo/247884660/02.webp",
+        "assets/products/popmo/247884660/03.webp",
+        "assets/products/popmo/247884660/04.webp",
+        "assets/products/popmo/247884660/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/dd98cfe071/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/247884660/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:10:56.774Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T14:33:24.192Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
