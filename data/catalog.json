@@ -1,5 +1,5 @@
 {
-  "lastSync": "2026-10-30T10:58:55.612Z",
+  "lastSync": "2026-10-30T11:02:09.427Z",
   "status": "running",
   "currentSource": "yema007",
   "products": [
@@ -133284,7 +133284,7 @@
       "categoryId": null,
       "collectionId": "5217438",
       "sourceCollection": "more",
-      "sourceCategory": "🇪🇸⚽La Liga",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "La Liga",
@@ -133296,15 +133296,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/yema007/259880312/01.webp"
+        "assets/products/yema007/259880312/01.webp",
+        "assets/products/yema007/259880312/02.webp",
+        "assets/products/yema007/259880312/03.webp",
+        "assets/products/yema007/259880312/04.webp",
+        "assets/products/yema007/259880312/05.webp",
+        "assets/products/yema007/259880312/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/62bcd4e24e/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/259880312/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:51:16.172Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T10:59:37.347Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -133472,7 +133477,7 @@
       "categoryId": null,
       "collectionId": "5217438",
       "sourceCollection": "more",
-      "sourceCategory": "🇪🇸⚽La Liga",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "La Liga",
@@ -133484,15 +133489,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/yema007/259879518/01.webp"
+        "assets/products/yema007/259879518/01.webp",
+        "assets/products/yema007/259879518/02.webp",
+        "assets/products/yema007/259879518/03.webp",
+        "assets/products/yema007/259879518/04.webp",
+        "assets/products/yema007/259879518/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/006b7dbfd0/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/259879518/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:49:28.810Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T11:00:02.466Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -133504,7 +133513,7 @@
       "categoryId": null,
       "collectionId": "5217438",
       "sourceCollection": "more",
-      "sourceCategory": "🇪🇸⚽La Liga",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "La Liga",
@@ -133516,15 +133525,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/yema007/259879528/01.webp"
+        "assets/products/yema007/259879528/01.webp",
+        "assets/products/yema007/259879528/02.webp",
+        "assets/products/yema007/259879528/03.webp",
+        "assets/products/yema007/259879528/04.webp",
+        "assets/products/yema007/259879528/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/8330be1c72/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/259879528/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:49:31.600Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T11:00:01.751Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -133536,7 +133549,7 @@
       "categoryId": null,
       "collectionId": "5217438",
       "sourceCollection": "more",
-      "sourceCategory": "🇪🇸⚽La Liga",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "La Liga",
@@ -133548,15 +133561,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/yema007/259879486/01.webp"
+        "assets/products/yema007/259879486/01.webp",
+        "assets/products/yema007/259879486/02.webp",
+        "assets/products/yema007/259879486/03.webp",
+        "assets/products/yema007/259879486/04.webp",
+        "assets/products/yema007/259879486/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/7563a0ec31/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/259879486/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:49:28.485Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T11:00:09.861Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -134095,7 +134112,7 @@
       "categoryId": null,
       "collectionId": "5217438",
       "sourceCollection": "more",
-      "sourceCategory": "🇪🇸⚽La Liga",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "La Liga",
@@ -134107,15 +134124,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/yema007/259880305/01.webp"
+        "assets/products/yema007/259880305/01.webp",
+        "assets/products/yema007/259880305/02.webp",
+        "assets/products/yema007/259880305/03.webp",
+        "assets/products/yema007/259880305/04.webp",
+        "assets/products/yema007/259880305/05.webp",
+        "assets/products/yema007/259880305/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/28c2bb4d48/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/259880305/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:51:14.733Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T10:59:51.122Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -135721,7 +135743,7 @@
       "categoryId": null,
       "collectionId": "5217438",
       "sourceCollection": "more",
-      "sourceCategory": "🇪🇸⚽La Liga",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "La Liga",
@@ -135733,15 +135755,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/yema007/259880309/01.webp"
+        "assets/products/yema007/259880309/01.webp",
+        "assets/products/yema007/259880309/02.webp",
+        "assets/products/yema007/259880309/03.webp",
+        "assets/products/yema007/259880309/04.webp",
+        "assets/products/yema007/259880309/05.webp",
+        "assets/products/yema007/259880309/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/fd7d007385/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/259880309/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:51:15.685Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T10:59:48.071Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -176209,7 +176236,7 @@
       "categoryId": null,
       "collectionId": "5217438",
       "sourceCollection": "more",
-      "sourceCategory": "🇪🇸⚽La Liga",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "La Liga",
@@ -176221,15 +176248,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/yema007/259880405/01.webp"
+        "assets/products/yema007/259880405/01.webp",
+        "assets/products/yema007/259880405/02.webp",
+        "assets/products/yema007/259880405/03.webp",
+        "assets/products/yema007/259880405/04.webp",
+        "assets/products/yema007/259880405/05.webp",
+        "assets/products/yema007/259880405/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/18052d23d0/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/259880405/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:51:27.274Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T10:59:36.043Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -178667,7 +178699,7 @@
       "categoryId": null,
       "collectionId": "5217438",
       "sourceCollection": "more",
-      "sourceCategory": "🇪🇸⚽La Liga",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "La Liga",
@@ -178679,15 +178711,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/yema007/259880452/01.webp"
+        "assets/products/yema007/259880452/01.webp",
+        "assets/products/yema007/259880452/02.webp",
+        "assets/products/yema007/259880452/03.webp",
+        "assets/products/yema007/259880452/04.webp",
+        "assets/products/yema007/259880452/05.webp",
+        "assets/products/yema007/259880452/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/5a1ca2b473/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/259880452/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:51:33.003Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T10:59:06.961Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -212685,7 +212722,7 @@
       "categoryId": null,
       "collectionId": "5217438",
       "sourceCollection": "more",
-      "sourceCategory": "🇫🇷⚽LIGUE 1",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -212697,15 +212734,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/yema007/259878323/01.webp"
+        "assets/products/yema007/259878323/01.webp",
+        "assets/products/yema007/259878323/02.webp",
+        "assets/products/yema007/259878323/03.webp",
+        "assets/products/yema007/259878323/04.webp",
+        "assets/products/yema007/259878323/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/579f0ee9b4/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/259878323/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:47:11.811Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T11:00:25.673Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -370395,7 +370436,7 @@
       "categoryId": null,
       "collectionId": "5217435",
       "sourceCollection": "more",
-      "sourceCategory": "👩👗⚽Women's shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Argentina",
@@ -370407,15 +370448,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/yema007/238064268/01.webp"
+        "assets/products/yema007/238064268/01.webp",
+        "assets/products/yema007/238064268/02.webp",
+        "assets/products/yema007/238064268/03.webp",
+        "assets/products/yema007/238064268/04.webp",
+        "assets/products/yema007/238064268/05.webp",
+        "assets/products/yema007/238064268/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/275a0fac35/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/238064268/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:35:23.023Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T11:01:26.461Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -392351,7 +392397,7 @@
       "categoryId": null,
       "collectionId": "5217435",
       "sourceCollection": "more",
-      "sourceCategory": "👩👗⚽Women's shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Colombia",
@@ -392363,15 +392409,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/yema007/238064310/01.webp"
+        "assets/products/yema007/238064310/01.webp",
+        "assets/products/yema007/238064310/02.webp",
+        "assets/products/yema007/238064310/03.webp",
+        "assets/products/yema007/238064310/04.webp",
+        "assets/products/yema007/238064310/05.webp",
+        "assets/products/yema007/238064310/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/4a224a89e4/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/238064310/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:35:23.618Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T11:01:08.614Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -392904,7 +392955,7 @@
       "categoryId": null,
       "collectionId": "5217435",
       "sourceCollection": "more",
-      "sourceCategory": "👩👗⚽Women's shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Colombia",
@@ -392916,15 +392967,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/yema007/237804643/01.webp"
+        "assets/products/yema007/237804643/01.webp",
+        "assets/products/yema007/237804643/02.webp",
+        "assets/products/yema007/237804643/03.webp",
+        "assets/products/yema007/237804643/04.webp",
+        "assets/products/yema007/237804643/05.webp",
+        "assets/products/yema007/237804643/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/6d119da603/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237804643/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:34:56.211Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T11:02:09.427Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -402802,7 +402858,7 @@
       "categoryId": null,
       "collectionId": "5217435",
       "sourceCollection": "more",
-      "sourceCategory": "👩👗⚽Women's shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "England",
@@ -402814,15 +402870,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/yema007/238064363/01.webp"
+        "assets/products/yema007/238064363/01.webp",
+        "assets/products/yema007/238064363/02.webp",
+        "assets/products/yema007/238064363/03.webp",
+        "assets/products/yema007/238064363/04.webp",
+        "assets/products/yema007/238064363/05.webp",
+        "assets/products/yema007/238064363/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/dca68099d0/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/238064363/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:35:24.243Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T11:00:59.164Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -410660,7 +410721,7 @@
       "categoryId": null,
       "collectionId": "5217435",
       "sourceCollection": "more",
-      "sourceCategory": "👩👗⚽Women's shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "France",
@@ -410672,15 +410733,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/yema007/238064414/01.webp"
+        "assets/products/yema007/238064414/01.webp",
+        "assets/products/yema007/238064414/02.webp",
+        "assets/products/yema007/238064414/03.webp",
+        "assets/products/yema007/238064414/04.webp",
+        "assets/products/yema007/238064414/05.webp",
+        "assets/products/yema007/238064414/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/f4661abbba/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/238064414/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:35:24.771Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T11:00:55.488Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -442639,7 +442705,7 @@
       "categoryId": null,
       "collectionId": "5217435",
       "sourceCollection": "more",
-      "sourceCategory": "👩👗⚽Women's shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Japan",
@@ -442651,15 +442717,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/yema007/238064458/01.webp"
+        "assets/products/yema007/238064458/01.webp",
+        "assets/products/yema007/238064458/02.webp",
+        "assets/products/yema007/238064458/03.webp",
+        "assets/products/yema007/238064458/04.webp",
+        "assets/products/yema007/238064458/05.webp",
+        "assets/products/yema007/238064458/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/65b056b5d4/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/238064458/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:35:25.552Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T11:00:42.706Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -451509,7 +451580,7 @@
       "categoryId": null,
       "collectionId": "5217435",
       "sourceCollection": "more",
-      "sourceCategory": "👩👗⚽Women's shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Mexico",
@@ -451521,15 +451592,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/yema007/237804688/01.webp"
+        "assets/products/yema007/237804688/01.webp",
+        "assets/products/yema007/237804688/02.webp",
+        "assets/products/yema007/237804688/03.webp",
+        "assets/products/yema007/237804688/04.webp",
+        "assets/products/yema007/237804688/05.webp",
+        "assets/products/yema007/237804688/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/00610be418/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237804688/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:34:57.440Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T11:01:56.375Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -457781,7 +457857,7 @@
       "categoryId": null,
       "collectionId": "5217435",
       "sourceCollection": "more",
-      "sourceCategory": "👩👗⚽Women's shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Netherlands",
@@ -457793,15 +457869,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/yema007/238064500/01.webp"
+        "assets/products/yema007/238064500/01.webp",
+        "assets/products/yema007/238064500/02.webp",
+        "assets/products/yema007/238064500/03.webp",
+        "assets/products/yema007/238064500/04.webp",
+        "assets/products/yema007/238064500/05.webp",
+        "assets/products/yema007/238064500/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/b8baef9b57/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/238064500/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:35:25.997Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T11:00:47.542Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -487855,7 +487936,7 @@
       "categoryId": null,
       "collectionId": "5217435",
       "sourceCollection": "more",
-      "sourceCategory": "👩👗⚽Women's shirt",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Spain",
@@ -487867,15 +487948,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/yema007/241007624/01.webp"
+        "assets/products/yema007/241007624/01.webp",
+        "assets/products/yema007/241007624/02.webp",
+        "assets/products/yema007/241007624/03.webp",
+        "assets/products/yema007/241007624/04.webp",
+        "assets/products/yema007/241007624/05.webp",
+        "assets/products/yema007/241007624/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/5aff76605f/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/241007624/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:36:04.354Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T11:00:20.283Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -639671,10 +639757,10 @@
       "categoryId": "876740",
       "collectionId": "876740",
       "sourceCollection": "David jersey",
-      "sourceCategory": "🇧🇷⚽Brasileiro Série A",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "🇧🇷⚽Brasileiro Série A",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -639683,15 +639769,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/yema007/238753976/01.webp"
+        "assets/products/yema007/238753976/01.webp",
+        "assets/products/yema007/238753976/02.webp",
+        "assets/products/yema007/238753976/03.webp",
+        "assets/products/yema007/238753976/04.webp",
+        "assets/products/yema007/238753976/05.webp",
+        "assets/products/yema007/238753976/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/6330b5fa6b/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/238753976/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:35:38.006Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T11:00:31.158Z",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "yema007:251707538",
@@ -639931,10 +640022,10 @@
       "categoryId": null,
       "collectionId": "5217438",
       "sourceCollection": "more",
-      "sourceCategory": "🇧🇷⚽Brasileiro Série A",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "🇧🇷⚽Brasileiro Série A",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -639943,15 +640034,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/yema007/259879113/01.webp"
+        "assets/products/yema007/259879113/01.webp",
+        "assets/products/yema007/259879113/02.webp",
+        "assets/products/yema007/259879113/03.webp",
+        "assets/products/yema007/259879113/04.webp",
+        "assets/products/yema007/259879113/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/840a576bc1/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/259879113/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:48:48.209Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T11:00:11.459Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -640149,10 +640244,10 @@
       "categoryId": null,
       "collectionId": "5217438",
       "sourceCollection": "more",
-      "sourceCategory": "🇧🇷⚽Brasileiro Série A",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "🇧🇷⚽Brasileiro Série A",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -640161,15 +640256,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/yema007/259880441/01.webp"
+        "assets/products/yema007/259880441/01.webp",
+        "assets/products/yema007/259880441/02.webp",
+        "assets/products/yema007/259880441/03.webp",
+        "assets/products/yema007/259880441/04.webp",
+        "assets/products/yema007/259880441/05.webp",
+        "assets/products/yema007/259880441/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/03664ff86a/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/259880441/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:51:31.766Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T10:59:29.530Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -640181,10 +640281,10 @@
       "categoryId": "876738",
       "collectionId": "876738",
       "sourceCollection": "David jersey",
-      "sourceCategory": "🇧🇷⚽Brasileiro Série A",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "🇧🇷⚽Brasileiro Série A",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -640193,15 +640293,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/yema007/238062924/01.webp"
+        "assets/products/yema007/238062924/01.webp",
+        "assets/products/yema007/238062924/02.webp",
+        "assets/products/yema007/238062924/03.webp",
+        "assets/products/yema007/238062924/04.webp",
+        "assets/products/yema007/238062924/05.webp",
+        "assets/products/yema007/238062924/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/05e6adf3d3/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/238062924/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:35:14.047Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T11:01:29.618Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -640271,10 +640376,10 @@
       "categoryId": null,
       "collectionId": "5217438",
       "sourceCollection": "more",
-      "sourceCategory": "🇧🇷⚽Brasileiro Série A",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "🇧🇷⚽Brasileiro Série A",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -640283,15 +640388,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/yema007/259880413/01.webp"
+        "assets/products/yema007/259880413/01.webp",
+        "assets/products/yema007/259880413/02.webp",
+        "assets/products/yema007/259880413/03.webp",
+        "assets/products/yema007/259880413/04.webp",
+        "assets/products/yema007/259880413/05.webp",
+        "assets/products/yema007/259880413/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/7d5fa4338d/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/259880413/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:51:27.978Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T10:59:26.789Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -671787,10 +671897,10 @@
       "categoryId": null,
       "collectionId": "5217438",
       "sourceCollection": "more",
-      "sourceCategory": "👩👗⚽Women's shirt",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "👩👗⚽Women's shirt",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -671799,15 +671909,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/yema007/259880476/01.webp"
+        "assets/products/yema007/259880476/01.webp",
+        "assets/products/yema007/259880476/02.webp",
+        "assets/products/yema007/259880476/03.webp",
+        "assets/products/yema007/259880476/04.webp",
+        "assets/products/yema007/259880476/05.webp",
+        "assets/products/yema007/259880476/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/0b0aa0398e/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/259880476/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:51:36.270Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T10:59:08.812Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -671952,10 +672067,10 @@
       "categoryId": null,
       "collectionId": "5217438",
       "sourceCollection": "more",
-      "sourceCategory": "👩👗⚽Women's shirt",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "👩👗⚽Women's shirt",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -671964,15 +672079,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/yema007/259880448/01.webp"
+        "assets/products/yema007/259880448/01.webp",
+        "assets/products/yema007/259880448/02.webp",
+        "assets/products/yema007/259880448/03.webp",
+        "assets/products/yema007/259880448/04.webp",
+        "assets/products/yema007/259880448/05.webp",
+        "assets/products/yema007/259880448/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/444dc51bc4/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/259880448/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:51:32.299Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T10:59:17.865Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
