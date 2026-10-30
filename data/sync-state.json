@@ -20,17 +20,9 @@
       "total": 1904
     },
     "popmo": {
-      "discoveryPhase": "complete",
-      "discoveryComplete": true,
-      "discoveredAlbums": 2043,
-      "categoryIndex": 40,
-      "categoryTotal": 40,
-      "updatedAt": "2026-10-29T14:28:23.522Z",
-      "nextIndex": 2043,
-      "total": 2043,
-      "completed": true,
-      "completedAt": "2026-10-28T21:06:15.660Z",
-      "run": "2026-10-29"
+      "run": "2026-10-30",
+      "nextIndex": 25,
+      "total": 2043
     },
     "dachang88": {
       "discoveryPhase": "complete",
@@ -467,6 +459,7 @@
       "https://yema007.x.yupoo.com/categories/876746",
       "https://yema007.x.yupoo.com/categories/876689",
       "https://yema007.x.yupoo.com/categories/876714"
-    ]
+    ],
+    "popmo": []
   }
 }
