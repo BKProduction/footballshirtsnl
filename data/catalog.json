@@ -1,5 +1,5 @@
 {
-  "lastSync": "2026-10-30T22:29:16.779Z",
+  "lastSync": "2026-10-30T22:34:03.797Z",
   "status": "running",
   "currentSource": "popmo",
   "products": [
@@ -80710,7 +80710,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Player version jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Eredivisie",
@@ -80721,16 +80721,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/218580683/01.webp"
+        "assets/products/popmo/218580683/01.webp",
+        "assets/products/popmo/218580683/02.webp",
+        "assets/products/popmo/218580683/03.webp",
+        "assets/products/popmo/218580683/04.webp",
+        "assets/products/popmo/218580683/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/eb9d4e98/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/218580683/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:02:40.553Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:30:06.117Z",
       "season": "2025-2026",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -80742,7 +80746,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Player version jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Eredivisie",
@@ -80753,16 +80757,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/218580054/01.webp"
+        "assets/products/popmo/218580054/01.webp",
+        "assets/products/popmo/218580054/02.webp",
+        "assets/products/popmo/218580054/03.webp",
+        "assets/products/popmo/218580054/04.webp",
+        "assets/products/popmo/218580054/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/9a5150f8/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/218580054/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:02:39.335Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:30:12.175Z",
       "season": "2025-2026",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -83648,7 +83656,7 @@
       "source": "popmo",
       "sourceId": "231981667",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/231981667",
-      "sourceCategory": "Player version jersey",
+      "sourceCategory": "more",
       "title": "[Player version] 26-27 Brazil Away Short Sleeve S-2XL [2026 FIFA WORLD CUP]3",
       "section": "Voetbal",
       "category": "Clubteams",
@@ -83661,13 +83669,18 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/231981667/01.webp"
+        "assets/products/popmo/231981667/01.webp",
+        "assets/products/popmo/231981667/02.webp",
+        "assets/products/popmo/231981667/03.webp",
+        "assets/products/popmo/231981667/04.webp",
+        "assets/products/popmo/231981667/05.webp",
+        "assets/products/popmo/231981667/06.webp"
       ],
       "coverUrl": "assets/products/popmo/231981667/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:04:42.752Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:29:28.947Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:233582483",
@@ -83736,7 +83749,7 @@
       "source": "popmo",
       "sourceId": "231479853",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/231479853",
-      "sourceCategory": "Player version jersey",
+      "sourceCategory": "more",
       "title": "[Player version] 26-27 Brazil Home Long Sleeve S-3XL [2026 FIFA WORLD CUP]2",
       "section": "Voetbal",
       "category": "Clubteams",
@@ -83749,13 +83762,17 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/231479853/01.webp"
+        "assets/products/popmo/231479853/01.webp",
+        "assets/products/popmo/231479853/02.webp",
+        "assets/products/popmo/231479853/03.webp",
+        "assets/products/popmo/231479853/04.webp",
+        "assets/products/popmo/231479853/05.webp"
       ],
       "coverUrl": "assets/products/popmo/231479853/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:04:37.073Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:29:29.344Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -83767,7 +83784,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Player version jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Eredivisie",
@@ -83778,16 +83795,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/231981601/01.webp"
+        "assets/products/popmo/231981601/01.webp",
+        "assets/products/popmo/231981601/02.webp",
+        "assets/products/popmo/231981601/03.webp",
+        "assets/products/popmo/231981601/04.webp",
+        "assets/products/popmo/231981601/05.webp",
+        "assets/products/popmo/231981601/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/2682d3a6/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/231981601/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:04:41.802Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:29:22.371Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:233585200",
@@ -127310,7 +127332,7 @@
       "source": "popmo",
       "sourceId": "211582275",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/211582275",
-      "sourceCategory": "Player version jersey",
+      "sourceCategory": "more",
       "title": "[player version] 25-26 Barcelona FCB Goalkeeper Away S-2XL7",
       "section": "Voetbal",
       "category": "Clubteams",
@@ -127323,20 +127345,25 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/211582275/01.webp"
+        "assets/products/popmo/211582275/01.webp",
+        "assets/products/popmo/211582275/02.webp",
+        "assets/products/popmo/211582275/03.webp",
+        "assets/products/popmo/211582275/04.webp",
+        "assets/products/popmo/211582275/05.webp",
+        "assets/products/popmo/211582275/06.webp"
       ],
       "coverUrl": "assets/products/popmo/211582275/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:01:30.043Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:30:35.122Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:213710754",
       "source": "popmo",
       "sourceId": "213710754",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/213710754",
-      "sourceCategory": "Player version jersey",
+      "sourceCategory": "more",
       "title": "[player version] 25-26 Barcelona Home Derby Edition S-2XL4",
       "section": "Voetbal",
       "category": "Clubteams",
@@ -127349,20 +127376,25 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/213710754/01.webp"
+        "assets/products/popmo/213710754/01.webp",
+        "assets/products/popmo/213710754/02.webp",
+        "assets/products/popmo/213710754/03.webp",
+        "assets/products/popmo/213710754/04.webp",
+        "assets/products/popmo/213710754/05.webp",
+        "assets/products/popmo/213710754/06.webp"
       ],
       "coverUrl": "assets/products/popmo/213710754/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:01:59.894Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:30:28.952Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:214334011",
       "source": "popmo",
       "sourceId": "214334011",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/214334011",
-      "sourceCategory": "Player version jersey",
+      "sourceCategory": "more",
       "title": "[player version] 25-26 Barcelona main co-branded edition in sizes S-3XL3",
       "section": "Voetbal",
       "category": "Clubteams",
@@ -127375,13 +127407,18 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/214334011/01.webp"
+        "assets/products/popmo/214334011/01.webp",
+        "assets/products/popmo/214334011/02.webp",
+        "assets/products/popmo/214334011/03.webp",
+        "assets/products/popmo/214334011/04.webp",
+        "assets/products/popmo/214334011/05.webp",
+        "assets/products/popmo/214334011/06.webp"
       ],
       "coverUrl": "assets/products/popmo/214334011/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:02:05.719Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:30:23.977Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -211330,7 +211367,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Player version jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -211342,15 +211379,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/218815615/01.webp"
+        "assets/products/popmo/218815615/01.webp",
+        "assets/products/popmo/218815615/02.webp",
+        "assets/products/popmo/218815615/03.webp",
+        "assets/products/popmo/218815615/04.webp",
+        "assets/products/popmo/218815615/05.webp",
+        "assets/products/popmo/218815615/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/62bce9b9/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/218815615/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:02:44.928Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:29:55.746Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -232560,7 +232602,7 @@
       "source": "popmo",
       "sourceId": "211230815",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/211230815",
-      "sourceCategory": "Player version jersey",
+      "sourceCategory": "more",
       "title": "[Player version] 25-26 Arsenal yellow training shirt S-2XL7",
       "section": "Voetbal",
       "category": "Clubteams",
@@ -232573,13 +232615,18 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/211230815/01.webp"
+        "assets/products/popmo/211230815/01.webp",
+        "assets/products/popmo/211230815/02.webp",
+        "assets/products/popmo/211230815/03.webp",
+        "assets/products/popmo/211230815/04.webp",
+        "assets/products/popmo/211230815/05.webp",
+        "assets/products/popmo/211230815/06.webp"
       ],
       "coverUrl": "assets/products/popmo/211230815/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:01:20.150Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:30:40.656Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -250086,7 +250133,7 @@
       "source": "popmo",
       "sourceId": "211584658",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/211584658",
-      "sourceCategory": "Player version jersey",
+      "sourceCategory": "more",
       "title": "[player version] 25-26 Chelsea White Retro Casual shirt S-2XL8",
       "section": "Voetbal",
       "category": "Clubteams",
@@ -250099,13 +250146,18 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/211584658/01.webp"
+        "assets/products/popmo/211584658/01.webp",
+        "assets/products/popmo/211584658/02.webp",
+        "assets/products/popmo/211584658/03.webp",
+        "assets/products/popmo/211584658/04.webp",
+        "assets/products/popmo/211584658/05.webp",
+        "assets/products/popmo/211584658/06.webp"
       ],
       "coverUrl": "assets/products/popmo/211584658/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:01:32.707Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:30:29.477Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -259195,10 +259247,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Player version jersey",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Player version jersey",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -259207,15 +259259,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/218580948/01.webp"
+        "assets/products/popmo/218580948/01.webp",
+        "assets/products/popmo/218580948/02.webp",
+        "assets/products/popmo/218580948/03.webp",
+        "assets/products/popmo/218580948/04.webp",
+        "assets/products/popmo/218580948/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/eb35ccca/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/218580948/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:02:41.898Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:30:00.216Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -279449,7 +279505,7 @@
       "categoryId": null,
       "collectionId": "4911721",
       "sourceCollection": "more",
-      "sourceCategory": "Player version jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Premier League",
@@ -279461,22 +279517,26 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/224597657/01.webp"
+        "assets/products/popmo/224597657/01.webp",
+        "assets/products/popmo/224597657/02.webp",
+        "assets/products/popmo/224597657/03.webp",
+        "assets/products/popmo/224597657/04.webp",
+        "assets/products/popmo/224597657/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/5132e9fd/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/224597657/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:03:35.664Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:29:53.749Z",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:211583393",
       "source": "popmo",
       "sourceId": "211583393",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/211583393",
-      "sourceCategory": "Player version jersey",
+      "sourceCategory": "more",
       "title": "[player version] 25-26 Manchester United Red Retro Casual shirt S-2XL8",
       "section": "Voetbal",
       "category": "Clubteams",
@@ -279489,13 +279549,18 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/211583393/01.webp"
+        "assets/products/popmo/211583393/01.webp",
+        "assets/products/popmo/211583393/02.webp",
+        "assets/products/popmo/211583393/03.webp",
+        "assets/products/popmo/211583393/04.webp",
+        "assets/products/popmo/211583393/05.webp",
+        "assets/products/popmo/211583393/06.webp"
       ],
       "coverUrl": "assets/products/popmo/211583393/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:01:31.505Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:30:38.134Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -354664,7 +354729,7 @@
       "source": "popmo",
       "sourceId": "214334465",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/214334465",
-      "sourceCategory": "Player version jersey",
+      "sourceCategory": "more",
       "title": "[player version] Napoli Champions League away S-3XL3",
       "section": "Voetbal",
       "category": "Clubteams",
@@ -354677,13 +354742,18 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/214334465/01.webp"
+        "assets/products/popmo/214334465/01.webp",
+        "assets/products/popmo/214334465/02.webp",
+        "assets/products/popmo/214334465/03.webp",
+        "assets/products/popmo/214334465/04.webp",
+        "assets/products/popmo/214334465/05.webp",
+        "assets/products/popmo/214334465/06.webp"
       ],
       "coverUrl": "assets/products/popmo/214334465/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:02:06.564Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:30:23.374Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -362606,7 +362676,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Super Lig",
@@ -362618,15 +362688,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/242127999/01.webp"
+        "assets/products/popmo/242127999/01.webp",
+        "assets/products/popmo/242127999/02.webp",
+        "assets/products/popmo/242127999/03.webp",
+        "assets/products/popmo/242127999/04.webp",
+        "assets/products/popmo/242127999/05.webp",
+        "assets/products/popmo/242127999/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/5609543bd6/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/242127999/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:07:28.640Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:31:42.922Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -362638,7 +362713,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Super Lig",
@@ -362650,15 +362725,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/242128459/01.webp"
+        "assets/products/popmo/242128459/01.webp",
+        "assets/products/popmo/242128459/02.webp",
+        "assets/products/popmo/242128459/03.webp",
+        "assets/products/popmo/242128459/04.webp",
+        "assets/products/popmo/242128459/05.webp",
+        "assets/products/popmo/242128459/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/8b56984e48/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/242128459/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:07:29.753Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:31:34.526Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -366463,7 +366543,7 @@
       "source": "popmo",
       "sourceId": "232911869",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/232911869",
-      "sourceCategory": "Player version jersey",
+      "sourceCategory": "more",
       "title": "[Player version] 26-27 Argentina Home Short Sleeve S-3XL [2026 FIFA WORLD CUP]10",
       "section": "Voetbal",
       "category": "Landenteams",
@@ -366476,13 +366556,18 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/232911869/01.webp"
+        "assets/products/popmo/232911869/01.webp",
+        "assets/products/popmo/232911869/02.webp",
+        "assets/products/popmo/232911869/03.webp",
+        "assets/products/popmo/232911869/04.webp",
+        "assets/products/popmo/232911869/05.webp",
+        "assets/products/popmo/232911869/06.webp"
       ],
       "coverUrl": "assets/products/popmo/232911869/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:04:47.804Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:29:24.585Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -366857,7 +366942,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Argentina",
@@ -366868,16 +366953,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/237985781/01.webp"
+        "assets/products/popmo/237985781/01.webp",
+        "assets/products/popmo/237985781/02.webp",
+        "assets/products/popmo/237985781/03.webp",
+        "assets/products/popmo/237985781/04.webp",
+        "assets/products/popmo/237985781/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/5a9d6e3f77/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/237985781/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:06:26.024Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:32:22.358Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -367363,7 +367452,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Argentina",
@@ -367374,16 +367463,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/243053678/01.webp"
+        "assets/products/popmo/243053678/01.webp",
+        "assets/products/popmo/243053678/02.webp",
+        "assets/products/popmo/243053678/03.webp",
+        "assets/products/popmo/243053678/04.webp",
+        "assets/products/popmo/243053678/05.webp",
+        "assets/products/popmo/243053678/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/44c6db43cf/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/243053678/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:07:46.473Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:31:27.607Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -375558,7 +375652,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Argentina",
@@ -375570,15 +375664,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/242308839/01.webp"
+        "assets/products/popmo/242308839/01.webp",
+        "assets/products/popmo/242308839/02.webp",
+        "assets/products/popmo/242308839/03.webp",
+        "assets/products/popmo/242308839/04.webp",
+        "assets/products/popmo/242308839/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/89e565edf7/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/242308839/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:07:31.022Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:31:31.902Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -375848,7 +375946,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Argentina",
@@ -375860,15 +375958,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/247888172/01.webp"
+        "assets/products/popmo/247888172/01.webp",
+        "assets/products/popmo/247888172/02.webp",
+        "assets/products/popmo/247888172/03.webp",
+        "assets/products/popmo/247888172/04.webp",
+        "assets/products/popmo/247888172/05.webp",
+        "assets/products/popmo/247888172/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/2690385bc0/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/247888172/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:10:59.694Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:30:48.907Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -378765,7 +378868,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Australia",
@@ -378777,15 +378880,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/243059503/01.webp"
+        "assets/products/popmo/243059503/01.webp",
+        "assets/products/popmo/243059503/02.webp",
+        "assets/products/popmo/243059503/03.webp",
+        "assets/products/popmo/243059503/04.webp",
+        "assets/products/popmo/243059503/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/5d74fc5f67/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/243059503/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:07:55.078Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:31:13.923Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -379626,7 +379733,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Belgium",
@@ -379637,16 +379744,18 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/243057684/01.webp"
+        "assets/products/popmo/243057684/01.webp",
+        "assets/products/popmo/243057684/02.webp",
+        "assets/products/popmo/243057684/03.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/ea37cb0469/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/243057684/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:07:52.743Z",
+      "imageCount": 3,
+      "updatedAt": "2026-10-30T22:31:13.975Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -381506,7 +381615,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Canada",
@@ -381517,16 +381626,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/237452852/01.webp"
+        "assets/products/popmo/237452852/01.webp",
+        "assets/products/popmo/237452852/02.webp",
+        "assets/products/popmo/237452852/03.webp",
+        "assets/products/popmo/237452852/04.webp",
+        "assets/products/popmo/237452852/05.webp",
+        "assets/products/popmo/237452852/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/b6c6c0d155/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/237452852/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:06:18.724Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:32:39.485Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -395399,7 +395513,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Player version jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Colombia",
@@ -395410,16 +395524,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/228842378/01.webp"
+        "assets/products/popmo/228842378/01.webp",
+        "assets/products/popmo/228842378/02.webp",
+        "assets/products/popmo/228842378/03.webp",
+        "assets/products/popmo/228842378/04.webp",
+        "assets/products/popmo/228842378/05.webp",
+        "assets/products/popmo/228842378/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/2e9d1365/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/228842378/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:04:10.936Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:29:47.963Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:234770505",
@@ -395462,7 +395581,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Player version jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Colombia",
@@ -395473,16 +395592,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/228843361/01.webp"
+        "assets/products/popmo/228843361/01.webp",
+        "assets/products/popmo/228843361/02.webp",
+        "assets/products/popmo/228843361/03.webp",
+        "assets/products/popmo/228843361/04.webp",
+        "assets/products/popmo/228843361/05.webp",
+        "assets/products/popmo/228843361/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/16f84a0f9b/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/228843361/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:04:12.377Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:29:39.815Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:233390372",
@@ -395587,7 +395711,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Player version jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Colombia",
@@ -395598,16 +395722,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/228841969/01.webp"
+        "assets/products/popmo/228841969/01.webp",
+        "assets/products/popmo/228841969/02.webp",
+        "assets/products/popmo/228841969/03.webp",
+        "assets/products/popmo/228841969/04.webp",
+        "assets/products/popmo/228841969/05.webp",
+        "assets/products/popmo/228841969/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/2024bd26/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/228841969/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:04:10.579Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:29:50.094Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -395619,7 +395748,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Player version jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Colombia",
@@ -395630,16 +395759,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/228842654/01.webp"
+        "assets/products/popmo/228842654/01.webp",
+        "assets/products/popmo/228842654/02.webp",
+        "assets/products/popmo/228842654/03.webp",
+        "assets/products/popmo/228842654/04.webp",
+        "assets/products/popmo/228842654/05.webp",
+        "assets/products/popmo/228842654/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/5a47b54d/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/228842654/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:04:11.441Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:29:44.870Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -395651,7 +395785,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Player version jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Colombia",
@@ -395662,16 +395796,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/228843226/01.webp"
+        "assets/products/popmo/228843226/01.webp",
+        "assets/products/popmo/228843226/02.webp",
+        "assets/products/popmo/228843226/03.webp",
+        "assets/products/popmo/228843226/04.webp",
+        "assets/products/popmo/228843226/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/f0559879/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/228843226/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:04:12.178Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:29:42.643Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -395683,7 +395821,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Colombia",
@@ -395694,16 +395832,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/236814188/01.webp"
+        "assets/products/popmo/236814188/01.webp",
+        "assets/products/popmo/236814188/02.webp",
+        "assets/products/popmo/236814188/03.webp",
+        "assets/products/popmo/236814188/04.webp",
+        "assets/products/popmo/236814188/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/9410a45c02/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/236814188/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:06:06.921Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:32:54.202Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -396044,7 +396186,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Colombia",
@@ -396055,16 +396197,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/236284291/01.webp"
+        "assets/products/popmo/236284291/01.webp",
+        "assets/products/popmo/236284291/02.webp",
+        "assets/products/popmo/236284291/03.webp",
+        "assets/products/popmo/236284291/04.webp",
+        "assets/products/popmo/236284291/05.webp",
+        "assets/products/popmo/236284291/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/9f8c0f8e88/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/236284291/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:06:01.136Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:33:10.753Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -401194,7 +401341,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Denmark",
@@ -401205,16 +401352,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/239546641/01.webp"
+        "assets/products/popmo/239546641/01.webp",
+        "assets/products/popmo/239546641/02.webp",
+        "assets/products/popmo/239546641/03.webp",
+        "assets/products/popmo/239546641/04.webp",
+        "assets/products/popmo/239546641/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/e3ad1d1d2f/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/239546641/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:06:48.608Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:32:06.325Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -403685,7 +403836,7 @@
       "source": "popmo",
       "sourceId": "231479253",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/231479253",
-      "sourceCategory": "Player version jersey",
+      "sourceCategory": "more",
       "title": "[Player version] 26-27 England Home Long Sleeve S-3XL [2026 FIFA WORLD CUP]12",
       "section": "Voetbal",
       "category": "Landenteams",
@@ -403698,13 +403849,18 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/231479253/01.webp"
+        "assets/products/popmo/231479253/01.webp",
+        "assets/products/popmo/231479253/02.webp",
+        "assets/products/popmo/231479253/03.webp",
+        "assets/products/popmo/231479253/04.webp",
+        "assets/products/popmo/231479253/05.webp",
+        "assets/products/popmo/231479253/06.webp"
       ],
       "coverUrl": "assets/products/popmo/231479253/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:04:35.381Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:29:36.244Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:233106968",
@@ -404032,7 +404188,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "England",
@@ -404043,16 +404199,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/245076166/01.webp"
+        "assets/products/popmo/245076166/01.webp",
+        "assets/products/popmo/245076166/02.webp",
+        "assets/products/popmo/245076166/03.webp",
+        "assets/products/popmo/245076166/04.webp",
+        "assets/products/popmo/245076166/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/f315209a3a/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/245076166/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:09:46.184Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:30:58.689Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -409381,7 +409541,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "England",
@@ -409393,15 +409553,17 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/247887847/01.webp"
+        "assets/products/popmo/247887847/01.webp",
+        "assets/products/popmo/247887847/02.webp",
+        "assets/products/popmo/247887847/03.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/24af98d3a2/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/247887847/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:10:58.956Z",
-      "classificationVersion": 1
+      "imageCount": 3,
+      "updatedAt": "2026-10-30T22:30:49.961Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -410143,7 +410305,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "England",
@@ -410155,15 +410317,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/235558398/01.webp"
+        "assets/products/popmo/235558398/01.webp",
+        "assets/products/popmo/235558398/02.webp",
+        "assets/products/popmo/235558398/03.webp",
+        "assets/products/popmo/235558398/04.webp",
+        "assets/products/popmo/235558398/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/ea37a5f91e/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/235558398/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:05:49.583Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:33:34.106Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -411481,7 +411647,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "France",
@@ -411492,16 +411658,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/236286001/01.webp"
+        "assets/products/popmo/236286001/01.webp",
+        "assets/products/popmo/236286001/02.webp",
+        "assets/products/popmo/236286001/03.webp",
+        "assets/products/popmo/236286001/04.webp",
+        "assets/products/popmo/236286001/05.webp",
+        "assets/products/popmo/236286001/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/ad804f4a89/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/236286001/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:06:02.290Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:33:04.900Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:232765390",
@@ -411642,7 +411813,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "France",
@@ -411653,16 +411824,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/236815247/01.webp"
+        "assets/products/popmo/236815247/01.webp",
+        "assets/products/popmo/236815247/02.webp",
+        "assets/products/popmo/236815247/03.webp",
+        "assets/products/popmo/236815247/04.webp",
+        "assets/products/popmo/236815247/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/602d4c7c0d/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/236815247/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:06:07.971Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:32:53.995Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:203333437",
@@ -411771,7 +411946,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "France",
@@ -411782,16 +411957,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/239546861/01.webp"
+        "assets/products/popmo/239546861/01.webp",
+        "assets/products/popmo/239546861/02.webp",
+        "assets/products/popmo/239546861/03.webp",
+        "assets/products/popmo/239546861/04.webp",
+        "assets/products/popmo/239546861/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/18c2014bcf/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/239546861/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:06:48.691Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:32:06.392Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -419087,7 +419266,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Germany",
@@ -419098,16 +419277,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/243055269/01.webp"
+        "assets/products/popmo/243055269/01.webp",
+        "assets/products/popmo/243055269/02.webp",
+        "assets/products/popmo/243055269/03.webp",
+        "assets/products/popmo/243055269/04.webp",
+        "assets/products/popmo/243055269/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/7ef74c6539/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/243055269/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:07:49.125Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:31:19.486Z",
       "season": "2025-2026",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -420402,7 +420585,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Player version jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Germany",
@@ -420413,16 +420596,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/231479379/01.webp"
+        "assets/products/popmo/231479379/01.webp",
+        "assets/products/popmo/231479379/02.webp",
+        "assets/products/popmo/231479379/03.webp",
+        "assets/products/popmo/231479379/04.webp",
+        "assets/products/popmo/231479379/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/1b43e121/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/231479379/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:04:37.065Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:29:34.489Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:234546725",
@@ -421243,7 +421430,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Germany",
@@ -421254,16 +421441,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/236144973/01.webp"
+        "assets/products/popmo/236144973/01.webp",
+        "assets/products/popmo/236144973/02.webp",
+        "assets/products/popmo/236144973/03.webp",
+        "assets/products/popmo/236144973/04.webp",
+        "assets/products/popmo/236144973/05.webp",
+        "assets/products/popmo/236144973/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/cf3b11cc6f/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/236144973/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:05:52.576Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:33:31.809Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -421275,7 +421467,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Germany",
@@ -421286,16 +421478,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/240249028/01.webp"
+        "assets/products/popmo/240249028/01.webp",
+        "assets/products/popmo/240249028/02.webp",
+        "assets/products/popmo/240249028/03.webp",
+        "assets/products/popmo/240249028/04.webp",
+        "assets/products/popmo/240249028/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/5347674974/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/240249028/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:07:04.730Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:31:49.277Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -439883,7 +440079,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Player version jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Japan",
@@ -439894,16 +440090,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/218580190/01.webp"
+        "assets/products/popmo/218580190/01.webp",
+        "assets/products/popmo/218580190/02.webp",
+        "assets/products/popmo/218580190/03.webp",
+        "assets/products/popmo/218580190/04.webp",
+        "assets/products/popmo/218580190/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/ae7172a5/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/218580190/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:02:39.341Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:30:06.724Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:234781764",
@@ -440268,7 +440468,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Japan",
@@ -440279,16 +440479,18 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/243057510/01.webp"
+        "assets/products/popmo/243057510/01.webp",
+        "assets/products/popmo/243057510/02.webp",
+        "assets/products/popmo/243057510/03.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/8d5aeb92f6/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/243057510/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:07:52.746Z",
+      "imageCount": 3,
+      "updatedAt": "2026-10-30T22:31:17.088Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -440300,7 +440502,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Japan",
@@ -440311,16 +440513,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/237853729/01.webp"
+        "assets/products/popmo/237853729/01.webp",
+        "assets/products/popmo/237853729/02.webp",
+        "assets/products/popmo/237853729/03.webp",
+        "assets/products/popmo/237853729/04.webp",
+        "assets/products/popmo/237853729/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/4e0e62cf95/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/237853729/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:06:22.584Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:32:32.883Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -440332,7 +440538,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Japan",
@@ -440344,15 +440550,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/236251746/01.webp"
+        "assets/products/popmo/236251746/01.webp",
+        "assets/products/popmo/236251746/02.webp",
+        "assets/products/popmo/236251746/03.webp",
+        "assets/products/popmo/236251746/04.webp",
+        "assets/products/popmo/236251746/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/8ef6bdb4fa/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/236251746/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:05:59.974Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:33:12.044Z",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "yema007:253424149",
@@ -452352,7 +452562,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Mexico",
@@ -452363,16 +452573,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/245076266/01.webp"
+        "assets/products/popmo/245076266/01.webp",
+        "assets/products/popmo/245076266/02.webp",
+        "assets/products/popmo/245076266/03.webp",
+        "assets/products/popmo/245076266/04.webp",
+        "assets/products/popmo/245076266/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/ab76990b8d/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/245076266/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:09:46.868Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:30:55.044Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -452415,7 +452629,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Mexico",
@@ -452426,16 +452640,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/236285609/01.webp"
+        "assets/products/popmo/236285609/01.webp",
+        "assets/products/popmo/236285609/02.webp",
+        "assets/products/popmo/236285609/03.webp",
+        "assets/products/popmo/236285609/04.webp",
+        "assets/products/popmo/236285609/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/2769af168c/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/236285609/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:06:01.165Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:33:06.718Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -457883,7 +458101,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Player version jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Mexico",
@@ -457895,15 +458113,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/218579847/01.webp"
+        "assets/products/popmo/218579847/01.webp",
+        "assets/products/popmo/218579847/02.webp",
+        "assets/products/popmo/218579847/03.webp",
+        "assets/products/popmo/218579847/04.webp",
+        "assets/products/popmo/218579847/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/800940b9/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/218579847/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:02:38.195Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:30:12.722Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -461808,7 +462030,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Netherlands",
@@ -461819,16 +462041,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/237985286/01.webp"
+        "assets/products/popmo/237985286/01.webp",
+        "assets/products/popmo/237985286/02.webp",
+        "assets/products/popmo/237985286/03.webp",
+        "assets/products/popmo/237985286/04.webp",
+        "assets/products/popmo/237985286/05.webp",
+        "assets/products/popmo/237985286/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/56e4a712d8/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/237985286/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:06:24.324Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:32:28.807Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -461871,7 +462098,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Netherlands",
@@ -461882,16 +462109,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/239543843/01.webp"
+        "assets/products/popmo/239543843/01.webp",
+        "assets/products/popmo/239543843/02.webp",
+        "assets/products/popmo/239543843/03.webp",
+        "assets/products/popmo/239543843/04.webp",
+        "assets/products/popmo/239543843/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/b25066aa2b/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/239543843/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:06:47.424Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:32:12.138Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -461903,7 +462134,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Netherlands",
@@ -461914,16 +462145,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/234893040/01.webp"
+        "assets/products/popmo/234893040/01.webp",
+        "assets/products/popmo/234893040/02.webp",
+        "assets/products/popmo/234893040/03.webp",
+        "assets/products/popmo/234893040/04.webp",
+        "assets/products/popmo/234893040/05.webp",
+        "assets/products/popmo/234893040/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/38c2283c7c/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/234893040/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:05:42.005Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:33:57.773Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -461935,7 +462171,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Netherlands",
@@ -461946,16 +462182,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/237985492/01.webp"
+        "assets/products/popmo/237985492/01.webp",
+        "assets/products/popmo/237985492/02.webp",
+        "assets/products/popmo/237985492/03.webp",
+        "assets/products/popmo/237985492/04.webp",
+        "assets/products/popmo/237985492/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/e3650dbf2e/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/237985492/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:06:25.796Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:32:22.683Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:229909165",
@@ -466299,7 +466539,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Nigeria",
@@ -466310,16 +466550,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/236148697/01.webp"
+        "assets/products/popmo/236148697/01.webp",
+        "assets/products/popmo/236148697/02.webp",
+        "assets/products/popmo/236148697/03.webp",
+        "assets/products/popmo/236148697/04.webp",
+        "assets/products/popmo/236148697/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/926acea984/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/236148697/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:05:57.726Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:33:22.339Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -466331,7 +466575,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Nigeria",
@@ -466342,16 +466586,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/236148666/01.webp"
+        "assets/products/popmo/236148666/01.webp",
+        "assets/products/popmo/236148666/02.webp",
+        "assets/products/popmo/236148666/03.webp",
+        "assets/products/popmo/236148666/04.webp",
+        "assets/products/popmo/236148666/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/8cf36af23b/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/236148666/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:05:56.647Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:33:26.500Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -467856,7 +468104,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Nigeria",
@@ -467867,16 +468115,18 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/247891122/01.webp"
+        "assets/products/popmo/247891122/01.webp",
+        "assets/products/popmo/247891122/02.webp",
+        "assets/products/popmo/247891122/03.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/9031afd599/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/247891122/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:11:01.700Z",
+      "imageCount": 3,
+      "updatedAt": "2026-10-30T22:30:43.934Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -468074,7 +468324,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Norway",
@@ -468085,16 +468335,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/235234142/01.webp"
+        "assets/products/popmo/235234142/01.webp",
+        "assets/products/popmo/235234142/02.webp",
+        "assets/products/popmo/235234142/03.webp",
+        "assets/products/popmo/235234142/04.webp",
+        "assets/products/popmo/235234142/05.webp",
+        "assets/products/popmo/235234142/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/a097bf9a78/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/235234142/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:05:45.725Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:33:47.268Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -468137,7 +468392,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Norway",
@@ -468148,16 +468403,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/236813485/01.webp"
+        "assets/products/popmo/236813485/01.webp",
+        "assets/products/popmo/236813485/02.webp",
+        "assets/products/popmo/236813485/03.webp",
+        "assets/products/popmo/236813485/04.webp",
+        "assets/products/popmo/236813485/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/38b2d3da6a/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/236813485/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:06:06.966Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:32:59.343Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -480862,7 +481121,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Player version jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Saudi Arabia",
@@ -480873,16 +481132,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/218580802/01.webp"
+        "assets/products/popmo/218580802/01.webp",
+        "assets/products/popmo/218580802/02.webp",
+        "assets/products/popmo/218580802/03.webp",
+        "assets/products/popmo/218580802/04.webp",
+        "assets/products/popmo/218580802/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/1e28f6ac/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/218580802/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:02:40.542Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:30:01.492Z",
       "season": "2025-2026",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -482715,7 +482978,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Scotland",
@@ -482726,16 +482989,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/243054445/01.webp"
+        "assets/products/popmo/243054445/01.webp",
+        "assets/products/popmo/243054445/02.webp",
+        "assets/products/popmo/243054445/03.webp",
+        "assets/products/popmo/243054445/04.webp",
+        "assets/products/popmo/243054445/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/fcd60c742e/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/243054445/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:07:47.691Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:31:26.325Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:240993113",
@@ -482809,7 +483076,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Scotland",
@@ -482820,16 +483087,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/243054613/01.webp"
+        "assets/products/popmo/243054613/01.webp",
+        "assets/products/popmo/243054613/02.webp",
+        "assets/products/popmo/243054613/03.webp",
+        "assets/products/popmo/243054613/04.webp",
+        "assets/products/popmo/243054613/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/1ae8c776a5/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/243054613/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:07:48.924Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:31:22.351Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -486238,7 +486509,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Player version jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Spain",
@@ -486249,16 +486520,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/218577643/01.webp"
+        "assets/products/popmo/218577643/01.webp",
+        "assets/products/popmo/218577643/02.webp",
+        "assets/products/popmo/218577643/03.webp",
+        "assets/products/popmo/218577643/04.webp",
+        "assets/products/popmo/218577643/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/718e3615/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/218577643/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:02:37.006Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:30:18.479Z",
       "season": "2025-2026",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -498449,7 +498724,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Tunisia",
@@ -498460,16 +498735,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/242127496/01.webp"
+        "assets/products/popmo/242127496/01.webp",
+        "assets/products/popmo/242127496/02.webp",
+        "assets/products/popmo/242127496/03.webp",
+        "assets/products/popmo/242127496/04.webp",
+        "assets/products/popmo/242127496/05.webp",
+        "assets/products/popmo/242127496/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/2641ba2ecb/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/242127496/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:07:28.546Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:31:44.097Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -498512,7 +498792,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Tunisia",
@@ -498524,15 +498804,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/243439488/01.webp"
+        "assets/products/popmo/243439488/01.webp",
+        "assets/products/popmo/243439488/02.webp",
+        "assets/products/popmo/243439488/03.webp",
+        "assets/products/popmo/243439488/04.webp",
+        "assets/products/popmo/243439488/05.webp",
+        "assets/products/popmo/243439488/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/9e73df48c2/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/243439488/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:08:15.834Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:31:09.238Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -839318,10 +839603,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Player version jersey",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Player version jersey",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -839329,16 +839614,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/218577944/01.webp"
+        "assets/products/popmo/218577944/01.webp",
+        "assets/products/popmo/218577944/02.webp",
+        "assets/products/popmo/218577944/03.webp",
+        "assets/products/popmo/218577944/04.webp",
+        "assets/products/popmo/218577944/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/9fa3f188/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/218577944/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:02:38.105Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:30:18.118Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -901049,10 +901338,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "World Cup",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -901061,15 +901350,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/238573148/01.webp"
+        "assets/products/popmo/238573148/01.webp",
+        "assets/products/popmo/238573148/02.webp",
+        "assets/products/popmo/238573148/03.webp",
+        "assets/products/popmo/238573148/04.webp",
+        "assets/products/popmo/238573148/05.webp",
+        "assets/products/popmo/238573148/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/919a9481d5/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/238573148/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:06:33.985Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:32:17.715Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -901081,10 +901375,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "World Cup",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -901093,15 +901387,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/240342133/01.webp"
+        "assets/products/popmo/240342133/01.webp",
+        "assets/products/popmo/240342133/02.webp",
+        "assets/products/popmo/240342133/03.webp",
+        "assets/products/popmo/240342133/04.webp",
+        "assets/products/popmo/240342133/05.webp",
+        "assets/products/popmo/240342133/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/f5bedcf5d7/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/240342133/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:07:06.088Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:31:49.132Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -901113,10 +901412,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "World Cup",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -901125,15 +901424,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/234826857/01.webp"
+        "assets/products/popmo/234826857/01.webp",
+        "assets/products/popmo/234826857/02.webp",
+        "assets/products/popmo/234826857/03.webp",
+        "assets/products/popmo/234826857/04.webp",
+        "assets/products/popmo/234826857/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/b98e71c181/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/234826857/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:05:42.001Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:33:58.832Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -901145,10 +901448,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "World Cup",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -901157,15 +901460,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/244859708/01.webp"
+        "assets/products/popmo/244859708/01.webp",
+        "assets/products/popmo/244859708/02.webp",
+        "assets/products/popmo/244859708/03.webp",
+        "assets/products/popmo/244859708/04.webp",
+        "assets/products/popmo/244859708/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/4512df7131/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/244859708/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:09:37.637Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:31:03.856Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -901177,10 +901484,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "World Cup",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -901189,15 +901496,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/234826811/01.webp"
+        "assets/products/popmo/234826811/01.webp",
+        "assets/products/popmo/234826811/02.webp",
+        "assets/products/popmo/234826811/03.webp",
+        "assets/products/popmo/234826811/04.webp",
+        "assets/products/popmo/234826811/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/682c0bb442/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/234826811/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:05:40.834Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:34:03.797Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -901209,10 +901520,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "World Cup",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -901221,15 +901532,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/244859485/01.webp"
+        "assets/products/popmo/244859485/01.webp",
+        "assets/products/popmo/244859485/02.webp",
+        "assets/products/popmo/244859485/03.webp",
+        "assets/products/popmo/244859485/04.webp",
+        "assets/products/popmo/244859485/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/2b3e656f4b/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/244859485/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:09:37.309Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:31:05.051Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -901241,10 +901556,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "World Cup",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -901252,16 +901567,21 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/242128308/01.webp"
+        "assets/products/popmo/242128308/01.webp",
+        "assets/products/popmo/242128308/02.webp",
+        "assets/products/popmo/242128308/03.webp",
+        "assets/products/popmo/242128308/04.webp",
+        "assets/products/popmo/242128308/05.webp",
+        "assets/products/popmo/242128308/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/149420580a/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/242128308/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:07:29.641Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:31:37.665Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -901273,10 +901593,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "World Cup",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -901285,15 +901605,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/239543358/01.webp"
+        "assets/products/popmo/239543358/01.webp",
+        "assets/products/popmo/239543358/02.webp",
+        "assets/products/popmo/239543358/03.webp",
+        "assets/products/popmo/239543358/04.webp",
+        "assets/products/popmo/239543358/05.webp",
+        "assets/products/popmo/239543358/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/ad46fd4320/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/239543358/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:06:46.458Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:32:12.867Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -901305,10 +901630,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "World Cup",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -901317,15 +901642,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/244859956/01.webp"
+        "assets/products/popmo/244859956/01.webp",
+        "assets/products/popmo/244859956/02.webp",
+        "assets/products/popmo/244859956/03.webp",
+        "assets/products/popmo/244859956/04.webp",
+        "assets/products/popmo/244859956/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/c4984e25d2/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/244859956/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:09:38.338Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:31:00.223Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -901369,10 +901698,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "World Cup",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -901381,15 +901710,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/239549247/01.webp"
+        "assets/products/popmo/239549247/01.webp",
+        "assets/products/popmo/239549247/02.webp",
+        "assets/products/popmo/239549247/03.webp",
+        "assets/products/popmo/239549247/04.webp",
+        "assets/products/popmo/239549247/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/8d4d1c729c/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/239549247/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:06:50.861Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:32:00.895Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -901401,10 +901734,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "World Cup",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -901413,15 +901746,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/236149534/01.webp"
+        "assets/products/popmo/236149534/01.webp",
+        "assets/products/popmo/236149534/02.webp",
+        "assets/products/popmo/236149534/03.webp",
+        "assets/products/popmo/236149534/04.webp",
+        "assets/products/popmo/236149534/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/5ba6da8644/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/236149534/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:05:58.795Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:33:17.472Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -901433,10 +901770,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "World Cup",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -901445,15 +901782,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/236149351/01.webp"
+        "assets/products/popmo/236149351/01.webp",
+        "assets/products/popmo/236149351/02.webp",
+        "assets/products/popmo/236149351/03.webp",
+        "assets/products/popmo/236149351/04.webp",
+        "assets/products/popmo/236149351/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/752e27bbe2/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/236149351/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:05:57.863Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:33:20.774Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -901537,10 +901878,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "World Cup",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -901549,15 +901890,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/240218182/01.webp"
+        "assets/products/popmo/240218182/01.webp",
+        "assets/products/popmo/240218182/02.webp",
+        "assets/products/popmo/240218182/03.webp",
+        "assets/products/popmo/240218182/04.webp",
+        "assets/products/popmo/240218182/05.webp",
+        "assets/products/popmo/240218182/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/6c42bb55b6/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/240218182/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:07:02.434Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:31:54.900Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -901605,10 +901951,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "World Cup",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -901617,15 +901963,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/236394408/01.webp"
+        "assets/products/popmo/236394408/01.webp",
+        "assets/products/popmo/236394408/02.webp",
+        "assets/products/popmo/236394408/03.webp",
+        "assets/products/popmo/236394408/04.webp",
+        "assets/products/popmo/236394408/05.webp",
+        "assets/products/popmo/236394408/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/ccbfa8b561/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/236394408/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:06:04.563Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:33:00.217Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -901637,10 +901988,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "World Cup",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -901648,16 +901999,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/237853363/01.webp"
+        "assets/products/popmo/237853363/01.webp",
+        "assets/products/popmo/237853363/02.webp",
+        "assets/products/popmo/237853363/03.webp",
+        "assets/products/popmo/237853363/04.webp",
+        "assets/products/popmo/237853363/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/3ce801c2d6/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/237853363/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:06:22.021Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:32:33.649Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -901669,10 +902024,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "World Cup",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -901681,15 +902036,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/236145205/01.webp"
+        "assets/products/popmo/236145205/01.webp",
+        "assets/products/popmo/236145205/02.webp",
+        "assets/products/popmo/236145205/03.webp",
+        "assets/products/popmo/236145205/04.webp",
+        "assets/products/popmo/236145205/05.webp",
+        "assets/products/popmo/236145205/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/262fdfd58a/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/236145205/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:05:52.930Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:33:27.584Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -901701,10 +902061,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "World Cup",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -901713,15 +902073,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/235342625/01.webp"
+        "assets/products/popmo/235342625/01.webp",
+        "assets/products/popmo/235342625/02.webp",
+        "assets/products/popmo/235342625/03.webp",
+        "assets/products/popmo/235342625/04.webp",
+        "assets/products/popmo/235342625/05.webp",
+        "assets/products/popmo/235342625/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/391d4f2f79/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/235342625/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:05:47.993Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:33:47.238Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -901733,10 +902098,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "World Cup",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -901745,15 +902110,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/234894013/01.webp"
+        "assets/products/popmo/234894013/01.webp",
+        "assets/products/popmo/234894013/02.webp",
+        "assets/products/popmo/234894013/03.webp",
+        "assets/products/popmo/234894013/04.webp",
+        "assets/products/popmo/234894013/05.webp",
+        "assets/products/popmo/234894013/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/02dd9458b4/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/234894013/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:05:43.295Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:33:53.119Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -901801,10 +902171,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "World Cup",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -901813,15 +902183,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/235556718/01.webp"
+        "assets/products/popmo/235556718/01.webp",
+        "assets/products/popmo/235556718/02.webp",
+        "assets/products/popmo/235556718/03.webp",
+        "assets/products/popmo/235556718/04.webp",
+        "assets/products/popmo/235556718/05.webp",
+        "assets/products/popmo/235556718/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/2fa0615343/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/235556718/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:05:49.178Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:33:39.461Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -901833,10 +902208,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "World Cup",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -901845,15 +902220,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/236816473/01.webp"
+        "assets/products/popmo/236816473/01.webp",
+        "assets/products/popmo/236816473/02.webp",
+        "assets/products/popmo/236816473/03.webp",
+        "assets/products/popmo/236816473/04.webp",
+        "assets/products/popmo/236816473/05.webp",
+        "assets/products/popmo/236816473/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/7442c9cf67/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/236816473/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:06:08.175Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:32:48.339Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -901865,10 +902245,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "World Cup",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -901877,15 +902257,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/234894655/01.webp"
+        "assets/products/popmo/234894655/01.webp",
+        "assets/products/popmo/234894655/02.webp",
+        "assets/products/popmo/234894655/03.webp",
+        "assets/products/popmo/234894655/04.webp",
+        "assets/products/popmo/234894655/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/9b5a2de2cd/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/234894655/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:05:44.276Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:33:52.641Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -901897,10 +902281,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "World Cup",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -901909,15 +902293,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/237601407/01.webp"
+        "assets/products/popmo/237601407/01.webp",
+        "assets/products/popmo/237601407/02.webp",
+        "assets/products/popmo/237601407/03.webp",
+        "assets/products/popmo/237601407/04.webp",
+        "assets/products/popmo/237601407/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/9550f59d91/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/237601407/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:06:19.785Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:32:37.525Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -901929,10 +902317,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "World Cup",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -901940,16 +902328,21 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/237855030/01.webp"
+        "assets/products/popmo/237855030/01.webp",
+        "assets/products/popmo/237855030/02.webp",
+        "assets/products/popmo/237855030/03.webp",
+        "assets/products/popmo/237855030/04.webp",
+        "assets/products/popmo/237855030/05.webp",
+        "assets/products/popmo/237855030/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/0ad3c5e401/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/237855030/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:06:23.643Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:32:27.694Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -901961,10 +902354,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "World Cup",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -901973,15 +902366,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/236150721/01.webp"
+        "assets/products/popmo/236150721/01.webp",
+        "assets/products/popmo/236150721/02.webp",
+        "assets/products/popmo/236150721/03.webp",
+        "assets/products/popmo/236150721/04.webp",
+        "assets/products/popmo/236150721/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/67f12489ba/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/236150721/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:05:59.863Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:33:15.500Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -901993,10 +902390,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "World Cup",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -902005,15 +902402,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/243063045/01.webp"
+        "assets/products/popmo/243063045/01.webp",
+        "assets/products/popmo/243063045/02.webp",
+        "assets/products/popmo/243063045/03.webp",
+        "assets/products/popmo/243063045/04.webp",
+        "assets/products/popmo/243063045/05.webp",
+        "assets/products/popmo/243063045/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/1146dffc51/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/243063045/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:07:55.361Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:31:10.236Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -902025,10 +902427,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "World Cup",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -902036,16 +902438,21 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/245909739/01.webp"
+        "assets/products/popmo/245909739/01.webp",
+        "assets/products/popmo/245909739/02.webp",
+        "assets/products/popmo/245909739/03.webp",
+        "assets/products/popmo/245909739/04.webp",
+        "assets/products/popmo/245909739/05.webp",
+        "assets/products/popmo/245909739/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/70b239c53e/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/245909739/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:09:58.246Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:30:53.914Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -934859,7 +935266,7 @@
       "source": "popmo",
       "sourceId": "210934299",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/210934299",
-      "sourceCategory": "Player version jersey",
+      "sourceCategory": "more",
       "title": "[player version] Barcelona Pre-Match Home Shirt S-2XL9",
       "section": "Trainingskleding",
       "category": "Clubteams",
@@ -934872,13 +935279,18 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/popmo/210934299/01.webp"
+        "assets/products/popmo/210934299/01.webp",
+        "assets/products/popmo/210934299/02.webp",
+        "assets/products/popmo/210934299/03.webp",
+        "assets/products/popmo/210934299/04.webp",
+        "assets/products/popmo/210934299/05.webp",
+        "assets/products/popmo/210934299/06.webp"
       ],
       "coverUrl": "assets/products/popmo/210934299/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:01:13.290Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:30:46.650Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -1001898,7 +1002310,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
       "category": "Landenteams",
       "subcategory": "Colombia",
@@ -1001909,16 +1002321,20 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/popmo/237269960/01.webp"
+        "assets/products/popmo/237269960/01.webp",
+        "assets/products/popmo/237269960/02.webp",
+        "assets/products/popmo/237269960/03.webp",
+        "assets/products/popmo/237269960/04.webp",
+        "assets/products/popmo/237269960/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/ec0f5791a8/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/237269960/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:06:16.452Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:32:44.793Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -1003978,7 +1004394,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
       "category": "Landenteams",
       "subcategory": "England",
@@ -1003989,16 +1004405,21 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/popmo/235556204/01.webp"
+        "assets/products/popmo/235556204/01.webp",
+        "assets/products/popmo/235556204/02.webp",
+        "assets/products/popmo/235556204/03.webp",
+        "assets/products/popmo/235556204/04.webp",
+        "assets/products/popmo/235556204/05.webp",
+        "assets/products/popmo/235556204/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/5265a05863/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/235556204/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:05:48.265Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:33:41.504Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "dongshanstore:240844191",
@@ -1019906,7 +1020327,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
       "category": "Landenteams",
       "subcategory": "Scotland",
@@ -1019917,16 +1020338,20 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/popmo/239432916/01.webp"
+        "assets/products/popmo/239432916/01.webp",
+        "assets/products/popmo/239432916/02.webp",
+        "assets/products/popmo/239432916/03.webp",
+        "assets/products/popmo/239432916/04.webp",
+        "assets/products/popmo/239432916/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/6aeaa6da95/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/239432916/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:06:44.996Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:32:17.215Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -1100780,7 +1101205,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1100792,15 +1101217,19 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/popmo/239987093/01.webp"
+        "assets/products/popmo/239987093/01.webp",
+        "assets/products/popmo/239987093/02.webp",
+        "assets/products/popmo/239987093/03.webp",
+        "assets/products/popmo/239987093/04.webp",
+        "assets/products/popmo/239987093/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/2bb46b05eb/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/239987093/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:06:56.780Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:31:55.226Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -1100812,7 +1101241,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1100824,15 +1101253,19 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/popmo/237271650/01.webp"
+        "assets/products/popmo/237271650/01.webp",
+        "assets/products/popmo/237271650/02.webp",
+        "assets/products/popmo/237271650/03.webp",
+        "assets/products/popmo/237271650/04.webp",
+        "assets/products/popmo/237271650/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/7dba4fa15e/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/237271650/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:06:16.698Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:32:43.173Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -1100844,7 +1101277,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1100855,16 +1101288,21 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/popmo/239986944/01.webp"
+        "assets/products/popmo/239986944/01.webp",
+        "assets/products/popmo/239986944/02.webp",
+        "assets/products/popmo/239986944/03.webp",
+        "assets/products/popmo/239986944/04.webp",
+        "assets/products/popmo/239986944/05.webp",
+        "assets/products/popmo/239986944/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/2143af415d/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/239986944/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:06:56.623Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:32:01.281Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
