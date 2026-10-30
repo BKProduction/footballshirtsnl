@@ -1,5 +1,5 @@
 {
-  "lastSync": "2026-10-30T16:03:03.465Z",
+  "lastSync": "2026-10-30T16:07:56.442Z",
   "status": "running",
   "currentSource": "popmo",
   "products": [
@@ -83988,7 +83988,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Eredivisie",
@@ -83999,16 +83999,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/233591259/01.webp"
+        "assets/products/popmo/233591259/01.webp",
+        "assets/products/popmo/233591259/02.webp",
+        "assets/products/popmo/233591259/03.webp",
+        "assets/products/popmo/233591259/04.webp",
+        "assets/products/popmo/233591259/05.webp",
+        "assets/products/popmo/233591259/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/13625cb7c2/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/233591259/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:05:04.170Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T16:07:40.984Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -221517,7 +221522,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "USA MLS",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "MLS",
@@ -221529,15 +221534,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/201763959/01.webp"
+        "assets/products/popmo/201763959/01.webp",
+        "assets/products/popmo/201763959/02.webp",
+        "assets/products/popmo/201763959/03.webp",
+        "assets/products/popmo/201763959/04.webp",
+        "assets/products/popmo/201763959/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/4207a4a6/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/201763959/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:58:11.310Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:05:40.856Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -221944,7 +221953,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "USA MLS",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "MLS",
@@ -221956,15 +221965,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/198356636/01.webp"
+        "assets/products/popmo/198356636/01.webp",
+        "assets/products/popmo/198356636/02.webp",
+        "assets/products/popmo/198356636/03.webp",
+        "assets/products/popmo/198356636/04.webp",
+        "assets/products/popmo/198356636/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/88ed0467/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/198356636/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:38.885Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:06:41.610Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -222013,7 +222026,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "USA MLS",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "MLS",
@@ -222025,15 +222038,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/198284817/01.webp"
+        "assets/products/popmo/198284817/01.webp",
+        "assets/products/popmo/198284817/02.webp",
+        "assets/products/popmo/198284817/03.webp",
+        "assets/products/popmo/198284817/04.webp",
+        "assets/products/popmo/198284817/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/5da19220/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/198284817/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:19.546Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:06:58.927Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -222237,7 +222254,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "USA MLS",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "MLS",
@@ -222249,15 +222266,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/198910323/01.webp"
+        "assets/products/popmo/198910323/01.webp",
+        "assets/products/popmo/198910323/02.webp",
+        "assets/products/popmo/198910323/03.webp",
+        "assets/products/popmo/198910323/04.webp",
+        "assets/products/popmo/198910323/05.webp",
+        "assets/products/popmo/198910323/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/8819bf4d/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/198910323/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:49.148Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T16:06:32.716Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -224173,7 +224195,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "USA MLS",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "MLS",
@@ -224185,15 +224207,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/200943265/01.webp"
+        "assets/products/popmo/200943265/01.webp",
+        "assets/products/popmo/200943265/02.webp",
+        "assets/products/popmo/200943265/03.webp",
+        "assets/products/popmo/200943265/04.webp",
+        "assets/products/popmo/200943265/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/61b1f224/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/200943265/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:20.409Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:06:20.709Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -224808,7 +224834,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "USA MLS",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "MLS",
@@ -224820,15 +224846,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/198290658/01.webp"
+        "assets/products/popmo/198290658/01.webp",
+        "assets/products/popmo/198290658/02.webp",
+        "assets/products/popmo/198290658/03.webp",
+        "assets/products/popmo/198290658/04.webp",
+        "assets/products/popmo/198290658/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/c7df12b5/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/198290658/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:21.652Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:06:53.126Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -366043,7 +366073,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Argentina",
@@ -366054,16 +366084,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/232906114/01.webp"
+        "assets/products/popmo/232906114/01.webp",
+        "assets/products/popmo/232906114/02.webp",
+        "assets/products/popmo/232906114/03.webp",
+        "assets/products/popmo/232906114/04.webp",
+        "assets/products/popmo/232906114/05.webp",
+        "assets/products/popmo/232906114/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/0018d57511/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/232906114/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:04:46.570Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T16:07:56.442Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -377748,7 +377783,7 @@
       "source": "popmo",
       "sourceId": "243455343",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/243455343",
-      "sourceCategory": "Hot Players - WORLD CUP JERSEY",
+      "sourceCategory": "more",
       "title": "Lionel Messi #10 Argentina National Team World Cup 2026 Home Kit Football Jersey2",
       "section": "Voetbal",
       "category": "Landenteams",
@@ -377761,13 +377796,17 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/243455343/01.webp"
+        "assets/products/popmo/243455343/01.webp",
+        "assets/products/popmo/243455343/02.webp",
+        "assets/products/popmo/243455343/03.webp",
+        "assets/products/popmo/243455343/04.webp",
+        "assets/products/popmo/243455343/05.webp"
       ],
       "coverUrl": "assets/products/popmo/243455343/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:08:29.946Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:05:30.628Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -395183,7 +395222,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Colombia",
@@ -395194,16 +395233,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/232906266/01.webp"
+        "assets/products/popmo/232906266/01.webp",
+        "assets/products/popmo/232906266/02.webp",
+        "assets/products/popmo/232906266/03.webp",
+        "assets/products/popmo/232906266/04.webp",
+        "assets/products/popmo/232906266/05.webp",
+        "assets/products/popmo/232906266/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/5986e32631/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/232906266/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:04:47.202Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T16:07:53.582Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -439552,7 +439596,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Japan",
@@ -439563,16 +439607,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/234893386/01.webp"
+        "assets/products/popmo/234893386/01.webp",
+        "assets/products/popmo/234893386/02.webp",
+        "assets/products/popmo/234893386/03.webp",
+        "assets/products/popmo/234893386/04.webp",
+        "assets/products/popmo/234893386/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/ba9114be25/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/234893386/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:05:43.238Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:07:35.009Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -464355,7 +464403,7 @@
       "source": "popmo",
       "sourceId": "243260356",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/243260356",
-      "sourceCategory": "Hot Players - WORLD CUP JERSEY",
+      "sourceCategory": "more",
       "title": "DUMFRIES #22 Netherlands Away Jersey [2026 FIFA WORLD CUP]3",
       "section": "Voetbal",
       "category": "Landenteams",
@@ -464368,20 +464416,25 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/243260356/01.webp"
+        "assets/products/popmo/243260356/01.webp",
+        "assets/products/popmo/243260356/02.webp",
+        "assets/products/popmo/243260356/03.webp",
+        "assets/products/popmo/243260356/04.webp",
+        "assets/products/popmo/243260356/05.webp",
+        "assets/products/popmo/243260356/06.webp"
       ],
       "coverUrl": "assets/products/popmo/243260356/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:08:10.082Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T16:03:41.163Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:243259883",
       "source": "popmo",
       "sourceId": "243259883",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/243259883",
-      "sourceCategory": "Hot Players - WORLD CUP JERSEY",
+      "sourceCategory": "more",
       "title": "DUMFRIES #22 Netherlands Home Jersey [2026 FIFA WORLD CUP]3",
       "section": "Voetbal",
       "category": "Landenteams",
@@ -464394,20 +464447,25 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/243259883/01.webp"
+        "assets/products/popmo/243259883/01.webp",
+        "assets/products/popmo/243259883/02.webp",
+        "assets/products/popmo/243259883/03.webp",
+        "assets/products/popmo/243259883/04.webp",
+        "assets/products/popmo/243259883/05.webp",
+        "assets/products/popmo/243259883/06.webp"
       ],
       "coverUrl": "assets/products/popmo/243259883/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:08:08.965Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T16:03:50.023Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:243248945",
       "source": "popmo",
       "sourceId": "243248945",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/243248945",
-      "sourceCategory": "Hot Players - WORLD CUP JERSEY",
+      "sourceCategory": "more",
       "title": "F.de JONG #21 Netherlands Away Jersey [2026 FIFA WORLD CUP]9",
       "section": "Voetbal",
       "category": "Landenteams",
@@ -464420,20 +464478,25 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/243248945/01.webp"
+        "assets/products/popmo/243248945/01.webp",
+        "assets/products/popmo/243248945/02.webp",
+        "assets/products/popmo/243248945/03.webp",
+        "assets/products/popmo/243248945/04.webp",
+        "assets/products/popmo/243248945/05.webp",
+        "assets/products/popmo/243248945/06.webp"
       ],
       "coverUrl": "assets/products/popmo/243248945/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:08:01.719Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T16:04:46.612Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:243249521",
       "source": "popmo",
       "sourceId": "243249521",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/243249521",
-      "sourceCategory": "Hot Players - WORLD CUP JERSEY",
+      "sourceCategory": "more",
       "title": "F.de JONG #21 Netherlands Away Kit [2026 FIFA WORLD CUP]2",
       "section": "Voetbal",
       "category": "Landenteams",
@@ -464446,20 +464509,24 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/243249521/01.webp"
+        "assets/products/popmo/243249521/01.webp",
+        "assets/products/popmo/243249521/02.webp",
+        "assets/products/popmo/243249521/03.webp",
+        "assets/products/popmo/243249521/04.webp",
+        "assets/products/popmo/243249521/05.webp"
       ],
       "coverUrl": "assets/products/popmo/243249521/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:08:02.836Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:04:30.579Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:243248986",
       "source": "popmo",
       "sourceId": "243248986",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/243248986",
-      "sourceCategory": "Hot Players - WORLD CUP JERSEY",
+      "sourceCategory": "more",
       "title": "F.de JONG #21 Netherlands Home Jersey [2026 FIFA WORLD CUP]3",
       "section": "Voetbal",
       "category": "Landenteams",
@@ -464472,20 +464539,25 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/243248986/01.webp"
+        "assets/products/popmo/243248986/01.webp",
+        "assets/products/popmo/243248986/02.webp",
+        "assets/products/popmo/243248986/03.webp",
+        "assets/products/popmo/243248986/04.webp",
+        "assets/products/popmo/243248986/05.webp",
+        "assets/products/popmo/243248986/06.webp"
       ],
       "coverUrl": "assets/products/popmo/243248986/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:08:01.750Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T16:04:42.191Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:243252467",
       "source": "popmo",
       "sourceId": "243252467",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/243252467",
-      "sourceCategory": "Hot Players - WORLD CUP JERSEY",
+      "sourceCategory": "more",
       "title": "HATO #3 Netherlands Away Jersey [2026 FIFA WORLD CUP]3",
       "section": "Voetbal",
       "category": "Landenteams",
@@ -464498,13 +464570,18 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/243252467/01.webp"
+        "assets/products/popmo/243252467/01.webp",
+        "assets/products/popmo/243252467/02.webp",
+        "assets/products/popmo/243252467/03.webp",
+        "assets/products/popmo/243252467/04.webp",
+        "assets/products/popmo/243252467/05.webp",
+        "assets/products/popmo/243252467/06.webp"
       ],
       "coverUrl": "assets/products/popmo/243252467/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:08:04.101Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T16:04:28.055Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -464582,7 +464659,7 @@
       "source": "popmo",
       "sourceId": "243259645",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/243259645",
-      "sourceCategory": "Hot Players - WORLD CUP JERSEY",
+      "sourceCategory": "more",
       "title": "LANG #17 Netherlands Away Jersey [2026 FIFA WORLD CUP]3",
       "section": "Voetbal",
       "category": "Landenteams",
@@ -464595,20 +464672,25 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/243259645/01.webp"
+        "assets/products/popmo/243259645/01.webp",
+        "assets/products/popmo/243259645/02.webp",
+        "assets/products/popmo/243259645/03.webp",
+        "assets/products/popmo/243259645/04.webp",
+        "assets/products/popmo/243259645/05.webp",
+        "assets/products/popmo/243259645/06.webp"
       ],
       "coverUrl": "assets/products/popmo/243259645/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:08:07.766Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T16:04:00.928Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:243259498",
       "source": "popmo",
       "sourceId": "243259498",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/243259498",
-      "sourceCategory": "Hot Players - WORLD CUP JERSEY",
+      "sourceCategory": "more",
       "title": "LANG #17 Netherlands Home Jersey [2026 FIFA WORLD CUP]3",
       "section": "Voetbal",
       "category": "Landenteams",
@@ -464621,20 +464703,25 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/243259498/01.webp"
+        "assets/products/popmo/243259498/01.webp",
+        "assets/products/popmo/243259498/02.webp",
+        "assets/products/popmo/243259498/03.webp",
+        "assets/products/popmo/243259498/04.webp",
+        "assets/products/popmo/243259498/05.webp",
+        "assets/products/popmo/243259498/06.webp"
       ],
       "coverUrl": "assets/products/popmo/243259498/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:08:07.561Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T16:04:00.285Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:243260194",
       "source": "popmo",
       "sourceId": "243260194",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/243260194",
-      "sourceCategory": "Hot Players - WORLD CUP JERSEY",
+      "sourceCategory": "more",
       "title": "MALEN #18 Netherlands Away Jersey [2026 FIFA WORLD CUP]3",
       "section": "Voetbal",
       "category": "Landenteams",
@@ -464647,20 +464734,25 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/243260194/01.webp"
+        "assets/products/popmo/243260194/01.webp",
+        "assets/products/popmo/243260194/02.webp",
+        "assets/products/popmo/243260194/03.webp",
+        "assets/products/popmo/243260194/04.webp",
+        "assets/products/popmo/243260194/05.webp",
+        "assets/products/popmo/243260194/06.webp"
       ],
       "coverUrl": "assets/products/popmo/243260194/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:08:09.843Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T16:03:42.690Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:243259793",
       "source": "popmo",
       "sourceId": "243259793",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/243259793",
-      "sourceCategory": "Hot Players - WORLD CUP JERSEY",
+      "sourceCategory": "more",
       "title": "MALEN #18 Netherlands Home Jersey [2026 FIFA WORLD CUP]3",
       "section": "Voetbal",
       "category": "Landenteams",
@@ -464673,20 +464765,25 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/243259793/01.webp"
+        "assets/products/popmo/243259793/01.webp",
+        "assets/products/popmo/243259793/02.webp",
+        "assets/products/popmo/243259793/03.webp",
+        "assets/products/popmo/243259793/04.webp",
+        "assets/products/popmo/243259793/05.webp",
+        "assets/products/popmo/243259793/06.webp"
       ],
       "coverUrl": "assets/products/popmo/243259793/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:08:08.813Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T16:03:52.807Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:243254037",
       "source": "popmo",
       "sourceId": "243254037",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/243254037",
-      "sourceCategory": "Hot Players - WORLD CUP JERSEY",
+      "sourceCategory": "more",
       "title": "MEMPHIS #10 Netherlands Away Jersey [2026 FIFA WORLD CUP]4",
       "section": "Voetbal",
       "category": "Landenteams",
@@ -464699,13 +464796,18 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/243254037/01.webp"
+        "assets/products/popmo/243254037/01.webp",
+        "assets/products/popmo/243254037/02.webp",
+        "assets/products/popmo/243254037/03.webp",
+        "assets/products/popmo/243254037/04.webp",
+        "assets/products/popmo/243254037/05.webp",
+        "assets/products/popmo/243254037/06.webp"
       ],
       "coverUrl": "assets/products/popmo/243254037/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:08:06.499Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T16:04:11.777Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -465007,7 +465109,7 @@
       "source": "popmo",
       "sourceId": "243255267",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/243255267",
-      "sourceCategory": "Hot Players - WORLD CUP JERSEY",
+      "sourceCategory": "more",
       "title": "Van de VEN #15 Netherlands Home Jersey [2026 FIFA WORLD CUP]2",
       "section": "Voetbal",
       "category": "Landenteams",
@@ -465020,20 +465122,24 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/243255267/01.webp"
+        "assets/products/popmo/243255267/01.webp",
+        "assets/products/popmo/243255267/02.webp",
+        "assets/products/popmo/243255267/03.webp",
+        "assets/products/popmo/243255267/04.webp",
+        "assets/products/popmo/243255267/05.webp"
       ],
       "coverUrl": "assets/products/popmo/243255267/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:08:06.702Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:04:07.992Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:243245348",
       "source": "popmo",
       "sourceId": "243245348",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/243245348",
-      "sourceCategory": "Hot Players - WORLD CUP JERSEY",
+      "sourceCategory": "more",
       "title": "VAN HECKE #12 Netherlands Away Jersey [2026 FIFA WORLD CUP]8",
       "section": "Voetbal",
       "category": "Landenteams",
@@ -465046,20 +465152,25 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/243245348/01.webp"
+        "assets/products/popmo/243245348/01.webp",
+        "assets/products/popmo/243245348/02.webp",
+        "assets/products/popmo/243245348/03.webp",
+        "assets/products/popmo/243245348/04.webp",
+        "assets/products/popmo/243245348/05.webp",
+        "assets/products/popmo/243245348/06.webp"
       ],
       "coverUrl": "assets/products/popmo/243245348/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:08:00.165Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T16:05:11.823Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:243245296",
       "source": "popmo",
       "sourceId": "243245296",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/243245296",
-      "sourceCategory": "Hot Players - WORLD CUP JERSEY",
+      "sourceCategory": "more",
       "title": "VAN HECKE #12 Netherlands Home Jersey [2026 FIFA WORLD CUP]7",
       "section": "Voetbal",
       "category": "Landenteams",
@@ -465072,20 +465183,25 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/243245296/01.webp"
+        "assets/products/popmo/243245296/01.webp",
+        "assets/products/popmo/243245296/02.webp",
+        "assets/products/popmo/243245296/03.webp",
+        "assets/products/popmo/243245296/04.webp",
+        "assets/products/popmo/243245296/05.webp",
+        "assets/products/popmo/243245296/06.webp"
       ],
       "coverUrl": "assets/products/popmo/243245296/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:08:00.301Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T16:05:00.447Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:243243572",
       "source": "popmo",
       "sourceId": "243243572",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/243243572",
-      "sourceCategory": "Hot Players - WORLD CUP JERSEY",
+      "sourceCategory": "more",
       "title": "VIRGIL #4 Netherlands Away Jersey [2026 FIFA WOLRD CUP]6",
       "section": "Voetbal",
       "category": "Landenteams",
@@ -465098,20 +465214,25 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/243243572/01.webp"
+        "assets/products/popmo/243243572/01.webp",
+        "assets/products/popmo/243243572/02.webp",
+        "assets/products/popmo/243243572/03.webp",
+        "assets/products/popmo/243243572/04.webp",
+        "assets/products/popmo/243243572/05.webp",
+        "assets/products/popmo/243243572/06.webp"
       ],
       "coverUrl": "assets/products/popmo/243243572/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:07:58.667Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T16:05:13.100Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:243241997",
       "source": "popmo",
       "sourceId": "243241997",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/243241997",
-      "sourceCategory": "Hot Players - WORLD CUP JERSEY",
+      "sourceCategory": "more",
       "title": "VIRGIL #4 Netherlands Home Jersey [2026 FIFA WOLRD CUP]4",
       "section": "Voetbal",
       "category": "Landenteams",
@@ -465124,20 +465245,25 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/243241997/01.webp"
+        "assets/products/popmo/243241997/01.webp",
+        "assets/products/popmo/243241997/02.webp",
+        "assets/products/popmo/243241997/03.webp",
+        "assets/products/popmo/243241997/04.webp",
+        "assets/products/popmo/243241997/05.webp",
+        "assets/products/popmo/243241997/06.webp"
       ],
       "coverUrl": "assets/products/popmo/243241997/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:07:57.606Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T16:05:22.059Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:243242687",
       "source": "popmo",
       "sourceId": "243242687",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/243242687",
-      "sourceCategory": "Hot Players - WORLD CUP JERSEY",
+      "sourceCategory": "more",
       "title": "VIRGIL #4 Netherlands Home Kit [2026 FIFA WOLRD CUP]7",
       "section": "Voetbal",
       "category": "Landenteams",
@@ -465150,20 +465276,25 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/243242687/01.webp"
+        "assets/products/popmo/243242687/01.webp",
+        "assets/products/popmo/243242687/02.webp",
+        "assets/products/popmo/243242687/03.webp",
+        "assets/products/popmo/243242687/04.webp",
+        "assets/products/popmo/243242687/05.webp",
+        "assets/products/popmo/243242687/06.webp"
       ],
       "coverUrl": "assets/products/popmo/243242687/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:07:58.573Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T16:05:24.194Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:243253206",
       "source": "popmo",
       "sourceId": "243253206",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/243253206",
-      "sourceCategory": "Hot Players - WORLD CUP JERSEY",
+      "sourceCategory": "more",
       "title": "WEGHORST#9 Netherlands Away Jersey [2026 FIFA WORLD CUP]3",
       "section": "Voetbal",
       "category": "Landenteams",
@@ -465176,20 +465307,25 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/243253206/01.webp"
+        "assets/products/popmo/243253206/01.webp",
+        "assets/products/popmo/243253206/02.webp",
+        "assets/products/popmo/243253206/03.webp",
+        "assets/products/popmo/243253206/04.webp",
+        "assets/products/popmo/243253206/05.webp",
+        "assets/products/popmo/243253206/06.webp"
       ],
       "coverUrl": "assets/products/popmo/243253206/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:08:05.433Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T16:04:19.258Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:243253027",
       "source": "popmo",
       "sourceId": "243253027",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/243253027",
-      "sourceCategory": "Hot Players - WORLD CUP JERSEY",
+      "sourceCategory": "more",
       "title": "WEGHORST#9 Netherlands Home Jersey [2026 FIFA WORLD CUP]4",
       "section": "Voetbal",
       "category": "Landenteams",
@@ -465202,13 +465338,18 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/243253027/01.webp"
+        "assets/products/popmo/243253027/01.webp",
+        "assets/products/popmo/243253027/02.webp",
+        "assets/products/popmo/243253027/03.webp",
+        "assets/products/popmo/243253027/04.webp",
+        "assets/products/popmo/243253027/05.webp",
+        "assets/products/popmo/243253027/06.webp"
       ],
       "coverUrl": "assets/products/popmo/243253027/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:08:05.243Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T16:04:19.579Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -500916,27 +501057,32 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "USA MLS",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "USA",
-      "country": "USA",
-      "competition": "Landenteams",
-      "club": "USA",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/201042971/01.webp"
+        "assets/products/popmo/201042971/01.webp",
+        "assets/products/popmo/201042971/02.webp",
+        "assets/products/popmo/201042971/03.webp",
+        "assets/products/popmo/201042971/04.webp",
+        "assets/products/popmo/201042971/05.webp",
+        "assets/products/popmo/201042971/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/8d9b2649/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/201042971/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:27.943Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T16:05:51.064Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -500948,27 +501094,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "USA MLS",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "USA",
-      "country": "USA",
-      "competition": "Landenteams",
-      "club": "USA",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/200942819/01.webp"
+        "assets/products/popmo/200942819/01.webp",
+        "assets/products/popmo/200942819/02.webp",
+        "assets/products/popmo/200942819/03.webp",
+        "assets/products/popmo/200942819/04.webp",
+        "assets/products/popmo/200942819/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/8105156b/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/200942819/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:19.148Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:06:22.806Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -500980,27 +501130,32 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "USA MLS",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "USA",
-      "country": "USA",
-      "competition": "Landenteams",
-      "club": "USA",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/201041877/01.webp"
+        "assets/products/popmo/201041877/01.webp",
+        "assets/products/popmo/201041877/02.webp",
+        "assets/products/popmo/201041877/03.webp",
+        "assets/products/popmo/201041877/04.webp",
+        "assets/products/popmo/201041877/05.webp",
+        "assets/products/popmo/201041877/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/184d051f/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/201041877/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:26.738Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T16:05:52.962Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -501012,27 +501167,32 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "USA MLS",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "USA",
-      "country": "USA",
-      "competition": "Landenteams",
-      "club": "USA",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/201041528/01.webp"
+        "assets/products/popmo/201041528/01.webp",
+        "assets/products/popmo/201041528/02.webp",
+        "assets/products/popmo/201041528/03.webp",
+        "assets/products/popmo/201041528/04.webp",
+        "assets/products/popmo/201041528/05.webp",
+        "assets/products/popmo/201041528/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/3da6f2b1/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/201041528/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:26.195Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T16:06:02.509Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -501044,27 +501204,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "USA MLS",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "USA",
-      "country": "USA",
-      "competition": "Landenteams",
-      "club": "USA",
-      "season": "2025-2026",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/200944142/01.webp"
+        "assets/products/popmo/200944142/01.webp",
+        "assets/products/popmo/200944142/02.webp",
+        "assets/products/popmo/200944142/03.webp",
+        "assets/products/popmo/200944142/04.webp",
+        "assets/products/popmo/200944142/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/ba00e9f0/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/200944142/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:21.656Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:06:13.333Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -501076,27 +501240,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "USA MLS",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "USA",
-      "country": "USA",
-      "competition": "Landenteams",
-      "club": "USA",
-      "season": "2025-2026",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/200943792/01.webp"
+        "assets/products/popmo/200943792/01.webp",
+        "assets/products/popmo/200943792/02.webp",
+        "assets/products/popmo/200943792/03.webp",
+        "assets/products/popmo/200943792/04.webp",
+        "assets/products/popmo/200943792/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/f856deb6/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/200943792/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:20.277Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:06:12.212Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -501108,27 +501276,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "USA MLS",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "USA",
-      "country": "USA",
-      "competition": "Landenteams",
-      "club": "USA",
-      "season": "2025-2026",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/198288957/01.webp"
+        "assets/products/popmo/198288957/01.webp",
+        "assets/products/popmo/198288957/02.webp",
+        "assets/products/popmo/198288957/03.webp",
+        "assets/products/popmo/198288957/04.webp",
+        "assets/products/popmo/198288957/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/55d3c70b/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/198288957/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:20.608Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:06:50.067Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -501140,27 +501312,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "USA MLS",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "USA",
-      "country": "USA",
-      "competition": "Landenteams",
-      "club": "USA",
-      "season": "2025-2026",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/202316420/01.webp"
+        "assets/products/popmo/202316420/01.webp",
+        "assets/products/popmo/202316420/02.webp",
+        "assets/products/popmo/202316420/03.webp",
+        "assets/products/popmo/202316420/04.webp",
+        "assets/products/popmo/202316420/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/17509416/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/202316420/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:58:23.206Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:05:41.703Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -501244,27 +501420,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "USA MLS",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "USA",
-      "country": "USA",
-      "competition": "Landenteams",
-      "club": "USA",
-      "season": "2025-2026",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/200940296/01.webp"
+        "assets/products/popmo/200940296/01.webp",
+        "assets/products/popmo/200940296/02.webp",
+        "assets/products/popmo/200940296/03.webp",
+        "assets/products/popmo/200940296/04.webp",
+        "assets/products/popmo/200940296/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/e656dcc2/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/200940296/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:19.198Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:06:29.463Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -501467,27 +501647,32 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "USA MLS",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "USA",
-      "country": "USA",
-      "competition": "Landenteams",
-      "club": "USA",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/201040076/01.webp"
+        "assets/products/popmo/201040076/01.webp",
+        "assets/products/popmo/201040076/02.webp",
+        "assets/products/popmo/201040076/03.webp",
+        "assets/products/popmo/201040076/04.webp",
+        "assets/products/popmo/201040076/05.webp",
+        "assets/products/popmo/201040076/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/0cf27649/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/201040076/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:24.609Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T16:06:04.022Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -502180,7 +502365,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "USA",
@@ -502191,16 +502376,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/236119956/01.webp"
+        "assets/products/popmo/236119956/01.webp",
+        "assets/products/popmo/236119956/02.webp",
+        "assets/products/popmo/236119956/03.webp",
+        "assets/products/popmo/236119956/04.webp",
+        "assets/products/popmo/236119956/05.webp",
+        "assets/products/popmo/236119956/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/350f0ab1e5/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/236119956/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:05:50.760Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T16:07:24.506Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -503946,7 +504136,7 @@
       "source": "popmo",
       "sourceId": "243587390",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/243587390",
-      "sourceCategory": "Hot Players - WORLD CUP JERSEY",
+      "sourceCategory": "more",
       "title": "Christian Pulisic #10 USA National Team World Cup 2026 Away Short Sleeve Football Jersey2",
       "section": "Voetbal",
       "category": "Landenteams",
@@ -503959,20 +504149,24 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/243587390/01.webp"
+        "assets/products/popmo/243587390/01.webp",
+        "assets/products/popmo/243587390/02.webp",
+        "assets/products/popmo/243587390/03.webp",
+        "assets/products/popmo/243587390/04.webp",
+        "assets/products/popmo/243587390/05.webp"
       ],
       "coverUrl": "assets/products/popmo/243587390/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:08:31.243Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:03:32.800Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:243587335",
       "source": "popmo",
       "sourceId": "243587335",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/243587335",
-      "sourceCategory": "Hot Players - WORLD CUP JERSEY",
+      "sourceCategory": "more",
       "title": "Christian Pulisic #10 USA National Team World Cup 2026 Home Short Sleeve Football Jersey2",
       "section": "Voetbal",
       "category": "Landenteams",
@@ -503985,20 +504179,24 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/243587335/01.webp"
+        "assets/products/popmo/243587335/01.webp",
+        "assets/products/popmo/243587335/02.webp",
+        "assets/products/popmo/243587335/03.webp",
+        "assets/products/popmo/243587335/04.webp",
+        "assets/products/popmo/243587335/05.webp"
       ],
       "coverUrl": "assets/products/popmo/243587335/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:08:30.459Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:03:32.200Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:243588068",
       "source": "popmo",
       "sourceId": "243588068",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/243588068",
-      "sourceCategory": "Hot Players - WORLD CUP JERSEY",
+      "sourceCategory": "more",
       "title": "Folarin Balogun #20 USA National Team World Cup 2026 Away Short Sleeve Football Jersey2",
       "section": "Voetbal",
       "category": "Landenteams",
@@ -504011,20 +504209,24 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/243588068/01.webp"
+        "assets/products/popmo/243588068/01.webp",
+        "assets/products/popmo/243588068/02.webp",
+        "assets/products/popmo/243588068/03.webp",
+        "assets/products/popmo/243588068/04.webp",
+        "assets/products/popmo/243588068/05.webp"
       ],
       "coverUrl": "assets/products/popmo/243588068/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:08:31.543Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:03:23.159Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:243588406",
       "source": "popmo",
       "sourceId": "243588406",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/243588406",
-      "sourceCategory": "Hot Players - WORLD CUP JERSEY",
+      "sourceCategory": "more",
       "title": "Giovanni Reyna #7 USA National Team World Cup 2026 Away Short Sleeve Football Jersey2",
       "section": "Voetbal",
       "category": "Landenteams",
@@ -504037,13 +504239,17 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/243588406/01.webp"
+        "assets/products/popmo/243588406/01.webp",
+        "assets/products/popmo/243588406/02.webp",
+        "assets/products/popmo/243588406/03.webp",
+        "assets/products/popmo/243588406/04.webp",
+        "assets/products/popmo/243588406/05.webp"
       ],
       "coverUrl": "assets/products/popmo/243588406/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:08:33.033Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:03:13.026Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -504452,7 +504658,7 @@
       "source": "popmo",
       "sourceId": "243589315",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/243589315",
-      "sourceCategory": "Hot Players - WORLD CUP JERSEY",
+      "sourceCategory": "more",
       "title": "Weston McKennie #8 USA National Team World Cup 2026 Away Short Sleeve Football Jersey2",
       "section": "Voetbal",
       "category": "Landenteams",
@@ -504465,13 +504671,17 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/243589315/01.webp"
+        "assets/products/popmo/243589315/01.webp",
+        "assets/products/popmo/243589315/02.webp",
+        "assets/products/popmo/243589315/03.webp",
+        "assets/products/popmo/243589315/04.webp",
+        "assets/products/popmo/243589315/05.webp"
       ],
       "coverUrl": "assets/products/popmo/243589315/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:08:32.813Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:03:12.863Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "yema007:254286238",
@@ -895577,10 +895787,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Women Soccer Jersey",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -895588,16 +895798,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/198250792/01.webp"
+        "assets/products/popmo/198250792/01.webp",
+        "assets/products/popmo/198250792/02.webp",
+        "assets/products/popmo/198250792/03.webp",
+        "assets/products/popmo/198250792/04.webp",
+        "assets/products/popmo/198250792/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/ee1f21aa/medium.png"
       ],
       "coverUrl": "assets/products/popmo/198250792/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:17.207Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:07:13.853Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -895609,10 +895823,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Women Soccer Jersey",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -895620,16 +895834,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/198246588/01.webp"
+        "assets/products/popmo/198246588/01.webp",
+        "assets/products/popmo/198246588/02.webp",
+        "assets/products/popmo/198246588/03.webp",
+        "assets/products/popmo/198246588/04.webp",
+        "assets/products/popmo/198246588/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/5f4d2e30/medium.png"
       ],
       "coverUrl": "assets/products/popmo/198246588/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:00.140Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:07:04.504Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -895641,10 +895859,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Women Soccer Jersey",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -895652,16 +895870,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/198250391/01.webp"
+        "assets/products/popmo/198250391/01.webp",
+        "assets/products/popmo/198250391/02.webp",
+        "assets/products/popmo/198250391/03.webp",
+        "assets/products/popmo/198250391/04.webp",
+        "assets/products/popmo/198250391/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/9e712c16/medium.png"
       ],
       "coverUrl": "assets/products/popmo/198250391/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:13.329Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:07:11.051Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -900222,10 +900444,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "World Cup",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -900234,15 +900456,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/242410236/01.webp"
+        "assets/products/popmo/242410236/01.webp",
+        "assets/products/popmo/242410236/02.webp",
+        "assets/products/popmo/242410236/03.webp",
+        "assets/products/popmo/242410236/04.webp",
+        "assets/products/popmo/242410236/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/bf76377a80/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/242410236/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:07:33.364Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:07:30.083Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
