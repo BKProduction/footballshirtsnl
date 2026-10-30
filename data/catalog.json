@@ -1,5 +1,5 @@
 {
-  "lastSync": "2026-10-30T16:07:56.442Z",
+  "lastSync": "2026-10-30T16:13:15.000Z",
   "status": "running",
   "currentSource": "popmo",
   "products": [
@@ -62543,7 +62543,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Bundesliga",
@@ -62555,15 +62555,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/200692454/01.webp"
+        "assets/products/popmo/200692454/01.webp",
+        "assets/products/popmo/200692454/02.webp",
+        "assets/products/popmo/200692454/03.webp",
+        "assets/products/popmo/200692454/04.webp",
+        "assets/products/popmo/200692454/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/26dcd44f/medium.png"
       ],
       "coverUrl": "assets/products/popmo/200692454/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:10.630Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:11:08.379Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -81396,7 +81400,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Eredivisie",
@@ -81407,16 +81411,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/198250171/01.webp"
+        "assets/products/popmo/198250171/01.webp",
+        "assets/products/popmo/198250171/02.webp",
+        "assets/products/popmo/198250171/03.webp",
+        "assets/products/popmo/198250171/04.webp",
+        "assets/products/popmo/198250171/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/ba6a9109/medium.png"
       ],
       "coverUrl": "assets/products/popmo/198250171/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:11.304Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:12:28.914Z",
       "season": "2025-2026",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -84181,7 +84189,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Eredivisie",
@@ -84192,16 +84200,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/230664728/01.webp"
+        "assets/products/popmo/230664728/01.webp",
+        "assets/products/popmo/230664728/02.webp",
+        "assets/products/popmo/230664728/03.webp",
+        "assets/products/popmo/230664728/04.webp",
+        "assets/products/popmo/230664728/05.webp",
+        "assets/products/popmo/230664728/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/75768239/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/230664728/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:04:26.479Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T16:08:17.278Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -84244,7 +84257,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Eredivisie",
@@ -84255,16 +84268,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/228443873/01.webp"
+        "assets/products/popmo/228443873/01.webp",
+        "assets/products/popmo/228443873/02.webp",
+        "assets/products/popmo/228443873/03.webp",
+        "assets/products/popmo/228443873/04.webp",
+        "assets/products/popmo/228443873/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/3e4a37de/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/228443873/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:04:07.252Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:08:17.025Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:229909414",
@@ -129812,7 +129829,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "La Liga",
@@ -129824,15 +129841,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/206767830/01.webp"
+        "assets/products/popmo/206767830/01.webp",
+        "assets/products/popmo/206767830/02.webp",
+        "assets/products/popmo/206767830/03.webp",
+        "assets/products/popmo/206767830/04.webp",
+        "assets/products/popmo/206767830/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/eac232a0/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/206767830/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:59:36.720Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:10:03.247Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -134436,7 +134457,7 @@
       "categoryId": null,
       "collectionId": "4911722",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "La Liga",
@@ -134448,15 +134469,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/209859498/01.webp"
+        "assets/products/popmo/209859498/01.webp",
+        "assets/products/popmo/209859498/02.webp",
+        "assets/products/popmo/209859498/03.webp",
+        "assets/products/popmo/209859498/04.webp",
+        "assets/products/popmo/209859498/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/ed310c70/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/209859498/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:00:50.552Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:09:19.482Z",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:250854101",
@@ -170085,7 +170110,7 @@
       "categoryId": null,
       "collectionId": "4911722",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "La Liga",
@@ -170097,15 +170122,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/199037619/01.webp"
+        "assets/products/popmo/199037619/01.webp",
+        "assets/products/popmo/199037619/02.webp",
+        "assets/products/popmo/199037619/03.webp",
+        "assets/products/popmo/199037619/04.webp",
+        "assets/products/popmo/199037619/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/87652afa/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/199037619/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:55.020Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:11:22.077Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -172119,7 +172148,7 @@
       "categoryId": null,
       "collectionId": "4911722",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "La Liga",
@@ -172131,15 +172160,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/198250725/01.webp"
+        "assets/products/popmo/198250725/01.webp",
+        "assets/products/popmo/198250725/02.webp",
+        "assets/products/popmo/198250725/03.webp",
+        "assets/products/popmo/198250725/04.webp",
+        "assets/products/popmo/198250725/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/d0306ddc/medium.png"
       ],
       "coverUrl": "assets/products/popmo/198250725/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:16.005Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:11:48.691Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -232764,7 +232797,7 @@
       "categoryId": null,
       "collectionId": "4911721",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Premier League",
@@ -232776,15 +232809,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/200692801/01.webp"
+        "assets/products/popmo/200692801/01.webp",
+        "assets/products/popmo/200692801/02.webp",
+        "assets/products/popmo/200692801/03.webp",
+        "assets/products/popmo/200692801/04.webp",
+        "assets/products/popmo/200692801/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/64caa271/medium.png"
       ],
       "coverUrl": "assets/products/popmo/200692801/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:11.693Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:10:50.403Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -260814,7 +260851,7 @@
       "categoryId": null,
       "collectionId": "4911721",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Premier League",
@@ -260826,15 +260863,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/207624866/01.webp"
+        "assets/products/popmo/207624866/01.webp",
+        "assets/products/popmo/207624866/02.webp",
+        "assets/products/popmo/207624866/03.webp",
+        "assets/products/popmo/207624866/04.webp",
+        "assets/products/popmo/207624866/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/d74b8531/medium.png"
       ],
       "coverUrl": "assets/products/popmo/207624866/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:59:58.063Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:09:52.192Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -261187,7 +261228,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Premier League",
@@ -261199,15 +261240,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/206768007/01.webp"
+        "assets/products/popmo/206768007/01.webp",
+        "assets/products/popmo/206768007/02.webp",
+        "assets/products/popmo/206768007/03.webp",
+        "assets/products/popmo/206768007/04.webp",
+        "assets/products/popmo/206768007/05.webp",
+        "assets/products/popmo/206768007/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/e782a997/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/206768007/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:59:37.464Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T16:10:02.446Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -267340,7 +267386,7 @@
       "categoryId": null,
       "collectionId": "4911721",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Premier League",
@@ -267352,15 +267398,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/201762909/01.webp"
+        "assets/products/popmo/201762909/01.webp",
+        "assets/products/popmo/201762909/02.webp",
+        "assets/products/popmo/201762909/03.webp",
+        "assets/products/popmo/201762909/04.webp",
+        "assets/products/popmo/201762909/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/2c89f165/medium.png"
       ],
       "coverUrl": "assets/products/popmo/201762909/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:58:11.168Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:10:36.863Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -268468,7 +268518,7 @@
       "categoryId": null,
       "collectionId": "4911721",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Premier League",
@@ -268480,15 +268530,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/207625137/01.webp"
+        "assets/products/popmo/207625137/01.webp",
+        "assets/products/popmo/207625137/02.webp",
+        "assets/products/popmo/207625137/03.webp",
+        "assets/products/popmo/207625137/04.webp",
+        "assets/products/popmo/207625137/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/84342198/medium.png"
       ],
       "coverUrl": "assets/products/popmo/207625137/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:59:59.339Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:09:51.607Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -279721,7 +279775,7 @@
       "categoryId": null,
       "collectionId": "4911721",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Premier League",
@@ -279733,15 +279787,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/200692730/01.webp"
+        "assets/products/popmo/200692730/01.webp",
+        "assets/products/popmo/200692730/02.webp",
+        "assets/products/popmo/200692730/03.webp",
+        "assets/products/popmo/200692730/04.webp",
+        "assets/products/popmo/200692730/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/1208c814/medium.png"
       ],
       "coverUrl": "assets/products/popmo/200692730/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:11.815Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:10:57.478Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -366275,7 +366333,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Argentina",
@@ -366286,16 +366344,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/218894753/01.webp"
+        "assets/products/popmo/218894753/01.webp",
+        "assets/products/popmo/218894753/02.webp",
+        "assets/products/popmo/218894753/03.webp",
+        "assets/products/popmo/218894753/04.webp",
+        "assets/products/popmo/218894753/05.webp",
+        "assets/products/popmo/218894753/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/2d809709/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/218894753/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:02:51.689Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T16:08:36.203Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:226282907",
@@ -379102,7 +379165,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Belgium",
@@ -379113,16 +379176,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/218924935/01.webp"
+        "assets/products/popmo/218924935/01.webp",
+        "assets/products/popmo/218924935/02.webp",
+        "assets/products/popmo/218924935/03.webp",
+        "assets/products/popmo/218924935/04.webp",
+        "assets/products/popmo/218924935/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/fb8195b6/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/218924935/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:02:52.159Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:08:38.965Z",
       "season": "2025-2026",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -385282,27 +385349,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/207625372/01.webp"
+        "assets/products/popmo/207625372/01.webp",
+        "assets/products/popmo/207625372/02.webp",
+        "assets/products/popmo/207625372/03.webp",
+        "assets/products/popmo/207625372/04.webp",
+        "assets/products/popmo/207625372/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/7543caad/medium.png"
       ],
       "coverUrl": "assets/products/popmo/207625372/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:00:00.403Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:09:37.495Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -385378,27 +385449,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/204067173/01.webp"
+        "assets/products/popmo/204067173/01.webp",
+        "assets/products/popmo/204067173/02.webp",
+        "assets/products/popmo/204067173/03.webp",
+        "assets/products/popmo/204067173/04.webp",
+        "assets/products/popmo/204067173/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/02657611/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/204067173/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:59:02.593Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:10:25.314Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -388036,7 +388111,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Mexico & Chile League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -388047,16 +388122,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/208221834/01.webp"
+        "assets/products/popmo/208221834/01.webp",
+        "assets/products/popmo/208221834/02.webp",
+        "assets/products/popmo/208221834/03.webp",
+        "assets/products/popmo/208221834/04.webp",
+        "assets/products/popmo/208221834/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/afc98fbc/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/208221834/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:00:20.312Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:09:25.921Z",
       "season": "2025-2026",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -395354,7 +395433,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Colombia",
@@ -395365,16 +395444,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/213567891/01.webp"
+        "assets/products/popmo/213567891/01.webp",
+        "assets/products/popmo/213567891/02.webp",
+        "assets/products/popmo/213567891/03.webp",
+        "assets/products/popmo/213567891/04.webp",
+        "assets/products/popmo/213567891/05.webp",
+        "assets/products/popmo/213567891/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/2bc5a972/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/213567891/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:01:59.771Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T16:09:16.137Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -402891,7 +402975,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "England",
@@ -402902,16 +402986,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/198248461/01.webp"
+        "assets/products/popmo/198248461/01.webp",
+        "assets/products/popmo/198248461/02.webp",
+        "assets/products/popmo/198248461/03.webp",
+        "assets/products/popmo/198248461/04.webp",
+        "assets/products/popmo/198248461/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/4dbff0d3/medium.png"
       ],
       "coverUrl": "assets/products/popmo/198248461/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:07.752Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:13:05.875Z",
       "season": "2025-2026",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -403262,7 +403350,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "England",
@@ -403273,16 +403361,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/232765952/01.webp"
+        "assets/products/popmo/232765952/01.webp",
+        "assets/products/popmo/232765952/02.webp",
+        "assets/products/popmo/232765952/03.webp",
+        "assets/products/popmo/232765952/04.webp",
+        "assets/products/popmo/232765952/05.webp",
+        "assets/products/popmo/232765952/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/dee1eb1c/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/232765952/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:04:46.128Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T16:08:08.484Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -410645,7 +410738,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "France",
@@ -410656,16 +410749,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/207626143/01.webp"
+        "assets/products/popmo/207626143/01.webp",
+        "assets/products/popmo/207626143/02.webp",
+        "assets/products/popmo/207626143/03.webp",
+        "assets/products/popmo/207626143/04.webp",
+        "assets/products/popmo/207626143/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/e6914994/medium.png"
       ],
       "coverUrl": "assets/products/popmo/207626143/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:00:01.511Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:09:29.720Z",
       "season": "2025-2026",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -411003,7 +411100,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "France",
@@ -411014,16 +411111,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/198345639/01.webp"
+        "assets/products/popmo/198345639/01.webp",
+        "assets/products/popmo/198345639/02.webp",
+        "assets/products/popmo/198345639/03.webp",
+        "assets/products/popmo/198345639/04.webp",
+        "assets/products/popmo/198345639/05.webp",
+        "assets/products/popmo/198345639/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/954ecf6c/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/198345639/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:31.948Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T16:11:36.369Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -418668,7 +418770,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Germany",
@@ -418679,16 +418781,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/198248665/01.webp"
+        "assets/products/popmo/198248665/01.webp",
+        "assets/products/popmo/198248665/02.webp",
+        "assets/products/popmo/198248665/03.webp",
+        "assets/products/popmo/198248665/04.webp",
+        "assets/products/popmo/198248665/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/94a10c88/medium.png"
       ],
       "coverUrl": "assets/products/popmo/198248665/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:08.832Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:12:59.350Z",
       "season": "2025-2026",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -418731,7 +418837,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Germany",
@@ -418742,16 +418848,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/207625245/01.webp"
+        "assets/products/popmo/207625245/01.webp",
+        "assets/products/popmo/207625245/02.webp",
+        "assets/products/popmo/207625245/03.webp",
+        "assets/products/popmo/207625245/04.webp",
+        "assets/products/popmo/207625245/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/11355151/medium.png"
       ],
       "coverUrl": "assets/products/popmo/207625245/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:59:59.428Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:09:39.860Z",
       "season": "2025-2026",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -428710,7 +428820,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Germany",
@@ -428722,15 +428832,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/218893681/01.webp"
+        "assets/products/popmo/218893681/01.webp",
+        "assets/products/popmo/218893681/02.webp",
+        "assets/products/popmo/218893681/03.webp",
+        "assets/products/popmo/218893681/04.webp",
+        "assets/products/popmo/218893681/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/f8aafc96/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/218893681/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:02:48.629Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:08:59.200Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -431354,7 +431468,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Italy",
@@ -431365,16 +431479,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/198248412/01.webp"
+        "assets/products/popmo/198248412/01.webp",
+        "assets/products/popmo/198248412/02.webp",
+        "assets/products/popmo/198248412/03.webp",
+        "assets/products/popmo/198248412/04.webp",
+        "assets/products/popmo/198248412/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/4e267716/medium.png"
       ],
       "coverUrl": "assets/products/popmo/198248412/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:07.416Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:13:15.000Z",
       "season": "2025-2026",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -436332,7 +436450,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Italy",
@@ -436344,15 +436462,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/218893402/01.webp"
+        "assets/products/popmo/218893402/01.webp",
+        "assets/products/popmo/218893402/02.webp",
+        "assets/products/popmo/218893402/03.webp",
+        "assets/products/popmo/218893402/04.webp",
+        "assets/products/popmo/218893402/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/1ca68086/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/218893402/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:02:48.673Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:09:06.693Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -469624,7 +469746,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Portugal",
@@ -469635,16 +469757,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/198250662/01.webp"
+        "assets/products/popmo/198250662/01.webp",
+        "assets/products/popmo/198250662/02.webp",
+        "assets/products/popmo/198250662/03.webp",
+        "assets/products/popmo/198250662/04.webp",
+        "assets/products/popmo/198250662/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/a378196a/medium.png"
       ],
       "coverUrl": "assets/products/popmo/198250662/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:15.864Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:11:47.244Z",
       "season": "2025-2026",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -469656,7 +469782,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Portugal",
@@ -469667,16 +469793,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/218894153/01.webp"
+        "assets/products/popmo/218894153/01.webp",
+        "assets/products/popmo/218894153/02.webp",
+        "assets/products/popmo/218894153/03.webp",
+        "assets/products/popmo/218894153/04.webp",
+        "assets/products/popmo/218894153/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/f768881d/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/218894153/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:02:50.476Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:08:49.902Z",
       "season": "2025-2026",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -469781,7 +469911,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Portugal",
@@ -469792,16 +469922,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/198250611/01.webp"
+        "assets/products/popmo/198250611/01.webp",
+        "assets/products/popmo/198250611/02.webp",
+        "assets/products/popmo/198250611/03.webp",
+        "assets/products/popmo/198250611/04.webp",
+        "assets/products/popmo/198250611/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/c60b3132/medium.png"
       ],
       "coverUrl": "assets/products/popmo/198250611/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:14.355Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:12:02.213Z",
       "season": "2025-2026",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -470467,7 +470601,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Portugal",
@@ -470478,16 +470612,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/218892669/01.webp"
+        "assets/products/popmo/218892669/01.webp",
+        "assets/products/popmo/218892669/02.webp",
+        "assets/products/popmo/218892669/03.webp",
+        "assets/products/popmo/218892669/04.webp",
+        "assets/products/popmo/218892669/05.webp",
+        "assets/products/popmo/218892669/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/ef0abdba/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/218892669/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:02:47.477Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T16:09:11.608Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:231324723",
@@ -478278,7 +478417,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Portugal",
@@ -478290,15 +478429,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/218992768/01.webp"
+        "assets/products/popmo/218992768/01.webp",
+        "assets/products/popmo/218992768/02.webp",
+        "assets/products/popmo/218992768/03.webp",
+        "assets/products/popmo/218992768/04.webp",
+        "assets/products/popmo/218992768/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/39ad1e89/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/218992768/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:02:52.795Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:08:25.851Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -485932,7 +486075,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Spain",
@@ -485943,16 +486086,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/231460063/01.webp"
+        "assets/products/popmo/231460063/01.webp",
+        "assets/products/popmo/231460063/02.webp",
+        "assets/products/popmo/231460063/03.webp",
+        "assets/products/popmo/231460063/04.webp",
+        "assets/products/popmo/231460063/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/4991430b/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/231460063/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:04:34.447Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:08:07.017Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:237660898",
@@ -491580,7 +491727,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Spain",
@@ -491592,15 +491739,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/218893868/01.webp"
+        "assets/products/popmo/218893868/01.webp",
+        "assets/products/popmo/218893868/02.webp",
+        "assets/products/popmo/218893868/03.webp",
+        "assets/products/popmo/218893868/04.webp",
+        "assets/products/popmo/218893868/05.webp",
+        "assets/products/popmo/218893868/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/72b82528/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/218893868/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:02:49.722Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T16:08:56.722Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -895221,10 +895373,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Women Soccer Jersey",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -895233,15 +895385,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/198250338/01.webp"
+        "assets/products/popmo/198250338/01.webp",
+        "assets/products/popmo/198250338/02.webp",
+        "assets/products/popmo/198250338/03.webp",
+        "assets/products/popmo/198250338/04.webp",
+        "assets/products/popmo/198250338/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/92d23bf6/medium.png"
       ],
       "coverUrl": "assets/products/popmo/198250338/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:12.368Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:12:19.231Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -895321,10 +895477,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Women Soccer Jersey",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -895333,15 +895489,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/201004161/01.webp"
+        "assets/products/popmo/201004161/01.webp",
+        "assets/products/popmo/201004161/02.webp",
+        "assets/products/popmo/201004161/03.webp",
+        "assets/products/popmo/201004161/04.webp",
+        "assets/products/popmo/201004161/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/43b1e06a/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/201004161/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:21.779Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:10:46.993Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -895494,10 +895654,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Women Soccer Jersey",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -895506,15 +895666,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/201094578/01.webp"
+        "assets/products/popmo/201094578/01.webp",
+        "assets/products/popmo/201094578/02.webp",
+        "assets/products/popmo/201094578/03.webp",
+        "assets/products/popmo/201094578/04.webp",
+        "assets/products/popmo/201094578/05.webp",
+        "assets/products/popmo/201094578/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/0dff0081/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/201094578/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:29.274Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T16:10:35.505Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -895622,10 +895787,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Women Soccer Jersey",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -895634,15 +895799,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/198250470/01.webp"
+        "assets/products/popmo/198250470/01.webp",
+        "assets/products/popmo/198250470/02.webp",
+        "assets/products/popmo/198250470/03.webp",
+        "assets/products/popmo/198250470/04.webp",
+        "assets/products/popmo/198250470/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/27b4789a/medium.png"
       ],
       "coverUrl": "assets/products/popmo/198250470/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:13.463Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:12:06.142Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -895654,10 +895823,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Women Soccer Jersey",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -895666,15 +895835,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/198248598/01.webp"
+        "assets/products/popmo/198248598/01.webp",
+        "assets/products/popmo/198248598/02.webp",
+        "assets/products/popmo/198248598/03.webp",
+        "assets/products/popmo/198248598/04.webp",
+        "assets/products/popmo/198248598/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/c7648cfe/medium.png"
       ],
       "coverUrl": "assets/products/popmo/198248598/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:08.525Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:12:55.087Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -895895,10 +896068,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Women Soccer Jersey",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -895907,15 +896080,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/198249761/01.webp"
+        "assets/products/popmo/198249761/01.webp",
+        "assets/products/popmo/198249761/02.webp",
+        "assets/products/popmo/198249761/03.webp",
+        "assets/products/popmo/198249761/04.webp",
+        "assets/products/popmo/198249761/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/4d91065a/medium.png"
       ],
       "coverUrl": "assets/products/popmo/198249761/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:10.026Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:12:39.157Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -895963,10 +896140,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Women Soccer Jersey",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -895975,15 +896152,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/198249821/01.webp"
+        "assets/products/popmo/198249821/01.webp",
+        "assets/products/popmo/198249821/02.webp",
+        "assets/products/popmo/198249821/03.webp",
+        "assets/products/popmo/198249821/04.webp",
+        "assets/products/popmo/198249821/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/462638ca/medium.png"
       ],
       "coverUrl": "assets/products/popmo/198249821/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:10.894Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:12:29.233Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -895995,10 +896176,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Women Soccer Jersey",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -896006,16 +896187,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/198250284/01.webp"
+        "assets/products/popmo/198250284/01.webp",
+        "assets/products/popmo/198250284/02.webp",
+        "assets/products/popmo/198250284/03.webp",
+        "assets/products/popmo/198250284/04.webp",
+        "assets/products/popmo/198250284/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/dce98b7e/medium.png"
       ],
       "coverUrl": "assets/products/popmo/198250284/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:12.155Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:12:16.325Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -896099,10 +896284,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Women Soccer Jersey",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -896110,16 +896295,21 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/198757977/01.webp"
+        "assets/products/popmo/198757977/01.webp",
+        "assets/products/popmo/198757977/02.webp",
+        "assets/products/popmo/198757977/03.webp",
+        "assets/products/popmo/198757977/04.webp",
+        "assets/products/popmo/198757977/05.webp",
+        "assets/products/popmo/198757977/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/b951e418/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/198757977/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:46.148Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T16:11:25.461Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -896263,10 +896453,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Women Soccer Jersey",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -896275,15 +896465,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/198345694/01.webp"
+        "assets/products/popmo/198345694/01.webp",
+        "assets/products/popmo/198345694/02.webp",
+        "assets/products/popmo/198345694/03.webp",
+        "assets/products/popmo/198345694/04.webp",
+        "assets/products/popmo/198345694/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/3c7851ae/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/198345694/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:32.930Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:11:34.485Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -896295,10 +896489,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Women Soccer Jersey",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -896307,15 +896501,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/198248740/01.webp"
+        "assets/products/popmo/198248740/01.webp",
+        "assets/products/popmo/198248740/02.webp",
+        "assets/products/popmo/198248740/03.webp",
+        "assets/products/popmo/198248740/04.webp",
+        "assets/products/popmo/198248740/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/98c2d168/medium.png"
       ],
       "coverUrl": "assets/products/popmo/198248740/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:09.606Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:12:45.114Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -896327,10 +896525,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Women Soccer Jersey",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -896339,15 +896537,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/218894637/01.webp"
+        "assets/products/popmo/218894637/01.webp",
+        "assets/products/popmo/218894637/02.webp",
+        "assets/products/popmo/218894637/03.webp",
+        "assets/products/popmo/218894637/04.webp",
+        "assets/products/popmo/218894637/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/58c9bb04/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/218894637/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:02:50.960Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:08:47.416Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -896468,10 +896670,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Women Soccer Jersey",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -896480,15 +896682,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/227269530/01.webp"
+        "assets/products/popmo/227269530/01.webp",
+        "assets/products/popmo/227269530/02.webp",
+        "assets/products/popmo/227269530/03.webp",
+        "assets/products/popmo/227269530/04.webp",
+        "assets/products/popmo/227269530/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/31066793/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/227269530/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:03:53.673Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:08:25.820Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -1099212,7 +1099418,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Women Soccer Jersey",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1099224,15 +1099430,19 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/popmo/199188607/01.webp"
+        "assets/products/popmo/199188607/01.webp",
+        "assets/products/popmo/199188607/02.webp",
+        "assets/products/popmo/199188607/03.webp",
+        "assets/products/popmo/199188607/04.webp",
+        "assets/products/popmo/199188607/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/99359497/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/199188607/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:56.305Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T16:11:08.886Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
