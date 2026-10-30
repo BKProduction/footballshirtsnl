@@ -1,5 +1,5 @@
 {
-  "lastSync": "2026-10-30T22:34:03.797Z",
+  "lastSync": "2026-10-30T22:38:38.674Z",
   "status": "running",
   "currentSource": "popmo",
   "products": [
@@ -80886,7 +80886,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Eredivisie",
@@ -80898,15 +80898,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/207070850/01.webp"
+        "assets/products/popmo/207070850/01.webp",
+        "assets/products/popmo/207070850/02.webp",
+        "assets/products/popmo/207070850/03.webp",
+        "assets/products/popmo/207070850/04.webp",
+        "assets/products/popmo/207070850/05.webp",
+        "assets/products/popmo/207070850/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/d3de158c/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/207070850/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:59:48.216Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:36:47.392Z",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:201324430",
@@ -84095,7 +84100,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Eredivisie",
@@ -84106,16 +84111,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/234264225/01.webp"
+        "assets/products/popmo/234264225/01.webp",
+        "assets/products/popmo/234264225/02.webp",
+        "assets/products/popmo/234264225/03.webp",
+        "assets/products/popmo/234264225/04.webp",
+        "assets/products/popmo/234264225/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/391b868c69/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/234264225/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:05:20.679Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:34:30.011Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -104324,7 +104333,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Eredivisie",
@@ -104336,15 +104345,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/201306459/01.webp"
+        "assets/products/popmo/201306459/01.webp",
+        "assets/products/popmo/201306459/02.webp",
+        "assets/products/popmo/201306459/03.webp",
+        "assets/products/popmo/201306459/04.webp",
+        "assets/products/popmo/201306459/05.webp",
+        "assets/products/popmo/201306459/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/853a3943/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/201306459/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:45.758Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:37:57.420Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -104467,7 +104481,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Eredivisie",
@@ -104479,15 +104493,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/236145929/01.webp"
+        "assets/products/popmo/236145929/01.webp",
+        "assets/products/popmo/236145929/02.webp",
+        "assets/products/popmo/236145929/03.webp",
+        "assets/products/popmo/236145929/04.webp",
+        "assets/products/popmo/236145929/05.webp",
+        "assets/products/popmo/236145929/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/d8811bc619/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/236145929/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:05:53.768Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:34:57.956Z",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:242436315",
@@ -315852,7 +315871,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -315864,15 +315883,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/198358560/01.webp"
+        "assets/products/popmo/198358560/01.webp",
+        "assets/products/popmo/198358560/02.webp",
+        "assets/products/popmo/198358560/03.webp",
+        "assets/products/popmo/198358560/04.webp",
+        "assets/products/popmo/198358560/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/07b2464c/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/198358560/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:40.313Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:38:38.674Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -316249,7 +316272,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -316260,16 +316283,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/202226476/01.webp"
+        "assets/products/popmo/202226476/01.webp",
+        "assets/products/popmo/202226476/02.webp",
+        "assets/products/popmo/202226476/03.webp",
+        "assets/products/popmo/202226476/04.webp",
+        "assets/products/popmo/202226476/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/6b754d10/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/202226476/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:58:17.920Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:37:36.405Z",
       "season": "2025-2026",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -316281,7 +316308,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -316292,16 +316319,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/202059372/01.webp"
+        "assets/products/popmo/202059372/01.webp",
+        "assets/products/popmo/202059372/02.webp",
+        "assets/products/popmo/202059372/03.webp",
+        "assets/products/popmo/202059372/04.webp",
+        "assets/products/popmo/202059372/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/6bf5a98b/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/202059372/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:58:14.680Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:37:42.706Z",
       "season": "2025-2026",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -316313,7 +316344,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -316324,16 +316355,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/205690579/01.webp"
+        "assets/products/popmo/205690579/01.webp",
+        "assets/products/popmo/205690579/02.webp",
+        "assets/products/popmo/205690579/03.webp",
+        "assets/products/popmo/205690579/04.webp",
+        "assets/products/popmo/205690579/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/1bbf39a0/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/205690579/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:59:17.741Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:37:01.898Z",
       "season": "2025-2026",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -316381,7 +316416,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -316392,16 +316427,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/213301295/01.webp"
+        "assets/products/popmo/213301295/01.webp",
+        "assets/products/popmo/213301295/02.webp",
+        "assets/products/popmo/213301295/03.webp",
+        "assets/products/popmo/213301295/04.webp",
+        "assets/products/popmo/213301295/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/eb9c871c/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/213301295/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:01:58.275Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:35:52.088Z",
       "season": "2025-2026",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -316413,7 +316452,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -316424,16 +316463,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/207651565/01.webp"
+        "assets/products/popmo/207651565/01.webp",
+        "assets/products/popmo/207651565/02.webp",
+        "assets/products/popmo/207651565/03.webp",
+        "assets/products/popmo/207651565/04.webp",
+        "assets/products/popmo/207651565/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/e13e5597/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/207651565/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:00:04.061Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:36:36.210Z",
       "season": "2025-2026",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -316973,7 +317016,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -316985,15 +317028,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/227068645/01.webp"
+        "assets/products/popmo/227068645/01.webp",
+        "assets/products/popmo/227068645/02.webp",
+        "assets/products/popmo/227068645/03.webp",
+        "assets/products/popmo/227068645/04.webp",
+        "assets/products/popmo/227068645/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/e0b33164/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/227068645/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:03:51.502Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:35:30.420Z",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "yema007:253423793",
@@ -317331,7 +317378,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -317342,16 +317389,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/229553477/01.webp"
+        "assets/products/popmo/229553477/01.webp",
+        "assets/products/popmo/229553477/02.webp",
+        "assets/products/popmo/229553477/03.webp",
+        "assets/products/popmo/229553477/04.webp",
+        "assets/products/popmo/229553477/05.webp",
+        "assets/products/popmo/229553477/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/a147b4d6/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/229553477/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:04:16.145Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:35:13.986Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -317363,7 +317415,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -317374,16 +317426,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/230402427/01.webp"
+        "assets/products/popmo/230402427/01.webp",
+        "assets/products/popmo/230402427/02.webp",
+        "assets/products/popmo/230402427/03.webp",
+        "assets/products/popmo/230402427/04.webp",
+        "assets/products/popmo/230402427/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/a38d7557/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/230402427/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:04:25.953Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:35:04.139Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -317395,7 +317451,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -317406,16 +317462,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/228849792/01.webp"
+        "assets/products/popmo/228849792/01.webp",
+        "assets/products/popmo/228849792/02.webp",
+        "assets/products/popmo/228849792/03.webp",
+        "assets/products/popmo/228849792/04.webp",
+        "assets/products/popmo/228849792/05.webp",
+        "assets/products/popmo/228849792/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/63f6f54e/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/228849792/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:04:14.555Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:35:20.555Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -317427,7 +317488,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -317439,15 +317500,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/229720419/01.webp"
+        "assets/products/popmo/229720419/01.webp",
+        "assets/products/popmo/229720419/02.webp",
+        "assets/products/popmo/229720419/03.webp",
+        "assets/products/popmo/229720419/04.webp",
+        "assets/products/popmo/229720419/05.webp",
+        "assets/products/popmo/229720419/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/cd9d277e44/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/229720419/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:04:19.836Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:35:07.824Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -360116,7 +360182,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Super Lig",
@@ -360127,16 +360193,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/199893350/01.webp"
+        "assets/products/popmo/199893350/01.webp",
+        "assets/products/popmo/199893350/02.webp",
+        "assets/products/popmo/199893350/03.webp",
+        "assets/products/popmo/199893350/04.webp",
+        "assets/products/popmo/199893350/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/0b95b667/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/199893350/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:05.012Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:38:05.525Z",
       "season": "2025-2026",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "yema007:251707578",
@@ -360179,7 +360249,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Super Lig",
@@ -360190,16 +360260,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/199890631/01.webp"
+        "assets/products/popmo/199890631/01.webp",
+        "assets/products/popmo/199890631/02.webp",
+        "assets/products/popmo/199890631/03.webp",
+        "assets/products/popmo/199890631/04.webp",
+        "assets/products/popmo/199890631/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/6c845db6/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/199890631/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:03.618Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:38:12.438Z",
       "season": "2025-2026",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "yema007:251707574",
@@ -361897,7 +361971,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Super Lig",
@@ -361908,16 +361982,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/199892921/01.webp"
+        "assets/products/popmo/199892921/01.webp",
+        "assets/products/popmo/199892921/02.webp",
+        "assets/products/popmo/199892921/03.webp",
+        "assets/products/popmo/199892921/04.webp",
+        "assets/products/popmo/199892921/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/245c310e/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/199892921/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:04.680Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:38:06.996Z",
       "season": "2024-2025",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -362022,7 +362100,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Super Lig",
@@ -362034,15 +362112,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/201887792/01.webp"
+        "assets/products/popmo/201887792/01.webp",
+        "assets/products/popmo/201887792/02.webp",
+        "assets/products/popmo/201887792/03.webp",
+        "assets/products/popmo/201887792/04.webp",
+        "assets/products/popmo/201887792/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/4dd8cf5d/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/201887792/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:58:14.576Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:37:46.743Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -362116,7 +362198,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Super Lig",
@@ -362127,16 +362209,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/201580621/01.webp"
+        "assets/products/popmo/201580621/01.webp",
+        "assets/products/popmo/201580621/02.webp",
+        "assets/products/popmo/201580621/03.webp",
+        "assets/products/popmo/201580621/04.webp",
+        "assets/products/popmo/201580621/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/15f46f14/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/201580621/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:58:10.180Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:37:52.348Z",
       "season": "2025-2026",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -362210,7 +362296,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Super Lig",
@@ -362221,16 +362307,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/201580475/01.webp"
+        "assets/products/popmo/201580475/01.webp",
+        "assets/products/popmo/201580475/02.webp",
+        "assets/products/popmo/201580475/03.webp",
+        "assets/products/popmo/201580475/04.webp",
+        "assets/products/popmo/201580475/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/fdade763/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/201580475/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:58:08.733Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:37:56.031Z",
       "season": "2025-2026",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -362242,7 +362332,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Super Lig",
@@ -362253,16 +362343,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/227839334/01.webp"
+        "assets/products/popmo/227839334/01.webp",
+        "assets/products/popmo/227839334/02.webp",
+        "assets/products/popmo/227839334/03.webp",
+        "assets/products/popmo/227839334/04.webp",
+        "assets/products/popmo/227839334/05.webp",
+        "assets/products/popmo/227839334/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/29a33ebf/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/227839334/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:03:59.648Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:35:25.914Z",
       "season": "2025-2026",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -362305,7 +362400,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Super Lig",
@@ -362316,16 +362411,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/211853212/01.webp"
+        "assets/products/popmo/211853212/01.webp",
+        "assets/products/popmo/211853212/02.webp",
+        "assets/products/popmo/211853212/03.webp",
+        "assets/products/popmo/211853212/04.webp",
+        "assets/products/popmo/211853212/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/dc90d591/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/211853212/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:01:43.947Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:36:08.174Z",
       "season": "2025-2026",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -379250,10 +379349,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "World Cup",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -379261,16 +379360,21 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/234111517/01.webp"
+        "assets/products/popmo/234111517/01.webp",
+        "assets/products/popmo/234111517/02.webp",
+        "assets/products/popmo/234111517/03.webp",
+        "assets/products/popmo/234111517/04.webp",
+        "assets/products/popmo/234111517/05.webp",
+        "assets/products/popmo/234111517/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/877817e869/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/234111517/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:05:13.996Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:34:41.991Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -395925,7 +396029,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Colombia",
@@ -395936,16 +396040,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/234765015/01.webp"
+        "assets/products/popmo/234765015/01.webp",
+        "assets/products/popmo/234765015/02.webp",
+        "assets/products/popmo/234765015/03.webp",
+        "assets/products/popmo/234765015/04.webp",
+        "assets/products/popmo/234765015/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/3ad89cfba7/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/234765015/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:05:35.323Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:34:10.100Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -395957,7 +396065,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Colombia",
@@ -395968,16 +396076,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/209537459/01.webp"
+        "assets/products/popmo/209537459/01.webp",
+        "assets/products/popmo/209537459/02.webp",
+        "assets/products/popmo/209537459/03.webp",
+        "assets/products/popmo/209537459/04.webp",
+        "assets/products/popmo/209537459/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/9f487064/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/209537459/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:00:43.318Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:34:09.974Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:234268184",
@@ -421080,7 +421192,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Germany",
@@ -421091,16 +421203,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/234543859/01.webp"
+        "assets/products/popmo/234543859/01.webp",
+        "assets/products/popmo/234543859/02.webp",
+        "assets/products/popmo/234543859/03.webp",
+        "assets/products/popmo/234543859/04.webp",
+        "assets/products/popmo/234543859/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/01b9129f90/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/234543859/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:05:29.825Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:34:15.119Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -421267,7 +421383,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Germany",
@@ -421278,16 +421394,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/234543968/01.webp"
+        "assets/products/popmo/234543968/01.webp",
+        "assets/products/popmo/234543968/02.webp",
+        "assets/products/popmo/234543968/03.webp",
+        "assets/products/popmo/234543968/04.webp",
+        "assets/products/popmo/234543968/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/a30132222b/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/234543968/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:05:29.890Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:34:15.054Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -421299,7 +421419,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Germany",
@@ -421310,16 +421430,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/234477613/01.webp"
+        "assets/products/popmo/234477613/01.webp",
+        "assets/products/popmo/234477613/02.webp",
+        "assets/products/popmo/234477613/03.webp",
+        "assets/products/popmo/234477613/04.webp",
+        "assets/products/popmo/234477613/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/e2e4471afd/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/234477613/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:05:27.434Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:34:24.264Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -461998,7 +462122,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Netherlands",
@@ -462009,16 +462133,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/234139884/01.webp"
+        "assets/products/popmo/234139884/01.webp",
+        "assets/products/popmo/234139884/02.webp",
+        "assets/products/popmo/234139884/03.webp",
+        "assets/products/popmo/234139884/04.webp",
+        "assets/products/popmo/234139884/05.webp",
+        "assets/products/popmo/234139884/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/2704f15234/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/234139884/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:05:19.752Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:34:30.860Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -471290,7 +471419,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Portugal",
@@ -471301,16 +471430,18 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/234479542/01.webp"
+        "assets/products/popmo/234479542/01.webp",
+        "assets/products/popmo/234479542/02.webp",
+        "assets/products/popmo/234479542/03.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/e2c466abac/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/234479542/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:05:28.650Z",
+      "imageCount": 3,
+      "updatedAt": "2026-10-30T22:34:19.295Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -471384,7 +471515,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Portugal",
@@ -471395,16 +471526,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/234479575/01.webp"
+        "assets/products/popmo/234479575/01.webp",
+        "assets/products/popmo/234479575/02.webp",
+        "assets/products/popmo/234479575/03.webp",
+        "assets/products/popmo/234479575/04.webp",
+        "assets/products/popmo/234479575/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/89b025febc/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/234479575/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:05:28.499Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:34:19.805Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -486848,7 +486983,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Spain",
@@ -486859,16 +486994,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/234132470/01.webp"
+        "assets/products/popmo/234132470/01.webp",
+        "assets/products/popmo/234132470/02.webp",
+        "assets/products/popmo/234132470/03.webp",
+        "assets/products/popmo/234132470/04.webp",
+        "assets/products/popmo/234132470/05.webp",
+        "assets/products/popmo/234132470/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/1a59651da3/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/234132470/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:05:17.516Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:34:36.427Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -487013,7 +487153,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Spain",
@@ -487024,16 +487164,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/234130874/01.webp"
+        "assets/products/popmo/234130874/01.webp",
+        "assets/products/popmo/234130874/02.webp",
+        "assets/products/popmo/234130874/03.webp",
+        "assets/products/popmo/234130874/04.webp",
+        "assets/products/popmo/234130874/05.webp",
+        "assets/products/popmo/234130874/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/d1c37a7f70/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/234130874/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:05:17.288Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:34:43.562Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -487174,7 +487319,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Spain",
@@ -487185,16 +487330,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/234133000/01.webp"
+        "assets/products/popmo/234133000/01.webp",
+        "assets/products/popmo/234133000/02.webp",
+        "assets/products/popmo/234133000/03.webp",
+        "assets/products/popmo/234133000/04.webp",
+        "assets/products/popmo/234133000/05.webp",
+        "assets/products/popmo/234133000/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/f42c7d5e6d/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/234133000/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:05:18.343Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:34:36.964Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -500205,7 +500355,7 @@
       "source": "popmo",
       "sourceId": "198913381",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/198913381",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "title": "25-26 Nacional Uruguay Away Red jersey2",
       "section": "Voetbal",
       "category": "Landenteams",
@@ -500218,13 +500368,17 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/198913381/01.webp"
+        "assets/products/popmo/198913381/01.webp",
+        "assets/products/popmo/198913381/02.webp",
+        "assets/products/popmo/198913381/03.webp",
+        "assets/products/popmo/198913381/04.webp",
+        "assets/products/popmo/198913381/05.webp"
       ],
       "coverUrl": "assets/products/popmo/198913381/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:52.401Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:38:17.278Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -500236,7 +500390,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Uruguay",
@@ -500247,16 +500401,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/198912403/01.webp"
+        "assets/products/popmo/198912403/01.webp",
+        "assets/products/popmo/198912403/02.webp",
+        "assets/products/popmo/198912403/03.webp",
+        "assets/products/popmo/198912403/04.webp",
+        "assets/products/popmo/198912403/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/731c8dd9/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/198912403/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:51.110Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:38:22.045Z",
       "season": "2025-2026",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -500330,7 +500488,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Uruguay",
@@ -500341,16 +500499,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/198912292/01.webp"
+        "assets/products/popmo/198912292/01.webp",
+        "assets/products/popmo/198912292/02.webp",
+        "assets/products/popmo/198912292/03.webp",
+        "assets/products/popmo/198912292/04.webp",
+        "assets/products/popmo/198912292/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/880301e0/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/198912292/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:50.165Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:38:27.195Z",
       "season": "2025-2026",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -500362,7 +500524,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Uruguay",
@@ -500373,16 +500535,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/198913709/01.webp"
+        "assets/products/popmo/198913709/01.webp",
+        "assets/products/popmo/198913709/02.webp",
+        "assets/products/popmo/198913709/03.webp",
+        "assets/products/popmo/198913709/04.webp",
+        "assets/products/popmo/198913709/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/41a09946/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/198913709/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:52.664Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:38:15.869Z",
       "season": "2025-2026",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -814960,10 +815126,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -814972,15 +815138,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/202327023/01.webp"
+        "assets/products/popmo/202327023/01.webp",
+        "assets/products/popmo/202327023/02.webp",
+        "assets/products/popmo/202327023/03.webp",
+        "assets/products/popmo/202327023/04.webp",
+        "assets/products/popmo/202327023/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/48bc992d/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/202327023/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:58:28.021Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:37:26.043Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -815024,10 +815194,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -815036,15 +815206,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/209647400/01.webp"
+        "assets/products/popmo/209647400/01.webp",
+        "assets/products/popmo/209647400/02.webp",
+        "assets/products/popmo/209647400/03.webp",
+        "assets/products/popmo/209647400/04.webp",
+        "assets/products/popmo/209647400/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/adb084a2/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/209647400/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:00:47.086Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:36:23.641Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -815056,10 +815230,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -815068,15 +815242,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/209647225/01.webp"
+        "assets/products/popmo/209647225/01.webp",
+        "assets/products/popmo/209647225/02.webp",
+        "assets/products/popmo/209647225/03.webp",
+        "assets/products/popmo/209647225/04.webp",
+        "assets/products/popmo/209647225/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/32dbfb40/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/209647225/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:00:46.771Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:36:29.474Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -815088,10 +815266,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -815100,15 +815278,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/209647578/01.webp"
+        "assets/products/popmo/209647578/01.webp",
+        "assets/products/popmo/209647578/02.webp",
+        "assets/products/popmo/209647578/03.webp",
+        "assets/products/popmo/209647578/04.webp",
+        "assets/products/popmo/209647578/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/34577b40/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/209647578/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:00:47.936Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:36:18.549Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -815120,10 +815302,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -815132,15 +815314,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/201764615/01.webp"
+        "assets/products/popmo/201764615/01.webp",
+        "assets/products/popmo/201764615/02.webp",
+        "assets/products/popmo/201764615/03.webp",
+        "assets/products/popmo/201764615/04.webp",
+        "assets/products/popmo/201764615/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/0e1b11c6/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/201764615/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:58:12.256Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:37:51.626Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -815152,10 +815338,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -815164,15 +815350,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/198395035/01.webp"
+        "assets/products/popmo/198395035/01.webp",
+        "assets/products/popmo/198395035/02.webp",
+        "assets/products/popmo/198395035/03.webp",
+        "assets/products/popmo/198395035/04.webp",
+        "assets/products/popmo/198395035/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/d00c2871/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/198395035/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:43.328Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:38:32.844Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -815184,10 +815374,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -815196,15 +815386,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/208043491/01.webp"
+        "assets/products/popmo/208043491/01.webp",
+        "assets/products/popmo/208043491/02.webp",
+        "assets/products/popmo/208043491/03.webp",
+        "assets/products/popmo/208043491/04.webp",
+        "assets/products/popmo/208043491/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/a4741dd5/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/208043491/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:00:13.619Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:36:34.531Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -815216,10 +815410,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -815228,15 +815422,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/208043577/01.webp"
+        "assets/products/popmo/208043577/01.webp",
+        "assets/products/popmo/208043577/02.webp",
+        "assets/products/popmo/208043577/03.webp",
+        "assets/products/popmo/208043577/04.webp",
+        "assets/products/popmo/208043577/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/051f4728/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/208043577/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:00:14.556Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:36:29.717Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -815248,10 +815446,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -815259,16 +815457,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/198912791/01.webp"
+        "assets/products/popmo/198912791/01.webp",
+        "assets/products/popmo/198912791/02.webp",
+        "assets/products/popmo/198912791/03.webp",
+        "assets/products/popmo/198912791/04.webp",
+        "assets/products/popmo/198912791/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/a45142ab/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/198912791/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:51.466Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:38:22.254Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -815280,10 +815482,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -815291,16 +815493,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/207070413/01.webp"
+        "assets/products/popmo/207070413/01.webp",
+        "assets/products/popmo/207070413/02.webp",
+        "assets/products/popmo/207070413/03.webp",
+        "assets/products/popmo/207070413/04.webp",
+        "assets/products/popmo/207070413/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/aa3719d9/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/207070413/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:59:46.327Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:36:52.116Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -815312,10 +815518,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -815323,16 +815529,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/222494114/01.webp"
+        "assets/products/popmo/222494114/01.webp",
+        "assets/products/popmo/222494114/02.webp",
+        "assets/products/popmo/222494114/03.webp",
+        "assets/products/popmo/222494114/04.webp",
+        "assets/products/popmo/222494114/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/0139c4fb/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/222494114/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:03:24.045Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:35:31.749Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -815344,10 +815554,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -815355,16 +815565,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/206139942/01.webp"
+        "assets/products/popmo/206139942/01.webp",
+        "assets/products/popmo/206139942/02.webp",
+        "assets/products/popmo/206139942/03.webp",
+        "assets/products/popmo/206139942/04.webp",
+        "assets/products/popmo/206139942/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/1489fc09/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/206139942/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:59:26.637Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:37:00.166Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -815376,10 +815590,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -815388,15 +815602,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/203810113/01.webp"
+        "assets/products/popmo/203810113/01.webp",
+        "assets/products/popmo/203810113/02.webp",
+        "assets/products/popmo/203810113/03.webp",
+        "assets/products/popmo/203810113/04.webp",
+        "assets/products/popmo/203810113/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/4c3f3b9c/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/203810113/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:58:46.037Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:37:07.247Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -815408,10 +815626,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -815420,15 +815638,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/203622049/01.webp"
+        "assets/products/popmo/203622049/01.webp",
+        "assets/products/popmo/203622049/02.webp",
+        "assets/products/popmo/203622049/03.webp",
+        "assets/products/popmo/203622049/04.webp",
+        "assets/products/popmo/203622049/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/9c8f7bab/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/203622049/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:58:44.334Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:37:10.748Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -815440,10 +815662,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -815452,15 +815674,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/201766695/01.webp"
+        "assets/products/popmo/201766695/01.webp",
+        "assets/products/popmo/201766695/02.webp",
+        "assets/products/popmo/201766695/03.webp",
+        "assets/products/popmo/201766695/04.webp",
+        "assets/products/popmo/201766695/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/2edcf675/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/201766695/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:58:12.383Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:37:47.818Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -815504,10 +815730,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -815516,15 +815742,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/218132575/01.webp"
+        "assets/products/popmo/218132575/01.webp",
+        "assets/products/popmo/218132575/02.webp",
+        "assets/products/popmo/218132575/03.webp",
+        "assets/products/popmo/218132575/04.webp",
+        "assets/products/popmo/218132575/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/b2a2b85b/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/218132575/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:02:34.414Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:35:36.628Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -815536,10 +815766,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -815548,15 +815778,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/218132377/01.webp"
+        "assets/products/popmo/218132377/01.webp",
+        "assets/products/popmo/218132377/02.webp",
+        "assets/products/popmo/218132377/03.webp",
+        "assets/products/popmo/218132377/04.webp",
+        "assets/products/popmo/218132377/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/1cf13279/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/218132377/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:02:34.365Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:35:41.138Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -815568,10 +815802,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -815579,16 +815813,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/216854748/01.webp"
+        "assets/products/popmo/216854748/01.webp",
+        "assets/products/popmo/216854748/02.webp",
+        "assets/products/popmo/216854748/03.webp",
+        "assets/products/popmo/216854748/04.webp",
+        "assets/products/popmo/216854748/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/c3f31bd5/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/216854748/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:02:25.697Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:35:46.557Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -815632,10 +815870,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -815643,16 +815881,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/198908599/01.webp"
+        "assets/products/popmo/198908599/01.webp",
+        "assets/products/popmo/198908599/02.webp",
+        "assets/products/popmo/198908599/03.webp",
+        "assets/products/popmo/198908599/04.webp",
+        "assets/products/popmo/198908599/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/ee1b59bb/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/198908599/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:47.674Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:38:27.399Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -815664,10 +815906,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -815675,16 +815917,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/207543923/01.webp"
+        "assets/products/popmo/207543923/01.webp",
+        "assets/products/popmo/207543923/02.webp",
+        "assets/products/popmo/207543923/03.webp",
+        "assets/products/popmo/207543923/04.webp",
+        "assets/products/popmo/207543923/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/c6893797/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/207543923/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:59:58.173Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:36:39.556Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -815732,10 +815978,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -815743,16 +815989,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/202928918/01.webp"
+        "assets/products/popmo/202928918/01.webp",
+        "assets/products/popmo/202928918/02.webp",
+        "assets/products/popmo/202928918/03.webp",
+        "assets/products/popmo/202928918/04.webp",
+        "assets/products/popmo/202928918/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/6e09dbee/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/202928918/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:58:35.355Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:37:16.233Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -815764,10 +816014,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -815775,27 +816025,31 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/202546621/01.webp"
+        "assets/products/popmo/202546621/01.webp",
+        "assets/products/popmo/202546621/02.webp",
+        "assets/products/popmo/202546621/03.webp",
+        "assets/products/popmo/202546621/04.webp",
+        "assets/products/popmo/202546621/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/563bc4f4/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/202546621/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:58:30.459Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:37:17.808Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:199891526",
       "source": "popmo",
       "sourceId": "199891526",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/199891526",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "title": "25-26 FC Shakhtar Donetsk Home2",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "club": "",
       "country": "",
       "competition": "",
@@ -815804,24 +816058,28 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/199891526/01.webp"
+        "assets/products/popmo/199891526/01.webp",
+        "assets/products/popmo/199891526/02.webp",
+        "assets/products/popmo/199891526/03.webp",
+        "assets/products/popmo/199891526/04.webp",
+        "assets/products/popmo/199891526/05.webp"
       ],
       "coverUrl": "assets/products/popmo/199891526/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:03.750Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:38:10.940Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:228266661",
       "source": "popmo",
       "sourceId": "228266661",
       "sourceUrl": "https://popmo.x.yupoo.com/albums/228266661",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "title": "25-26 FK Bodø/Glimt Home3",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "club": "",
       "country": "",
       "competition": "",
@@ -815830,13 +816088,18 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/228266661/01.webp"
+        "assets/products/popmo/228266661/01.webp",
+        "assets/products/popmo/228266661/02.webp",
+        "assets/products/popmo/228266661/03.webp",
+        "assets/products/popmo/228266661/04.webp",
+        "assets/products/popmo/228266661/05.webp",
+        "assets/products/popmo/228266661/06.webp"
       ],
       "coverUrl": "assets/products/popmo/228266661/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:04:00.720Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:35:24.760Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -815848,10 +816111,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -815860,15 +816123,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/202325345/01.webp"
+        "assets/products/popmo/202325345/01.webp",
+        "assets/products/popmo/202325345/02.webp",
+        "assets/products/popmo/202325345/03.webp",
+        "assets/products/popmo/202325345/04.webp",
+        "assets/products/popmo/202325345/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/54730a62/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/202325345/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:58:27.568Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:37:27.972Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -815880,10 +816147,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -815892,15 +816159,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/202325120/01.webp"
+        "assets/products/popmo/202325120/01.webp",
+        "assets/products/popmo/202325120/02.webp",
+        "assets/products/popmo/202325120/03.webp",
+        "assets/products/popmo/202325120/04.webp",
+        "assets/products/popmo/202325120/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/006d990f/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/202325120/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:58:26.738Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:37:31.258Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -815912,10 +816183,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -815923,16 +816194,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/202215902/01.webp"
+        "assets/products/popmo/202215902/01.webp",
+        "assets/products/popmo/202215902/02.webp",
+        "assets/products/popmo/202215902/03.webp",
+        "assets/products/popmo/202215902/04.webp",
+        "assets/products/popmo/202215902/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/3ee15e31/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/202215902/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:58:15.643Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:37:41.578Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -815944,10 +816219,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -815955,16 +816230,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/202328132/01.webp"
+        "assets/products/popmo/202328132/01.webp",
+        "assets/products/popmo/202328132/02.webp",
+        "assets/products/popmo/202328132/03.webp",
+        "assets/products/popmo/202328132/04.webp",
+        "assets/products/popmo/202328132/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/3c55b3c7/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/202328132/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:58:28.760Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:37:23.131Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -815976,10 +816255,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -815987,16 +816266,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/219455947/01.webp"
+        "assets/products/popmo/219455947/01.webp",
+        "assets/products/popmo/219455947/02.webp",
+        "assets/products/popmo/219455947/03.webp",
+        "assets/products/popmo/219455947/04.webp",
+        "assets/products/popmo/219455947/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/26a58bb3/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/219455947/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:03:05.845Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:35:36.314Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -816008,10 +816291,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -816020,15 +816303,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/201009356/01.webp"
+        "assets/products/popmo/201009356/01.webp",
+        "assets/products/popmo/201009356/02.webp",
+        "assets/products/popmo/201009356/03.webp",
+        "assets/products/popmo/201009356/04.webp",
+        "assets/products/popmo/201009356/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/08d7b5c4/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/201009356/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:23.308Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:38:02.120Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -816040,10 +816327,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -816052,15 +816339,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/198482161/01.webp"
+        "assets/products/popmo/198482161/01.webp",
+        "assets/products/popmo/198482161/02.webp",
+        "assets/products/popmo/198482161/03.webp",
+        "assets/products/popmo/198482161/04.webp",
+        "assets/products/popmo/198482161/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/09b415eb/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/198482161/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:56:42.511Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:38:32.057Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -816072,10 +816363,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -816084,15 +816375,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/202219352/01.webp"
+        "assets/products/popmo/202219352/01.webp",
+        "assets/products/popmo/202219352/02.webp",
+        "assets/products/popmo/202219352/03.webp",
+        "assets/products/popmo/202219352/04.webp",
+        "assets/products/popmo/202219352/05.webp",
+        "assets/products/popmo/202219352/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/dac7af62/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/202219352/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:58:17.215Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:37:37.655Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -816104,10 +816400,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -816115,16 +816411,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/211354178/01.webp"
+        "assets/products/popmo/211354178/01.webp",
+        "assets/products/popmo/211354178/02.webp",
+        "assets/products/popmo/211354178/03.webp",
+        "assets/products/popmo/211354178/04.webp",
+        "assets/products/popmo/211354178/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/f16bf32c/medium.png"
       ],
       "coverUrl": "assets/products/popmo/211354178/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:01:25.111Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:36:13.580Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -816136,10 +816436,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -816148,15 +816448,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/209930348/01.webp"
+        "assets/products/popmo/209930348/01.webp",
+        "assets/products/popmo/209930348/02.webp",
+        "assets/products/popmo/209930348/03.webp",
+        "assets/products/popmo/209930348/04.webp",
+        "assets/products/popmo/209930348/05.webp",
+        "assets/products/popmo/209930348/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/66f1d7dc/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/209930348/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:00:53.764Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:36:19.427Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -816168,10 +816473,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -816179,16 +816484,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/206622259/01.webp"
+        "assets/products/popmo/206622259/01.webp",
+        "assets/products/popmo/206622259/02.webp",
+        "assets/products/popmo/206622259/03.webp",
+        "assets/products/popmo/206622259/04.webp",
+        "assets/products/popmo/206622259/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/3afd5b6e/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/206622259/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:59:34.332Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:36:56.977Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -816200,10 +816509,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -816211,16 +816520,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/207072251/01.webp"
+        "assets/products/popmo/207072251/01.webp",
+        "assets/products/popmo/207072251/02.webp",
+        "assets/products/popmo/207072251/03.webp",
+        "assets/products/popmo/207072251/04.webp",
+        "assets/products/popmo/207072251/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/66defe23/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/207072251/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:59:49.307Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:36:44.635Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -816232,10 +816545,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -816243,16 +816556,21 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/206851988/01.webp"
+        "assets/products/popmo/206851988/01.webp",
+        "assets/products/popmo/206851988/02.webp",
+        "assets/products/popmo/206851988/03.webp",
+        "assets/products/popmo/206851988/04.webp",
+        "assets/products/popmo/206851988/05.webp",
+        "assets/products/popmo/206851988/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/9cb99d58/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/206851988/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:59:39.592Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:36:55.319Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -816264,10 +816582,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -816275,16 +816593,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/207072324/01.webp"
+        "assets/products/popmo/207072324/01.webp",
+        "assets/products/popmo/207072324/02.webp",
+        "assets/products/popmo/207072324/03.webp",
+        "assets/products/popmo/207072324/04.webp",
+        "assets/products/popmo/207072324/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/8bc91956/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/207072324/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:59:49.646Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:36:41.627Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -816296,10 +816618,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -816307,16 +816629,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/216549204/01.webp"
+        "assets/products/popmo/216549204/01.webp",
+        "assets/products/popmo/216549204/02.webp",
+        "assets/products/popmo/216549204/03.webp",
+        "assets/products/popmo/216549204/04.webp",
+        "assets/products/popmo/216549204/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/6647d5b1/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/216549204/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:02:23.457Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:35:51.213Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -816328,10 +816654,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -816339,16 +816665,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/204354650/01.webp"
+        "assets/products/popmo/204354650/01.webp",
+        "assets/products/popmo/204354650/02.webp",
+        "assets/products/popmo/204354650/03.webp",
+        "assets/products/popmo/204354650/04.webp",
+        "assets/products/popmo/204354650/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/68755076/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/204354650/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:59:08.926Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:37:06.021Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -816360,10 +816690,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -816371,16 +816701,21 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/207070664/01.webp"
+        "assets/products/popmo/207070664/01.webp",
+        "assets/products/popmo/207070664/02.webp",
+        "assets/products/popmo/207070664/03.webp",
+        "assets/products/popmo/207070664/04.webp",
+        "assets/products/popmo/207070664/05.webp",
+        "assets/products/popmo/207070664/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/6b0bf7a7/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/207070664/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:59:47.540Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:36:50.463Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -816392,10 +816727,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -816404,15 +816739,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/201009682/01.webp"
+        "assets/products/popmo/201009682/01.webp",
+        "assets/products/popmo/201009682/02.webp",
+        "assets/products/popmo/201009682/03.webp",
+        "assets/products/popmo/201009682/04.webp",
+        "assets/products/popmo/201009682/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/5f4effa8/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/201009682/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:57:22.823Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:38:00.757Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -816424,10 +816763,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -816435,16 +816774,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/217492012/01.webp"
+        "assets/products/popmo/217492012/01.webp",
+        "assets/products/popmo/217492012/02.webp",
+        "assets/products/popmo/217492012/03.webp",
+        "assets/products/popmo/217492012/04.webp",
+        "assets/products/popmo/217492012/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/759a2417/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/217492012/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:02:30.685Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:35:41.465Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -816456,10 +816799,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -816468,15 +816811,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/213073169/01.webp"
+        "assets/products/popmo/213073169/01.webp",
+        "assets/products/popmo/213073169/02.webp",
+        "assets/products/popmo/213073169/03.webp",
+        "assets/products/popmo/213073169/04.webp",
+        "assets/products/popmo/213073169/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/05348a71/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/213073169/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:01:51.581Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:36:01.973Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -816488,10 +816835,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -816500,15 +816847,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/213073004/01.webp"
+        "assets/products/popmo/213073004/01.webp",
+        "assets/products/popmo/213073004/02.webp",
+        "assets/products/popmo/213073004/03.webp",
+        "assets/products/popmo/213073004/04.webp",
+        "assets/products/popmo/213073004/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/7094e308/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/213073004/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:01:51.013Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:36:07.629Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -816552,10 +816903,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -816563,16 +816914,21 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/210154943/01.webp"
+        "assets/products/popmo/210154943/01.webp",
+        "assets/products/popmo/210154943/02.webp",
+        "assets/products/popmo/210154943/03.webp",
+        "assets/products/popmo/210154943/04.webp",
+        "assets/products/popmo/210154943/05.webp",
+        "assets/products/popmo/210154943/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/8a99204c/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/210154943/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:00:56.468Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:36:13.551Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -816584,10 +816940,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -816595,16 +816951,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/203283055/01.webp"
+        "assets/products/popmo/203283055/01.webp",
+        "assets/products/popmo/203283055/02.webp",
+        "assets/products/popmo/203283055/03.webp",
+        "assets/products/popmo/203283055/04.webp",
+        "assets/products/popmo/203283055/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/3cade602/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/203283055/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:58:41.407Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:37:12.347Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -816616,10 +816976,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -816627,16 +816987,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/217389746/01.webp"
+        "assets/products/popmo/217389746/01.webp",
+        "assets/products/popmo/217389746/02.webp",
+        "assets/products/popmo/217389746/03.webp",
+        "assets/products/popmo/217389746/04.webp",
+        "assets/products/popmo/217389746/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/9927d834/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/217389746/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:02:29.012Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:35:46.309Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -816648,10 +817012,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -816659,16 +817023,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/213073576/01.webp"
+        "assets/products/popmo/213073576/01.webp",
+        "assets/products/popmo/213073576/02.webp",
+        "assets/products/popmo/213073576/03.webp",
+        "assets/products/popmo/213073576/04.webp",
+        "assets/products/popmo/213073576/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/6ba226ab/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/213073576/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:01:52.189Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:36:02.120Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -816680,10 +817048,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -816691,16 +817059,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/213073722/01.webp"
+        "assets/products/popmo/213073722/01.webp",
+        "assets/products/popmo/213073722/02.webp",
+        "assets/products/popmo/213073722/03.webp",
+        "assets/products/popmo/213073722/04.webp",
+        "assets/products/popmo/213073722/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/cd3a5085/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/213073722/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:01:52.634Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:35:56.895Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -816712,10 +817084,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -816723,16 +817095,21 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/213297664/01.webp"
+        "assets/products/popmo/213297664/01.webp",
+        "assets/products/popmo/213297664/02.webp",
+        "assets/products/popmo/213297664/03.webp",
+        "assets/products/popmo/213297664/04.webp",
+        "assets/products/popmo/213297664/05.webp",
+        "assets/products/popmo/213297664/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/70646e51/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/213297664/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:01:55.974Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:35:56.631Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -816780,10 +817157,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -816792,15 +817169,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/238391533/01.webp"
+        "assets/products/popmo/238391533/01.webp",
+        "assets/products/popmo/238391533/02.webp",
+        "assets/products/popmo/238391533/03.webp",
+        "assets/products/popmo/238391533/04.webp",
+        "assets/products/popmo/238391533/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/a720bfbe47/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/238391533/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:06:30.475Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:34:49.591Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -816849,10 +817230,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -816861,15 +817242,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/232763965/01.webp"
+        "assets/products/popmo/232763965/01.webp",
+        "assets/products/popmo/232763965/02.webp",
+        "assets/products/popmo/232763965/03.webp",
+        "assets/products/popmo/232763965/04.webp",
+        "assets/products/popmo/232763965/05.webp",
+        "assets/products/popmo/232763965/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/d1250056/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/232763965/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:04:44.217Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:35:02.741Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -816881,10 +817267,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -816892,16 +817278,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/229715863/01.webp"
+        "assets/products/popmo/229715863/01.webp",
+        "assets/products/popmo/229715863/02.webp",
+        "assets/products/popmo/229715863/03.webp",
+        "assets/products/popmo/229715863/04.webp",
+        "assets/products/popmo/229715863/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/6511525b/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/229715863/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:04:17.689Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:35:09.028Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -816949,10 +817339,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -816960,16 +817350,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/228850855/01.webp"
+        "assets/products/popmo/228850855/01.webp",
+        "assets/products/popmo/228850855/02.webp",
+        "assets/products/popmo/228850855/03.webp",
+        "assets/products/popmo/228850855/04.webp",
+        "assets/products/popmo/228850855/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/23d651b0/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/228850855/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:04:15.623Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:35:19.688Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -816981,10 +817375,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -816993,15 +817387,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/237848755/01.webp"
+        "assets/products/popmo/237848755/01.webp",
+        "assets/products/popmo/237848755/02.webp",
+        "assets/products/popmo/237848755/03.webp",
+        "assets/products/popmo/237848755/04.webp",
+        "assets/products/popmo/237848755/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/fa91cb552b/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/237848755/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:06:21.490Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:34:54.134Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -817049,10 +817447,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -817061,15 +817459,19 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/234124144/01.webp"
+        "assets/products/popmo/234124144/01.webp",
+        "assets/products/popmo/234124144/02.webp",
+        "assets/products/popmo/234124144/03.webp",
+        "assets/products/popmo/234124144/04.webp",
+        "assets/products/popmo/234124144/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/1d6f6d7817/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/234124144/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:05:15.975Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:34:58.736Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -817220,10 +817622,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -817231,16 +817633,21 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/237988831/01.webp"
+        "assets/products/popmo/237988831/01.webp",
+        "assets/products/popmo/237988831/02.webp",
+        "assets/products/popmo/237988831/03.webp",
+        "assets/products/popmo/237988831/04.webp",
+        "assets/products/popmo/237988831/05.webp",
+        "assets/products/popmo/237988831/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/96f2e428dc/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/237988831/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:06:28.179Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:34:52.800Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -817360,10 +817767,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Other European clubs",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Other European clubs",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -817371,16 +817778,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/202448917/01.webp"
+        "assets/products/popmo/202448917/01.webp",
+        "assets/products/popmo/202448917/02.webp",
+        "assets/products/popmo/202448917/03.webp",
+        "assets/products/popmo/202448917/04.webp",
+        "assets/products/popmo/202448917/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/b2fc5e9b/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/202448917/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:58:29.976Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T22:37:21.217Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -901666,10 +902077,10 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "World Cup",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -901678,15 +902089,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/234111172/01.webp"
+        "assets/products/popmo/234111172/01.webp",
+        "assets/products/popmo/234111172/02.webp",
+        "assets/products/popmo/234111172/03.webp",
+        "assets/products/popmo/234111172/04.webp",
+        "assets/products/popmo/234111172/05.webp",
+        "assets/products/popmo/234111172/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/ec7ed588e4/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/234111172/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:05:13.643Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:34:47.557Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -1018051,7 +1018467,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "World Cup",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
       "category": "Landenteams",
       "subcategory": "Portugal",
@@ -1018062,16 +1018478,21 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/popmo/234475412/01.webp"
+        "assets/products/popmo/234475412/01.webp",
+        "assets/products/popmo/234475412/02.webp",
+        "assets/products/popmo/234475412/03.webp",
+        "assets/products/popmo/234475412/04.webp",
+        "assets/products/popmo/234475412/05.webp",
+        "assets/products/popmo/234475412/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/d5914e3582/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/234475412/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:05:27.389Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T22:34:24.923Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
