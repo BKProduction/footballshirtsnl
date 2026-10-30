@@ -1,5 +1,5 @@
 {
-  "lastSync": "2026-10-30T12:43:06.984Z",
+  "lastSync": "2026-10-30T12:47:37.487Z",
   "status": "running",
   "currentSource": "yema007",
   "products": [
@@ -298683,7 +298683,7 @@
       "categoryId": null,
       "collectionId": "5217438",
       "sourceCollection": "more",
-      "sourceCategory": "🇵🇹⚽LIGA NOS",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Primeira Liga",
@@ -298695,15 +298695,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/yema007/237721394/01.webp"
+        "assets/products/yema007/237721394/01.webp",
+        "assets/products/yema007/237721394/02.webp",
+        "assets/products/yema007/237721394/03.webp",
+        "assets/products/yema007/237721394/04.webp",
+        "assets/products/yema007/237721394/05.webp",
+        "assets/products/yema007/237721394/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/61b43581fe/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237721394/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:30:42.960Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T12:43:18.982Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -303737,7 +303742,7 @@
       "categoryId": "876689",
       "collectionId": "876689",
       "sourceCollection": "David jersey",
-      "sourceCategory": "🇵🇹⚽LIGA NOS",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Primeira Liga",
@@ -303749,15 +303754,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/yema007/237721180/01.webp"
+        "assets/products/yema007/237721180/01.webp",
+        "assets/products/yema007/237721180/02.webp",
+        "assets/products/yema007/237721180/03.webp",
+        "assets/products/yema007/237721180/04.webp",
+        "assets/products/yema007/237721180/05.webp",
+        "assets/products/yema007/237721180/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/3cf2292891/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237721180/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:30:41.718Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T12:43:35.416Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -379201,27 +379211,32 @@
       "categoryId": "876686",
       "collectionId": "876686",
       "sourceCollection": "David jersey",
-      "sourceCategory": "🇨🇱⚽Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2021-2022",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/yema007/237675313/01.webp"
+        "assets/products/yema007/237675313/01.webp",
+        "assets/products/yema007/237675313/02.webp",
+        "assets/products/yema007/237675313/03.webp",
+        "assets/products/yema007/237675313/04.webp",
+        "assets/products/yema007/237675313/05.webp",
+        "assets/products/yema007/237675313/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/5fb2bf131b/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237675313/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:25:59.888Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T12:46:13.495Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -379745,27 +379760,32 @@
       "categoryId": "876686",
       "collectionId": "876686",
       "sourceCollection": "David jersey",
-      "sourceCategory": "🇨🇱⚽Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2022-2023",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/yema007/237677128/01.webp"
+        "assets/products/yema007/237677128/01.webp",
+        "assets/products/yema007/237677128/02.webp",
+        "assets/products/yema007/237677128/03.webp",
+        "assets/products/yema007/237677128/04.webp",
+        "assets/products/yema007/237677128/05.webp",
+        "assets/products/yema007/237677128/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/725fcf3b09/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237677128/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:26:18.113Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T12:46:05.298Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -379777,27 +379797,32 @@
       "categoryId": "876687",
       "collectionId": "876687",
       "sourceCollection": "David jersey",
-      "sourceCategory": "🇨🇱⚽Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2022-2023",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/yema007/237680418/01.webp"
+        "assets/products/yema007/237680418/01.webp",
+        "assets/products/yema007/237680418/02.webp",
+        "assets/products/yema007/237680418/03.webp",
+        "assets/products/yema007/237680418/04.webp",
+        "assets/products/yema007/237680418/05.webp",
+        "assets/products/yema007/237680418/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/c8977443ba/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237680418/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:26:35.191Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T12:45:45.794Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -379809,27 +379834,32 @@
       "categoryId": "876687",
       "collectionId": "876687",
       "sourceCollection": "David jersey",
-      "sourceCategory": "🇨🇱⚽Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2022-2023",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/yema007/237680952/01.webp"
+        "assets/products/yema007/237680952/01.webp",
+        "assets/products/yema007/237680952/02.webp",
+        "assets/products/yema007/237680952/03.webp",
+        "assets/products/yema007/237680952/04.webp",
+        "assets/products/yema007/237680952/05.webp",
+        "assets/products/yema007/237680952/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/f99d36f711/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237680952/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:26:42.685Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T12:45:46.442Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -379841,27 +379871,32 @@
       "categoryId": "876687",
       "collectionId": "876687",
       "sourceCollection": "David jersey",
-      "sourceCategory": "🇨🇱⚽Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2022-2023",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/yema007/237682482/01.webp"
+        "assets/products/yema007/237682482/01.webp",
+        "assets/products/yema007/237682482/02.webp",
+        "assets/products/yema007/237682482/03.webp",
+        "assets/products/yema007/237682482/04.webp",
+        "assets/products/yema007/237682482/05.webp",
+        "assets/products/yema007/237682482/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/31bf303410/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237682482/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:27:11.512Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T12:45:32.450Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -379873,27 +379908,32 @@
       "categoryId": "876687",
       "collectionId": "876687",
       "sourceCollection": "David jersey",
-      "sourceCategory": "🇨🇱⚽Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2022-2023",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/yema007/237681979/01.webp"
+        "assets/products/yema007/237681979/01.webp",
+        "assets/products/yema007/237681979/02.webp",
+        "assets/products/yema007/237681979/03.webp",
+        "assets/products/yema007/237681979/04.webp",
+        "assets/products/yema007/237681979/05.webp",
+        "assets/products/yema007/237681979/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/877255d9b7/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237681979/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:26:56.432Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T12:45:36.074Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -379905,7 +379945,7 @@
       "categoryId": "876685",
       "collectionId": "876685",
       "sourceCollection": "David jersey",
-      "sourceCategory": "🇨🇱⚽Chilean League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -379916,16 +379956,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/yema007/237642600/01.webp"
+        "assets/products/yema007/237642600/01.webp",
+        "assets/products/yema007/237642600/02.webp",
+        "assets/products/yema007/237642600/03.webp",
+        "assets/products/yema007/237642600/04.webp",
+        "assets/products/yema007/237642600/05.webp",
+        "assets/products/yema007/237642600/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/33f831442f/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237642600/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:22:41.958Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T12:47:29.965Z",
       "season": "2022-2023",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -379937,7 +379982,7 @@
       "categoryId": "876685",
       "collectionId": "876685",
       "sourceCollection": "David jersey",
-      "sourceCategory": "🇨🇱⚽Chilean League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -379948,16 +379993,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/yema007/237644099/01.webp"
+        "assets/products/yema007/237644099/01.webp",
+        "assets/products/yema007/237644099/02.webp",
+        "assets/products/yema007/237644099/03.webp",
+        "assets/products/yema007/237644099/04.webp",
+        "assets/products/yema007/237644099/05.webp",
+        "assets/products/yema007/237644099/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/1040b4fd7c/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237644099/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:22:51.852Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T12:47:20.725Z",
       "season": "2022-2023",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -379969,7 +380019,7 @@
       "categoryId": "876685",
       "collectionId": "876685",
       "sourceCollection": "David jersey",
-      "sourceCategory": "🇨🇱⚽Chilean League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -379980,16 +380030,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/yema007/237643295/01.webp"
+        "assets/products/yema007/237643295/01.webp",
+        "assets/products/yema007/237643295/02.webp",
+        "assets/products/yema007/237643295/03.webp",
+        "assets/products/yema007/237643295/04.webp",
+        "assets/products/yema007/237643295/05.webp",
+        "assets/products/yema007/237643295/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/a7396cdf91/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237643295/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:22:46.553Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T12:47:20.011Z",
       "season": "2022-2023",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -380001,7 +380056,7 @@
       "categoryId": "876685",
       "collectionId": "876685",
       "sourceCollection": "David jersey",
-      "sourceCategory": "🇨🇱⚽Chilean League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -380012,16 +380067,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/yema007/237644673/01.webp"
+        "assets/products/yema007/237644673/01.webp",
+        "assets/products/yema007/237644673/02.webp",
+        "assets/products/yema007/237644673/03.webp",
+        "assets/products/yema007/237644673/04.webp",
+        "assets/products/yema007/237644673/05.webp",
+        "assets/products/yema007/237644673/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/18f0b917d4/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237644673/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:22:57.636Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T12:47:01.301Z",
       "season": "2022-2023",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -380127,7 +380187,7 @@
       "categoryId": "876685",
       "collectionId": "876685",
       "sourceCollection": "David jersey",
-      "sourceCategory": "🇨🇱⚽Chilean League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -380138,16 +380198,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/yema007/237645366/01.webp"
+        "assets/products/yema007/237645366/01.webp",
+        "assets/products/yema007/237645366/02.webp",
+        "assets/products/yema007/237645366/03.webp",
+        "assets/products/yema007/237645366/04.webp",
+        "assets/products/yema007/237645366/05.webp",
+        "assets/products/yema007/237645366/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/7a369bdea4/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237645366/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:23:02.927Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T12:46:53.114Z",
       "season": "2022-2023",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -380159,7 +380224,7 @@
       "categoryId": "876685",
       "collectionId": "876685",
       "sourceCollection": "David jersey",
-      "sourceCategory": "🇨🇱⚽Chilean League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -380170,16 +380235,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/yema007/237654679/01.webp"
+        "assets/products/yema007/237654679/01.webp",
+        "assets/products/yema007/237654679/02.webp",
+        "assets/products/yema007/237654679/03.webp",
+        "assets/products/yema007/237654679/04.webp",
+        "assets/products/yema007/237654679/05.webp",
+        "assets/products/yema007/237654679/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/61108ef013/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237654679/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:23:54.630Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T12:46:36.902Z",
       "season": "2022-2023",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -380191,7 +380261,7 @@
       "categoryId": "876685",
       "collectionId": "876685",
       "sourceCollection": "David jersey",
-      "sourceCategory": "🇨🇱⚽Chilean League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -380202,16 +380272,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/yema007/237653961/01.webp"
+        "assets/products/yema007/237653961/01.webp",
+        "assets/products/yema007/237653961/02.webp",
+        "assets/products/yema007/237653961/03.webp",
+        "assets/products/yema007/237653961/04.webp",
+        "assets/products/yema007/237653961/05.webp",
+        "assets/products/yema007/237653961/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/1ec7d34011/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237653961/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:23:48.946Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T12:46:42.619Z",
       "season": "2022-2023",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -380287,27 +380362,32 @@
       "categoryId": "876684",
       "collectionId": "876684",
       "sourceCollection": "David jersey",
-      "sourceCategory": "🇨🇱⚽Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2023-2024",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/yema007/237642580/01.webp"
+        "assets/products/yema007/237642580/01.webp",
+        "assets/products/yema007/237642580/02.webp",
+        "assets/products/yema007/237642580/03.webp",
+        "assets/products/yema007/237642580/04.webp",
+        "assets/products/yema007/237642580/05.webp",
+        "assets/products/yema007/237642580/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/f3ef045767/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237642580/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:22:40.848Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T12:47:37.487Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -380319,27 +380399,32 @@
       "categoryId": "876684",
       "collectionId": "876684",
       "sourceCollection": "David jersey",
-      "sourceCategory": "🇨🇱⚽Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2023-2024",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/yema007/237644647/01.webp"
+        "assets/products/yema007/237644647/01.webp",
+        "assets/products/yema007/237644647/02.webp",
+        "assets/products/yema007/237644647/03.webp",
+        "assets/products/yema007/237644647/04.webp",
+        "assets/products/yema007/237644647/05.webp",
+        "assets/products/yema007/237644647/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/91fb1bb5f5/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237644647/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:22:57.086Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T12:47:10.752Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -380351,27 +380436,32 @@
       "categoryId": "876684",
       "collectionId": "876684",
       "sourceCollection": "David jersey",
-      "sourceCategory": "🇨🇱⚽Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2023-2024",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/yema007/237645338/01.webp"
+        "assets/products/yema007/237645338/01.webp",
+        "assets/products/yema007/237645338/02.webp",
+        "assets/products/yema007/237645338/03.webp",
+        "assets/products/yema007/237645338/04.webp",
+        "assets/products/yema007/237645338/05.webp",
+        "assets/products/yema007/237645338/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/9249e7c8dd/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237645338/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:23:02.448Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T12:47:00.621Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -380383,27 +380473,32 @@
       "categoryId": "876686",
       "collectionId": "876686",
       "sourceCollection": "David jersey",
-      "sourceCategory": "🇨🇱⚽Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2023-2024",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/yema007/237677635/01.webp"
+        "assets/products/yema007/237677635/01.webp",
+        "assets/products/yema007/237677635/02.webp",
+        "assets/products/yema007/237677635/03.webp",
+        "assets/products/yema007/237677635/04.webp",
+        "assets/products/yema007/237677635/05.webp",
+        "assets/products/yema007/237677635/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/1e9c0f3c93/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237677635/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:26:25.562Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T12:46:00.656Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -380447,27 +380542,32 @@
       "categoryId": "876686",
       "collectionId": "876686",
       "sourceCollection": "David jersey",
-      "sourceCategory": "🇨🇱⚽Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2023-2024",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/yema007/237680401/01.webp"
+        "assets/products/yema007/237680401/01.webp",
+        "assets/products/yema007/237680401/02.webp",
+        "assets/products/yema007/237680401/03.webp",
+        "assets/products/yema007/237680401/04.webp",
+        "assets/products/yema007/237680401/05.webp",
+        "assets/products/yema007/237680401/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/05083f46e4/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237680401/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:26:33.563Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T12:45:57.117Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -380479,7 +380579,7 @@
       "categoryId": "876685",
       "collectionId": "876685",
       "sourceCollection": "David jersey",
-      "sourceCategory": "🇨🇱⚽Chilean League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -380490,16 +380590,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/yema007/237656160/01.webp"
+        "assets/products/yema007/237656160/01.webp",
+        "assets/products/yema007/237656160/02.webp",
+        "assets/products/yema007/237656160/03.webp",
+        "assets/products/yema007/237656160/04.webp",
+        "assets/products/yema007/237656160/05.webp",
+        "assets/products/yema007/237656160/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/ebca8b9f83/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237656160/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:24:06.681Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T12:46:34.404Z",
       "season": "2023-2024",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -380542,7 +380647,7 @@
       "categoryId": "876685",
       "collectionId": "876685",
       "sourceCollection": "David jersey",
-      "sourceCategory": "🇨🇱⚽Chilean League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -380553,16 +380658,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/yema007/237659186/01.webp"
+        "assets/products/yema007/237659186/01.webp",
+        "assets/products/yema007/237659186/02.webp",
+        "assets/products/yema007/237659186/03.webp",
+        "assets/products/yema007/237659186/04.webp",
+        "assets/products/yema007/237659186/05.webp",
+        "assets/products/yema007/237659186/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/d7a3872039/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237659186/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:24:21.659Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T12:46:25.207Z",
       "season": "2023-2024",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -380574,7 +380684,7 @@
       "categoryId": "876685",
       "collectionId": "876685",
       "sourceCollection": "David jersey",
-      "sourceCategory": "🇨🇱⚽Chilean League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -380585,16 +380695,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/yema007/237663123/01.webp"
+        "assets/products/yema007/237663123/01.webp",
+        "assets/products/yema007/237663123/02.webp",
+        "assets/products/yema007/237663123/03.webp",
+        "assets/products/yema007/237663123/04.webp",
+        "assets/products/yema007/237663123/05.webp",
+        "assets/products/yema007/237663123/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/307b6ab967/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237663123/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:24:35.861Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T12:46:19.267Z",
       "season": "2023-2024",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -382256,27 +382371,32 @@
       "categoryId": "876684",
       "collectionId": "876684",
       "sourceCollection": "David jersey",
-      "sourceCategory": "🇨🇱⚽Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2025-2026",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/yema007/237688823/01.webp"
+        "assets/products/yema007/237688823/01.webp",
+        "assets/products/yema007/237688823/02.webp",
+        "assets/products/yema007/237688823/03.webp",
+        "assets/products/yema007/237688823/04.webp",
+        "assets/products/yema007/237688823/05.webp",
+        "assets/products/yema007/237688823/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/0c663802cb/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237688823/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:27:59.596Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T12:45:28.701Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -382288,27 +382408,32 @@
       "categoryId": "876684",
       "collectionId": "876684",
       "sourceCollection": "David jersey",
-      "sourceCategory": "🇨🇱⚽Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2025-2026",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/yema007/237688837/01.webp"
+        "assets/products/yema007/237688837/01.webp",
+        "assets/products/yema007/237688837/02.webp",
+        "assets/products/yema007/237688837/03.webp",
+        "assets/products/yema007/237688837/04.webp",
+        "assets/products/yema007/237688837/05.webp",
+        "assets/products/yema007/237688837/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/4fc6d526ad/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237688837/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:28:01.048Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T12:45:11.996Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -382320,27 +382445,32 @@
       "categoryId": null,
       "collectionId": "5217438",
       "sourceCollection": "more",
-      "sourceCategory": "🇨🇱⚽Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2025-2026",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/yema007/237688849/01.webp"
+        "assets/products/yema007/237688849/01.webp",
+        "assets/products/yema007/237688849/02.webp",
+        "assets/products/yema007/237688849/03.webp",
+        "assets/products/yema007/237688849/04.webp",
+        "assets/products/yema007/237688849/05.webp",
+        "assets/products/yema007/237688849/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/37d5bdc80e/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237688849/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:28:01.497Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T12:45:03.371Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -382352,27 +382482,31 @@
       "categoryId": "876684",
       "collectionId": "876684",
       "sourceCollection": "David jersey",
-      "sourceCategory": "🇨🇱⚽Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2025-2026",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/yema007/237688832/01.webp"
+        "assets/products/yema007/237688832/01.webp",
+        "assets/products/yema007/237688832/02.webp",
+        "assets/products/yema007/237688832/03.webp",
+        "assets/products/yema007/237688832/04.webp",
+        "assets/products/yema007/237688832/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/70f8877572/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237688832/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:27:59.817Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T12:45:14.922Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -382384,27 +382518,31 @@
       "categoryId": "876684",
       "collectionId": "876684",
       "sourceCollection": "David jersey",
-      "sourceCategory": "🇨🇱⚽Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2025-2026",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/yema007/237688816/01.webp"
+        "assets/products/yema007/237688816/01.webp",
+        "assets/products/yema007/237688816/02.webp",
+        "assets/products/yema007/237688816/03.webp",
+        "assets/products/yema007/237688816/04.webp",
+        "assets/products/yema007/237688816/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/e533f467ba/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237688816/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:27:57.815Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T12:45:22.279Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -382448,27 +382586,32 @@
       "categoryId": "876686",
       "collectionId": "876686",
       "sourceCollection": "David jersey",
-      "sourceCategory": "🇨🇱⚽Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2025-2026",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/yema007/237688878/01.webp"
+        "assets/products/yema007/237688878/01.webp",
+        "assets/products/yema007/237688878/02.webp",
+        "assets/products/yema007/237688878/03.webp",
+        "assets/products/yema007/237688878/04.webp",
+        "assets/products/yema007/237688878/05.webp",
+        "assets/products/yema007/237688878/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/30d5844db8/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237688878/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:28:03.625Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T12:44:52.527Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -382686,27 +382829,32 @@
       "categoryId": "876687",
       "collectionId": "876687",
       "sourceCollection": "David jersey",
-      "sourceCategory": "🇨🇱⚽Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2025-2026",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/yema007/237688939/01.webp"
+        "assets/products/yema007/237688939/01.webp",
+        "assets/products/yema007/237688939/02.webp",
+        "assets/products/yema007/237688939/03.webp",
+        "assets/products/yema007/237688939/04.webp",
+        "assets/products/yema007/237688939/05.webp",
+        "assets/products/yema007/237688939/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/9fcffa7184/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237688939/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:28:07.004Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T12:44:23.692Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -382718,27 +382866,32 @@
       "categoryId": "876687",
       "collectionId": "876687",
       "sourceCollection": "David jersey",
-      "sourceCategory": "🇨🇱⚽Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2025-2026",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/yema007/237688930/01.webp"
+        "assets/products/yema007/237688930/01.webp",
+        "assets/products/yema007/237688930/02.webp",
+        "assets/products/yema007/237688930/03.webp",
+        "assets/products/yema007/237688930/04.webp",
+        "assets/products/yema007/237688930/05.webp",
+        "assets/products/yema007/237688930/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/0fb8ae0e0a/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237688930/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:28:06.594Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T12:44:29.301Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -382750,27 +382903,32 @@
       "categoryId": "876687",
       "collectionId": "876687",
       "sourceCollection": "David jersey",
-      "sourceCategory": "🇨🇱⚽Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2025-2026",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/yema007/237688920/01.webp"
+        "assets/products/yema007/237688920/01.webp",
+        "assets/products/yema007/237688920/02.webp",
+        "assets/products/yema007/237688920/03.webp",
+        "assets/products/yema007/237688920/04.webp",
+        "assets/products/yema007/237688920/05.webp",
+        "assets/products/yema007/237688920/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/2d60c83c70/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237688920/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:28:05.877Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T12:44:31.913Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -382782,27 +382940,32 @@
       "categoryId": "876687",
       "collectionId": "876687",
       "sourceCollection": "David jersey",
-      "sourceCategory": "🇨🇱⚽Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2025-2026",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/yema007/237688906/01.webp"
+        "assets/products/yema007/237688906/01.webp",
+        "assets/products/yema007/237688906/02.webp",
+        "assets/products/yema007/237688906/03.webp",
+        "assets/products/yema007/237688906/04.webp",
+        "assets/products/yema007/237688906/05.webp",
+        "assets/products/yema007/237688906/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/366ca88fd6/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237688906/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:28:04.877Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T12:44:39.881Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -382814,27 +382977,32 @@
       "categoryId": "876687",
       "collectionId": "876687",
       "sourceCollection": "David jersey",
-      "sourceCategory": "🇨🇱⚽Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2025-2026",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/yema007/237688894/01.webp"
+        "assets/products/yema007/237688894/01.webp",
+        "assets/products/yema007/237688894/02.webp",
+        "assets/products/yema007/237688894/03.webp",
+        "assets/products/yema007/237688894/04.webp",
+        "assets/products/yema007/237688894/05.webp",
+        "assets/products/yema007/237688894/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/393d0aee88/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237688894/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:28:03.857Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T12:44:40.850Z",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:201099036",
@@ -383064,27 +383232,32 @@
       "categoryId": null,
       "collectionId": "5217438",
       "sourceCollection": "more",
-      "sourceCategory": "🇨🇱⚽Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2025-2026",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/yema007/237689030/01.webp"
+        "assets/products/yema007/237689030/01.webp",
+        "assets/products/yema007/237689030/02.webp",
+        "assets/products/yema007/237689030/03.webp",
+        "assets/products/yema007/237689030/04.webp",
+        "assets/products/yema007/237689030/05.webp",
+        "assets/products/yema007/237689030/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/e0f1342c60/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237689030/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:28:11.992Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T12:44:19.857Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -383690,7 +383863,7 @@
       "categoryId": "876685",
       "collectionId": "876685",
       "sourceCollection": "David jersey",
-      "sourceCategory": "🇨🇱⚽Chilean League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -383701,16 +383874,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/yema007/237688865/01.webp"
+        "assets/products/yema007/237688865/01.webp",
+        "assets/products/yema007/237688865/02.webp",
+        "assets/products/yema007/237688865/03.webp",
+        "assets/products/yema007/237688865/04.webp",
+        "assets/products/yema007/237688865/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/266d8aa8ae/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237688865/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:28:02.248Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T12:44:59.968Z",
       "season": "2025-2026",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -383910,7 +384087,7 @@
       "categoryId": "876685",
       "collectionId": "876685",
       "sourceCollection": "David jersey",
-      "sourceCategory": "🇨🇱⚽Chilean League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -383921,16 +384098,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/yema007/237688873/01.webp"
+        "assets/products/yema007/237688873/01.webp",
+        "assets/products/yema007/237688873/02.webp",
+        "assets/products/yema007/237688873/03.webp",
+        "assets/products/yema007/237688873/04.webp",
+        "assets/products/yema007/237688873/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/f545dca6ba/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237688873/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:28:02.691Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T12:44:50.700Z",
       "season": "2025-2026",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -390391,7 +390572,7 @@
       "categoryId": "876685",
       "collectionId": "876685",
       "sourceCollection": "David jersey",
-      "sourceCategory": "🇨🇱⚽Chilean League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -390402,16 +390583,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/yema007/237643285/01.webp"
+        "assets/products/yema007/237643285/01.webp",
+        "assets/products/yema007/237643285/02.webp",
+        "assets/products/yema007/237643285/03.webp",
+        "assets/products/yema007/237643285/04.webp",
+        "assets/products/yema007/237643285/05.webp",
+        "assets/products/yema007/237643285/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/f24a7faed1/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237643285/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:22:45.766Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T12:47:30.504Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "yema007:254286205",
@@ -650625,10 +650811,10 @@
       "categoryId": null,
       "collectionId": "5217438",
       "sourceCollection": "more",
-      "sourceCategory": "🇵🇹⚽LIGA NOS",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "🇵🇹⚽LIGA NOS",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -650637,15 +650823,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/yema007/237718873/01.webp"
+        "assets/products/yema007/237718873/01.webp",
+        "assets/products/yema007/237718873/02.webp",
+        "assets/products/yema007/237718873/03.webp",
+        "assets/products/yema007/237718873/04.webp",
+        "assets/products/yema007/237718873/05.webp",
+        "assets/products/yema007/237718873/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/d35b1fc1c3/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237718873/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:30:26.242Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T12:43:50.182Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -650657,10 +650848,10 @@
       "categoryId": null,
       "collectionId": "5217438",
       "sourceCollection": "more",
-      "sourceCategory": "🇵🇹⚽LIGA NOS",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "🇵🇹⚽LIGA NOS",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -650669,15 +650860,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/yema007/237706979/01.webp"
+        "assets/products/yema007/237706979/01.webp",
+        "assets/products/yema007/237706979/02.webp",
+        "assets/products/yema007/237706979/03.webp",
+        "assets/products/yema007/237706979/04.webp",
+        "assets/products/yema007/237706979/05.webp",
+        "assets/products/yema007/237706979/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/ecb2c2bd82/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237706979/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:29:57.405Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T12:44:03.827Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -651016,10 +651212,10 @@
       "categoryId": null,
       "collectionId": "5217438",
       "sourceCollection": "more",
-      "sourceCategory": "🇵🇹⚽LIGA NOS",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "🇵🇹⚽LIGA NOS",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -651028,15 +651224,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/yema007/237720421/01.webp"
+        "assets/products/yema007/237720421/01.webp",
+        "assets/products/yema007/237720421/02.webp",
+        "assets/products/yema007/237720421/03.webp",
+        "assets/products/yema007/237720421/04.webp",
+        "assets/products/yema007/237720421/05.webp",
+        "assets/products/yema007/237720421/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/4b0e8bbad2/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237720421/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:30:36.328Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T12:43:29.613Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -976277,7 +976478,7 @@
       "categoryId": "876688",
       "collectionId": "876688",
       "sourceCollection": "David jersey",
-      "sourceCategory": "🇵🇹⚽LIGA NOS",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
       "category": "Clubteams",
       "subcategory": "Primeira Liga",
@@ -976289,15 +976490,19 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/yema007/237716353/01.webp"
+        "assets/products/yema007/237716353/01.webp",
+        "assets/products/yema007/237716353/02.webp",
+        "assets/products/yema007/237716353/03.webp",
+        "assets/products/yema007/237716353/04.webp",
+        "assets/products/yema007/237716353/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/277af0ef50/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237716353/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:30:10.916Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T12:43:43.542Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -976346,7 +976551,7 @@
       "categoryId": "876688",
       "collectionId": "876688",
       "sourceCollection": "David jersey",
-      "sourceCategory": "🇵🇹⚽LIGA NOS",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
       "category": "Clubteams",
       "subcategory": "Primeira Liga",
@@ -976358,15 +976563,20 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/yema007/237715094/01.webp"
+        "assets/products/yema007/237715094/01.webp",
+        "assets/products/yema007/237715094/02.webp",
+        "assets/products/yema007/237715094/03.webp",
+        "assets/products/yema007/237715094/04.webp",
+        "assets/products/yema007/237715094/05.webp",
+        "assets/products/yema007/237715094/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/7df5e3a934/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237715094/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:30:07.208Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T12:43:51.695Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -990083,27 +990293,32 @@
       "categoryId": "876686",
       "collectionId": "876686",
       "sourceCollection": "David jersey",
-      "sourceCategory": "🇨🇱⚽Chilean League",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "country": "",
+      "competition": "",
+      "club": "Overig",
       "season": "2022-2023",
       "types": [
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/yema007/237676147/01.webp"
+        "assets/products/yema007/237676147/01.webp",
+        "assets/products/yema007/237676147/02.webp",
+        "assets/products/yema007/237676147/03.webp",
+        "assets/products/yema007/237676147/04.webp",
+        "assets/products/yema007/237676147/05.webp",
+        "assets/products/yema007/237676147/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/b3e015feb2/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237676147/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:26:08.366Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T12:46:08.295Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -990115,7 +990330,7 @@
       "categoryId": "876685",
       "collectionId": "876685",
       "sourceCollection": "David jersey",
-      "sourceCategory": "🇨🇱⚽Chilean League",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -990126,16 +990341,21 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/yema007/237650857/01.webp"
+        "assets/products/yema007/237650857/01.webp",
+        "assets/products/yema007/237650857/02.webp",
+        "assets/products/yema007/237650857/03.webp",
+        "assets/products/yema007/237650857/04.webp",
+        "assets/products/yema007/237650857/05.webp",
+        "assets/products/yema007/237650857/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/f7243addda/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237650857/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:23:28.792Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T12:46:51.040Z",
       "season": "2022-2023",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -990147,7 +990367,7 @@
       "categoryId": "876685",
       "collectionId": "876685",
       "sourceCollection": "David jersey",
-      "sourceCategory": "🇨🇱⚽Chilean League",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -990158,16 +990378,21 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/yema007/237653019/01.webp"
+        "assets/products/yema007/237653019/01.webp",
+        "assets/products/yema007/237653019/02.webp",
+        "assets/products/yema007/237653019/03.webp",
+        "assets/products/yema007/237653019/04.webp",
+        "assets/products/yema007/237653019/05.webp",
+        "assets/products/yema007/237653019/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/93572dcee2/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237653019/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:23:40.150Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T12:46:44.848Z",
       "season": "2022-2023",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -990179,7 +990404,7 @@
       "categoryId": "876685",
       "collectionId": "876685",
       "sourceCollection": "David jersey",
-      "sourceCategory": "🇨🇱⚽Chilean League",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -990190,16 +990415,20 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/yema007/237644123/01.webp"
+        "assets/products/yema007/237644123/01.webp",
+        "assets/products/yema007/237644123/02.webp",
+        "assets/products/yema007/237644123/03.webp",
+        "assets/products/yema007/237644123/04.webp",
+        "assets/products/yema007/237644123/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/f5b6eaf65a/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237644123/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:22:52.387Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T12:47:12.683Z",
       "season": "2022-2023",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -990275,7 +990504,7 @@
       "categoryId": "876685",
       "collectionId": "876685",
       "sourceCollection": "David jersey",
-      "sourceCategory": "🇨🇱⚽Chilean League",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -990286,16 +990515,21 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/yema007/237658219/01.webp"
+        "assets/products/yema007/237658219/01.webp",
+        "assets/products/yema007/237658219/02.webp",
+        "assets/products/yema007/237658219/03.webp",
+        "assets/products/yema007/237658219/04.webp",
+        "assets/products/yema007/237658219/05.webp",
+        "assets/products/yema007/237658219/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/8a8c4e57e1/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237658219/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:24:13.619Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T12:46:30.235Z",
       "season": "2023-2024",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -990499,27 +990733,32 @@
       "categoryId": "876684",
       "collectionId": "876684",
       "sourceCollection": "David jersey",
-      "sourceCategory": "🇨🇱⚽Chilean League",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "country": "",
+      "competition": "",
+      "club": "Overig",
       "season": "2025-2026",
       "types": [
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/yema007/237716839/01.webp"
+        "assets/products/yema007/237716839/01.webp",
+        "assets/products/yema007/237716839/02.webp",
+        "assets/products/yema007/237716839/03.webp",
+        "assets/products/yema007/237716839/04.webp",
+        "assets/products/yema007/237716839/05.webp",
+        "assets/products/yema007/237716839/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/0a5badf8be/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237716839/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:30:12.156Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T12:44:13.606Z",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "popmo:201111185",
@@ -990583,7 +990822,7 @@
       "categoryId": "876685",
       "collectionId": "876685",
       "sourceCollection": "David jersey",
-      "sourceCategory": "🇨🇱⚽Chilean League",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -990594,16 +990833,21 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/yema007/237716926/01.webp"
+        "assets/products/yema007/237716926/01.webp",
+        "assets/products/yema007/237716926/02.webp",
+        "assets/products/yema007/237716926/03.webp",
+        "assets/products/yema007/237716926/04.webp",
+        "assets/products/yema007/237716926/05.webp",
+        "assets/products/yema007/237716926/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/c4c50d4754/medium.jpg"
       ],
       "coverUrl": "assets/products/yema007/237716926/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T19:30:13.949Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T12:44:05.957Z",
       "season": "2025-2026",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
