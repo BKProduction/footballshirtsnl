@@ -2,12 +2,9 @@
   "version": 7,
   "sources": {
     "407131796": {
-      "run": "2026-10-29",
-      "discoveryComplete": true,
-      "discoveredAlbums": 3815,
-      "categoryIndex": 75,
-      "categoryTotal": 75,
-      "updatedAt": "2026-10-29T15:04:17.527Z"
+      "run": "2026-10-30",
+      "nextIndex": 100,
+      "total": 3815
     },
     "minkang": {
       "run": "2026-10-30",
@@ -289,6 +286,24 @@
   },
   "lastCompletedIncrementalRun": "2026-10-29",
   "deadCategories": {
+    "407131796": [
+      "https://407131796.x.yupoo.com/categories/285587",
+      "https://407131796.x.yupoo.com/categories/52403",
+      "https://407131796.x.yupoo.com/categories/503502",
+      "https://407131796.x.yupoo.com/categories/67298",
+      "https://407131796.x.yupoo.com/categories/67297",
+      "https://407131796.x.yupoo.com/categories/285586",
+      "https://407131796.x.yupoo.com/categories/67284",
+      "https://407131796.x.yupoo.com/categories/67293",
+      "https://407131796.x.yupoo.com/categories/67294",
+      "https://407131796.x.yupoo.com/categories/273351",
+      "https://407131796.x.yupoo.com/categories/67287",
+      "https://407131796.x.yupoo.com/categories/67290",
+      "https://407131796.x.yupoo.com/categories/50578",
+      "https://407131796.x.yupoo.com/categories/50577",
+      "https://407131796.x.yupoo.com/categories/67291",
+      "https://407131796.x.yupoo.com/categories/50472"
+    ],
     "minkang": [
       "https://minkang.x.yupoo.com/categories/724819",
       "https://minkang.x.yupoo.com/categories/724821",
