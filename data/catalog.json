@@ -1,5 +1,5 @@
 {
-  "lastSync": "2026-10-30T15:28:15.644Z",
+  "lastSync": "2026-10-30T15:33:17.866Z",
   "status": "running",
   "currentSource": "popmo",
   "products": [
@@ -57966,7 +57966,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Bundesliga",
@@ -57978,15 +57978,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/251478627/01.webp"
+        "assets/products/popmo/251478627/01.webp",
+        "assets/products/popmo/251478627/02.webp",
+        "assets/products/popmo/251478627/03.webp",
+        "assets/products/popmo/251478627/04.webp",
+        "assets/products/popmo/251478627/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/2d750d3072/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/251478627/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:13:44.711Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:30:41.778Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -63223,7 +63227,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Bundesliga",
@@ -63235,15 +63239,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/219336571/01.webp"
+        "assets/products/popmo/219336571/01.webp",
+        "assets/products/popmo/219336571/02.webp",
+        "assets/products/popmo/219336571/03.webp",
+        "assets/products/popmo/219336571/04.webp",
+        "assets/products/popmo/219336571/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/7870f6c9/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/219336571/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:03:04.411Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:33:02.588Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -64814,7 +64822,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Bundesliga",
@@ -64826,15 +64834,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/231035350/01.webp"
+        "assets/products/popmo/231035350/01.webp",
+        "assets/products/popmo/231035350/02.webp",
+        "assets/products/popmo/231035350/03.webp",
+        "assets/products/popmo/231035350/04.webp",
+        "assets/products/popmo/231035350/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/cf071b4d/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/231035350/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:04:30.768Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:31:54.065Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -65582,7 +65594,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Bundesliga",
@@ -65594,15 +65606,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/241611883/01.webp"
+        "assets/products/popmo/241611883/01.webp",
+        "assets/products/popmo/241611883/02.webp",
+        "assets/products/popmo/241611883/03.webp",
+        "assets/products/popmo/241611883/04.webp",
+        "assets/products/popmo/241611883/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/fcc9e21b72/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/241611883/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:07:21.888Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:30:29.266Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -68385,27 +68401,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Germany",
-      "country": "Germany",
-      "competition": "Landenteams",
-      "club": "Germany",
-      "season": "2026-2027",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/248920276/01.webp"
+        "assets/products/popmo/248920276/01.webp",
+        "assets/products/popmo/248920276/02.webp",
+        "assets/products/popmo/248920276/03.webp",
+        "assets/products/popmo/248920276/04.webp",
+        "assets/products/popmo/248920276/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/94a8a86179/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/248920276/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:11:31.280Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:29:12.820Z",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "yema007:251707316",
@@ -68448,27 +68468,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Germany",
-      "country": "Germany",
-      "competition": "Landenteams",
-      "club": "Germany",
-      "season": "2026-2027",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/236606329/01.webp"
+        "assets/products/popmo/236606329/01.webp",
+        "assets/products/popmo/236606329/02.webp",
+        "assets/products/popmo/236606329/03.webp",
+        "assets/products/popmo/236606329/04.webp",
+        "assets/products/popmo/236606329/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/201cf79a3c/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/236606329/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:06:05.752Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:31:00.350Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -68517,27 +68541,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Germany",
-      "country": "Germany",
-      "competition": "Landenteams",
-      "club": "Germany",
-      "season": "2026-2027",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/253462941/01.webp"
+        "assets/products/popmo/253462941/01.webp",
+        "assets/products/popmo/253462941/02.webp",
+        "assets/products/popmo/253462941/03.webp",
+        "assets/products/popmo/253462941/04.webp",
+        "assets/products/popmo/253462941/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/4e77ca7cbd/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/253462941/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:14:09.316Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:29:09.223Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -69955,7 +69983,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Bundesliga",
@@ -69967,15 +69995,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/220153958/01.webp"
+        "assets/products/popmo/220153958/01.webp",
+        "assets/products/popmo/220153958/02.webp",
+        "assets/products/popmo/220153958/03.webp",
+        "assets/products/popmo/220153958/04.webp",
+        "assets/products/popmo/220153958/05.webp",
+        "assets/products/popmo/220153958/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/e2b2ee9b/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/220153958/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:03:10.592Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T15:32:50.905Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -69987,7 +70020,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Bundesliga",
@@ -69999,15 +70032,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/227831848/01.webp"
+        "assets/products/popmo/227831848/01.webp",
+        "assets/products/popmo/227831848/02.webp",
+        "assets/products/popmo/227831848/03.webp",
+        "assets/products/popmo/227831848/04.webp",
+        "assets/products/popmo/227831848/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/e06ef5f2/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/227831848/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:03:59.565Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:32:09.820Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -70588,7 +70625,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Bundesliga",
@@ -70600,15 +70637,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/236291582/01.webp"
+        "assets/products/popmo/236291582/01.webp",
+        "assets/products/popmo/236291582/02.webp",
+        "assets/products/popmo/236291582/03.webp",
+        "assets/products/popmo/236291582/04.webp",
+        "assets/products/popmo/236291582/05.webp",
+        "assets/products/popmo/236291582/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/33b2a07a0a/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/236291582/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:06:03.506Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T15:29:50.821Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -70860,7 +70902,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Bundesliga",
@@ -70872,15 +70914,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/239019217/01.webp"
+        "assets/products/popmo/239019217/01.webp",
+        "assets/products/popmo/239019217/02.webp",
+        "assets/products/popmo/239019217/03.webp",
+        "assets/products/popmo/239019217/04.webp",
+        "assets/products/popmo/239019217/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/5afc772bdd/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/239019217/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:06:36.244Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:30:55.487Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -71598,27 +71644,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Germany",
-      "country": "Germany",
-      "competition": "Landenteams",
-      "club": "Germany",
-      "season": "2026-2027",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/239987560/01.webp"
+        "assets/products/popmo/239987560/01.webp",
+        "assets/products/popmo/239987560/02.webp",
+        "assets/products/popmo/239987560/03.webp",
+        "assets/products/popmo/239987560/04.webp",
+        "assets/products/popmo/239987560/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/a6a119cec1/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/239987560/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:06:57.979Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:30:30.609Z",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "yema007:253424341",
@@ -71661,27 +71711,32 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Germany",
-      "country": "Germany",
-      "competition": "Landenteams",
-      "club": "Germany",
-      "season": "2026-2027",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/232475563/01.webp"
+        "assets/products/popmo/232475563/01.webp",
+        "assets/products/popmo/232475563/02.webp",
+        "assets/products/popmo/232475563/03.webp",
+        "assets/products/popmo/232475563/04.webp",
+        "assets/products/popmo/232475563/05.webp",
+        "assets/products/popmo/232475563/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/5a261f6ef6/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/232475563/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:04:43.079Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T15:31:46.594Z",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "yema007:251707311",
@@ -359786,7 +359841,7 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Super Lig",
@@ -359798,15 +359853,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/popmo/243438673/01.webp"
+        "assets/products/popmo/243438673/01.webp",
+        "assets/products/popmo/243438673/02.webp",
+        "assets/products/popmo/243438673/03.webp",
+        "assets/products/popmo/243438673/04.webp",
+        "assets/products/popmo/243438673/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/a6df0802b9/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/243438673/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:08:14.764Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:29:51.457Z",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "yema007:253425501",
@@ -417140,27 +417199,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Germany",
-      "country": "Germany",
-      "competition": "Landenteams",
-      "club": "Germany",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/219455326/01.webp"
+        "assets/products/popmo/219455326/01.webp",
+        "assets/products/popmo/219455326/02.webp",
+        "assets/products/popmo/219455326/03.webp",
+        "assets/products/popmo/219455326/04.webp",
+        "assets/products/popmo/219455326/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/e2c62f7c/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/219455326/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:03:05.517Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:32:57.010Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -417364,27 +417427,32 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Germany",
-      "country": "Germany",
-      "competition": "Landenteams",
-      "club": "Germany",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/218128765/01.webp"
+        "assets/products/popmo/218128765/01.webp",
+        "assets/products/popmo/218128765/02.webp",
+        "assets/products/popmo/218128765/03.webp",
+        "assets/products/popmo/218128765/04.webp",
+        "assets/products/popmo/218128765/05.webp",
+        "assets/products/popmo/218128765/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/f99f8b99/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/218128765/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:02:31.856Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T15:33:17.866Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -417492,27 +417560,32 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Germany",
-      "country": "Germany",
-      "competition": "Landenteams",
-      "club": "Germany",
-      "season": "2025-2026",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/218134878/01.webp"
+        "assets/products/popmo/218134878/01.webp",
+        "assets/products/popmo/218134878/02.webp",
+        "assets/products/popmo/218134878/03.webp",
+        "assets/products/popmo/218134878/04.webp",
+        "assets/products/popmo/218134878/05.webp",
+        "assets/products/popmo/218134878/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/17415e20/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/218134878/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:02:35.703Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T15:33:15.712Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -417994,27 +418067,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Germany",
-      "country": "Germany",
-      "competition": "Landenteams",
-      "club": "Germany",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/218994888/01.webp"
+        "assets/products/popmo/218994888/01.webp",
+        "assets/products/popmo/218994888/02.webp",
+        "assets/products/popmo/218994888/03.webp",
+        "assets/products/popmo/218994888/04.webp",
+        "assets/products/popmo/218994888/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/b324021e/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/218994888/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:02:53.984Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:33:06.948Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -418090,27 +418167,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Germany",
-      "country": "Germany",
-      "competition": "Landenteams",
-      "club": "Germany",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/221595562/01.webp"
+        "assets/products/popmo/221595562/01.webp",
+        "assets/products/popmo/221595562/02.webp",
+        "assets/products/popmo/221595562/03.webp",
+        "assets/products/popmo/221595562/04.webp",
+        "assets/products/popmo/221595562/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/71a36ec8/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/221595562/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:03:22.864Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:32:48.651Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -418186,27 +418267,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Germany",
-      "country": "Germany",
-      "competition": "Landenteams",
-      "club": "Germany",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/224292090/01.webp"
+        "assets/products/popmo/224292090/01.webp",
+        "assets/products/popmo/224292090/02.webp",
+        "assets/products/popmo/224292090/03.webp",
+        "assets/products/popmo/224292090/04.webp",
+        "assets/products/popmo/224292090/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/1f52f309/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/224292090/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:03:34.370Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:32:40.116Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -418250,27 +418335,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Germany",
-      "country": "Germany",
-      "competition": "Landenteams",
-      "club": "Germany",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/224854336/01.webp"
+        "assets/products/popmo/224854336/01.webp",
+        "assets/products/popmo/224854336/02.webp",
+        "assets/products/popmo/224854336/03.webp",
+        "assets/products/popmo/224854336/04.webp",
+        "assets/products/popmo/224854336/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/be6e0168/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/224854336/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:03:39.412Z",
-      "season": "2025-2026",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:32:39.235Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -418870,27 +418959,32 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Germany",
-      "country": "Germany",
-      "competition": "Landenteams",
-      "club": "Germany",
-      "season": "2026-2027",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/243063406/01.webp"
+        "assets/products/popmo/243063406/01.webp",
+        "assets/products/popmo/243063406/02.webp",
+        "assets/products/popmo/243063406/03.webp",
+        "assets/products/popmo/243063406/04.webp",
+        "assets/products/popmo/243063406/05.webp",
+        "assets/products/popmo/243063406/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/79456a428c/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/243063406/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:07:56.179Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T15:30:22.950Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -418902,27 +418996,32 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Germany",
-      "country": "Germany",
-      "competition": "Landenteams",
-      "club": "Germany",
-      "season": "2026-2027",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/236291378/01.webp"
+        "assets/products/popmo/236291378/01.webp",
+        "assets/products/popmo/236291378/02.webp",
+        "assets/products/popmo/236291378/03.webp",
+        "assets/products/popmo/236291378/04.webp",
+        "assets/products/popmo/236291378/05.webp",
+        "assets/products/popmo/236291378/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/30f2de6dec/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/236291378/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:06:02.366Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T15:31:08.965Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -419007,27 +419106,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Germany",
-      "country": "Germany",
-      "competition": "Landenteams",
-      "club": "Germany",
-      "season": "2026-2027",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/223029267/01.webp"
+        "assets/products/popmo/223029267/01.webp",
+        "assets/products/popmo/223029267/02.webp",
+        "assets/products/popmo/223029267/03.webp",
+        "assets/products/popmo/223029267/04.webp",
+        "assets/products/popmo/223029267/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/5bf3f9cf/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/223029267/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:03:26.482Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:30:17.202Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -419039,27 +419142,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Germany",
-      "country": "Germany",
-      "competition": "Landenteams",
-      "club": "Germany",
-      "season": "2026-2027",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/239547552/01.webp"
+        "assets/products/popmo/239547552/01.webp",
+        "assets/products/popmo/239547552/02.webp",
+        "assets/products/popmo/239547552/03.webp",
+        "assets/products/popmo/239547552/04.webp",
+        "assets/products/popmo/239547552/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/54a5e8c188/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/239547552/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:06:49.647Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:30:12.671Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -419071,27 +419178,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Germany",
-      "country": "Germany",
-      "competition": "Landenteams",
-      "club": "Germany",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/248428519/01.webp"
+        "assets/products/popmo/248428519/01.webp",
+        "assets/products/popmo/248428519/02.webp",
+        "assets/products/popmo/248428519/03.webp",
+        "assets/products/popmo/248428519/04.webp",
+        "assets/products/popmo/248428519/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/fff5252dfb/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/248428519/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:11:18.428Z",
-      "season": "2026-2027",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:29:22.783Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -419103,27 +419214,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Germany",
-      "country": "Germany",
-      "competition": "Landenteams",
-      "club": "Germany",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/248428408/01.webp"
+        "assets/products/popmo/248428408/01.webp",
+        "assets/products/popmo/248428408/02.webp",
+        "assets/products/popmo/248428408/03.webp",
+        "assets/products/popmo/248428408/04.webp",
+        "assets/products/popmo/248428408/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/1b0a782f64/medium.png"
       ],
       "coverUrl": "assets/products/popmo/248428408/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:11:18.197Z",
-      "season": "2026-2027",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:29:31.161Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -419135,27 +419250,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Germany",
-      "country": "Germany",
-      "competition": "Landenteams",
-      "club": "Germany",
-      "season": "2026-2027",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/236147010/01.webp"
+        "assets/products/popmo/236147010/01.webp",
+        "assets/products/popmo/236147010/02.webp",
+        "assets/products/popmo/236147010/03.webp",
+        "assets/products/popmo/236147010/04.webp",
+        "assets/products/popmo/236147010/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/d2add06d29/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/236147010/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:05:55.479Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:31:09.209Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -419167,27 +419286,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Germany",
-      "country": "Germany",
-      "competition": "Landenteams",
-      "club": "Germany",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/248428668/01.webp"
+        "assets/products/popmo/248428668/01.webp",
+        "assets/products/popmo/248428668/02.webp",
+        "assets/products/popmo/248428668/03.webp",
+        "assets/products/popmo/248428668/04.webp",
+        "assets/products/popmo/248428668/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/7fae57be28/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/248428668/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:11:19.321Z",
-      "season": "2026-2027",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:29:19.597Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -419199,27 +419322,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Germany",
-      "country": "Germany",
-      "competition": "Landenteams",
-      "club": "Germany",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/224855171/01.webp"
+        "assets/products/popmo/224855171/01.webp",
+        "assets/products/popmo/224855171/02.webp",
+        "assets/products/popmo/224855171/03.webp",
+        "assets/products/popmo/224855171/04.webp",
+        "assets/products/popmo/224855171/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/3d3ca744/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/224855171/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:03:40.159Z",
-      "season": "2026-2027",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:32:32.048Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -419815,27 +419942,32 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Germany",
-      "country": "Germany",
-      "competition": "Landenteams",
-      "club": "Germany",
-      "season": "2026-2027",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/247684332/01.webp"
+        "assets/products/popmo/247684332/01.webp",
+        "assets/products/popmo/247684332/02.webp",
+        "assets/products/popmo/247684332/03.webp",
+        "assets/products/popmo/247684332/04.webp",
+        "assets/products/popmo/247684332/05.webp",
+        "assets/products/popmo/247684332/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/c3d76c6582/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/247684332/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:10:48.330Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T15:28:25.695Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -419847,27 +419979,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Germany",
-      "country": "Germany",
-      "competition": "Landenteams",
-      "club": "Germany",
-      "season": "2026-2027",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/227068850/01.webp"
+        "assets/products/popmo/227068850/01.webp",
+        "assets/products/popmo/227068850/02.webp",
+        "assets/products/popmo/227068850/03.webp",
+        "assets/products/popmo/227068850/04.webp",
+        "assets/products/popmo/227068850/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/63446222/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/227068850/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:03:52.657Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:28:59.562Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -419879,27 +420015,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Germany",
-      "country": "Germany",
-      "competition": "Landenteams",
-      "club": "Germany",
-      "season": "2026-2027",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/236404035/01.webp"
+        "assets/products/popmo/236404035/01.webp",
+        "assets/products/popmo/236404035/02.webp",
+        "assets/products/popmo/236404035/03.webp",
+        "assets/products/popmo/236404035/04.webp",
+        "assets/products/popmo/236404035/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/fffa4234ea/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/236404035/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:06:05.789Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:28:33.765Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -419911,27 +420051,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Germany",
-      "country": "Germany",
-      "competition": "Landenteams",
-      "club": "Germany",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/253460815/01.webp"
+        "assets/products/popmo/253460815/01.webp",
+        "assets/products/popmo/253460815/02.webp",
+        "assets/products/popmo/253460815/03.webp",
+        "assets/products/popmo/253460815/04.webp",
+        "assets/products/popmo/253460815/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/3a404db25a/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/253460815/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:14:07.198Z",
-      "season": "2026-2027",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:28:42.802Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -419943,27 +420087,32 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Germany",
-      "country": "Germany",
-      "competition": "Landenteams",
-      "club": "Germany",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/233122430/01.webp"
+        "assets/products/popmo/233122430/01.webp",
+        "assets/products/popmo/233122430/02.webp",
+        "assets/products/popmo/233122430/03.webp",
+        "assets/products/popmo/233122430/04.webp",
+        "assets/products/popmo/233122430/05.webp",
+        "assets/products/popmo/233122430/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/6bc2500e9a/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/233122430/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:04:56.009Z",
-      "season": "2026-2027",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T15:31:44.354Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -419975,27 +420124,32 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Germany",
-      "country": "Germany",
-      "competition": "Landenteams",
-      "club": "Germany",
-      "season": "2026-2027",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/246857781/01.webp"
+        "assets/products/popmo/246857781/01.webp",
+        "assets/products/popmo/246857781/02.webp",
+        "assets/products/popmo/246857781/03.webp",
+        "assets/products/popmo/246857781/04.webp",
+        "assets/products/popmo/246857781/05.webp",
+        "assets/products/popmo/246857781/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/c1d8217507/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/246857781/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:10:16.029Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T15:28:56.360Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -420043,27 +420197,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Germany",
-      "country": "Germany",
-      "competition": "Landenteams",
-      "club": "Germany",
-      "season": "2026-2027",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/247367463/01.webp"
+        "assets/products/popmo/247367463/01.webp",
+        "assets/products/popmo/247367463/02.webp",
+        "assets/products/popmo/247367463/03.webp",
+        "assets/products/popmo/247367463/04.webp",
+        "assets/products/popmo/247367463/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/967bd5b08a/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/247367463/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:10:37.923Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:29:32.310Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -420075,27 +420233,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Germany",
-      "country": "Germany",
-      "competition": "Landenteams",
-      "club": "Germany",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/248919861/01.webp"
+        "assets/products/popmo/248919861/01.webp",
+        "assets/products/popmo/248919861/02.webp",
+        "assets/products/popmo/248919861/03.webp",
+        "assets/products/popmo/248919861/04.webp",
+        "assets/products/popmo/248919861/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/199509a3fc/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/248919861/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:11:30.506Z",
-      "season": "2026-2027",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:30:04.594Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -420144,27 +420306,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Germany",
-      "country": "Germany",
-      "competition": "Landenteams",
-      "club": "Germany",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/227647025/01.webp"
+        "assets/products/popmo/227647025/01.webp",
+        "assets/products/popmo/227647025/02.webp",
+        "assets/products/popmo/227647025/03.webp",
+        "assets/products/popmo/227647025/04.webp",
+        "assets/products/popmo/227647025/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/178461e6/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/227647025/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:03:54.863Z",
-      "season": "2026-2027",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:32:28.955Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -420176,27 +420342,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Germany",
-      "country": "Germany",
-      "competition": "Landenteams",
-      "club": "Germany",
-      "season": "2026-2027",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/239548259/01.webp"
+        "assets/products/popmo/239548259/01.webp",
+        "assets/products/popmo/239548259/02.webp",
+        "assets/products/popmo/239548259/03.webp",
+        "assets/products/popmo/239548259/04.webp",
+        "assets/products/popmo/239548259/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/2b615fd0b9/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/239548259/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:06:50.843Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:30:36.492Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -420316,27 +420486,32 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Germany",
-      "country": "Germany",
-      "competition": "Landenteams",
-      "club": "Germany",
-      "season": "2026-2027",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/254357315/01.webp"
+        "assets/products/popmo/254357315/01.webp",
+        "assets/products/popmo/254357315/02.webp",
+        "assets/products/popmo/254357315/03.webp",
+        "assets/products/popmo/254357315/04.webp",
+        "assets/products/popmo/254357315/05.webp",
+        "assets/products/popmo/254357315/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/95055ff753/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/254357315/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:14:38.723Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T15:31:22.042Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -420348,27 +420523,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Germany",
-      "country": "Germany",
-      "competition": "Landenteams",
-      "club": "Germany",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/249821760/01.webp"
+        "assets/products/popmo/249821760/01.webp",
+        "assets/products/popmo/249821760/02.webp",
+        "assets/products/popmo/249821760/03.webp",
+        "assets/products/popmo/249821760/04.webp",
+        "assets/products/popmo/249821760/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/6045ac76bd/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/249821760/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:12:30.693Z",
-      "season": "2026-2027",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:29:42.719Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -420380,27 +420559,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Germany",
-      "country": "Germany",
-      "competition": "Landenteams",
-      "club": "Germany",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/246463780/01.webp"
+        "assets/products/popmo/246463780/01.webp",
+        "assets/products/popmo/246463780/02.webp",
+        "assets/products/popmo/246463780/03.webp",
+        "assets/products/popmo/246463780/04.webp",
+        "assets/products/popmo/246463780/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/63a3fd3b78/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/246463780/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:10:12.019Z",
-      "season": "2026-2027",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:29:41.725Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -420484,27 +420667,32 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Germany",
-      "country": "Germany",
-      "competition": "Landenteams",
-      "club": "Germany",
-      "season": "2026-2027",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/239144526/01.webp"
+        "assets/products/popmo/239144526/01.webp",
+        "assets/products/popmo/239144526/02.webp",
+        "assets/products/popmo/239144526/03.webp",
+        "assets/products/popmo/239144526/04.webp",
+        "assets/products/popmo/239144526/05.webp",
+        "assets/products/popmo/239144526/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/ae969e6c14/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/239144526/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:06:37.713Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T15:30:45.323Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -427485,27 +427673,32 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Germany",
-      "country": "Germany",
-      "competition": "Landenteams",
-      "club": "Germany",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/228270135/01.webp"
+        "assets/products/popmo/228270135/01.webp",
+        "assets/products/popmo/228270135/02.webp",
+        "assets/products/popmo/228270135/03.webp",
+        "assets/products/popmo/228270135/04.webp",
+        "assets/products/popmo/228270135/05.webp",
+        "assets/products/popmo/228270135/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/7322105d/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/228270135/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:04:05.818Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T15:32:12.332Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -427517,27 +427710,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Germany",
-      "country": "Germany",
-      "competition": "Landenteams",
-      "club": "Germany",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/228849510/01.webp"
+        "assets/products/popmo/228849510/01.webp",
+        "assets/products/popmo/228849510/02.webp",
+        "assets/products/popmo/228849510/03.webp",
+        "assets/products/popmo/228849510/04.webp",
+        "assets/products/popmo/228849510/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/c392f7fc/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/228849510/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:04:13.816Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:31:55.276Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -427834,27 +428031,31 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Germany",
-      "country": "Germany",
-      "competition": "Landenteams",
-      "club": "Germany",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/224855208/01.webp"
+        "assets/products/popmo/224855208/01.webp",
+        "assets/products/popmo/224855208/02.webp",
+        "assets/products/popmo/224855208/03.webp",
+        "assets/products/popmo/224855208/04.webp",
+        "assets/products/popmo/224855208/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/af8a8a03/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/224855208/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:03:40.608Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T15:32:23.027Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -427866,27 +428067,32 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Germany",
-      "country": "Germany",
-      "competition": "Landenteams",
-      "club": "Germany",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/234113061/01.webp"
+        "assets/products/popmo/234113061/01.webp",
+        "assets/products/popmo/234113061/02.webp",
+        "assets/products/popmo/234113061/03.webp",
+        "assets/products/popmo/234113061/04.webp",
+        "assets/products/popmo/234113061/05.webp",
+        "assets/products/popmo/234113061/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/4a66f0e21f/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/234113061/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:05:14.749Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T15:31:36.697Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -427898,27 +428104,32 @@
       "categoryId": null,
       "collectionId": "4911752",
       "sourceCollection": "more",
-      "sourceCategory": "Germany Bundesliga jerseys",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Germany",
-      "country": "Germany",
-      "competition": "Landenteams",
-      "club": "Germany",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/popmo/234115085/01.webp"
+        "assets/products/popmo/234115085/01.webp",
+        "assets/products/popmo/234115085/02.webp",
+        "assets/products/popmo/234115085/03.webp",
+        "assets/products/popmo/234115085/04.webp",
+        "assets/products/popmo/234115085/05.webp",
+        "assets/products/popmo/234115085/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/8e98f2c8ba/medium.jpeg"
       ],
       "coverUrl": "assets/products/popmo/234115085/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:05:15.219Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T15:31:26.818Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -787884,16 +788095,21 @@
         "Overig"
       ],
       "images": [
-        "assets/products/popmo/221002462/01.webp"
+        "assets/products/popmo/221002462/01.webp",
+        "assets/products/popmo/221002462/02.webp",
+        "assets/products/popmo/221002462/03.webp",
+        "assets/products/popmo/221002462/04.webp",
+        "assets/products/popmo/221002462/05.webp",
+        "assets/products/popmo/221002462/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/popmo/69dffd25/medium.jpg"
       ],
       "coverUrl": "assets/products/popmo/221002462/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T20:03:14.105Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T15:28:41.394Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
