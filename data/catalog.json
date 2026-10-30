@@ -1,5 +1,5 @@
 {
-  "lastSync": "2026-10-30T01:38:32.105Z",
+  "lastSync": "2026-10-30T01:43:24.905Z",
   "status": "running",
   "currentSource": "minkang",
   "products": [
@@ -100086,7 +100086,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Eredivisie",
@@ -100097,16 +100097,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/229900566/01.webp"
+        "assets/products/minkang/229900566/01.webp",
+        "assets/products/minkang/229900566/02.webp",
+        "assets/products/minkang/229900566/03.webp",
+        "assets/products/minkang/229900566/04.webp",
+        "assets/products/minkang/229900566/05.webp",
+        "assets/products/minkang/229900566/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/9c45fefe/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/229900566/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:47:58.520Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:40:17.406Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "yema007:237651094",
@@ -296172,7 +296177,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Primeira Liga",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Primeira Liga",
@@ -296184,15 +296189,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/215413548/01.webp"
+        "assets/products/minkang/215413548/01.webp",
+        "assets/products/minkang/215413548/02.webp",
+        "assets/products/minkang/215413548/03.webp",
+        "assets/products/minkang/215413548/04.webp",
+        "assets/products/minkang/215413548/05.webp",
+        "assets/products/minkang/215413548/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/c93fbe7a/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/215413548/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:44:25.577Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:39:00.840Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -301588,7 +301598,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Primeira Liga",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Primeira Liga",
@@ -301600,22 +301610,27 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/216481201/01.webp"
+        "assets/products/minkang/216481201/01.webp",
+        "assets/products/minkang/216481201/02.webp",
+        "assets/products/minkang/216481201/03.webp",
+        "assets/products/minkang/216481201/04.webp",
+        "assets/products/minkang/216481201/05.webp",
+        "assets/products/minkang/216481201/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/4707d2a5/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/216481201/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:44:42.818Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:38:48.013Z",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "minkang:216481195",
       "source": "minkang",
       "sourceId": "216481195",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/216481195",
-      "sourceCategory": "Primeira Liga",
+      "sourceCategory": "more",
       "title": "Porto 25/26 Special Edition Jerseys S-XXL7",
       "section": "Voetbal",
       "category": "Clubteams",
@@ -301628,13 +301643,18 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/216481195/01.webp"
+        "assets/products/minkang/216481195/01.webp",
+        "assets/products/minkang/216481195/02.webp",
+        "assets/products/minkang/216481195/03.webp",
+        "assets/products/minkang/216481195/04.webp",
+        "assets/products/minkang/216481195/05.webp",
+        "assets/products/minkang/216481195/06.webp"
       ],
       "coverUrl": "assets/products/minkang/216481195/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:44:42.328Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:38:50.459Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -372667,7 +372687,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -372678,16 +372698,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/255628304/01.webp"
+        "assets/products/minkang/255628304/01.webp",
+        "assets/products/minkang/255628304/02.webp",
+        "assets/products/minkang/255628304/03.webp",
+        "assets/products/minkang/255628304/04.webp",
+        "assets/products/minkang/255628304/05.webp",
+        "assets/products/minkang/255628304/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/d6c90de6aa/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/255628304/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:58:42.076Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:39:10.014Z",
       "season": "2016-2017",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -377506,27 +377531,32 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2025-2026",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/minkang/215945420/01.webp"
+        "assets/products/minkang/215945420/01.webp",
+        "assets/products/minkang/215945420/02.webp",
+        "assets/products/minkang/215945420/03.webp",
+        "assets/products/minkang/215945420/04.webp",
+        "assets/products/minkang/215945420/05.webp",
+        "assets/products/minkang/215945420/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/31f95500/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/215945420/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:44:34.527Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:41:53.026Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -377538,27 +377568,32 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2025-2026",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/minkang/212700636/01.webp"
+        "assets/products/minkang/212700636/01.webp",
+        "assets/products/minkang/212700636/02.webp",
+        "assets/products/minkang/212700636/03.webp",
+        "assets/products/minkang/212700636/04.webp",
+        "assets/products/minkang/212700636/05.webp",
+        "assets/products/minkang/212700636/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/8c8ca9ba/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/212700636/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:43:01.262Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:42:51.199Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -377570,27 +377605,32 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2025-2026",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/minkang/215945906/01.webp"
+        "assets/products/minkang/215945906/01.webp",
+        "assets/products/minkang/215945906/02.webp",
+        "assets/products/minkang/215945906/03.webp",
+        "assets/products/minkang/215945906/04.webp",
+        "assets/products/minkang/215945906/05.webp",
+        "assets/products/minkang/215945906/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/6c909d19/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/215945906/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:44:35.566Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:41:44.052Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -378491,53 +378531,63 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2026-2027",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/minkang/224148467/01.webp"
+        "assets/products/minkang/224148467/01.webp",
+        "assets/products/minkang/224148467/02.webp",
+        "assets/products/minkang/224148467/03.webp",
+        "assets/products/minkang/224148467/04.webp",
+        "assets/products/minkang/224148467/05.webp",
+        "assets/products/minkang/224148467/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/bdb08603/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/224148467/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:46:57.390Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:41:06.270Z",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "minkang:226512147",
       "source": "minkang",
       "sourceId": "226512147",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/226512147",
-      "sourceCategory": "Chilean League",
+      "sourceCategory": "more",
       "title": "Colo Colo 26/27 Away Jersey S-4XL8",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "club": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "season": "2026-2027",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "club": "",
+      "country": "",
+      "competition": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/minkang/226512147/01.webp"
+        "assets/products/minkang/226512147/01.webp",
+        "assets/products/minkang/226512147/02.webp",
+        "assets/products/minkang/226512147/03.webp",
+        "assets/products/minkang/226512147/04.webp",
+        "assets/products/minkang/226512147/05.webp",
+        "assets/products/minkang/226512147/06.webp"
       ],
       "coverUrl": "assets/products/minkang/226512147/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:47:13.629Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:40:53.834Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -378549,27 +378599,32 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2026-2027",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/minkang/229204084/01.webp"
+        "assets/products/minkang/229204084/01.webp",
+        "assets/products/minkang/229204084/02.webp",
+        "assets/products/minkang/229204084/03.webp",
+        "assets/products/minkang/229204084/04.webp",
+        "assets/products/minkang/229204084/05.webp",
+        "assets/products/minkang/229204084/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/3d6bbb2b/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/229204084/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:47:43.078Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:40:31.836Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -378581,27 +378636,32 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2026-2027",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/minkang/230750916/01.webp"
+        "assets/products/minkang/230750916/01.webp",
+        "assets/products/minkang/230750916/02.webp",
+        "assets/products/minkang/230750916/03.webp",
+        "assets/products/minkang/230750916/04.webp",
+        "assets/products/minkang/230750916/05.webp",
+        "assets/products/minkang/230750916/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/d40bfb38/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/230750916/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:48:06.804Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:39:31.744Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -378613,27 +378673,32 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2026-2027",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/minkang/230750861/01.webp"
+        "assets/products/minkang/230750861/01.webp",
+        "assets/products/minkang/230750861/02.webp",
+        "assets/products/minkang/230750861/03.webp",
+        "assets/products/minkang/230750861/04.webp",
+        "assets/products/minkang/230750861/05.webp",
+        "assets/products/minkang/230750861/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/99085a38/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/230750861/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:48:06.905Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:39:36.300Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -378645,27 +378710,32 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2026-2027",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/minkang/230750806/01.webp"
+        "assets/products/minkang/230750806/01.webp",
+        "assets/products/minkang/230750806/02.webp",
+        "assets/products/minkang/230750806/03.webp",
+        "assets/products/minkang/230750806/04.webp",
+        "assets/products/minkang/230750806/05.webp",
+        "assets/products/minkang/230750806/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/8a3ac2c7/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/230750806/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:48:05.703Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:39:37.518Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -378677,27 +378747,32 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2026-2027",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/minkang/222820747/01.webp"
+        "assets/products/minkang/222820747/01.webp",
+        "assets/products/minkang/222820747/02.webp",
+        "assets/products/minkang/222820747/03.webp",
+        "assets/products/minkang/222820747/04.webp",
+        "assets/products/minkang/222820747/05.webp",
+        "assets/products/minkang/222820747/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/968fbad9/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/222820747/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:46:14.201Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:41:17.157Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -378709,27 +378784,32 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2026-2027",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/minkang/226512196/01.webp"
+        "assets/products/minkang/226512196/01.webp",
+        "assets/products/minkang/226512196/02.webp",
+        "assets/products/minkang/226512196/03.webp",
+        "assets/products/minkang/226512196/04.webp",
+        "assets/products/minkang/226512196/05.webp",
+        "assets/products/minkang/226512196/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/aaa504f3/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/226512196/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:47:14.062Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:40:53.573Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -378815,27 +378895,32 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2026-2027",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/minkang/236326956/01.webp"
+        "assets/products/minkang/236326956/01.webp",
+        "assets/products/minkang/236326956/02.webp",
+        "assets/products/minkang/236326956/03.webp",
+        "assets/products/minkang/236326956/04.webp",
+        "assets/products/minkang/236326956/05.webp",
+        "assets/products/minkang/236326956/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/4814d7e6fb/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/236326956/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:49:16.691Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:39:30.731Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -378847,27 +378932,32 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/minkang/230750757/01.webp"
+        "assets/products/minkang/230750757/01.webp",
+        "assets/products/minkang/230750757/02.webp",
+        "assets/products/minkang/230750757/03.webp",
+        "assets/products/minkang/230750757/04.webp",
+        "assets/products/minkang/230750757/05.webp",
+        "assets/products/minkang/230750757/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/7ee189d6/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/230750757/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:48:05.369Z",
-      "season": "2026-2027",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:39:50.048Z",
+      "season": "Seizoen onbekend",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -378879,27 +378969,32 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2026-2027",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/minkang/224148644/01.webp"
+        "assets/products/minkang/224148644/01.webp",
+        "assets/products/minkang/224148644/02.webp",
+        "assets/products/minkang/224148644/03.webp",
+        "assets/products/minkang/224148644/04.webp",
+        "assets/products/minkang/224148644/05.webp",
+        "assets/products/minkang/224148644/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/dcb39605/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/224148644/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:46:58.454Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:41:06.082Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -378911,27 +379006,32 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2026-2027",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/minkang/230750667/01.webp"
+        "assets/products/minkang/230750667/01.webp",
+        "assets/products/minkang/230750667/02.webp",
+        "assets/products/minkang/230750667/03.webp",
+        "assets/products/minkang/230750667/04.webp",
+        "assets/products/minkang/230750667/05.webp",
+        "assets/products/minkang/230750667/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/43d09c8b/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/230750667/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:48:04.236Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:39:52.635Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -378943,27 +379043,32 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2026-2027",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/minkang/230750613/01.webp"
+        "assets/products/minkang/230750613/01.webp",
+        "assets/products/minkang/230750613/02.webp",
+        "assets/products/minkang/230750613/03.webp",
+        "assets/products/minkang/230750613/04.webp",
+        "assets/products/minkang/230750613/05.webp",
+        "assets/products/minkang/230750613/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/2aa6c45a/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/230750613/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:48:04.386Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:40:00.459Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -379047,27 +379152,32 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2026-2027",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/minkang/227571987/01.webp"
+        "assets/products/minkang/227571987/01.webp",
+        "assets/products/minkang/227571987/02.webp",
+        "assets/products/minkang/227571987/03.webp",
+        "assets/products/minkang/227571987/04.webp",
+        "assets/products/minkang/227571987/05.webp",
+        "assets/products/minkang/227571987/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/261d222c/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/227571987/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:47:33.327Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:40:38.409Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -379079,27 +379189,32 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2026-2027",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/minkang/223003574/01.webp"
+        "assets/products/minkang/223003574/01.webp",
+        "assets/products/minkang/223003574/02.webp",
+        "assets/products/minkang/223003574/03.webp",
+        "assets/products/minkang/223003574/04.webp",
+        "assets/products/minkang/223003574/05.webp",
+        "assets/products/minkang/223003574/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/6d3f1a92/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/223003574/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:46:17.347Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:41:11.462Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -379111,27 +379226,31 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
-      "season": "2026-2027",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
+      "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/minkang/252958250/01.webp"
+        "assets/products/minkang/252958250/01.webp",
+        "assets/products/minkang/252958250/02.webp",
+        "assets/products/minkang/252958250/03.webp",
+        "assets/products/minkang/252958250/04.webp",
+        "assets/products/minkang/252958250/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/bda5d2cb8b/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/252958250/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:55:59.128Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T01:39:17.422Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -379143,7 +379262,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -379154,16 +379273,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/227576475/01.webp"
+        "assets/products/minkang/227576475/01.webp",
+        "assets/products/minkang/227576475/02.webp",
+        "assets/products/minkang/227576475/03.webp",
+        "assets/products/minkang/227576475/04.webp",
+        "assets/products/minkang/227576475/05.webp",
+        "assets/products/minkang/227576475/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/d44d6188/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/227576475/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:47:34.665Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:40:37.371Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -379175,7 +379299,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -379186,16 +379310,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/252958267/01.webp"
+        "assets/products/minkang/252958267/01.webp",
+        "assets/products/minkang/252958267/02.webp",
+        "assets/products/minkang/252958267/03.webp",
+        "assets/products/minkang/252958267/04.webp",
+        "assets/products/minkang/252958267/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/527e3d01df/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/252958267/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:55:59.410Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T01:39:15.369Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -379243,7 +379371,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -379254,16 +379382,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/227758678/01.webp"
+        "assets/products/minkang/227758678/01.webp",
+        "assets/products/minkang/227758678/02.webp",
+        "assets/products/minkang/227758678/03.webp",
+        "assets/products/minkang/227758678/04.webp",
+        "assets/products/minkang/227758678/05.webp",
+        "assets/products/minkang/227758678/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/e9764140/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/227758678/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:47:37.910Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:40:32.033Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -379275,7 +379408,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -379286,16 +379419,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/226516355/01.webp"
+        "assets/products/minkang/226516355/01.webp",
+        "assets/products/minkang/226516355/02.webp",
+        "assets/products/minkang/226516355/03.webp",
+        "assets/products/minkang/226516355/04.webp",
+        "assets/products/minkang/226516355/05.webp",
+        "assets/products/minkang/226516355/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/49f4743d/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/226516355/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:47:18.011Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:40:43.303Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -379307,7 +379445,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -379318,16 +379456,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/252958283/01.webp"
+        "assets/products/minkang/252958283/01.webp",
+        "assets/products/minkang/252958283/02.webp",
+        "assets/products/minkang/252958283/03.webp",
+        "assets/products/minkang/252958283/04.webp",
+        "assets/products/minkang/252958283/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/15830f88f6/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/252958283/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:56:00.215Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T01:39:11.266Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -379339,7 +379481,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -379350,16 +379492,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/226515258/01.webp"
+        "assets/products/minkang/226515258/01.webp",
+        "assets/products/minkang/226515258/02.webp",
+        "assets/products/minkang/226515258/03.webp",
+        "assets/products/minkang/226515258/04.webp",
+        "assets/products/minkang/226515258/05.webp",
+        "assets/products/minkang/226515258/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/f5ce5e6a/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/226515258/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:47:16.070Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:40:47.730Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -379371,7 +379518,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -379382,16 +379529,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/230749791/01.webp"
+        "assets/products/minkang/230749791/01.webp",
+        "assets/products/minkang/230749791/02.webp",
+        "assets/products/minkang/230749791/03.webp",
+        "assets/products/minkang/230749791/04.webp",
+        "assets/products/minkang/230749791/05.webp",
+        "assets/products/minkang/230749791/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/61d79748/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/230749791/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:48:02.049Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:40:00.198Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -379403,7 +379555,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -379414,16 +379566,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/224170124/01.webp"
+        "assets/products/minkang/224170124/01.webp",
+        "assets/products/minkang/224170124/02.webp",
+        "assets/products/minkang/224170124/03.webp",
+        "assets/products/minkang/224170124/04.webp",
+        "assets/products/minkang/224170124/05.webp",
+        "assets/products/minkang/224170124/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/f568c1d8/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/224170124/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:47:00.017Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:40:59.517Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -379509,7 +379666,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -379520,16 +379677,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/230749695/01.webp"
+        "assets/products/minkang/230749695/01.webp",
+        "assets/products/minkang/230749695/02.webp",
+        "assets/products/minkang/230749695/03.webp",
+        "assets/products/minkang/230749695/04.webp",
+        "assets/products/minkang/230749695/05.webp",
+        "assets/products/minkang/230749695/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/c56f186c/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/230749695/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:48:00.933Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:40:09.563Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -379541,7 +379703,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -379552,16 +379714,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/244275766/01.webp"
+        "assets/products/minkang/244275766/01.webp",
+        "assets/products/minkang/244275766/02.webp",
+        "assets/products/minkang/244275766/03.webp",
+        "assets/products/minkang/244275766/04.webp",
+        "assets/products/minkang/244275766/05.webp",
+        "assets/products/minkang/244275766/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/4c36f5ae4e/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/244275766/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:51:12.917Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:39:26.121Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -379573,7 +379740,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -379584,16 +379751,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/224150308/01.webp"
+        "assets/products/minkang/224150308/01.webp",
+        "assets/products/minkang/224150308/02.webp",
+        "assets/products/minkang/224150308/03.webp",
+        "assets/products/minkang/224150308/04.webp",
+        "assets/products/minkang/224150308/05.webp",
+        "assets/products/minkang/224150308/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/f8a6e8f6/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/224150308/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:46:59.828Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:41:02.351Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -381492,7 +381664,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -381504,15 +381676,19 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/255628409/01.webp"
+        "assets/products/minkang/255628409/01.webp",
+        "assets/products/minkang/255628409/02.webp",
+        "assets/products/minkang/255628409/03.webp",
+        "assets/products/minkang/255628409/04.webp",
+        "assets/products/minkang/255628409/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/d4ec982e24/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/255628409/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:58:42.481Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-30T01:39:07.372Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -381524,7 +381700,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -381536,15 +381712,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/255628460/01.webp"
+        "assets/products/minkang/255628460/01.webp",
+        "assets/products/minkang/255628460/02.webp",
+        "assets/products/minkang/255628460/03.webp",
+        "assets/products/minkang/255628460/04.webp",
+        "assets/products/minkang/255628460/05.webp",
+        "assets/products/minkang/255628460/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/58ad67b7af/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/255628460/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:58:43.490Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:39:05.632Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -381658,27 +381839,32 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/minkang/215727925/01.webp"
+        "assets/products/minkang/215727925/01.webp",
+        "assets/products/minkang/215727925/02.webp",
+        "assets/products/minkang/215727925/03.webp",
+        "assets/products/minkang/215727925/04.webp",
+        "assets/products/minkang/215727925/05.webp",
+        "assets/products/minkang/215727925/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/f1348280/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/215727925/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:44:30.353Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:42:15.627Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -381690,27 +381876,32 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/minkang/212485563/01.webp"
+        "assets/products/minkang/212485563/01.webp",
+        "assets/products/minkang/212485563/02.webp",
+        "assets/products/minkang/212485563/03.webp",
+        "assets/products/minkang/212485563/04.webp",
+        "assets/products/minkang/212485563/05.webp",
+        "assets/products/minkang/212485563/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/7340779b/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/212485563/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:42:46.213Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:43:00.487Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -381722,27 +381913,32 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/minkang/212486148/01.webp"
+        "assets/products/minkang/212486148/01.webp",
+        "assets/products/minkang/212486148/02.webp",
+        "assets/products/minkang/212486148/03.webp",
+        "assets/products/minkang/212486148/04.webp",
+        "assets/products/minkang/212486148/05.webp",
+        "assets/products/minkang/212486148/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/9f70fac2/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/212486148/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:42:46.811Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:42:57.260Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -381754,27 +381950,32 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/minkang/212485481/01.webp"
+        "assets/products/minkang/212485481/01.webp",
+        "assets/products/minkang/212485481/02.webp",
+        "assets/products/minkang/212485481/03.webp",
+        "assets/products/minkang/212485481/04.webp",
+        "assets/products/minkang/212485481/05.webp",
+        "assets/products/minkang/212485481/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/4cb144f9/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/212485481/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:42:45.758Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:43:04.441Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -381786,27 +381987,32 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/minkang/212486319/01.webp"
+        "assets/products/minkang/212486319/01.webp",
+        "assets/products/minkang/212486319/02.webp",
+        "assets/products/minkang/212486319/03.webp",
+        "assets/products/minkang/212486319/04.webp",
+        "assets/products/minkang/212486319/05.webp",
+        "assets/products/minkang/212486319/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/beb28319/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/212486319/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:42:47.297Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:42:47.142Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -381818,27 +382024,32 @@
       "categoryId": "724782",
       "collectionId": "724782",
       "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/minkang/215727589/01.webp"
+        "assets/products/minkang/215727589/01.webp",
+        "assets/products/minkang/215727589/02.webp",
+        "assets/products/minkang/215727589/03.webp",
+        "assets/products/minkang/215727589/04.webp",
+        "assets/products/minkang/215727589/05.webp",
+        "assets/products/minkang/215727589/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/a32323cb/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/215727589/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:44:29.561Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:41:50.541Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -381850,27 +382061,32 @@
       "categoryId": "724782",
       "collectionId": "724782",
       "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/minkang/215727376/01.webp"
+        "assets/products/minkang/215727376/01.webp",
+        "assets/products/minkang/215727376/02.webp",
+        "assets/products/minkang/215727376/03.webp",
+        "assets/products/minkang/215727376/04.webp",
+        "assets/products/minkang/215727376/05.webp",
+        "assets/products/minkang/215727376/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/afadfa47/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/215727376/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:44:28.038Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:41:58.845Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -381882,27 +382098,32 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/minkang/229204134/01.webp"
+        "assets/products/minkang/229204134/01.webp",
+        "assets/products/minkang/229204134/02.webp",
+        "assets/products/minkang/229204134/03.webp",
+        "assets/products/minkang/229204134/04.webp",
+        "assets/products/minkang/229204134/05.webp",
+        "assets/products/minkang/229204134/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/b4afa6f1/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/229204134/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:47:42.971Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:40:25.421Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -381914,27 +382135,32 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/minkang/248665378/01.webp"
+        "assets/products/minkang/248665378/01.webp",
+        "assets/products/minkang/248665378/02.webp",
+        "assets/products/minkang/248665378/03.webp",
+        "assets/products/minkang/248665378/04.webp",
+        "assets/products/minkang/248665378/05.webp",
+        "assets/products/minkang/248665378/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/d647a81ae0/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/248665378/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:53:23.563Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:39:25.246Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -381946,27 +382172,32 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/minkang/229894530/01.webp"
+        "assets/products/minkang/229894530/01.webp",
+        "assets/products/minkang/229894530/02.webp",
+        "assets/products/minkang/229894530/03.webp",
+        "assets/products/minkang/229894530/04.webp",
+        "assets/products/minkang/229894530/05.webp",
+        "assets/products/minkang/229894530/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/6fd07729/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/229894530/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:47:52.828Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:40:20.046Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -382346,7 +382577,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -382358,15 +382589,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/215728112/01.webp"
+        "assets/products/minkang/215728112/01.webp",
+        "assets/products/minkang/215728112/02.webp",
+        "assets/products/minkang/215728112/03.webp",
+        "assets/products/minkang/215728112/04.webp",
+        "assets/products/minkang/215728112/05.webp",
+        "assets/products/minkang/215728112/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/28abb412/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/215728112/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:44:34.013Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:42:35.184Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -382410,27 +382646,32 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/minkang/215727710/01.webp"
+        "assets/products/minkang/215727710/01.webp",
+        "assets/products/minkang/215727710/02.webp",
+        "assets/products/minkang/215727710/03.webp",
+        "assets/products/minkang/215727710/04.webp",
+        "assets/products/minkang/215727710/05.webp",
+        "assets/products/minkang/215727710/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/23890309/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/215727710/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:44:29.275Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:42:10.317Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -382442,7 +382683,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -382454,15 +382695,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/215728101/01.webp"
+        "assets/products/minkang/215728101/01.webp",
+        "assets/products/minkang/215728101/02.webp",
+        "assets/products/minkang/215728101/03.webp",
+        "assets/products/minkang/215728101/04.webp",
+        "assets/products/minkang/215728101/05.webp",
+        "assets/products/minkang/215728101/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/5dd98437/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/215728101/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:44:33.248Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:42:16.154Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -382538,27 +382784,32 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/minkang/212486777/01.webp"
+        "assets/products/minkang/212486777/01.webp",
+        "assets/products/minkang/212486777/02.webp",
+        "assets/products/minkang/212486777/03.webp",
+        "assets/products/minkang/212486777/04.webp",
+        "assets/products/minkang/212486777/05.webp",
+        "assets/products/minkang/212486777/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/a622e375/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/212486777/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:42:47.927Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:42:46.279Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -382666,27 +382917,32 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/minkang/209571030/01.webp"
+        "assets/products/minkang/209571030/01.webp",
+        "assets/products/minkang/209571030/02.webp",
+        "assets/products/minkang/209571030/03.webp",
+        "assets/products/minkang/209571030/04.webp",
+        "assets/products/minkang/209571030/05.webp",
+        "assets/products/minkang/209571030/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/bf32e3be/medium.jpeg"
       ],
       "coverUrl": "assets/products/minkang/209571030/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:42:19.731Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:43:24.905Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -382698,27 +382954,32 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/minkang/209571013/01.webp"
+        "assets/products/minkang/209571013/01.webp",
+        "assets/products/minkang/209571013/02.webp",
+        "assets/products/minkang/209571013/03.webp",
+        "assets/products/minkang/209571013/04.webp",
+        "assets/products/minkang/209571013/05.webp",
+        "assets/products/minkang/209571013/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/1b2656e1/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/209571013/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:42:18.987Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:43:12.914Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -382794,27 +383055,32 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/minkang/209570956/01.webp"
+        "assets/products/minkang/209570956/01.webp",
+        "assets/products/minkang/209570956/02.webp",
+        "assets/products/minkang/209570956/03.webp",
+        "assets/products/minkang/209570956/04.webp",
+        "assets/products/minkang/209570956/05.webp",
+        "assets/products/minkang/209570956/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/766601af/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/209570956/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:42:18.435Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:43:23.405Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -382858,27 +383124,32 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/minkang/151793640/01.webp"
+        "assets/products/minkang/151793640/01.webp",
+        "assets/products/minkang/151793640/02.webp",
+        "assets/products/minkang/151793640/03.webp",
+        "assets/products/minkang/151793640/04.webp",
+        "assets/products/minkang/151793640/05.webp",
+        "assets/products/minkang/151793640/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/3b1bffaa/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/151793640/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:40:56.485Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:41:24.255Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -382890,7 +383161,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -382902,15 +383173,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/215728068/01.webp"
+        "assets/products/minkang/215728068/01.webp",
+        "assets/products/minkang/215728068/02.webp",
+        "assets/products/minkang/215728068/03.webp",
+        "assets/products/minkang/215728068/04.webp",
+        "assets/products/minkang/215728068/05.webp",
+        "assets/products/minkang/215728068/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/41dce86f/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/215728068/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:44:32.911Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:42:31.127Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -382954,7 +383230,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -382966,15 +383242,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/168820911/01.webp"
+        "assets/products/minkang/168820911/01.webp",
+        "assets/products/minkang/168820911/02.webp",
+        "assets/products/minkang/168820911/03.webp",
+        "assets/products/minkang/168820911/04.webp",
+        "assets/products/minkang/168820911/05.webp",
+        "assets/products/minkang/168820911/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/9d4bfa86/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/168820911/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:41:18.663Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:41:32.784Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -383018,7 +383299,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -383030,15 +383311,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/168820876/01.webp"
+        "assets/products/minkang/168820876/01.webp",
+        "assets/products/minkang/168820876/02.webp",
+        "assets/products/minkang/168820876/03.webp",
+        "assets/products/minkang/168820876/04.webp",
+        "assets/products/minkang/168820876/05.webp",
+        "assets/products/minkang/168820876/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/7c810563/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/168820876/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:41:18.590Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:41:24.890Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -383050,27 +383336,32 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/minkang/215727954/01.webp"
+        "assets/products/minkang/215727954/01.webp",
+        "assets/products/minkang/215727954/02.webp",
+        "assets/products/minkang/215727954/03.webp",
+        "assets/products/minkang/215727954/04.webp",
+        "assets/products/minkang/215727954/05.webp",
+        "assets/products/minkang/215727954/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/47c3fe16/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/215727954/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:44:30.830Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:42:23.966Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -383082,27 +383373,32 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "sourceCategory": "more",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "more",
+      "country": "",
+      "competition": "",
+      "club": "",
       "season": "Seizoen onbekend",
       "types": [
-        "Voetbalshirt"
+        "Overig"
       ],
       "images": [
-        "assets/products/minkang/215728015/01.webp"
+        "assets/products/minkang/215728015/01.webp",
+        "assets/products/minkang/215728015/02.webp",
+        "assets/products/minkang/215728015/03.webp",
+        "assets/products/minkang/215728015/04.webp",
+        "assets/products/minkang/215728015/05.webp",
+        "assets/products/minkang/215728015/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/88354d42/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/215728015/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:44:31.924Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:42:21.924Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -383186,7 +383482,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -383198,15 +383494,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/212485138/01.webp"
+        "assets/products/minkang/212485138/01.webp",
+        "assets/products/minkang/212485138/02.webp",
+        "assets/products/minkang/212485138/03.webp",
+        "assets/products/minkang/212485138/04.webp",
+        "assets/products/minkang/212485138/05.webp",
+        "assets/products/minkang/212485138/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/6af46a17/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/212485138/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:42:45.218Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:43:07.061Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -383218,7 +383519,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -383230,15 +383531,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/215728051/01.webp"
+        "assets/products/minkang/215728051/01.webp",
+        "assets/products/minkang/215728051/02.webp",
+        "assets/products/minkang/215728051/03.webp",
+        "assets/products/minkang/215728051/04.webp",
+        "assets/products/minkang/215728051/05.webp",
+        "assets/products/minkang/215728051/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/ba6f4144/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/215728051/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:44:31.795Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:42:27.712Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -383250,7 +383556,7 @@
       "categoryId": "724779",
       "collectionId": "724779",
       "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "Chilean League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -383262,15 +383568,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/215724149/01.webp"
+        "assets/products/minkang/215724149/01.webp",
+        "assets/products/minkang/215724149/02.webp",
+        "assets/products/minkang/215724149/03.webp",
+        "assets/products/minkang/215724149/04.webp",
+        "assets/products/minkang/215724149/05.webp",
+        "assets/products/minkang/215724149/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/82c716da/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/215724149/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:44:27.957Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:42:03.301Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -383282,7 +383593,7 @@
       "categoryId": "724779",
       "collectionId": "724779",
       "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "Chilean League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -383294,15 +383605,20 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/215723732/01.webp"
+        "assets/products/minkang/215723732/01.webp",
+        "assets/products/minkang/215723732/02.webp",
+        "assets/products/minkang/215723732/03.webp",
+        "assets/products/minkang/215723732/04.webp",
+        "assets/products/minkang/215723732/05.webp",
+        "assets/products/minkang/215723732/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/157f7430/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/215723732/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:44:26.955Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:42:04.768Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -383314,7 +383630,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
+      "sourceCategory": "more",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -383325,16 +383641,21 @@
         "Voetbalshirt"
       ],
       "images": [
-        "assets/products/minkang/248665121/01.webp"
+        "assets/products/minkang/248665121/01.webp",
+        "assets/products/minkang/248665121/02.webp",
+        "assets/products/minkang/248665121/03.webp",
+        "assets/products/minkang/248665121/04.webp",
+        "assets/products/minkang/248665121/05.webp",
+        "assets/products/minkang/248665121/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/e448cc4978/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/248665121/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:53:21.980Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:39:19.797Z",
       "season": "Seizoen onbekend",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -665405,10 +665726,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "🔥 Clearance Sale: $9/PCS, Minimum Order 5PCS 🔥",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "🔥 Clearance Sale: $9/PCS, Minimum Order 5PCS 🔥",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -665417,15 +665738,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/212700565/01.webp"
+        "assets/products/minkang/212700565/01.webp",
+        "assets/products/minkang/212700565/02.webp",
+        "assets/products/minkang/212700565/03.webp",
+        "assets/products/minkang/212700565/04.webp",
+        "assets/products/minkang/212700565/05.webp",
+        "assets/products/minkang/212700565/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/2bce6b8c/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/212700565/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:42:59.908Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:42:55.669Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -826677,10 +827003,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Primeira Liga",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Primeira Liga",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -826689,15 +827015,20 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/218706315/01.webp"
+        "assets/products/minkang/218706315/01.webp",
+        "assets/products/minkang/218706315/02.webp",
+        "assets/products/minkang/218706315/03.webp",
+        "assets/products/minkang/218706315/04.webp",
+        "assets/products/minkang/218706315/05.webp",
+        "assets/products/minkang/218706315/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/121f71f1/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/218706315/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:44:52.820Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:38:40.751Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -826741,11 +827072,11 @@
       "source": "minkang",
       "sourceId": "215722987",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/215722987",
-      "sourceCategory": "Primeira Liga",
+      "sourceCategory": "more",
       "title": "Sporting Lisbon Special Edition Kids Size: 16-2811",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "Primeira Liga",
+      "subcategory": "more",
       "club": "",
       "country": "",
       "competition": "",
@@ -826754,13 +827085,18 @@
         "Overig"
       ],
       "images": [
-        "assets/products/minkang/215722987/01.webp"
+        "assets/products/minkang/215722987/01.webp",
+        "assets/products/minkang/215722987/02.webp",
+        "assets/products/minkang/215722987/03.webp",
+        "assets/products/minkang/215722987/04.webp",
+        "assets/products/minkang/215722987/05.webp",
+        "assets/products/minkang/215722987/06.webp"
       ],
       "coverUrl": "assets/products/minkang/215722987/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:44:26.571Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:39:03.126Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -959692,7 +960028,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Primeira Liga",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
       "category": "Clubteams",
       "subcategory": "Primeira Liga",
@@ -959704,15 +960040,20 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/minkang/216811546/01.webp"
+        "assets/products/minkang/216811546/01.webp",
+        "assets/products/minkang/216811546/02.webp",
+        "assets/products/minkang/216811546/03.webp",
+        "assets/products/minkang/216811546/04.webp",
+        "assets/products/minkang/216811546/05.webp",
+        "assets/products/minkang/216811546/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/63f25d78/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/216811546/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:44:43.851Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:38:39.731Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -960417,7 +960758,7 @@
       "categoryId": "724803",
       "collectionId": "724803",
       "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "Primeira Liga",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
       "category": "Clubteams",
       "subcategory": "Primeira Liga",
@@ -960429,15 +960770,20 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/minkang/215949779/01.webp"
+        "assets/products/minkang/215949779/01.webp",
+        "assets/products/minkang/215949779/02.webp",
+        "assets/products/minkang/215949779/03.webp",
+        "assets/products/minkang/215949779/04.webp",
+        "assets/products/minkang/215949779/05.webp",
+        "assets/products/minkang/215949779/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/ea31c0d2/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/215949779/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:44:38.641Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:38:55.180Z",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "yema007:251707229",
@@ -973757,27 +974103,32 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "country": "",
+      "competition": "",
+      "club": "Overig",
       "season": "2025-2026",
       "types": [
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/minkang/214781501/01.webp"
+        "assets/products/minkang/214781501/01.webp",
+        "assets/products/minkang/214781501/02.webp",
+        "assets/products/minkang/214781501/03.webp",
+        "assets/products/minkang/214781501/04.webp",
+        "assets/products/minkang/214781501/05.webp",
+        "assets/products/minkang/214781501/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/005c44a6/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/214781501/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:44:08.406Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:42:42.617Z",
+      "classificationVersion": 2
     },
     {
       "source": "popmo",
@@ -973855,27 +974206,32 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "country": "",
+      "competition": "",
+      "club": "Overig",
       "season": "2026-2027",
       "types": [
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/minkang/226512238/01.webp"
+        "assets/products/minkang/226512238/01.webp",
+        "assets/products/minkang/226512238/02.webp",
+        "assets/products/minkang/226512238/03.webp",
+        "assets/products/minkang/226512238/04.webp",
+        "assets/products/minkang/226512238/05.webp",
+        "assets/products/minkang/226512238/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/c9a41a5d/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/226512238/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:47:14.973Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:40:50.075Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -973887,27 +974243,32 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "country": "",
+      "competition": "",
+      "club": "Overig",
       "season": "2026-2027",
       "types": [
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/minkang/229204161/01.webp"
+        "assets/products/minkang/229204161/01.webp",
+        "assets/products/minkang/229204161/02.webp",
+        "assets/products/minkang/229204161/03.webp",
+        "assets/products/minkang/229204161/04.webp",
+        "assets/products/minkang/229204161/05.webp",
+        "assets/products/minkang/229204161/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/aaac1a36/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/229204161/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:47:44.062Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:40:24.983Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -973919,7 +974280,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "Chilean League",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
       "category": "Landenteams",
       "subcategory": "Chile",
@@ -973930,16 +974291,21 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/minkang/226516395/01.webp"
+        "assets/products/minkang/226516395/01.webp",
+        "assets/products/minkang/226516395/02.webp",
+        "assets/products/minkang/226516395/03.webp",
+        "assets/products/minkang/226516395/04.webp",
+        "assets/products/minkang/226516395/05.webp",
+        "assets/products/minkang/226516395/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/d720df06/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/226516395/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:47:18.732Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:40:43.008Z",
       "season": "2026-2027",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
@@ -973982,27 +974348,32 @@
       "categoryId": "724782",
       "collectionId": "724782",
       "sourceCollection": "KANG Team Official ✅",
-      "sourceCategory": "Chilean League",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
-      "category": "Landenteams",
-      "subcategory": "Chile",
-      "country": "Chile",
-      "competition": "Landenteams",
-      "club": "Chile",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "country": "",
+      "competition": "",
+      "club": "Overig",
       "season": "Seizoen onbekend",
       "types": [
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/minkang/215949797/01.webp"
+        "assets/products/minkang/215949797/01.webp",
+        "assets/products/minkang/215949797/02.webp",
+        "assets/products/minkang/215949797/03.webp",
+        "assets/products/minkang/215949797/04.webp",
+        "assets/products/minkang/215949797/05.webp",
+        "assets/products/minkang/215949797/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/6c04c14d/medium.jpg"
       ],
       "coverUrl": "assets/products/minkang/215949797/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T18:44:39.219Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-30T01:41:37.182Z",
+      "classificationVersion": 2
     },
     {
       "source": "yema007",
