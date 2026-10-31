@@ -1,7 +1,6 @@
 {
-  "lastSync": "2026-10-31T17:26:06.227Z",
-  "status": "running",
-  "currentSource": "dongshanstore",
+  "lastSync": "2026-10-31T17:26:51.002Z",
+  "status": "completed",
   "products": [
     {
       "uniqueKey": "dachang88:66111399",
@@ -1141107,7 +1141106,7 @@
       "images": [],
       "coverUrl": "",
       "imageCount": 0,
-      "updatedAt": "2026-10-31T11:11:00.044Z",
+      "updatedAt": "2026-10-31T17:26:36.627Z",
       "sourceCollection": "",
       "classificationVersion": 2
     },
@@ -1152276,6 +1152275,66 @@
       "imageCount": 5,
       "classificationVersion": 2,
       "updatedAt": "2026-10-31T17:26:06.227Z"
+    },
+    {
+      "uniqueKey": "aosendi:261007867",
+      "source": "aosendi",
+      "sourceId": "261007867",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/261007867",
+      "sourceCategory": "more",
+      "title": "2627 Windjack 9",
+      "section": "Trainingskleding",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/aosendi/261007867/01.webp",
+        "assets/products/aosendi/261007867/02.webp",
+        "assets/products/aosendi/261007867/03.webp",
+        "assets/products/aosendi/261007867/04.webp",
+        "assets/products/aosendi/261007867/05.webp",
+        "assets/products/aosendi/261007867/06.webp"
+      ],
+      "coverUrl": "assets/products/aosendi/261007867/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-10-31T17:26:44.309Z"
+    },
+    {
+      "uniqueKey": "aosendi:261007373",
+      "source": "aosendi",
+      "sourceId": "261007373",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/261007373",
+      "sourceCategory": "more",
+      "title": "2627 Windjack 9",
+      "section": "Trainingskleding",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/aosendi/261007373/01.webp",
+        "assets/products/aosendi/261007373/02.webp",
+        "assets/products/aosendi/261007373/03.webp",
+        "assets/products/aosendi/261007373/04.webp",
+        "assets/products/aosendi/261007373/05.webp",
+        "assets/products/aosendi/261007373/06.webp"
+      ],
+      "coverUrl": "assets/products/aosendi/261007373/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-10-31T17:26:50.645Z"
     }
   ],
   "warnings": []
