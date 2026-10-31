@@ -22,17 +22,9 @@
       "total": 11
     },
     "dachang88": {
-      "discoveryPhase": "complete",
-      "discoveryComplete": true,
-      "discoveredAlbums": 765,
-      "categoryIndex": 49,
-      "categoryTotal": 49,
-      "updatedAt": "2026-10-29T17:20:39.696Z",
-      "nextIndex": 765,
-      "total": 765,
-      "completed": true,
-      "completedAt": "2026-10-29T06:36:30.778Z",
-      "run": "2026-10-29"
+      "run": "2026-10-31",
+      "nextIndex": 100,
+      "total": 765
     },
     "dongshanstore": {
       "discoveryPhase": "complete",
@@ -67,7 +59,7 @@
     },
     "hema168": {
       "run": "2026-10-31",
-      "nextIndex": 150,
+      "nextIndex": 187,
       "total": 187
     }
   },
@@ -486,6 +478,7 @@
       "https://hema168.x.yupoo.com/categories/418489",
       "https://hema168.x.yupoo.com/categories/418915",
       "https://hema168.x.yupoo.com/categories/418919"
-    ]
+    ],
+    "dachang88": []
   }
 }
