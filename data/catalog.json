@@ -1,5 +1,5 @@
 {
-  "lastSync": "2026-10-31T11:12:52.618Z",
+  "lastSync": "2026-10-31T11:19:21.126Z",
   "status": "running",
   "currentSource": "aosendi",
   "products": [
@@ -1104253,13 +1104253,18 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/251238096/01.webp"
+        "assets/products/aosendi/251238096/01.webp",
+        "assets/products/aosendi/251238096/02.webp",
+        "assets/products/aosendi/251238096/03.webp",
+        "assets/products/aosendi/251238096/04.webp",
+        "assets/products/aosendi/251238096/05.webp",
+        "assets/products/aosendi/251238096/06.webp"
       ],
       "coverUrl": "assets/products/aosendi/251238096/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:01:11.717Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:13:04.954Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:251238222",
@@ -1104279,13 +1104284,18 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/251238222/01.webp"
+        "assets/products/aosendi/251238222/01.webp",
+        "assets/products/aosendi/251238222/02.webp",
+        "assets/products/aosendi/251238222/03.webp",
+        "assets/products/aosendi/251238222/04.webp",
+        "assets/products/aosendi/251238222/05.webp",
+        "assets/products/aosendi/251238222/06.webp"
       ],
       "coverUrl": "assets/products/aosendi/251238222/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:01:12.739Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:13:07.580Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "aosendi",
@@ -1104611,15 +1104621,20 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/250386329/01.webp"
+        "assets/products/aosendi/250386329/01.webp",
+        "assets/products/aosendi/250386329/02.webp",
+        "assets/products/aosendi/250386329/03.webp",
+        "assets/products/aosendi/250386329/04.webp",
+        "assets/products/aosendi/250386329/05.webp",
+        "assets/products/aosendi/250386329/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/aosendi/c703671014/medium.jpg"
       ],
       "coverUrl": "assets/products/aosendi/250386329/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:01:07.553Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:13:14.929Z",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:250386185",
@@ -1104639,13 +1104654,18 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/250386185/01.webp"
+        "assets/products/aosendi/250386185/01.webp",
+        "assets/products/aosendi/250386185/02.webp",
+        "assets/products/aosendi/250386185/03.webp",
+        "assets/products/aosendi/250386185/04.webp",
+        "assets/products/aosendi/250386185/05.webp",
+        "assets/products/aosendi/250386185/06.webp"
       ],
       "coverUrl": "assets/products/aosendi/250386185/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:01:06.481Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:13:16.931Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:245192339",
@@ -1107003,7 +1107023,7 @@
       "sourceId": "249926063",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/249926063",
       "sourceCategory": "more",
-      "title": "2627 21",
+      "title": "2627 【 】21",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1107015,13 +1107035,18 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/249926063/01.webp"
+        "assets/products/aosendi/249926063/01.webp",
+        "assets/products/aosendi/249926063/02.webp",
+        "assets/products/aosendi/249926063/03.webp",
+        "assets/products/aosendi/249926063/04.webp",
+        "assets/products/aosendi/249926063/05.webp",
+        "assets/products/aosendi/249926063/06.webp"
       ],
       "coverUrl": "assets/products/aosendi/249926063/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:01:02.861Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:13:25.828Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:242059860",
@@ -1107227,7 +1107252,7 @@
       "sourceId": "254154944",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/254154944",
       "sourceCategory": "more",
-      "title": "2627 Short Sleeve / 19",
+      "title": "2627 Korte mouw 【 / 】19",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1107239,13 +1107264,18 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/254154944/01.webp"
+        "assets/products/aosendi/254154944/01.webp",
+        "assets/products/aosendi/254154944/02.webp",
+        "assets/products/aosendi/254154944/03.webp",
+        "assets/products/aosendi/254154944/04.webp",
+        "assets/products/aosendi/254154944/05.webp",
+        "assets/products/aosendi/254154944/06.webp"
       ],
       "coverUrl": "assets/products/aosendi/254154944/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:01:32.559Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:18:56.550Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "aosendi",
@@ -1107629,7 +1107659,7 @@
       "sourceId": "257123461",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/257123461",
       "sourceCategory": "more",
-      "title": "2627 Short Sleeve 18",
+      "title": "2627 Korte mouw 【 】18",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1107641,13 +1107671,18 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/257123461/01.webp"
+        "assets/products/aosendi/257123461/01.webp",
+        "assets/products/aosendi/257123461/02.webp",
+        "assets/products/aosendi/257123461/03.webp",
+        "assets/products/aosendi/257123461/04.webp",
+        "assets/products/aosendi/257123461/05.webp",
+        "assets/products/aosendi/257123461/06.webp"
       ],
       "coverUrl": "assets/products/aosendi/257123461/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:02:12.635Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:18:11.753Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:253739598",
@@ -1107655,7 +1107690,7 @@
       "sourceId": "253739598",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/253739598",
       "sourceCategory": "more",
-      "title": "2627 Short Sleeve 18",
+      "title": "2627 Korte mouw 18",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1107667,13 +1107702,18 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/253739598/01.webp"
+        "assets/products/aosendi/253739598/01.webp",
+        "assets/products/aosendi/253739598/02.webp",
+        "assets/products/aosendi/253739598/03.webp",
+        "assets/products/aosendi/253739598/04.webp",
+        "assets/products/aosendi/253739598/05.webp",
+        "assets/products/aosendi/253739598/06.webp"
       ],
       "coverUrl": "assets/products/aosendi/253739598/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:01:29.282Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:19:05.504Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:257123625",
@@ -1107681,7 +1107721,7 @@
       "sourceId": "257123625",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/257123625",
       "sourceCategory": "more",
-      "title": "2627 Short Sleeve 18",
+      "title": "2627 Korte mouw 【 】18",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1107693,13 +1107733,18 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/257123625/01.webp"
+        "assets/products/aosendi/257123625/01.webp",
+        "assets/products/aosendi/257123625/02.webp",
+        "assets/products/aosendi/257123625/03.webp",
+        "assets/products/aosendi/257123625/04.webp",
+        "assets/products/aosendi/257123625/05.webp",
+        "assets/products/aosendi/257123625/06.webp"
       ],
       "coverUrl": "assets/products/aosendi/257123625/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:02:13.691Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:18:06.992Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:253004121",
@@ -1107707,7 +1107752,7 @@
       "sourceId": "253004121",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/253004121",
       "sourceCategory": "more",
-      "title": "2627 Short Sleeve 18",
+      "title": "2627 Korte mouw 【 】18",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1107719,13 +1107764,18 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/253004121/01.webp"
+        "assets/products/aosendi/253004121/01.webp",
+        "assets/products/aosendi/253004121/02.webp",
+        "assets/products/aosendi/253004121/03.webp",
+        "assets/products/aosendi/253004121/04.webp",
+        "assets/products/aosendi/253004121/05.webp",
+        "assets/products/aosendi/253004121/06.webp"
       ],
       "coverUrl": "assets/products/aosendi/253004121/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:01:20.561Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:19:21.125Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:241789361",
@@ -1108460,7 +1108510,7 @@
       "sourcePriority": 5,
       "sourceId": "257641540",
       "uniqueKey": "aosendi:257641540",
-      "title": "2627 Short Sleeve 18",
+      "title": "2627 Korte mouw 【 】18",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/257641540",
       "categoryId": null,
       "collectionId": "3926493",
@@ -1108477,15 +1108527,20 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/257641540/01.webp"
+        "assets/products/aosendi/257641540/01.webp",
+        "assets/products/aosendi/257641540/02.webp",
+        "assets/products/aosendi/257641540/03.webp",
+        "assets/products/aosendi/257641540/04.webp",
+        "assets/products/aosendi/257641540/05.webp",
+        "assets/products/aosendi/257641540/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/aosendi/30f218820a/medium.jpg"
       ],
       "coverUrl": "assets/products/aosendi/257641540/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:02:21.778Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:18:03.444Z",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:248961893",
@@ -1109091,7 +1109146,7 @@
       "sourceId": "256099489",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/256099489",
       "sourceCategory": "more",
-      "title": "2627 Short Sleeve 19",
+      "title": "2627 Korte mouw 19",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1109103,13 +1109158,18 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/256099489/01.webp"
+        "assets/products/aosendi/256099489/01.webp",
+        "assets/products/aosendi/256099489/02.webp",
+        "assets/products/aosendi/256099489/03.webp",
+        "assets/products/aosendi/256099489/04.webp",
+        "assets/products/aosendi/256099489/05.webp",
+        "assets/products/aosendi/256099489/06.webp"
       ],
       "coverUrl": "assets/products/aosendi/256099489/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:02:04.014Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:18:19.261Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:256099441",
@@ -1109117,7 +1109177,7 @@
       "sourceId": "256099441",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/256099441",
       "sourceCategory": "more",
-      "title": "2627 Short Sleeve 19",
+      "title": "2627 Korte mouw 19",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1109129,13 +1109189,18 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/256099441/01.webp"
+        "assets/products/aosendi/256099441/01.webp",
+        "assets/products/aosendi/256099441/02.webp",
+        "assets/products/aosendi/256099441/03.webp",
+        "assets/products/aosendi/256099441/04.webp",
+        "assets/products/aosendi/256099441/05.webp",
+        "assets/products/aosendi/256099441/06.webp"
       ],
       "coverUrl": "assets/products/aosendi/256099441/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:02:01.472Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:18:19.936Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:254584240",
@@ -1109143,7 +1109208,7 @@
       "sourceId": "254584240",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/254584240",
       "sourceCategory": "more",
-      "title": "2627 Short Sleeve 19",
+      "title": "2627 Korte mouw 【 】19",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1109155,13 +1109220,18 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/254584240/01.webp"
+        "assets/products/aosendi/254584240/01.webp",
+        "assets/products/aosendi/254584240/02.webp",
+        "assets/products/aosendi/254584240/03.webp",
+        "assets/products/aosendi/254584240/04.webp",
+        "assets/products/aosendi/254584240/05.webp",
+        "assets/products/aosendi/254584240/06.webp"
       ],
       "coverUrl": "assets/products/aosendi/254584240/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:01:40.448Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:18:50.207Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:239348078",
@@ -1109195,7 +1109265,7 @@
       "sourceId": "254584152",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/254584152",
       "sourceCategory": "more",
-      "title": "2627 Short Sleeve 19",
+      "title": "2627 Korte mouw 19",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1109207,13 +1109277,18 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/254584152/01.webp"
+        "assets/products/aosendi/254584152/01.webp",
+        "assets/products/aosendi/254584152/02.webp",
+        "assets/products/aosendi/254584152/03.webp",
+        "assets/products/aosendi/254584152/04.webp",
+        "assets/products/aosendi/254584152/05.webp",
+        "assets/products/aosendi/254584152/06.webp"
       ],
       "coverUrl": "assets/products/aosendi/254584152/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:01:39.412Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:18:52.937Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:253532616",
@@ -1109221,7 +1109296,7 @@
       "sourceId": "253532616",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/253532616",
       "sourceCategory": "more",
-      "title": "2627 Short Sleeve 19",
+      "title": "2627 Korte mouw 19",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1109233,13 +1109308,18 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/253532616/01.webp"
+        "assets/products/aosendi/253532616/01.webp",
+        "assets/products/aosendi/253532616/02.webp",
+        "assets/products/aosendi/253532616/03.webp",
+        "assets/products/aosendi/253532616/04.webp",
+        "assets/products/aosendi/253532616/05.webp",
+        "assets/products/aosendi/253532616/06.webp"
       ],
       "coverUrl": "assets/products/aosendi/253532616/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:01:28.209Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:19:18.145Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:253532597",
@@ -1109247,7 +1109327,7 @@
       "sourceId": "253532597",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/253532597",
       "sourceCategory": "more",
-      "title": "2627 Short Sleeve 19",
+      "title": "2627 Korte mouw 19",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1109259,13 +1109339,18 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/253532597/01.webp"
+        "assets/products/aosendi/253532597/01.webp",
+        "assets/products/aosendi/253532597/02.webp",
+        "assets/products/aosendi/253532597/03.webp",
+        "assets/products/aosendi/253532597/04.webp",
+        "assets/products/aosendi/253532597/05.webp",
+        "assets/products/aosendi/253532597/06.webp"
       ],
       "coverUrl": "assets/products/aosendi/253532597/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:01:27.155Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:19:14.163Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:248199001",
@@ -1109377,7 +1109462,7 @@
       "sourceId": "254870958",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/254870958",
       "sourceCategory": "more",
-      "title": "2627 Short Sleeve 19",
+      "title": "2627 Korte mouw 19",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1109389,13 +1109474,18 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/254870958/01.webp"
+        "assets/products/aosendi/254870958/01.webp",
+        "assets/products/aosendi/254870958/02.webp",
+        "assets/products/aosendi/254870958/03.webp",
+        "assets/products/aosendi/254870958/04.webp",
+        "assets/products/aosendi/254870958/05.webp",
+        "assets/products/aosendi/254870958/06.webp"
       ],
       "coverUrl": "assets/products/aosendi/254870958/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:01:41.493Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:18:45.192Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:238270766",
@@ -1109715,7 +1109805,7 @@
       "sourceId": "254026311",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/254026311",
       "sourceCategory": "more",
-      "title": "2627 Short Sleeve 19",
+      "title": "2627 Korte mouw 19",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1109727,13 +1109817,18 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/254026311/01.webp"
+        "assets/products/aosendi/254026311/01.webp",
+        "assets/products/aosendi/254026311/02.webp",
+        "assets/products/aosendi/254026311/03.webp",
+        "assets/products/aosendi/254026311/04.webp",
+        "assets/products/aosendi/254026311/05.webp",
+        "assets/products/aosendi/254026311/06.webp"
       ],
       "coverUrl": "assets/products/aosendi/254026311/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:01:30.298Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:19:03.258Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:240050414",
@@ -1109792,7 +1109887,7 @@
       "sourcePriority": 5,
       "sourceId": "258152404",
       "uniqueKey": "aosendi:258152404",
-      "title": "2627 Short Sleeve 19",
+      "title": "2627 Korte mouw 19",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/258152404",
       "categoryId": null,
       "collectionId": "3926493",
@@ -1109809,15 +1109904,20 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/258152404/01.webp"
+        "assets/products/aosendi/258152404/01.webp",
+        "assets/products/aosendi/258152404/02.webp",
+        "assets/products/aosendi/258152404/03.webp",
+        "assets/products/aosendi/258152404/04.webp",
+        "assets/products/aosendi/258152404/05.webp",
+        "assets/products/aosendi/258152404/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/aosendi/0d8682fd56/medium.jpg"
       ],
       "coverUrl": "assets/products/aosendi/258152404/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:02:22.804Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:17:53.835Z",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:239347972",
@@ -1109851,7 +1109951,7 @@
       "sourceId": "254026365",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/254026365",
       "sourceCategory": "more",
-      "title": "2627 Short Sleeve 19",
+      "title": "2627 Korte mouw 19",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1109863,13 +1109963,18 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/254026365/01.webp"
+        "assets/products/aosendi/254026365/01.webp",
+        "assets/products/aosendi/254026365/02.webp",
+        "assets/products/aosendi/254026365/03.webp",
+        "assets/products/aosendi/254026365/04.webp",
+        "assets/products/aosendi/254026365/05.webp",
+        "assets/products/aosendi/254026365/06.webp"
       ],
       "coverUrl": "assets/products/aosendi/254026365/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:01:31.336Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:18:58.879Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:239075513",
@@ -1109903,7 +1110008,7 @@
       "sourceId": "255199285",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/255199285",
       "sourceCategory": "more",
-      "title": "2627 Short Sleeve 19",
+      "title": "2627 Korte mouw 19",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1109915,13 +1110020,18 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/255199285/01.webp"
+        "assets/products/aosendi/255199285/01.webp",
+        "assets/products/aosendi/255199285/02.webp",
+        "assets/products/aosendi/255199285/03.webp",
+        "assets/products/aosendi/255199285/04.webp",
+        "assets/products/aosendi/255199285/05.webp",
+        "assets/products/aosendi/255199285/06.webp"
       ],
       "coverUrl": "assets/products/aosendi/255199285/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:01:49.568Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:18:38.044Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:255199350",
@@ -1109929,7 +1110039,7 @@
       "sourceId": "255199350",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/255199350",
       "sourceCategory": "more",
-      "title": "2627 Short Sleeve 19",
+      "title": "2627 Korte mouw 19",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1109941,13 +1110051,18 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/255199350/01.webp"
+        "assets/products/aosendi/255199350/01.webp",
+        "assets/products/aosendi/255199350/02.webp",
+        "assets/products/aosendi/255199350/03.webp",
+        "assets/products/aosendi/255199350/04.webp",
+        "assets/products/aosendi/255199350/05.webp",
+        "assets/products/aosendi/255199350/06.webp"
       ],
       "coverUrl": "assets/products/aosendi/255199350/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:01:50.595Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:18:35.293Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:255199232",
@@ -1109955,7 +1110070,7 @@
       "sourceId": "255199232",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/255199232",
       "sourceCategory": "more",
-      "title": "2627 Short Sleeve 19",
+      "title": "2627 Korte mouw 19",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1109967,13 +1110082,18 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/255199232/01.webp"
+        "assets/products/aosendi/255199232/01.webp",
+        "assets/products/aosendi/255199232/02.webp",
+        "assets/products/aosendi/255199232/03.webp",
+        "assets/products/aosendi/255199232/04.webp",
+        "assets/products/aosendi/255199232/05.webp",
+        "assets/products/aosendi/255199232/06.webp"
       ],
       "coverUrl": "assets/products/aosendi/255199232/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:01:48.066Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:18:42.329Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:228732425",
@@ -1110006,7 +1110126,7 @@
       "sourcePriority": 5,
       "sourceId": "256099545",
       "uniqueKey": "aosendi:256099545",
-      "title": "2627 Short Sleeve 20",
+      "title": "2627 Korte mouw 20",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/256099545",
       "categoryId": null,
       "collectionId": "3926493",
@@ -1110023,15 +1110143,20 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/256099545/01.webp"
+        "assets/products/aosendi/256099545/01.webp",
+        "assets/products/aosendi/256099545/02.webp",
+        "assets/products/aosendi/256099545/03.webp",
+        "assets/products/aosendi/256099545/04.webp",
+        "assets/products/aosendi/256099545/05.webp",
+        "assets/products/aosendi/256099545/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/aosendi/2d68d40ce7/medium.jpg"
       ],
       "coverUrl": "assets/products/aosendi/256099545/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:02:05.558Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:18:14.371Z",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:248825661",
@@ -1110168,7 +1110293,7 @@
       "sourcePriority": 5,
       "sourceId": "255690727",
       "uniqueKey": "aosendi:255690727",
-      "title": "2627 Short Sleeve AC 19",
+      "title": "2627 Korte mouw AC 19",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/255690727",
       "categoryId": null,
       "collectionId": "3926493",
@@ -1110185,15 +1110310,20 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/255690727/01.webp"
+        "assets/products/aosendi/255690727/01.webp",
+        "assets/products/aosendi/255690727/02.webp",
+        "assets/products/aosendi/255690727/03.webp",
+        "assets/products/aosendi/255690727/04.webp",
+        "assets/products/aosendi/255690727/05.webp",
+        "assets/products/aosendi/255690727/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/aosendi/048112c022/medium.jpg"
       ],
       "coverUrl": "assets/products/aosendi/255690727/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:01:53.772Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:18:29.324Z",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:255690624",
@@ -1110201,7 +1110331,7 @@
       "sourceId": "255690624",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/255690624",
       "sourceCategory": "more",
-      "title": "2627 Short Sleeve AC 19",
+      "title": "2627 Korte mouw AC 19",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1110213,20 +1110343,25 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/255690624/01.webp"
+        "assets/products/aosendi/255690624/01.webp",
+        "assets/products/aosendi/255690624/02.webp",
+        "assets/products/aosendi/255690624/03.webp",
+        "assets/products/aosendi/255690624/04.webp",
+        "assets/products/aosendi/255690624/05.webp",
+        "assets/products/aosendi/255690624/06.webp"
       ],
       "coverUrl": "assets/products/aosendi/255690624/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:01:52.695Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:18:27.630Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "aosendi",
       "sourcePriority": 5,
       "sourceId": "259606945",
       "uniqueKey": "aosendi:259606945",
-      "title": "2627 Windbreaker 10",
+      "title": "2627 Windjack 【 】10",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/259606945",
       "categoryId": null,
       "collectionId": "5334682",
@@ -1110243,15 +1110378,20 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/259606945/01.webp"
+        "assets/products/aosendi/259606945/01.webp",
+        "assets/products/aosendi/259606945/02.webp",
+        "assets/products/aosendi/259606945/03.webp",
+        "assets/products/aosendi/259606945/04.webp",
+        "assets/products/aosendi/259606945/05.webp",
+        "assets/products/aosendi/259606945/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/aosendi/2db6366e55/medium.jpg"
       ],
       "coverUrl": "assets/products/aosendi/259606945/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:02:30.383Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:15:46.737Z",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:254281477",
@@ -1110557,7 +1110697,7 @@
       "sourceId": "259606475",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/259606475",
       "sourceCategory": "more",
-      "title": "2627 Windbreaker 8",
+      "title": "2627 Windjack 【 】8",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1110569,13 +1110709,18 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/259606475/01.webp"
+        "assets/products/aosendi/259606475/01.webp",
+        "assets/products/aosendi/259606475/02.webp",
+        "assets/products/aosendi/259606475/03.webp",
+        "assets/products/aosendi/259606475/04.webp",
+        "assets/products/aosendi/259606475/05.webp",
+        "assets/products/aosendi/259606475/06.webp"
       ],
       "coverUrl": "assets/products/aosendi/259606475/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:02:29.359Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:15:58.518Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:256617379",
@@ -1110687,7 +1110832,7 @@
       "sourceId": "258293772",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/258293772",
       "sourceCategory": "more",
-      "title": "2627 Windbreaker 8",
+      "title": "2627 Windjack 8",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1110699,13 +1110844,18 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/258293772/01.webp"
+        "assets/products/aosendi/258293772/01.webp",
+        "assets/products/aosendi/258293772/02.webp",
+        "assets/products/aosendi/258293772/03.webp",
+        "assets/products/aosendi/258293772/04.webp",
+        "assets/products/aosendi/258293772/05.webp",
+        "assets/products/aosendi/258293772/06.webp"
       ],
       "coverUrl": "assets/products/aosendi/258293772/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:02:24.939Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:17:20.911Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:255970629",
@@ -1110739,7 +1110889,7 @@
       "sourceId": "255033649",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/255033649",
       "sourceCategory": "more",
-      "title": "2627 Windbreaker 8",
+      "title": "2627 Windjack 8",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1110751,13 +1110901,18 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/255033649/01.webp"
+        "assets/products/aosendi/255033649/01.webp",
+        "assets/products/aosendi/255033649/02.webp",
+        "assets/products/aosendi/255033649/03.webp",
+        "assets/products/aosendi/255033649/04.webp",
+        "assets/products/aosendi/255033649/05.webp",
+        "assets/products/aosendi/255033649/06.webp"
       ],
       "coverUrl": "assets/products/aosendi/255033649/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:01:44.598Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:17:28.230Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:255847608",
@@ -1110791,7 +1110946,7 @@
       "sourceId": "256617248",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/256617248",
       "sourceCategory": "more",
-      "title": "2627 Windbreaker 8",
+      "title": "2627 Windjack 8",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1110803,13 +1110958,18 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/256617248/01.webp"
+        "assets/products/aosendi/256617248/01.webp",
+        "assets/products/aosendi/256617248/02.webp",
+        "assets/products/aosendi/256617248/03.webp",
+        "assets/products/aosendi/256617248/04.webp",
+        "assets/products/aosendi/256617248/05.webp",
+        "assets/products/aosendi/256617248/06.webp"
       ],
       "coverUrl": "assets/products/aosendi/256617248/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:02:06.586Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:17:17.129Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:257327474",
@@ -1110817,7 +1110977,7 @@
       "sourceId": "257327474",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/257327474",
       "sourceCategory": "more",
-      "title": "2627 Windbreaker 8",
+      "title": "2627 Windjack 8",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1110829,13 +1110989,18 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/257327474/01.webp"
+        "assets/products/aosendi/257327474/01.webp",
+        "assets/products/aosendi/257327474/02.webp",
+        "assets/products/aosendi/257327474/03.webp",
+        "assets/products/aosendi/257327474/04.webp",
+        "assets/products/aosendi/257327474/05.webp",
+        "assets/products/aosendi/257327474/06.webp"
       ],
       "coverUrl": "assets/products/aosendi/257327474/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:02:19.669Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:16:59.906Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:259605893",
@@ -1110843,7 +1111008,7 @@
       "sourceId": "259605893",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/259605893",
       "sourceCategory": "more",
-      "title": "2627 Windbreaker 8",
+      "title": "2627 Windjack 8",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1110855,13 +1111020,18 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/259605893/01.webp"
+        "assets/products/aosendi/259605893/01.webp",
+        "assets/products/aosendi/259605893/02.webp",
+        "assets/products/aosendi/259605893/03.webp",
+        "assets/products/aosendi/259605893/04.webp",
+        "assets/products/aosendi/259605893/05.webp",
+        "assets/products/aosendi/259605893/06.webp"
       ],
       "coverUrl": "assets/products/aosendi/259605893/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:02:27.925Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:16:23.619Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:259606174",
@@ -1110869,7 +1111039,7 @@
       "sourceId": "259606174",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/259606174",
       "sourceCategory": "more",
-      "title": "2627 Windbreaker 8",
+      "title": "2627 Windjack 8",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1110881,20 +1111051,25 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/259606174/01.webp"
+        "assets/products/aosendi/259606174/01.webp",
+        "assets/products/aosendi/259606174/02.webp",
+        "assets/products/aosendi/259606174/03.webp",
+        "assets/products/aosendi/259606174/04.webp",
+        "assets/products/aosendi/259606174/05.webp",
+        "assets/products/aosendi/259606174/06.webp"
       ],
       "coverUrl": "assets/products/aosendi/259606174/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:02:28.229Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:16:10.930Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "aosendi",
       "sourcePriority": 5,
       "sourceId": "259606759",
       "uniqueKey": "aosendi:259606759",
-      "title": "2627 Windbreaker 8",
+      "title": "2627 Windjack 【 】8",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/259606759",
       "categoryId": null,
       "collectionId": "5334682",
@@ -1110911,15 +1111086,20 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/259606759/01.webp"
+        "assets/products/aosendi/259606759/01.webp",
+        "assets/products/aosendi/259606759/02.webp",
+        "assets/products/aosendi/259606759/03.webp",
+        "assets/products/aosendi/259606759/04.webp",
+        "assets/products/aosendi/259606759/05.webp",
+        "assets/products/aosendi/259606759/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/aosendi/9f7df09ab9/medium.jpg"
       ],
       "coverUrl": "assets/products/aosendi/259606759/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:02:30.236Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:15:58.769Z",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:255189316",
@@ -1111031,7 +1111211,7 @@
       "sourceId": "255345059",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/255345059",
       "sourceCategory": "more",
-      "title": "2627 Windbreaker 9",
+      "title": "2627 Windjack 9",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1111043,13 +1111223,18 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/255345059/01.webp"
+        "assets/products/aosendi/255345059/01.webp",
+        "assets/products/aosendi/255345059/02.webp",
+        "assets/products/aosendi/255345059/03.webp",
+        "assets/products/aosendi/255345059/04.webp",
+        "assets/products/aosendi/255345059/05.webp",
+        "assets/products/aosendi/255345059/06.webp"
       ],
       "coverUrl": "assets/products/aosendi/255345059/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:01:51.654Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:17:46.471Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:255848562",
@@ -1111057,7 +1111242,7 @@
       "sourceId": "255848562",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/255848562",
       "sourceCategory": "more",
-      "title": "2627 Windbreaker 9",
+      "title": "2627 Windjack 9",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1111069,13 +1111254,18 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/255848562/01.webp"
+        "assets/products/aosendi/255848562/01.webp",
+        "assets/products/aosendi/255848562/02.webp",
+        "assets/products/aosendi/255848562/03.webp",
+        "assets/products/aosendi/255848562/04.webp",
+        "assets/products/aosendi/255848562/05.webp",
+        "assets/products/aosendi/255848562/06.webp"
       ],
       "coverUrl": "assets/products/aosendi/255848562/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:01:59.091Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:17:29.364Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:255848206",
@@ -1111083,7 +1111273,7 @@
       "sourceId": "255848206",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/255848206",
       "sourceCategory": "more",
-      "title": "2627 Windbreaker 9",
+      "title": "2627 Windjack 【 】9",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1111095,13 +1111285,18 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/255848206/01.webp"
+        "assets/products/aosendi/255848206/01.webp",
+        "assets/products/aosendi/255848206/02.webp",
+        "assets/products/aosendi/255848206/03.webp",
+        "assets/products/aosendi/255848206/04.webp",
+        "assets/products/aosendi/255848206/05.webp",
+        "assets/products/aosendi/255848206/06.webp"
       ],
       "coverUrl": "assets/products/aosendi/255848206/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:01:58.156Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:17:36.464Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:255345222",
@@ -1111109,7 +1111304,7 @@
       "sourceId": "255345222",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/255345222",
       "sourceCategory": "more",
-      "title": "2627 Windbreaker 9",
+      "title": "2627 Windjack 9",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1111121,13 +1111316,18 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/255345222/01.webp"
+        "assets/products/aosendi/255345222/01.webp",
+        "assets/products/aosendi/255345222/02.webp",
+        "assets/products/aosendi/255345222/03.webp",
+        "assets/products/aosendi/255345222/04.webp",
+        "assets/products/aosendi/255345222/05.webp",
+        "assets/products/aosendi/255345222/06.webp"
       ],
       "coverUrl": "assets/products/aosendi/255345222/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:01:52.632Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:17:47.336Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:256449322",
@@ -1111135,7 +1111335,7 @@
       "sourceId": "256449322",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/256449322",
       "sourceCategory": "more",
-      "title": "2627 Windbreaker 9",
+      "title": "2627 Windjack 9",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1111147,20 +1111347,25 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/256449322/01.webp"
+        "assets/products/aosendi/256449322/01.webp",
+        "assets/products/aosendi/256449322/02.webp",
+        "assets/products/aosendi/256449322/03.webp",
+        "assets/products/aosendi/256449322/04.webp",
+        "assets/products/aosendi/256449322/05.webp",
+        "assets/products/aosendi/256449322/06.webp"
       ],
       "coverUrl": "assets/products/aosendi/256449322/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:02:06.444Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:17:09.041Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "aosendi",
       "sourcePriority": 5,
       "sourceId": "259606381",
       "uniqueKey": "aosendi:259606381",
-      "title": "2627 Windbreaker 9",
+      "title": "2627 Windjack 【 】9",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/259606381",
       "categoryId": null,
       "collectionId": "5334682",
@@ -1111177,15 +1111382,20 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/259606381/01.webp"
+        "assets/products/aosendi/259606381/01.webp",
+        "assets/products/aosendi/259606381/02.webp",
+        "assets/products/aosendi/259606381/03.webp",
+        "assets/products/aosendi/259606381/04.webp",
+        "assets/products/aosendi/259606381/05.webp",
+        "assets/products/aosendi/259606381/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/aosendi/0bfd8b9b72/medium.jpg"
       ],
       "coverUrl": "assets/products/aosendi/259606381/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:02:29.119Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:16:08.521Z",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:255848352",
@@ -1111465,7 +1111675,7 @@
       "sourceId": "258293922",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/258293922",
       "sourceCategory": "more",
-      "title": "2627 Windbreaker AD 8",
+      "title": "2627 Windjack 【 AD 】8",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1111477,13 +1111687,18 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/258293922/01.webp"
+        "assets/products/aosendi/258293922/01.webp",
+        "assets/products/aosendi/258293922/02.webp",
+        "assets/products/aosendi/258293922/03.webp",
+        "assets/products/aosendi/258293922/04.webp",
+        "assets/products/aosendi/258293922/05.webp",
+        "assets/products/aosendi/258293922/06.webp"
       ],
       "coverUrl": "assets/products/aosendi/258293922/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:02:25.863Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:16:32.689Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:256617966",
@@ -1111491,7 +1111706,7 @@
       "sourceId": "256617966",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/256617966",
       "sourceCategory": "more",
-      "title": "2627 Windbreaker AD 8",
+      "title": "2627 Windjack 【 AD 】8",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1111503,13 +1111718,18 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/256617966/01.webp"
+        "assets/products/aosendi/256617966/01.webp",
+        "assets/products/aosendi/256617966/02.webp",
+        "assets/products/aosendi/256617966/03.webp",
+        "assets/products/aosendi/256617966/04.webp",
+        "assets/products/aosendi/256617966/05.webp",
+        "assets/products/aosendi/256617966/06.webp"
       ],
       "coverUrl": "assets/products/aosendi/256617966/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:02:09.524Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:16:51.935Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:256957286",
@@ -1111517,7 +1111737,7 @@
       "sourceId": "256957286",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/256957286",
       "sourceCategory": "more",
-      "title": "2627 Windbreaker AD 8",
+      "title": "2627 Windjack 【 AD 】8",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1111529,13 +1111749,18 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/256957286/01.webp"
+        "assets/products/aosendi/256957286/01.webp",
+        "assets/products/aosendi/256957286/02.webp",
+        "assets/products/aosendi/256957286/03.webp",
+        "assets/products/aosendi/256957286/04.webp",
+        "assets/products/aosendi/256957286/05.webp",
+        "assets/products/aosendi/256957286/06.webp"
       ],
       "coverUrl": "assets/products/aosendi/256957286/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:02:10.796Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:16:51.731Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:257326421",
@@ -1111543,7 +1111768,7 @@
       "sourceId": "257326421",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/257326421",
       "sourceCategory": "more",
-      "title": "2627 Windbreaker AD 8",
+      "title": "2627 Windjack 【 AD 】8",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1111555,13 +1111780,18 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/257326421/01.webp"
+        "assets/products/aosendi/257326421/01.webp",
+        "assets/products/aosendi/257326421/02.webp",
+        "assets/products/aosendi/257326421/03.webp",
+        "assets/products/aosendi/257326421/04.webp",
+        "assets/products/aosendi/257326421/05.webp",
+        "assets/products/aosendi/257326421/06.webp"
       ],
       "coverUrl": "assets/products/aosendi/257326421/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:02:15.276Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:16:35.537Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:256617771",
@@ -1111569,7 +1111799,7 @@
       "sourceId": "256617771",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/256617771",
       "sourceCategory": "more",
-      "title": "2627 Windbreaker AD 8",
+      "title": "2627 Windjack 【 AD 】8",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1111581,13 +1111811,18 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/256617771/01.webp"
+        "assets/products/aosendi/256617771/01.webp",
+        "assets/products/aosendi/256617771/02.webp",
+        "assets/products/aosendi/256617771/03.webp",
+        "assets/products/aosendi/256617771/04.webp",
+        "assets/products/aosendi/256617771/05.webp",
+        "assets/products/aosendi/256617771/06.webp"
       ],
       "coverUrl": "assets/products/aosendi/256617771/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:02:08.689Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:17:02.430Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:257326374",
@@ -1111595,7 +1111830,7 @@
       "sourceId": "257326374",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/257326374",
       "sourceCategory": "more",
-      "title": "2627 Windbreaker AD 8",
+      "title": "2627 Windjack 【 AD 】8",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1111607,20 +1111842,25 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/257326374/01.webp"
+        "assets/products/aosendi/257326374/01.webp",
+        "assets/products/aosendi/257326374/02.webp",
+        "assets/products/aosendi/257326374/03.webp",
+        "assets/products/aosendi/257326374/04.webp",
+        "assets/products/aosendi/257326374/05.webp",
+        "assets/products/aosendi/257326374/06.webp"
       ],
       "coverUrl": "assets/products/aosendi/257326374/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:02:15.020Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:16:41.377Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "aosendi",
       "sourcePriority": 5,
       "sourceId": "258729508",
       "uniqueKey": "aosendi:258729508",
-      "title": "2627 Windbreaker AD 8",
+      "title": "2627 Windjack 【 AD 】8",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/258729508",
       "categoryId": null,
       "collectionId": "5334682",
@@ -1111637,15 +1111877,20 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/258729508/01.webp"
+        "assets/products/aosendi/258729508/01.webp",
+        "assets/products/aosendi/258729508/02.webp",
+        "assets/products/aosendi/258729508/03.webp",
+        "assets/products/aosendi/258729508/04.webp",
+        "assets/products/aosendi/258729508/05.webp",
+        "assets/products/aosendi/258729508/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/aosendi/b357d38f6f/medium.jpg"
       ],
       "coverUrl": "assets/products/aosendi/258729508/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:02:26.026Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:16:19.820Z",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:256957376",
@@ -1111653,7 +1111898,7 @@
       "sourceId": "256957376",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/256957376",
       "sourceCategory": "more",
-      "title": "2627 Windbreaker AD 8",
+      "title": "2627 Windjack 【 AD 】8",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1111665,13 +1111910,18 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/256957376/01.webp"
+        "assets/products/aosendi/256957376/01.webp",
+        "assets/products/aosendi/256957376/02.webp",
+        "assets/products/aosendi/256957376/03.webp",
+        "assets/products/aosendi/256957376/04.webp",
+        "assets/products/aosendi/256957376/05.webp",
+        "assets/products/aosendi/256957376/06.webp"
       ],
       "coverUrl": "assets/products/aosendi/256957376/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:02:11.603Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:16:43.263Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "aosendi",
@@ -1111695,15 +1111945,20 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/249923798/01.webp"
+        "assets/products/aosendi/249923798/01.webp",
+        "assets/products/aosendi/249923798/02.webp",
+        "assets/products/aosendi/249923798/03.webp",
+        "assets/products/aosendi/249923798/04.webp",
+        "assets/products/aosendi/249923798/05.webp",
+        "assets/products/aosendi/249923798/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/aosendi/b0c6cfe059/medium.jpg"
       ],
       "coverUrl": "assets/products/aosendi/249923798/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:01:01.812Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:13:28.070Z",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:249923676",
@@ -1125660,7 +1125915,7 @@
       "sourceId": "254457722",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/254457722",
       "sourceCategory": "more",
-      "title": "Kids 2627 / 2",
+      "title": "2627 【 / 】2",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1125672,13 +1125927,17 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/254457722/01.webp"
+        "assets/products/aosendi/254457722/01.webp",
+        "assets/products/aosendi/254457722/02.webp",
+        "assets/products/aosendi/254457722/03.webp",
+        "assets/products/aosendi/254457722/04.webp",
+        "assets/products/aosendi/254457722/05.webp"
       ],
       "coverUrl": "assets/products/aosendi/254457722/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:01:39.312Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-31T11:14:18.252Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:247163558",
@@ -1126394,7 +1126653,7 @@
       "sourceId": "256957160",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/256957160",
       "sourceCategory": "more",
-      "title": "Kids 2627 2",
+      "title": "2627 【 】2",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1126406,13 +1126665,17 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/256957160/01.webp"
+        "assets/products/aosendi/256957160/01.webp",
+        "assets/products/aosendi/256957160/02.webp",
+        "assets/products/aosendi/256957160/03.webp",
+        "assets/products/aosendi/256957160/04.webp",
+        "assets/products/aosendi/256957160/05.webp"
       ],
       "coverUrl": "assets/products/aosendi/256957160/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:02:10.569Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-31T11:13:43.686Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:242356278",
@@ -1126550,7 +1126813,7 @@
       "sourceId": "255199175",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/255199175",
       "sourceCategory": "more",
-      "title": "Kids 2627 2",
+      "title": "2627 【 】2",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1126562,13 +1126825,17 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/255199175/01.webp"
+        "assets/products/aosendi/255199175/01.webp",
+        "assets/products/aosendi/255199175/02.webp",
+        "assets/products/aosendi/255199175/03.webp",
+        "assets/products/aosendi/255199175/04.webp",
+        "assets/products/aosendi/255199175/05.webp"
       ],
       "coverUrl": "assets/products/aosendi/255199175/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:01:47.677Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-31T11:14:02.152Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:255691014",
@@ -1126576,7 +1126843,7 @@
       "sourceId": "255691014",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/255691014",
       "sourceCategory": "more",
-      "title": "Kids 2627 2",
+      "title": "2627 【 】2",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1126588,13 +1126855,17 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/255691014/01.webp"
+        "assets/products/aosendi/255691014/01.webp",
+        "assets/products/aosendi/255691014/02.webp",
+        "assets/products/aosendi/255691014/03.webp",
+        "assets/products/aosendi/255691014/04.webp",
+        "assets/products/aosendi/255691014/05.webp"
       ],
       "coverUrl": "assets/products/aosendi/255691014/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:01:55.810Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-31T11:13:53.669Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:251238454",
@@ -1126602,7 +1126873,7 @@
       "sourceId": "251238454",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/251238454",
       "sourceCategory": "more",
-      "title": "Kids 2627 2",
+      "title": "2627 【 】2",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1126614,13 +1126885,17 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/251238454/01.webp"
+        "assets/products/aosendi/251238454/01.webp",
+        "assets/products/aosendi/251238454/02.webp",
+        "assets/products/aosendi/251238454/03.webp",
+        "assets/products/aosendi/251238454/04.webp",
+        "assets/products/aosendi/251238454/05.webp"
       ],
       "coverUrl": "assets/products/aosendi/251238454/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:01:14.835Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-31T11:15:06.135Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:235603298",
@@ -1126732,7 +1127007,7 @@
       "sourceId": "250386397",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/250386397",
       "sourceCategory": "more",
-      "title": "Kids 2627 2",
+      "title": "2627 2",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1126744,13 +1127019,17 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/250386397/01.webp"
+        "assets/products/aosendi/250386397/01.webp",
+        "assets/products/aosendi/250386397/02.webp",
+        "assets/products/aosendi/250386397/03.webp",
+        "assets/products/aosendi/250386397/04.webp",
+        "assets/products/aosendi/250386397/05.webp"
       ],
       "coverUrl": "assets/products/aosendi/250386397/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:01:07.582Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-31T11:15:39.700Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:250386241",
@@ -1126758,7 +1127037,7 @@
       "sourceId": "250386241",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/250386241",
       "sourceCategory": "more",
-      "title": "Kids 2627 2",
+      "title": "2627 2",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1126770,13 +1127049,17 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/250386241/01.webp"
+        "assets/products/aosendi/250386241/01.webp",
+        "assets/products/aosendi/250386241/02.webp",
+        "assets/products/aosendi/250386241/03.webp",
+        "assets/products/aosendi/250386241/04.webp",
+        "assets/products/aosendi/250386241/05.webp"
       ],
       "coverUrl": "assets/products/aosendi/250386241/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:01:06.534Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-31T11:15:34.596Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:251556440",
@@ -1126784,7 +1127067,7 @@
       "sourceId": "251556440",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/251556440",
       "sourceCategory": "more",
-      "title": "Kids 2627 2",
+      "title": "2627 2",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1126796,13 +1127079,17 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/251556440/01.webp"
+        "assets/products/aosendi/251556440/01.webp",
+        "assets/products/aosendi/251556440/02.webp",
+        "assets/products/aosendi/251556440/03.webp",
+        "assets/products/aosendi/251556440/04.webp",
+        "assets/products/aosendi/251556440/05.webp"
       ],
       "coverUrl": "assets/products/aosendi/251556440/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:01:15.909Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-31T11:14:58.254Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:247167444",
@@ -1126992,7 +1127279,7 @@
       "sourceId": "253349722",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/253349722",
       "sourceCategory": "more",
-      "title": "Kids 2627 2",
+      "title": "2627 2",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1127004,13 +1127291,17 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/253349722/01.webp"
+        "assets/products/aosendi/253349722/01.webp",
+        "assets/products/aosendi/253349722/02.webp",
+        "assets/products/aosendi/253349722/03.webp",
+        "assets/products/aosendi/253349722/04.webp",
+        "assets/products/aosendi/253349722/05.webp"
       ],
       "coverUrl": "assets/products/aosendi/253349722/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:01:27.097Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-31T11:14:14.802Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:253349612",
@@ -1127018,7 +1127309,7 @@
       "sourceId": "253349612",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/253349612",
       "sourceCategory": "more",
-      "title": "Kids 2627 2",
+      "title": "2627 2",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1127030,13 +1127321,17 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/253349612/01.webp"
+        "assets/products/aosendi/253349612/01.webp",
+        "assets/products/aosendi/253349612/02.webp",
+        "assets/products/aosendi/253349612/03.webp",
+        "assets/products/aosendi/253349612/04.webp",
+        "assets/products/aosendi/253349612/05.webp"
       ],
       "coverUrl": "assets/products/aosendi/253349612/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:01:26.010Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-31T11:14:27.136Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:244899757",
@@ -1127460,7 +1127755,7 @@
       "sourceId": "251238161",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/251238161",
       "sourceCategory": "more",
-      "title": "Kids 2627 2",
+      "title": "2627 2",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1127472,13 +1127767,17 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/251238161/01.webp"
+        "assets/products/aosendi/251238161/01.webp",
+        "assets/products/aosendi/251238161/02.webp",
+        "assets/products/aosendi/251238161/03.webp",
+        "assets/products/aosendi/251238161/04.webp",
+        "assets/products/aosendi/251238161/05.webp"
       ],
       "coverUrl": "assets/products/aosendi/251238161/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:01:11.738Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-31T11:15:25.921Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:251238285",
@@ -1127486,7 +1127785,7 @@
       "sourceId": "251238285",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/251238285",
       "sourceCategory": "more",
-      "title": "Kids 2627 2",
+      "title": "2627 2",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1127498,20 +1127797,24 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/251238285/01.webp"
+        "assets/products/aosendi/251238285/01.webp",
+        "assets/products/aosendi/251238285/02.webp",
+        "assets/products/aosendi/251238285/03.webp",
+        "assets/products/aosendi/251238285/04.webp",
+        "assets/products/aosendi/251238285/05.webp"
       ],
       "coverUrl": "assets/products/aosendi/251238285/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:01:12.780Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-31T11:15:22.955Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "aosendi",
       "sourcePriority": 5,
       "sourceId": "257641520",
       "uniqueKey": "aosendi:257641520",
-      "title": "Kids 2627 2",
+      "title": "2627 【 】2",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/257641520",
       "categoryId": null,
       "collectionId": "3371977",
@@ -1127528,15 +1127831,19 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/257641520/01.webp"
+        "assets/products/aosendi/257641520/01.webp",
+        "assets/products/aosendi/257641520/02.webp",
+        "assets/products/aosendi/257641520/03.webp",
+        "assets/products/aosendi/257641520/04.webp",
+        "assets/products/aosendi/257641520/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/aosendi/ad847a2275/medium.jpg"
       ],
       "coverUrl": "assets/products/aosendi/257641520/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:02:20.697Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-31T11:13:39.407Z",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:247166848",
@@ -1127570,7 +1127877,7 @@
       "sourceId": "251238382",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/251238382",
       "sourceCategory": "more",
-      "title": "Kids 2627 2",
+      "title": "2627 2",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1127582,13 +1127889,17 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/251238382/01.webp"
+        "assets/products/aosendi/251238382/01.webp",
+        "assets/products/aosendi/251238382/02.webp",
+        "assets/products/aosendi/251238382/03.webp",
+        "assets/products/aosendi/251238382/04.webp",
+        "assets/products/aosendi/251238382/05.webp"
       ],
       "coverUrl": "assets/products/aosendi/251238382/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:01:13.797Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-31T11:15:15.132Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:230940904",
@@ -1127700,7 +1128011,7 @@
       "sourceId": "252495103",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/252495103",
       "sourceCategory": "more",
-      "title": "Kids 2627 2",
+      "title": "2627 2",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1127712,13 +1128023,17 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/252495103/01.webp"
+        "assets/products/aosendi/252495103/01.webp",
+        "assets/products/aosendi/252495103/02.webp",
+        "assets/products/aosendi/252495103/03.webp",
+        "assets/products/aosendi/252495103/04.webp",
+        "assets/products/aosendi/252495103/05.webp"
       ],
       "coverUrl": "assets/products/aosendi/252495103/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:01:20.544Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-31T11:14:49.221Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:240829219",
@@ -1127752,7 +1128067,7 @@
       "sourceId": "249926106",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/249926106",
       "sourceCategory": "more",
-      "title": "Kids 2627 2",
+      "title": "2627 【 】2",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1127764,13 +1128079,17 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/249926106/01.webp"
+        "assets/products/aosendi/249926106/01.webp",
+        "assets/products/aosendi/249926106/02.webp",
+        "assets/products/aosendi/249926106/03.webp",
+        "assets/products/aosendi/249926106/04.webp",
+        "assets/products/aosendi/249926106/05.webp"
       ],
       "coverUrl": "assets/products/aosendi/249926106/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:01:03.913Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-31T11:15:41.836Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:256099408",
@@ -1127778,7 +1128097,7 @@
       "sourceId": "256099408",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/256099408",
       "sourceCategory": "more",
-      "title": "Kids 2627 2",
+      "title": "2627 2",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1127790,13 +1128109,17 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/256099408/01.webp"
+        "assets/products/aosendi/256099408/01.webp",
+        "assets/products/aosendi/256099408/02.webp",
+        "assets/products/aosendi/256099408/03.webp",
+        "assets/products/aosendi/256099408/04.webp",
+        "assets/products/aosendi/256099408/05.webp"
       ],
       "coverUrl": "assets/products/aosendi/256099408/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:02:01.372Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-31T11:14:05.165Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:242059876",
@@ -1127856,7 +1128179,7 @@
       "sourceId": "251556524",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/251556524",
       "sourceCategory": "more",
-      "title": "Kids 2627 2",
+      "title": "2627 2",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1127868,13 +1128191,17 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/251556524/01.webp"
+        "assets/products/aosendi/251556524/01.webp",
+        "assets/products/aosendi/251556524/02.webp",
+        "assets/products/aosendi/251556524/03.webp",
+        "assets/products/aosendi/251556524/04.webp",
+        "assets/products/aosendi/251556524/05.webp"
       ],
       "coverUrl": "assets/products/aosendi/251556524/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:01:17.073Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-31T11:15:09.878Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:239228235",
@@ -1128427,7 +1128754,7 @@
       "sourcePriority": 5,
       "sourceId": "259005909",
       "uniqueKey": "aosendi:259005909",
-      "title": "Kids 2627 3",
+      "title": "2627 3",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/259005909",
       "categoryId": null,
       "collectionId": "3371977",
@@ -1128444,15 +1128771,20 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/259005909/01.webp"
+        "assets/products/aosendi/259005909/01.webp",
+        "assets/products/aosendi/259005909/02.webp",
+        "assets/products/aosendi/259005909/03.webp",
+        "assets/products/aosendi/259005909/04.webp",
+        "assets/products/aosendi/259005909/05.webp",
+        "assets/products/aosendi/259005909/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/aosendi/ac33d93836/medium.jpg"
       ],
       "coverUrl": "assets/products/aosendi/259005909/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:02:27.202Z",
-      "classificationVersion": 1
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:13:34.980Z",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:239482302",
@@ -1128564,7 +1128896,7 @@
       "sourceId": "253349250",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/253349250",
       "sourceCategory": "more",
-      "title": "Kids 2627 3",
+      "title": "2627 3",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1128576,13 +1128908,18 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/253349250/01.webp"
+        "assets/products/aosendi/253349250/01.webp",
+        "assets/products/aosendi/253349250/02.webp",
+        "assets/products/aosendi/253349250/03.webp",
+        "assets/products/aosendi/253349250/04.webp",
+        "assets/products/aosendi/253349250/05.webp",
+        "assets/products/aosendi/253349250/06.webp"
       ],
       "coverUrl": "assets/products/aosendi/253349250/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:01:23.664Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:14:38.271Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:253349513",
@@ -1128590,7 +1128927,7 @@
       "sourceId": "253349513",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/253349513",
       "sourceCategory": "more",
-      "title": "Kids 2627 3",
+      "title": "2627 3",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1128602,13 +1128939,18 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/253349513/01.webp"
+        "assets/products/aosendi/253349513/01.webp",
+        "assets/products/aosendi/253349513/02.webp",
+        "assets/products/aosendi/253349513/03.webp",
+        "assets/products/aosendi/253349513/04.webp",
+        "assets/products/aosendi/253349513/05.webp",
+        "assets/products/aosendi/253349513/06.webp"
       ],
       "coverUrl": "assets/products/aosendi/253349513/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:01:25.076Z",
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T11:14:39.867Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:231886321",
@@ -1131650,7 +1131992,7 @@
       "sourceId": "249923829",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/249923829",
       "sourceCategory": "more",
-      "title": "Kids 2627AC 2",
+      "title": "2627AC 2",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1131662,20 +1132004,24 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/249923829/01.webp"
+        "assets/products/aosendi/249923829/01.webp",
+        "assets/products/aosendi/249923829/02.webp",
+        "assets/products/aosendi/249923829/03.webp",
+        "assets/products/aosendi/249923829/04.webp",
+        "assets/products/aosendi/249923829/05.webp"
       ],
       "coverUrl": "assets/products/aosendi/249923829/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:01:03.163Z",
+      "imageCount": 5,
+      "updatedAt": "2026-10-31T11:15:48.474Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "aosendi",
       "sourcePriority": 5,
       "sourceId": "253181163",
       "uniqueKey": "aosendi:253181163",
-      "title": "Kids 2627AC 2",
+      "title": "2627AC 2",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/253181163",
       "categoryId": null,
       "collectionId": "3371977",
@@ -1131692,15 +1132038,19 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/253181163/01.webp"
+        "assets/products/aosendi/253181163/01.webp",
+        "assets/products/aosendi/253181163/02.webp",
+        "assets/products/aosendi/253181163/03.webp",
+        "assets/products/aosendi/253181163/04.webp",
+        "assets/products/aosendi/253181163/05.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/aosendi/617c3849e8/medium.jpg"
       ],
       "coverUrl": "assets/products/aosendi/253181163/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T22:01:22.640Z",
-      "classificationVersion": 1
+      "imageCount": 5,
+      "updatedAt": "2026-10-31T11:14:49.332Z",
+      "classificationVersion": 2
     },
     {
       "uniqueKey": "aosendi:249923767",
@@ -1148623,6 +1148973,36 @@
       "imageCount": 6,
       "classificationVersion": 2,
       "updatedAt": "2026-10-31T08:06:24.243Z"
+    },
+    {
+      "uniqueKey": "aosendi:260903687",
+      "source": "aosendi",
+      "sourceId": "260903687",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/260903687",
+      "sourceCategory": "more",
+      "title": "2627 Korte mouw 18",
+      "section": "Trainingskleding",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/aosendi/260903687/01.webp",
+        "assets/products/aosendi/260903687/02.webp",
+        "assets/products/aosendi/260903687/03.webp",
+        "assets/products/aosendi/260903687/04.webp",
+        "assets/products/aosendi/260903687/05.webp",
+        "assets/products/aosendi/260903687/06.webp"
+      ],
+      "coverUrl": "assets/products/aosendi/260903687/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-10-31T11:17:59.309Z"
     }
   ],
   "warnings": []
