@@ -28,21 +28,13 @@
     },
     "dongshanstore": {
       "run": "2026-10-31",
-      "nextIndex": 1325,
+      "nextIndex": 1332,
       "total": 1332
     },
     "aosendi": {
-      "discoveryPhase": "complete",
-      "discoveryComplete": true,
-      "discoveredAlbums": 624,
-      "categoryIndex": 16,
-      "categoryTotal": 16,
-      "updatedAt": "2026-10-29T17:50:08.420Z",
-      "nextIndex": 624,
-      "total": 624,
-      "completed": true,
-      "completedAt": "2026-10-28T21:25:14.393Z",
-      "run": "2026-10-29"
+      "run": "2026-10-31",
+      "nextIndex": 25,
+      "total": 624
     },
     "yuhuaxieye1": {
       "run": "2026-10-30",
@@ -472,6 +464,7 @@
       "https://hema168.x.yupoo.com/categories/418919"
     ],
     "dachang88": [],
-    "dongshanstore": []
+    "dongshanstore": [],
+    "aosendi": []
   }
 }
