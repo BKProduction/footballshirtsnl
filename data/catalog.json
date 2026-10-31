@@ -1,6 +1,7 @@
 {
-  "lastSync": "2026-10-31T12:12:02.644Z",
-  "status": "completed",
+  "lastSync": "2026-10-31T17:06:05.356Z",
+  "status": "running",
+  "currentSource": "minkang",
   "products": [
     {
       "uniqueKey": "dachang88:66111399",
@@ -318379,7 +318380,7 @@
       "images": [],
       "coverUrl": "",
       "imageCount": 0,
-      "updatedAt": "2026-10-31T07:49:08.098Z",
+      "updatedAt": "2026-10-31T17:05:55.952Z",
       "sourceCollection": "",
       "classificationVersion": 2
     },
@@ -609810,14 +609811,14 @@
       "sourceId": "237393116",
       "uniqueKey": "minkang:237393116",
       "title": "M-U Terrace Icons Long Sleeve T-Shirt White S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/237393116?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/237393116",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "more",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
+      "subcategory": "more",
       "country": "",
       "competition": "",
       "club": "",
@@ -609826,14 +609827,20 @@
         "Overig"
       ],
       "images": [
-        "./assets/products/minkang/237393116/01.webp"
+        "assets/products/minkang/237393116/01.webp",
+        "assets/products/minkang/237393116/02.webp",
+        "assets/products/minkang/237393116/03.webp",
+        "assets/products/minkang/237393116/04.webp",
+        "assets/products/minkang/237393116/05.webp",
+        "assets/products/minkang/237393116/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/6ef9f5722d/medium.jpg"
       ],
-      "coverUrl": "./assets/products/minkang/237393116/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:07:31.999Z"
+      "coverUrl": "assets/products/minkang/237393116/01.webp",
+      "imageCount": 6,
+      "updatedAt": "2026-10-31T17:06:05.356Z",
+      "classificationVersion": 2
     },
     {
       "source": "minkang",
@@ -750437,7 +750444,7 @@
       "images": [],
       "coverUrl": "",
       "imageCount": 0,
-      "updatedAt": "2026-10-31T07:49:08.677Z",
+      "updatedAt": "2026-10-31T17:05:56.763Z",
       "sourceCollection": "",
       "classificationVersion": 2
     },
@@ -922963,7 +922970,7 @@
       "images": [],
       "coverUrl": "",
       "imageCount": 0,
-      "updatedAt": "2026-10-31T07:49:09.559Z",
+      "updatedAt": "2026-10-31T17:05:59.545Z",
       "sourceCollection": "",
       "classificationVersion": 2
     },
@@ -922987,7 +922994,7 @@
       "images": [],
       "coverUrl": "",
       "imageCount": 0,
-      "updatedAt": "2026-10-31T07:49:09.016Z",
+      "updatedAt": "2026-10-31T17:05:58.265Z",
       "sourceCollection": "",
       "classificationVersion": 2
     },
