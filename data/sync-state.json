@@ -61,12 +61,9 @@
       "run": "2026-10-29"
     },
     "yuhuaxieye1": {
-      "run": "2026-10-29",
-      "discoveryComplete": true,
-      "discoveredAlbums": 2089,
-      "categoryIndex": 85,
-      "categoryTotal": 85,
-      "updatedAt": "2026-10-29T16:22:43.923Z"
+      "run": "2026-10-30",
+      "nextIndex": 50,
+      "total": 2095
     },
     "hema168": {
       "run": "2026-10-29",
@@ -475,6 +472,7 @@
       "https://yema007.x.yupoo.com/categories/876689",
       "https://yema007.x.yupoo.com/categories/876714"
     ],
-    "popmo": []
+    "popmo": [],
+    "yuhuaxieye1": []
   }
 }
