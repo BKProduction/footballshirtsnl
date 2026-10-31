@@ -1,7 +1,7 @@
 {
-  "lastSync": "2026-10-31T17:19:05.691Z",
+  "lastSync": "2026-10-31T17:26:06.227Z",
   "status": "running",
-  "currentSource": "407131796",
+  "currentSource": "dongshanstore",
   "products": [
     {
       "uniqueKey": "dachang88:66111399",
@@ -1140927,7 +1140927,7 @@
       "images": [],
       "coverUrl": "",
       "imageCount": 0,
-      "updatedAt": "2026-10-31T08:34:37.290Z",
+      "updatedAt": "2026-10-31T17:25:55.281Z",
       "sourceCollection": "",
       "classificationVersion": 2
     },
@@ -1141003,7 +1141003,7 @@
       "images": [],
       "coverUrl": "",
       "imageCount": 0,
-      "updatedAt": "2026-10-31T08:34:38.139Z",
+      "updatedAt": "2026-10-31T17:25:55.580Z",
       "sourceCollection": "",
       "classificationVersion": 2
     },
@@ -1152189,6 +1152189,93 @@
       "imageCount": 6,
       "classificationVersion": 2,
       "updatedAt": "2026-10-31T17:19:05.691Z"
+    },
+    {
+      "uniqueKey": "dongshanstore:261003443",
+      "source": "dongshanstore",
+      "sourceId": "261003443",
+      "sourceUrl": "https://dongshanstore.x.yupoo.com/albums/261003443",
+      "sourceCategory": "more",
+      "title": "D26111# 2627 -Manchester United2",
+      "section": "Trainingskleding",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "competition": "Premier League",
+      "club": "Manchester United",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/dongshanstore/261003443/01.webp",
+        "assets/products/dongshanstore/261003443/02.webp",
+        "assets/products/dongshanstore/261003443/03.webp",
+        "assets/products/dongshanstore/261003443/04.webp",
+        "assets/products/dongshanstore/261003443/05.webp"
+      ],
+      "coverUrl": "assets/products/dongshanstore/261003443/01.webp",
+      "imageCount": 5,
+      "classificationVersion": 2,
+      "updatedAt": "2026-10-31T17:26:00.466Z"
+    },
+    {
+      "uniqueKey": "dongshanstore:261003719",
+      "source": "dongshanstore",
+      "sourceId": "261003719",
+      "sourceUrl": "https://dongshanstore.x.yupoo.com/albums/261003719",
+      "sourceCategory": "more",
+      "title": "J26109# 2627 Korte mouw -Manchester United2",
+      "section": "Trainingskleding",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "competition": "Premier League",
+      "club": "Manchester United",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/dongshanstore/261003719/01.webp",
+        "assets/products/dongshanstore/261003719/02.webp",
+        "assets/products/dongshanstore/261003719/03.webp",
+        "assets/products/dongshanstore/261003719/04.webp",
+        "assets/products/dongshanstore/261003719/05.webp"
+      ],
+      "coverUrl": "assets/products/dongshanstore/261003719/01.webp",
+      "imageCount": 5,
+      "classificationVersion": 2,
+      "updatedAt": "2026-10-31T17:26:00.403Z"
+    },
+    {
+      "uniqueKey": "dongshanstore:261003388",
+      "source": "dongshanstore",
+      "sourceId": "261003388",
+      "sourceUrl": "https://dongshanstore.x.yupoo.com/albums/261003388",
+      "sourceCategory": "more",
+      "title": "J26108# 2627 Korte mouw 2",
+      "section": "Trainingskleding",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/dongshanstore/261003388/01.webp",
+        "assets/products/dongshanstore/261003388/02.webp",
+        "assets/products/dongshanstore/261003388/03.webp",
+        "assets/products/dongshanstore/261003388/04.webp",
+        "assets/products/dongshanstore/261003388/05.webp"
+      ],
+      "coverUrl": "assets/products/dongshanstore/261003388/01.webp",
+      "imageCount": 5,
+      "classificationVersion": 2,
+      "updatedAt": "2026-10-31T17:26:06.227Z"
     }
   ],
   "warnings": []
