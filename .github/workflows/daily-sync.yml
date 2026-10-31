@@ -82,8 +82,9 @@ jobs:
           cp -R data public/data
           cp -R assets public/assets
 
-          echo "Grootte van de publicatiemap:"
+          echo "Grootte van de complete publicatiemap:"
           du -sh public
+
           echo "Grootte per onderdeel:"
           du -sh public/*
 
