@@ -54,7 +54,6 @@ jobs:
           SYNC_MAX_PAGES: 100
           SYNC_CATEGORY_MAX_PAGES: 100
           SYNC_COLLECTION_MAX_PAGES: 100
-
         run: node autosave-sync.js
 
       - name: Save final updated catalog
@@ -83,8 +82,9 @@ jobs:
           cp -R data public/data
           cp -R assets public/assets
 
-          echo "Inhoud GitHub Pages:"
+          echo "Grootte van de publicatiemap:"
           du -sh public
+          echo "Grootte per onderdeel:"
           du -sh public/*
 
       - name: Configure GitHub Pages
