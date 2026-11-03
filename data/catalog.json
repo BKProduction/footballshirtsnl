@@ -1,7 +1,6 @@
 {
-  "lastSync": "2026-11-03T11:21:00.343Z",
-  "status": "running",
-  "currentSource": "dongshanstore",
+  "lastSync": "2026-11-03T11:22:07.257Z",
+  "status": "completed",
   "products": [
     {
       "uniqueKey": "dachang88:66111399",
@@ -1066268,12 +1066267,12 @@
       "sourcePriority": 5,
       "sourceId": "228731145",
       "uniqueKey": "aosendi:228731145",
-      "title": "2526 Short Sleeve T90 XS21",
-      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228731145?uid=1&isSubCate=false&referrercate=3926493",
+      "title": "2526 Korte mouw 【T90 】 XS21",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228731145",
       "categoryId": null,
       "collectionId": "3926493",
       "sourceCollection": "more",
-      "sourceCategory": "aosendi",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1066285,14 +1066284,20 @@
         "Trainingskleding"
       ],
       "images": [
-        "./assets/products/aosendi/228731145/01.webp"
+        "assets/products/aosendi/228731145/01.webp",
+        "assets/products/aosendi/228731145/02.webp",
+        "assets/products/aosendi/228731145/03.webp",
+        "assets/products/aosendi/228731145/04.webp",
+        "assets/products/aosendi/228731145/05.webp",
+        "assets/products/aosendi/228731145/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/aosendi/d4198860/medium.jpg"
       ],
-      "coverUrl": "./assets/products/aosendi/228731145/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-27T05:00:24.818Z"
+      "coverUrl": "assets/products/aosendi/228731145/01.webp",
+      "imageCount": 6,
+      "updatedAt": "2026-11-03T11:21:47.431Z",
+      "classificationVersion": 2
     },
     {
       "source": "aosendi",
@@ -1066671,12 +1066676,12 @@
       "sourcePriority": 5,
       "sourceId": "228731150",
       "uniqueKey": "aosendi:228731150",
-      "title": "2526 Short Sleeve XS21",
-      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228731150?uid=1&isSubCate=false&referrercate=3926493",
+      "title": "2526 Korte mouw 【 】 XS21",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228731150",
       "categoryId": null,
       "collectionId": "3926493",
       "sourceCollection": "more",
-      "sourceCategory": "aosendi",
+      "sourceCategory": "more",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1066688,14 +1066693,20 @@
         "Trainingskleding"
       ],
       "images": [
-        "./assets/products/aosendi/228731150/01.webp"
+        "assets/products/aosendi/228731150/01.webp",
+        "assets/products/aosendi/228731150/02.webp",
+        "assets/products/aosendi/228731150/03.webp",
+        "assets/products/aosendi/228731150/04.webp",
+        "assets/products/aosendi/228731150/05.webp",
+        "assets/products/aosendi/228731150/06.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/aosendi/3f994744/medium.jpg"
       ],
-      "coverUrl": "./assets/products/aosendi/228731150/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-27T05:00:24.818Z"
+      "coverUrl": "assets/products/aosendi/228731150/01.webp",
+      "imageCount": 6,
+      "updatedAt": "2026-11-03T11:21:45.375Z",
+      "classificationVersion": 2
     },
     {
       "source": "aosendi",
@@ -1104366,7 +1104377,7 @@
       "sourceId": "228731432",
       "sourceUrl": "https://aosendi.x.yupoo.com/albums/228731432",
       "sourceCategory": "more",
-      "title": "2526 Short Sleeve XS 19",
+      "title": "2526 Korte mouw 【 XS】19",
       "section": "Trainingskleding",
       "category": "Overig",
       "subcategory": "Overig",
@@ -1104378,13 +1104389,18 @@
         "Trainingskleding"
       ],
       "images": [
-        "assets/products/aosendi/228731432/01.webp"
+        "assets/products/aosendi/228731432/01.webp",
+        "assets/products/aosendi/228731432/02.webp",
+        "assets/products/aosendi/228731432/03.webp",
+        "assets/products/aosendi/228731432/04.webp",
+        "assets/products/aosendi/228731432/05.webp",
+        "assets/products/aosendi/228731432/06.webp"
       ],
       "coverUrl": "assets/products/aosendi/228731432/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-29T21:57:14.541Z",
+      "imageCount": 6,
+      "updatedAt": "2026-11-03T11:21:30.424Z",
       "sourceCollection": "",
-      "classificationVersion": 1
+      "classificationVersion": 2
     },
     {
       "source": "aosendi",
@@ -1141107,7 +1141123,7 @@
       "images": [],
       "coverUrl": "",
       "imageCount": 0,
-      "updatedAt": "2026-11-02T11:38:39.041Z",
+      "updatedAt": "2026-11-03T11:21:26.643Z",
       "sourceCollection": "",
       "classificationVersion": 2
     },
@@ -1162887,6 +1162903,270 @@
       "imageCount": 5,
       "classificationVersion": 2,
       "updatedAt": "2026-11-03T11:16:49.077Z"
+    },
+    {
+      "uniqueKey": "aosendi:228731425",
+      "source": "aosendi",
+      "sourceId": "228731425",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228731425",
+      "sourceCategory": "more",
+      "title": "2526 Korte mouw 【 XS】19",
+      "section": "Trainingskleding",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/aosendi/228731425/01.webp",
+        "assets/products/aosendi/228731425/02.webp",
+        "assets/products/aosendi/228731425/03.webp",
+        "assets/products/aosendi/228731425/04.webp",
+        "assets/products/aosendi/228731425/05.webp",
+        "assets/products/aosendi/228731425/06.webp"
+      ],
+      "coverUrl": "assets/products/aosendi/228731425/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-03T11:21:34.785Z"
+    },
+    {
+      "uniqueKey": "aosendi:228731148",
+      "source": "aosendi",
+      "sourceId": "228731148",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228731148",
+      "sourceCategory": "more",
+      "title": "2526 Korte mouw 【 XS】19",
+      "section": "Trainingskleding",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/aosendi/228731148/01.webp",
+        "assets/products/aosendi/228731148/02.webp",
+        "assets/products/aosendi/228731148/03.webp",
+        "assets/products/aosendi/228731148/04.webp",
+        "assets/products/aosendi/228731148/05.webp",
+        "assets/products/aosendi/228731148/06.webp"
+      ],
+      "coverUrl": "assets/products/aosendi/228731148/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-03T11:21:36.074Z"
+    },
+    {
+      "uniqueKey": "aosendi:228731424",
+      "source": "aosendi",
+      "sourceId": "228731424",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228731424",
+      "sourceCategory": "more",
+      "title": "2526 Korte mouw 【 】 XS18",
+      "section": "Trainingskleding",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/aosendi/228731424/01.webp",
+        "assets/products/aosendi/228731424/02.webp",
+        "assets/products/aosendi/228731424/03.webp",
+        "assets/products/aosendi/228731424/04.webp",
+        "assets/products/aosendi/228731424/05.webp",
+        "assets/products/aosendi/228731424/06.webp"
+      ],
+      "coverUrl": "assets/products/aosendi/228731424/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-03T11:21:42.070Z"
+    },
+    {
+      "uniqueKey": "aosendi:228724091",
+      "source": "aosendi",
+      "sourceId": "228724091",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228724091",
+      "sourceCategory": "more",
+      "title": "2526 Korte mouw 2",
+      "section": "Trainingskleding",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/aosendi/228724091/01.webp",
+        "assets/products/aosendi/228724091/02.webp",
+        "assets/products/aosendi/228724091/03.webp",
+        "assets/products/aosendi/228724091/04.webp",
+        "assets/products/aosendi/228724091/05.webp"
+      ],
+      "coverUrl": "assets/products/aosendi/228724091/01.webp",
+      "imageCount": 5,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-03T11:21:51.435Z"
+    },
+    {
+      "uniqueKey": "aosendi:228724016",
+      "source": "aosendi",
+      "sourceId": "228724016",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228724016",
+      "sourceCategory": "more",
+      "title": "2526 Korte mouw 【 】2",
+      "section": "Trainingskleding",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/aosendi/228724016/01.webp",
+        "assets/products/aosendi/228724016/02.webp",
+        "assets/products/aosendi/228724016/03.webp",
+        "assets/products/aosendi/228724016/04.webp",
+        "assets/products/aosendi/228724016/05.webp"
+      ],
+      "coverUrl": "assets/products/aosendi/228724016/01.webp",
+      "imageCount": 5,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-03T11:21:53.803Z"
+    },
+    {
+      "uniqueKey": "aosendi:228724013",
+      "source": "aosendi",
+      "sourceId": "228724013",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228724013",
+      "sourceCategory": "more",
+      "title": "2526 Korte mouw 【T90 】2",
+      "section": "Trainingskleding",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/aosendi/228724013/01.webp",
+        "assets/products/aosendi/228724013/02.webp",
+        "assets/products/aosendi/228724013/03.webp",
+        "assets/products/aosendi/228724013/04.webp",
+        "assets/products/aosendi/228724013/05.webp"
+      ],
+      "coverUrl": "assets/products/aosendi/228724013/01.webp",
+      "imageCount": 5,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-03T11:21:59.614Z"
+    },
+    {
+      "uniqueKey": "aosendi:228724012",
+      "source": "aosendi",
+      "sourceId": "228724012",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228724012",
+      "sourceCategory": "more",
+      "title": "2526 Korte mouw 【T90 】2",
+      "section": "Trainingskleding",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/aosendi/228724012/01.webp",
+        "assets/products/aosendi/228724012/02.webp",
+        "assets/products/aosendi/228724012/03.webp",
+        "assets/products/aosendi/228724012/04.webp",
+        "assets/products/aosendi/228724012/05.webp"
+      ],
+      "coverUrl": "assets/products/aosendi/228724012/01.webp",
+      "imageCount": 5,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-03T11:22:00.944Z"
+    },
+    {
+      "uniqueKey": "aosendi:228724010",
+      "source": "aosendi",
+      "sourceId": "228724010",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228724010",
+      "sourceCategory": "more",
+      "title": "2526 Korte mouw 2",
+      "section": "Trainingskleding",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/aosendi/228724010/01.webp",
+        "assets/products/aosendi/228724010/02.webp",
+        "assets/products/aosendi/228724010/03.webp",
+        "assets/products/aosendi/228724010/04.webp",
+        "assets/products/aosendi/228724010/05.webp"
+      ],
+      "coverUrl": "assets/products/aosendi/228724010/01.webp",
+      "imageCount": 5,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-03T11:22:06.828Z"
+    },
+    {
+      "uniqueKey": "aosendi:228723907",
+      "source": "aosendi",
+      "sourceId": "228723907",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/228723907",
+      "sourceCategory": "more",
+      "title": "2526 Korte mouw 【 】2",
+      "section": "Trainingskleding",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/aosendi/228723907/01.webp",
+        "assets/products/aosendi/228723907/02.webp",
+        "assets/products/aosendi/228723907/03.webp",
+        "assets/products/aosendi/228723907/04.webp",
+        "assets/products/aosendi/228723907/05.webp"
+      ],
+      "coverUrl": "assets/products/aosendi/228723907/01.webp",
+      "imageCount": 5,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-03T11:22:06.767Z"
     }
   ],
   "warnings": []
