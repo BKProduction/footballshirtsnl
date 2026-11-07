@@ -1,6 +1,7 @@
 {
-  "lastSync": "2026-11-06T11:41:18.886Z",
-  "status": "completed",
+  "lastSync": "2026-11-07T10:11:02.213Z",
+  "status": "running",
+  "currentSource": "minkang",
   "products": [
     {
       "uniqueKey": "dachang88:66111399",
@@ -318379,7 +318380,7 @@
       "images": [],
       "coverUrl": "",
       "imageCount": 0,
-      "updatedAt": "2026-11-06T11:03:58.429Z",
+      "updatedAt": "2026-11-07T10:09:55.788Z",
       "sourceCollection": "",
       "classificationVersion": 2
     },
@@ -750449,7 +750450,7 @@
       "images": [],
       "coverUrl": "",
       "imageCount": 0,
-      "updatedAt": "2026-11-06T11:04:03.999Z",
+      "updatedAt": "2026-11-07T10:09:56.114Z",
       "sourceCollection": "",
       "classificationVersion": 2
     },
@@ -922975,7 +922976,7 @@
       "images": [],
       "coverUrl": "",
       "imageCount": 0,
-      "updatedAt": "2026-11-06T11:04:09.836Z",
+      "updatedAt": "2026-11-07T10:09:57.232Z",
       "sourceCollection": "",
       "classificationVersion": 2
     },
@@ -922999,7 +923000,7 @@
       "images": [],
       "coverUrl": "",
       "imageCount": 0,
-      "updatedAt": "2026-11-06T11:04:09.457Z",
+      "updatedAt": "2026-11-07T10:09:56.916Z",
       "sourceCollection": "",
       "classificationVersion": 2
     },
@@ -1178348,6 +1178349,557 @@
       "imageCount": 6,
       "classificationVersion": 2,
       "updatedAt": "2026-11-06T11:37:06.587Z"
+    },
+    {
+      "uniqueKey": "minkang:261811399",
+      "source": "minkang",
+      "sourceId": "261811399",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/261811399",
+      "sourceCategory": "Uncategorized album",
+      "title": "Villarreal CF 2026 Yellow Special Edition Retro Polo Jersey S-4XL2",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "competition": "La Liga",
+      "club": "Villarreal",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Voetbalshirt"
+      ],
+      "images": [
+        "assets/products/minkang/261811399/01.webp",
+        "assets/products/minkang/261811399/02.webp",
+        "assets/products/minkang/261811399/03.webp",
+        "assets/products/minkang/261811399/04.webp",
+        "assets/products/minkang/261811399/05.webp"
+      ],
+      "coverUrl": "assets/products/minkang/261811399/01.webp",
+      "imageCount": 5,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-07T10:10:06.556Z"
+    },
+    {
+      "uniqueKey": "minkang:261811339",
+      "source": "minkang",
+      "sourceId": "261811339",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/261811339",
+      "sourceCategory": "Uncategorized album",
+      "title": "Venezia FC 26/27 Fourth Away Polo Jersey S-4XL2",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "Uncategorized album",
+      "competition": "",
+      "club": "",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Overig"
+      ],
+      "images": [
+        "assets/products/minkang/261811339/01.webp",
+        "assets/products/minkang/261811339/02.webp",
+        "assets/products/minkang/261811339/03.webp",
+        "assets/products/minkang/261811339/04.webp",
+        "assets/products/minkang/261811339/05.webp"
+      ],
+      "coverUrl": "assets/products/minkang/261811339/01.webp",
+      "imageCount": 5,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-07T10:10:02.436Z"
+    },
+    {
+      "uniqueKey": "minkang:261811281",
+      "source": "minkang",
+      "sourceId": "261811281",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/261811281",
+      "sourceCategory": "Uncategorized album",
+      "title": "Valencia CF 26/27 Black Special Edition Retro Polo Jersey S-4XL2",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "competition": "La Liga",
+      "club": "Valencia",
+      "country": "",
+      "season": "2026-2027",
+      "types": [
+        "Voetbalshirt"
+      ],
+      "images": [
+        "assets/products/minkang/261811281/01.webp",
+        "assets/products/minkang/261811281/02.webp",
+        "assets/products/minkang/261811281/03.webp",
+        "assets/products/minkang/261811281/04.webp",
+        "assets/products/minkang/261811281/05.webp"
+      ],
+      "coverUrl": "assets/products/minkang/261811281/01.webp",
+      "imageCount": 5,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-07T10:10:09.895Z"
+    },
+    {
+      "uniqueKey": "minkang:261811202",
+      "source": "minkang",
+      "sourceId": "261811202",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/261811202",
+      "sourceCategory": "Uncategorized album",
+      "title": "Spain 26/27 Red Special Edition Retro Polo Jersey S-4XL2",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "Spain",
+      "competition": "Landenteams",
+      "club": "Spain",
+      "country": "Spain",
+      "season": "2026-2027",
+      "types": [
+        "Voetbalshirt"
+      ],
+      "images": [
+        "assets/products/minkang/261811202/01.webp",
+        "assets/products/minkang/261811202/02.webp",
+        "assets/products/minkang/261811202/03.webp",
+        "assets/products/minkang/261811202/04.webp",
+        "assets/products/minkang/261811202/05.webp"
+      ],
+      "coverUrl": "assets/products/minkang/261811202/01.webp",
+      "imageCount": 5,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-07T10:10:14.132Z"
+    },
+    {
+      "uniqueKey": "minkang:261811034",
+      "source": "minkang",
+      "sourceId": "261811034",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/261811034",
+      "sourceCategory": "Uncategorized album",
+      "title": "Espanyol 26/27 Blue Special Edition Retro Polo Jersey S-4XL2",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "Uncategorized album",
+      "competition": "",
+      "club": "",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Overig"
+      ],
+      "images": [
+        "assets/products/minkang/261811034/01.webp",
+        "assets/products/minkang/261811034/02.webp",
+        "assets/products/minkang/261811034/03.webp",
+        "assets/products/minkang/261811034/04.webp",
+        "assets/products/minkang/261811034/05.webp"
+      ],
+      "coverUrl": "assets/products/minkang/261811034/01.webp",
+      "imageCount": 5,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-07T10:10:16.697Z"
+    },
+    {
+      "uniqueKey": "minkang:261810897",
+      "source": "minkang",
+      "sourceId": "261810897",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/261810897",
+      "sourceCategory": "Uncategorized album",
+      "title": "Real Betis Black Retro Crew Neck Long Sleeve Sweatshirt S-4XL2",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "competition": "La Liga",
+      "club": "Real Betis",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Voetbalshirt"
+      ],
+      "images": [
+        "assets/products/minkang/261810897/01.webp",
+        "assets/products/minkang/261810897/02.webp",
+        "assets/products/minkang/261810897/03.webp",
+        "assets/products/minkang/261810897/04.webp",
+        "assets/products/minkang/261810897/05.webp"
+      ],
+      "coverUrl": "assets/products/minkang/261810897/01.webp",
+      "imageCount": 5,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-07T10:10:19.977Z"
+    },
+    {
+      "uniqueKey": "minkang:261810854",
+      "source": "minkang",
+      "sourceId": "261810854",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/261810854",
+      "sourceCategory": "Uncategorized album",
+      "title": "Real Madrid 26/27 Off-White Special Edition Retro Polo Jersey S-4XL2",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "competition": "La Liga",
+      "club": "Real Madrid",
+      "country": "",
+      "season": "2026-2027",
+      "types": [
+        "Voetbalshirt"
+      ],
+      "images": [
+        "assets/products/minkang/261810854/01.webp",
+        "assets/products/minkang/261810854/02.webp",
+        "assets/products/minkang/261810854/03.webp",
+        "assets/products/minkang/261810854/04.webp",
+        "assets/products/minkang/261810854/05.webp"
+      ],
+      "coverUrl": "assets/products/minkang/261810854/01.webp",
+      "imageCount": 5,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-07T10:10:22.177Z"
+    },
+    {
+      "uniqueKey": "minkang:261810817",
+      "source": "minkang",
+      "sourceId": "261810817",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/261810817",
+      "sourceCategory": "Uncategorized album",
+      "title": "Real Madrid 26/27 Black Crew Neck Sweatshirt S-4XL2",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "competition": "La Liga",
+      "club": "Real Madrid",
+      "country": "",
+      "season": "2026-2027",
+      "types": [
+        "Voetbalshirt"
+      ],
+      "images": [
+        "assets/products/minkang/261810817/01.webp",
+        "assets/products/minkang/261810817/02.webp",
+        "assets/products/minkang/261810817/03.webp",
+        "assets/products/minkang/261810817/04.webp",
+        "assets/products/minkang/261810817/05.webp"
+      ],
+      "coverUrl": "assets/products/minkang/261810817/01.webp",
+      "imageCount": 5,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-07T10:10:26.742Z"
+    },
+    {
+      "uniqueKey": "minkang:261810767",
+      "source": "minkang",
+      "sourceId": "261810767",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/261810767",
+      "sourceCategory": "Uncategorized album",
+      "title": "Rayo Vallecano 26/27 Apricot Special Edition Retro Polo Jersey S-4XL2",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "Uncategorized album",
+      "competition": "",
+      "club": "",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Overig"
+      ],
+      "images": [
+        "assets/products/minkang/261810767/01.webp",
+        "assets/products/minkang/261810767/02.webp",
+        "assets/products/minkang/261810767/03.webp",
+        "assets/products/minkang/261810767/04.webp",
+        "assets/products/minkang/261810767/05.webp"
+      ],
+      "coverUrl": "assets/products/minkang/261810767/01.webp",
+      "imageCount": 5,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-07T10:10:29.015Z"
+    },
+    {
+      "uniqueKey": "minkang:261810724",
+      "source": "minkang",
+      "sourceId": "261810724",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/261810724",
+      "sourceCategory": "Uncategorized album",
+      "title": "Porto 26/27 Pink Goalkeeper Jersey S-4XL2",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Primeira Liga",
+      "competition": "Primeira Liga",
+      "club": "Porto",
+      "country": "",
+      "season": "2026-2027",
+      "types": [
+        "Voetbalshirt"
+      ],
+      "images": [
+        "assets/products/minkang/261810724/01.webp",
+        "assets/products/minkang/261810724/02.webp",
+        "assets/products/minkang/261810724/03.webp",
+        "assets/products/minkang/261810724/04.webp",
+        "assets/products/minkang/261810724/05.webp"
+      ],
+      "coverUrl": "assets/products/minkang/261810724/01.webp",
+      "imageCount": 5,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-07T10:10:34.145Z"
+    },
+    {
+      "uniqueKey": "minkang:261810685",
+      "source": "minkang",
+      "sourceId": "261810685",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/261810685",
+      "sourceCategory": "Uncategorized album",
+      "title": "Porto 26/27 Grey Goalkeeper Jersey S-4XL2",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Primeira Liga",
+      "competition": "Primeira Liga",
+      "club": "Porto",
+      "country": "",
+      "season": "2026-2027",
+      "types": [
+        "Voetbalshirt"
+      ],
+      "images": [
+        "assets/products/minkang/261810685/01.webp",
+        "assets/products/minkang/261810685/02.webp",
+        "assets/products/minkang/261810685/03.webp",
+        "assets/products/minkang/261810685/04.webp",
+        "assets/products/minkang/261810685/05.webp"
+      ],
+      "coverUrl": "assets/products/minkang/261810685/01.webp",
+      "imageCount": 5,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-07T10:10:34.789Z"
+    },
+    {
+      "uniqueKey": "minkang:261810649",
+      "source": "minkang",
+      "sourceId": "261810649",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/261810649",
+      "sourceCategory": "Uncategorized album",
+      "title": "Porto 26/27 Green Goalkeeper Jersey S-4XL2",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Primeira Liga",
+      "competition": "Primeira Liga",
+      "club": "Porto",
+      "country": "",
+      "season": "2026-2027",
+      "types": [
+        "Voetbalshirt"
+      ],
+      "images": [
+        "assets/products/minkang/261810649/01.webp",
+        "assets/products/minkang/261810649/02.webp",
+        "assets/products/minkang/261810649/03.webp",
+        "assets/products/minkang/261810649/04.webp",
+        "assets/products/minkang/261810649/05.webp"
+      ],
+      "coverUrl": "assets/products/minkang/261810649/01.webp",
+      "imageCount": 5,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-07T10:10:40.683Z"
+    },
+    {
+      "uniqueKey": "minkang:261810583",
+      "source": "minkang",
+      "sourceId": "261810583",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/261810583",
+      "sourceCategory": "Uncategorized album",
+      "title": "Nottingham Forest 26/27 Away Jersey S-4XL2",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "Uncategorized album",
+      "competition": "",
+      "club": "",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Overig"
+      ],
+      "images": [
+        "assets/products/minkang/261810583/01.webp",
+        "assets/products/minkang/261810583/02.webp",
+        "assets/products/minkang/261810583/03.webp",
+        "assets/products/minkang/261810583/04.webp",
+        "assets/products/minkang/261810583/05.webp"
+      ],
+      "coverUrl": "assets/products/minkang/261810583/01.webp",
+      "imageCount": 5,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-07T10:10:41.814Z"
+    },
+    {
+      "uniqueKey": "minkang:261810489",
+      "source": "minkang",
+      "sourceId": "261810489",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/261810489",
+      "sourceCategory": "Uncategorized album",
+      "title": "M-U 26/27 EQT Red Crew Neck Sweatshirt S-4XL2",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "Uncategorized album",
+      "competition": "",
+      "club": "",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Overig"
+      ],
+      "images": [
+        "assets/products/minkang/261810489/01.webp",
+        "assets/products/minkang/261810489/02.webp",
+        "assets/products/minkang/261810489/03.webp",
+        "assets/products/minkang/261810489/04.webp",
+        "assets/products/minkang/261810489/05.webp"
+      ],
+      "coverUrl": "assets/products/minkang/261810489/01.webp",
+      "imageCount": 5,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-07T10:10:47.078Z"
+    },
+    {
+      "uniqueKey": "minkang:261810428",
+      "source": "minkang",
+      "sourceId": "261810428",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/261810428",
+      "sourceCategory": "Uncategorized album",
+      "title": "LFC 93/95 Red Crew Neck Long Sleeve Retro Sweatshirt S-4XL2",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "Uncategorized album",
+      "competition": "",
+      "club": "",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Overig"
+      ],
+      "images": [
+        "assets/products/minkang/261810428/01.webp",
+        "assets/products/minkang/261810428/02.webp",
+        "assets/products/minkang/261810428/03.webp",
+        "assets/products/minkang/261810428/04.webp",
+        "assets/products/minkang/261810428/05.webp"
+      ],
+      "coverUrl": "assets/products/minkang/261810428/01.webp",
+      "imageCount": 5,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-07T10:10:48.810Z"
+    },
+    {
+      "uniqueKey": "minkang:261810299",
+      "source": "minkang",
+      "sourceId": "261810299",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/261810299",
+      "sourceCategory": "Uncategorized album",
+      "title": "Las Palmas 26/27 Black Pink October Jersey S-4XL2",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "Uncategorized album",
+      "competition": "",
+      "club": "",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Overig"
+      ],
+      "images": [
+        "assets/products/minkang/261810299/01.webp",
+        "assets/products/minkang/261810299/02.webp",
+        "assets/products/minkang/261810299/03.webp",
+        "assets/products/minkang/261810299/04.webp",
+        "assets/products/minkang/261810299/05.webp"
+      ],
+      "coverUrl": "assets/products/minkang/261810299/01.webp",
+      "imageCount": 5,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-07T10:10:53.397Z"
+    },
+    {
+      "uniqueKey": "minkang:261810211",
+      "source": "minkang",
+      "sourceId": "261810211",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/261810211",
+      "sourceCategory": "Uncategorized album",
+      "title": "Celta Vigo 26/27 Blue Special Edition Retro Polo Jersey S-4XL2",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "Uncategorized album",
+      "competition": "",
+      "club": "",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Overig"
+      ],
+      "images": [
+        "assets/products/minkang/261810211/01.webp",
+        "assets/products/minkang/261810211/02.webp",
+        "assets/products/minkang/261810211/03.webp",
+        "assets/products/minkang/261810211/04.webp",
+        "assets/products/minkang/261810211/05.webp"
+      ],
+      "coverUrl": "assets/products/minkang/261810211/01.webp",
+      "imageCount": 5,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-07T10:10:55.743Z"
+    },
+    {
+      "uniqueKey": "minkang:261810158",
+      "source": "minkang",
+      "sourceId": "261810158",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/261810158",
+      "sourceCategory": "Uncategorized album",
+      "title": "Bologna 26/27 Away Jersey S-4XL2",
+      "section": "Overige producten",
+      "category": "Overige producten",
+      "subcategory": "Uncategorized album",
+      "competition": "",
+      "club": "",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Overig"
+      ],
+      "images": [
+        "assets/products/minkang/261810158/01.webp",
+        "assets/products/minkang/261810158/02.webp",
+        "assets/products/minkang/261810158/03.webp",
+        "assets/products/minkang/261810158/04.webp",
+        "assets/products/minkang/261810158/05.webp"
+      ],
+      "coverUrl": "assets/products/minkang/261810158/01.webp",
+      "imageCount": 5,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-07T10:10:59.040Z"
+    },
+    {
+      "uniqueKey": "minkang:261810093",
+      "source": "minkang",
+      "sourceId": "261810093",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/261810093",
+      "sourceCategory": "Uncategorized album",
+      "title": "Argentina 1994 Blue Crew Neck Long Sleeve Retro Sweatshirt S-XXL2",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "Argentina",
+      "competition": "Landenteams",
+      "club": "Argentina",
+      "country": "Argentina",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Voetbalshirt"
+      ],
+      "images": [
+        "assets/products/minkang/261810093/01.webp",
+        "assets/products/minkang/261810093/02.webp",
+        "assets/products/minkang/261810093/03.webp",
+        "assets/products/minkang/261810093/04.webp",
+        "assets/products/minkang/261810093/05.webp"
+      ],
+      "coverUrl": "assets/products/minkang/261810093/01.webp",
+      "imageCount": 5,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-07T10:11:02.212Z"
     }
   ],
   "warnings": []
