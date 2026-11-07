@@ -1,7 +1,6 @@
 {
-  "lastSync": "2026-11-07T10:40:30.213Z",
-  "status": "running",
-  "currentSource": "yuhuaxieye1",
+  "lastSync": "2026-11-07T10:45:45.503Z",
+  "status": "completed",
   "products": [
     {
       "uniqueKey": "dachang88:66111399",
@@ -1140980,7 +1140979,7 @@
       "images": [],
       "coverUrl": "",
       "imageCount": 0,
-      "updatedAt": "2026-11-06T11:40:42.918Z",
+      "updatedAt": "2026-11-07T10:45:03.580Z",
       "sourceCollection": "",
       "classificationVersion": 2
     },
@@ -1141056,7 +1141055,7 @@
       "images": [],
       "coverUrl": "",
       "imageCount": 0,
-      "updatedAt": "2026-11-06T11:40:42.945Z",
+      "updatedAt": "2026-11-07T10:45:03.557Z",
       "sourceCollection": "",
       "classificationVersion": 2
     },
@@ -1141160,7 +1141159,7 @@
       "images": [],
       "coverUrl": "",
       "imageCount": 0,
-      "updatedAt": "2026-11-06T11:41:18.394Z",
+      "updatedAt": "2026-11-07T10:45:45.151Z",
       "sourceCollection": "",
       "classificationVersion": 2
     },
@@ -1182410,6 +1182409,91 @@
       "imageCount": 6,
       "classificationVersion": 2,
       "updatedAt": "2026-11-07T10:40:30.084Z"
+    },
+    {
+      "uniqueKey": "dongshanstore:261894730",
+      "source": "dongshanstore",
+      "sourceId": "261894730",
+      "sourceUrl": "https://dongshanstore.x.yupoo.com/albums/261894730",
+      "sourceCategory": "more",
+      "title": "A26149# 2627 -Paris2",
+      "section": "Trainingskleding",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/dongshanstore/261894730/01.webp",
+        "assets/products/dongshanstore/261894730/02.webp",
+        "assets/products/dongshanstore/261894730/03.webp",
+        "assets/products/dongshanstore/261894730/04.webp",
+        "assets/products/dongshanstore/261894730/05.webp"
+      ],
+      "coverUrl": "assets/products/dongshanstore/261894730/01.webp",
+      "imageCount": 5,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-07T10:45:10.406Z"
+    },
+    {
+      "uniqueKey": "dongshanstore:261894932",
+      "source": "dongshanstore",
+      "sourceId": "261894932",
+      "sourceUrl": "https://dongshanstore.x.yupoo.com/albums/261894932",
+      "sourceCategory": "more",
+      "title": "E26245# 2627 -Paris2",
+      "section": "Trainingskleding",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/dongshanstore/261894932/01.webp",
+        "assets/products/dongshanstore/261894932/02.webp",
+        "assets/products/dongshanstore/261894932/03.webp",
+        "assets/products/dongshanstore/261894932/04.webp",
+        "assets/products/dongshanstore/261894932/05.webp"
+      ],
+      "coverUrl": "assets/products/dongshanstore/261894932/01.webp",
+      "imageCount": 5,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-07T10:45:10.076Z"
+    },
+    {
+      "uniqueKey": "dongshanstore:261812005",
+      "source": "dongshanstore",
+      "sourceId": "261812005",
+      "sourceUrl": "https://dongshanstore.x.yupoo.com/albums/261812005",
+      "sourceCategory": "more",
+      "title": "E26235# 2627 -Marseilles1",
+      "section": "Trainingskleding",
+      "category": "Clubteams",
+      "subcategory": "Ligue 1",
+      "competition": "Ligue 1",
+      "club": "Marseille",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/dongshanstore/261812005/01.webp",
+        "assets/products/dongshanstore/261812005/02.webp",
+        "assets/products/dongshanstore/261812005/03.webp"
+      ],
+      "coverUrl": "assets/products/dongshanstore/261812005/01.webp",
+      "imageCount": 3,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-07T10:45:14.553Z"
     }
   ],
   "warnings": []
