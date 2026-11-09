@@ -3,7 +3,6 @@ name: Daily sync and deploy FootballshirtsNL
 on:
   schedule:
     - cron: "15 3 * * *"
-
   workflow_dispatch:
 
 permissions:
@@ -16,14 +15,12 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-
   sync:
     name: Sync FootballshirtsNL
     runs-on: ubuntu-latest
     timeout-minutes: 350
 
     steps:
-
       - name: Download website
         uses: actions/checkout@v4
         with:
@@ -43,6 +40,7 @@ jobs:
         run: |
           node --check sync.js
           node --check autosave-sync.js
+          node --check externalize-images.js
 
       - name: Sync catalog with checkpoints
         env:
@@ -56,6 +54,9 @@ jobs:
           SYNC_COLLECTION_MAX_PAGES: 100
         run: node autosave-sync.js
 
+      - name: Convert image paths to external URLs
+        run: node externalize-images.js
+
       - name: Save final updated catalog
         run: |
           git config user.name "footballshirtsnl-sync"
@@ -66,27 +67,68 @@ jobs:
           if git diff --cached --quiet; then
             echo "Geen nieuwe wijzigingen om definitief op te slaan."
           else
-            git commit -m "Update FootballshirtsNL catalog"
-            git push origin HEAD:main
+            git commit -m "Update FootballshirtsNL catalog and image URLs"
+
+            for attempt in 1 2 3 4 5; do
+              echo "Pushpoging ${attempt} van 5"
+
+              if git push origin HEAD:main; then
+                echo "Wijzigingen succesvol opgeslagen op main."
+                break
+              fi
+
+              if [ "${attempt}" -eq 5 ]; then
+                echo "Definitieve push is na vijf pogingen mislukt."
+                exit 1
+              fi
+
+              echo "Main is ondertussen gewijzigd. Nieuwe versie ophalen."
+              git pull --rebase origin main
+              sleep 5
+            done
           fi
+
+      - name: Refresh checkout after final push
+        run: |
+          git fetch origin main
+          git reset --hard origin/main
 
       - name: Create GitHub Pages website
         run: |
           rm -rf public
-          mkdir -p public
+          mkdir -p public/data
 
           cp index.html public/
           cp app.js public/
           cp style.css public/
+          cp -R data/. public/data/
 
-          cp -R data public/data
-          cp -R assets public/assets
+          touch public/.nojekyll
 
-          echo "Grootte van de complete publicatiemap:"
+          echo "Grootte van de publicatiemap:"
           du -sh public
 
           echo "Grootte per onderdeel:"
           du -sh public/*
+
+          if [ -d "public/assets" ]; then
+            echo "FOUT: public/assets bestaat."
+            echo "Assets mogen niet naar GitHub Pages worden geupload."
+            exit 1
+          fi
+
+          PUBLIC_SIZE_BYTES=$(du -sb public | cut -f1)
+          MAX_SIZE_BYTES=1000000000
+
+          echo "Publicatiemap in bytes: ${PUBLIC_SIZE_BYTES}"
+
+          if [ "${PUBLIC_SIZE_BYTES}" -ge "${MAX_SIZE_BYTES}" ]; then
+            echo "FOUT: de GitHub Pages-publicatiemap is 1 GB of groter."
+            exit 1
+          fi
+
+          echo "Publicatiemap is kleiner dan 1 GB."
+          echo "De map assets wordt niet naar GitHub Pages geupload."
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
@@ -108,7 +150,6 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
-
       - name: Deploy FootballshirtsNL
         id: deployment
         uses: actions/deploy-pages@v4
