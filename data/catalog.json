@@ -1,6 +1,7 @@
 {
-  "lastSync": "2026-11-08T10:57:17.418Z",
-  "status": "completed",
+  "lastSync": "2026-11-09T11:38:58.003Z",
+  "status": "running",
+  "currentSource": "minkang",
   "products": [
     {
       "uniqueKey": "dachang88:66111399",
@@ -318379,7 +318380,7 @@
       "images": [],
       "coverUrl": "",
       "imageCount": 0,
-      "updatedAt": "2026-11-08T10:23:43.856Z",
+      "updatedAt": "2026-11-09T11:38:09.886Z",
       "sourceCollection": "",
       "classificationVersion": 2
     },
@@ -750449,7 +750450,7 @@
       "images": [],
       "coverUrl": "",
       "imageCount": 0,
-      "updatedAt": "2026-11-08T10:23:44.180Z",
+      "updatedAt": "2026-11-09T11:38:10.953Z",
       "sourceCollection": "",
       "classificationVersion": 2
     },
@@ -922975,7 +922976,7 @@
       "images": [],
       "coverUrl": "",
       "imageCount": 0,
-      "updatedAt": "2026-11-08T10:23:45.430Z",
+      "updatedAt": "2026-11-09T11:38:13.324Z",
       "sourceCollection": "",
       "classificationVersion": 2
     },
@@ -922999,7 +923000,7 @@
       "images": [],
       "coverUrl": "",
       "imageCount": 0,
-      "updatedAt": "2026-11-08T10:23:44.925Z",
+      "updatedAt": "2026-11-09T11:38:12.019Z",
       "sourceCollection": "",
       "classificationVersion": 2
     },
@@ -1186723,6 +1186724,2136 @@
       "imageCount": 6,
       "classificationVersion": 2,
       "updatedAt": "2026-11-08T10:48:48.920Z"
+    },
+    {
+      "uniqueKey": "minkang:262263589",
+      "source": "minkang",
+      "sourceId": "262263589",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262263589",
+      "sourceCategory": "more",
+      "title": "Brazil 26/27 Blue Full Zipper Stand Collar Windbreaker Set S-XXL4",
+      "section": "Trainingskleding",
+      "category": "Clubteams",
+      "subcategory": "Eredivisie",
+      "competition": "Eredivisie",
+      "club": "AZ",
+      "country": "",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262263589/01.webp",
+        "assets/products/minkang/262263589/02.webp",
+        "assets/products/minkang/262263589/03.webp",
+        "assets/products/minkang/262263589/04.webp",
+        "assets/products/minkang/262263589/05.webp",
+        "assets/products/minkang/262263589/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262263589/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:34:52.504Z"
+    },
+    {
+      "uniqueKey": "minkang:262259881",
+      "source": "minkang",
+      "sourceId": "262259881",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262259881",
+      "sourceCategory": "more",
+      "title": "Bayern Munich 26/27 White Full Zipper Windbreaker Set S-XXL7",
+      "section": "Trainingskleding",
+      "category": "Clubteams",
+      "subcategory": "Bundesliga",
+      "competition": "Bundesliga",
+      "club": "Bayern Munich",
+      "country": "",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262259881/01.webp",
+        "assets/products/minkang/262259881/02.webp",
+        "assets/products/minkang/262259881/03.webp",
+        "assets/products/minkang/262259881/04.webp",
+        "assets/products/minkang/262259881/05.webp",
+        "assets/products/minkang/262259881/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262259881/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:34:52.733Z"
+    },
+    {
+      "uniqueKey": "minkang:262259768",
+      "source": "minkang",
+      "sourceId": "262259768",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262259768",
+      "sourceCategory": "more",
+      "title": "Brazil 26/27 Black Full Zipper Stand Collar Windbreaker Set S-XXL4",
+      "section": "Trainingskleding",
+      "category": "Clubteams",
+      "subcategory": "Eredivisie",
+      "competition": "Eredivisie",
+      "club": "AZ",
+      "country": "",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262259768/01.webp",
+        "assets/products/minkang/262259768/02.webp",
+        "assets/products/minkang/262259768/03.webp",
+        "assets/products/minkang/262259768/04.webp",
+        "assets/products/minkang/262259768/05.webp",
+        "assets/products/minkang/262259768/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262259768/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:34:59.000Z"
+    },
+    {
+      "uniqueKey": "minkang:262259601",
+      "source": "minkang",
+      "sourceId": "262259601",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262259601",
+      "sourceCategory": "more",
+      "title": "Boca Juniors 26/27 Royal Blue Full Zipper Hooded Windbreaker Set S-XXL3",
+      "section": "Trainingskleding",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "country": "",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262259601/01.webp",
+        "assets/products/minkang/262259601/02.webp",
+        "assets/products/minkang/262259601/03.webp",
+        "assets/products/minkang/262259601/04.webp",
+        "assets/products/minkang/262259601/05.webp",
+        "assets/products/minkang/262259601/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262259601/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:35:00.076Z"
+    },
+    {
+      "uniqueKey": "minkang:262259577",
+      "source": "minkang",
+      "sourceId": "262259577",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262259577",
+      "sourceCategory": "more",
+      "title": "Boca Juniors 26/27 Dark Blue Full Zip Hooded Windbreaker Set S-XXL3",
+      "section": "Trainingskleding",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "country": "",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262259577/01.webp",
+        "assets/products/minkang/262259577/02.webp",
+        "assets/products/minkang/262259577/03.webp",
+        "assets/products/minkang/262259577/04.webp",
+        "assets/products/minkang/262259577/05.webp",
+        "assets/products/minkang/262259577/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262259577/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:35:05.750Z"
+    },
+    {
+      "uniqueKey": "minkang:262259522",
+      "source": "minkang",
+      "sourceId": "262259522",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262259522",
+      "sourceCategory": "more",
+      "title": "Bayern Munich 26/27 Red Full Zipper Hooded Windbreaker Set S-XXL3",
+      "section": "Trainingskleding",
+      "category": "Clubteams",
+      "subcategory": "Bundesliga",
+      "competition": "Bundesliga",
+      "club": "Bayern Munich",
+      "country": "",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262259522/01.webp",
+        "assets/products/minkang/262259522/02.webp",
+        "assets/products/minkang/262259522/03.webp",
+        "assets/products/minkang/262259522/04.webp",
+        "assets/products/minkang/262259522/05.webp",
+        "assets/products/minkang/262259522/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262259522/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:35:05.925Z"
+    },
+    {
+      "uniqueKey": "minkang:262259319",
+      "source": "minkang",
+      "sourceId": "262259319",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262259319",
+      "sourceCategory": "more",
+      "title": "Bayern Munich 26/27 Royal Blue Full Zipper Hooded Windbreaker Set S-XXL4",
+      "section": "Trainingskleding",
+      "category": "Clubteams",
+      "subcategory": "Bundesliga",
+      "competition": "Bundesliga",
+      "club": "Bayern Munich",
+      "country": "",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262259319/01.webp",
+        "assets/products/minkang/262259319/02.webp",
+        "assets/products/minkang/262259319/03.webp",
+        "assets/products/minkang/262259319/04.webp",
+        "assets/products/minkang/262259319/05.webp",
+        "assets/products/minkang/262259319/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262259319/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:35:11.841Z"
+    },
+    {
+      "uniqueKey": "minkang:262259273",
+      "source": "minkang",
+      "sourceId": "262259273",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262259273",
+      "sourceCategory": "more",
+      "title": "Bayern Munich 26/27 Grey-blue Full Zipper Windbreaker Set S-XXL7",
+      "section": "Trainingskleding",
+      "category": "Clubteams",
+      "subcategory": "Bundesliga",
+      "competition": "Bundesliga",
+      "club": "Bayern Munich",
+      "country": "",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262259273/01.webp",
+        "assets/products/minkang/262259273/02.webp",
+        "assets/products/minkang/262259273/03.webp",
+        "assets/products/minkang/262259273/04.webp",
+        "assets/products/minkang/262259273/05.webp",
+        "assets/products/minkang/262259273/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262259273/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:35:12.894Z"
+    },
+    {
+      "uniqueKey": "minkang:262259230",
+      "source": "minkang",
+      "sourceId": "262259230",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262259230",
+      "sourceCategory": "more",
+      "title": "Barcelona 26/27 Royal Blue Full Zipper Windbreaker Set S-XXL8",
+      "section": "Trainingskleding",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "competition": "La Liga",
+      "club": "Barcelona",
+      "country": "",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262259230/01.webp",
+        "assets/products/minkang/262259230/02.webp",
+        "assets/products/minkang/262259230/03.webp",
+        "assets/products/minkang/262259230/04.webp",
+        "assets/products/minkang/262259230/05.webp",
+        "assets/products/minkang/262259230/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262259230/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:35:19.052Z"
+    },
+    {
+      "uniqueKey": "minkang:262259213",
+      "source": "minkang",
+      "sourceId": "262259213",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262259213",
+      "sourceCategory": "more",
+      "title": "Barcelona 26/27 Royal Blue Full Zipper Stand Collar Windbreaker Set S-XXL4",
+      "section": "Trainingskleding",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "competition": "La Liga",
+      "club": "Barcelona",
+      "country": "",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262259213/01.webp",
+        "assets/products/minkang/262259213/02.webp",
+        "assets/products/minkang/262259213/03.webp",
+        "assets/products/minkang/262259213/04.webp",
+        "assets/products/minkang/262259213/05.webp",
+        "assets/products/minkang/262259213/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262259213/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:35:18.188Z"
+    },
+    {
+      "uniqueKey": "minkang:262259180",
+      "source": "minkang",
+      "sourceId": "262259180",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262259180",
+      "sourceCategory": "more",
+      "title": "Barcelona 26/27 Red Full Zipper Windbreaker Set S-XXL6",
+      "section": "Trainingskleding",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "competition": "La Liga",
+      "club": "Barcelona",
+      "country": "",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262259180/01.webp",
+        "assets/products/minkang/262259180/02.webp",
+        "assets/products/minkang/262259180/03.webp",
+        "assets/products/minkang/262259180/04.webp",
+        "assets/products/minkang/262259180/05.webp",
+        "assets/products/minkang/262259180/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262259180/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:35:24.211Z"
+    },
+    {
+      "uniqueKey": "minkang:262259161",
+      "source": "minkang",
+      "sourceId": "262259161",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262259161",
+      "sourceCategory": "more",
+      "title": "Barcelona 26/27 Red Full Zipper Hooded Windbreaker Set S-XXL4",
+      "section": "Trainingskleding",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "competition": "La Liga",
+      "club": "Barcelona",
+      "country": "",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262259161/01.webp",
+        "assets/products/minkang/262259161/02.webp",
+        "assets/products/minkang/262259161/03.webp",
+        "assets/products/minkang/262259161/04.webp",
+        "assets/products/minkang/262259161/05.webp",
+        "assets/products/minkang/262259161/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262259161/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:35:25.024Z"
+    },
+    {
+      "uniqueKey": "minkang:262259133",
+      "source": "minkang",
+      "sourceId": "262259133",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262259133",
+      "sourceCategory": "more",
+      "title": "Barcelona 26/27 Dark Cyan Full Zipper Hooded Windbreaker Set S-XXL4",
+      "section": "Trainingskleding",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "competition": "La Liga",
+      "club": "Barcelona",
+      "country": "",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262259133/01.webp",
+        "assets/products/minkang/262259133/02.webp",
+        "assets/products/minkang/262259133/03.webp",
+        "assets/products/minkang/262259133/04.webp",
+        "assets/products/minkang/262259133/05.webp",
+        "assets/products/minkang/262259133/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262259133/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:35:31.054Z"
+    },
+    {
+      "uniqueKey": "minkang:262259121",
+      "source": "minkang",
+      "sourceId": "262259121",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262259121",
+      "sourceCategory": "more",
+      "title": "Barcelona 26/27 Blue Full Zipper Stand Collar Windbreaker Set S-XXL4",
+      "section": "Trainingskleding",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "competition": "La Liga",
+      "club": "Barcelona",
+      "country": "",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262259121/01.webp",
+        "assets/products/minkang/262259121/02.webp",
+        "assets/products/minkang/262259121/03.webp",
+        "assets/products/minkang/262259121/04.webp",
+        "assets/products/minkang/262259121/05.webp",
+        "assets/products/minkang/262259121/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262259121/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:35:42.766Z"
+    },
+    {
+      "uniqueKey": "minkang:262259073",
+      "source": "minkang",
+      "sourceId": "262259073",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262259073",
+      "sourceCategory": "more",
+      "title": "Barcelona 26/27 Blue Full Zipper Hooded Windbreaker Set S-XXL4",
+      "section": "Trainingskleding",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "competition": "La Liga",
+      "club": "Barcelona",
+      "country": "",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262259073/01.webp",
+        "assets/products/minkang/262259073/02.webp",
+        "assets/products/minkang/262259073/03.webp",
+        "assets/products/minkang/262259073/04.webp",
+        "assets/products/minkang/262259073/05.webp",
+        "assets/products/minkang/262259073/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262259073/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:35:36.320Z"
+    },
+    {
+      "uniqueKey": "minkang:262259016",
+      "source": "minkang",
+      "sourceId": "262259016",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262259016",
+      "sourceCategory": "more",
+      "title": "Barcelona 26/27 Black Full Zipper Windbreaker Set S-XXL7",
+      "section": "Trainingskleding",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "competition": "La Liga",
+      "club": "Barcelona",
+      "country": "",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262259016/01.webp",
+        "assets/products/minkang/262259016/02.webp",
+        "assets/products/minkang/262259016/03.webp",
+        "assets/products/minkang/262259016/04.webp",
+        "assets/products/minkang/262259016/05.webp",
+        "assets/products/minkang/262259016/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262259016/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:35:42.776Z"
+    },
+    {
+      "uniqueKey": "minkang:262258992",
+      "source": "minkang",
+      "sourceId": "262258992",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262258992",
+      "sourceCategory": "more",
+      "title": "Barcelona 26/27 Black Full Zip Hooded Windbreaker Set S-XXL4",
+      "section": "Trainingskleding",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "competition": "La Liga",
+      "club": "Barcelona",
+      "country": "",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262258992/01.webp",
+        "assets/products/minkang/262258992/02.webp",
+        "assets/products/minkang/262258992/03.webp",
+        "assets/products/minkang/262258992/04.webp",
+        "assets/products/minkang/262258992/05.webp",
+        "assets/products/minkang/262258992/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262258992/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:35:48.262Z"
+    },
+    {
+      "uniqueKey": "minkang:262258953",
+      "source": "minkang",
+      "sourceId": "262258953",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262258953",
+      "sourceCategory": "more",
+      "title": "Arsenal 26/27 Royal Blue Full Zipper Windbreaker Set S-XXL7",
+      "section": "Trainingskleding",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "competition": "Premier League",
+      "club": "Arsenal",
+      "country": "",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262258953/01.webp",
+        "assets/products/minkang/262258953/02.webp",
+        "assets/products/minkang/262258953/03.webp",
+        "assets/products/minkang/262258953/04.webp",
+        "assets/products/minkang/262258953/05.webp",
+        "assets/products/minkang/262258953/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262258953/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:35:49.705Z"
+    },
+    {
+      "uniqueKey": "minkang:262258941",
+      "source": "minkang",
+      "sourceId": "262258941",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262258941",
+      "sourceCategory": "more",
+      "title": "Arsenal 26/27 Royal Blue Full Zipper Hooded Windbreaker Set S-XXL3",
+      "section": "Trainingskleding",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "competition": "Premier League",
+      "club": "Arsenal",
+      "country": "",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262258941/01.webp",
+        "assets/products/minkang/262258941/02.webp",
+        "assets/products/minkang/262258941/03.webp",
+        "assets/products/minkang/262258941/04.webp",
+        "assets/products/minkang/262258941/05.webp",
+        "assets/products/minkang/262258941/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262258941/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:35:54.246Z"
+    },
+    {
+      "uniqueKey": "minkang:262258913",
+      "source": "minkang",
+      "sourceId": "262258913",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262258913",
+      "sourceCategory": "more",
+      "title": "Arsenal 26/27 Royal Blue and Red Full Zipper Hooded Windbreaker Set S-XXL4",
+      "section": "Trainingskleding",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "competition": "Premier League",
+      "club": "Arsenal",
+      "country": "",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262258913/01.webp",
+        "assets/products/minkang/262258913/02.webp",
+        "assets/products/minkang/262258913/03.webp",
+        "assets/products/minkang/262258913/04.webp",
+        "assets/products/minkang/262258913/05.webp",
+        "assets/products/minkang/262258913/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262258913/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:35:55.808Z"
+    },
+    {
+      "uniqueKey": "minkang:262258889",
+      "source": "minkang",
+      "sourceId": "262258889",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262258889",
+      "sourceCategory": "more",
+      "title": "Arsenal 26/27 Red Full Zipper Windbreaker Set S-XXL6",
+      "section": "Trainingskleding",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "competition": "Premier League",
+      "club": "Arsenal",
+      "country": "",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262258889/01.webp",
+        "assets/products/minkang/262258889/02.webp",
+        "assets/products/minkang/262258889/03.webp",
+        "assets/products/minkang/262258889/04.webp",
+        "assets/products/minkang/262258889/05.webp",
+        "assets/products/minkang/262258889/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262258889/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:36:09.322Z"
+    },
+    {
+      "uniqueKey": "minkang:262258865",
+      "source": "minkang",
+      "sourceId": "262258865",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262258865",
+      "sourceCategory": "more",
+      "title": "Arsenal 26/27 Red Full Zipper Hooded Windbreaker Set S-XXL4",
+      "section": "Trainingskleding",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "competition": "Premier League",
+      "club": "Arsenal",
+      "country": "",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262258865/01.webp",
+        "assets/products/minkang/262258865/02.webp",
+        "assets/products/minkang/262258865/03.webp",
+        "assets/products/minkang/262258865/04.webp",
+        "assets/products/minkang/262258865/05.webp",
+        "assets/products/minkang/262258865/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262258865/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:36:01.609Z"
+    },
+    {
+      "uniqueKey": "minkang:262258836",
+      "source": "minkang",
+      "sourceId": "262258836",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262258836",
+      "sourceCategory": "more",
+      "title": "Arsenal 26/27 Gradient Red Full Zipper Windbreaker Set S-XXL7",
+      "section": "Trainingskleding",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "competition": "Premier League",
+      "club": "Arsenal",
+      "country": "",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262258836/01.webp",
+        "assets/products/minkang/262258836/02.webp",
+        "assets/products/minkang/262258836/03.webp",
+        "assets/products/minkang/262258836/04.webp",
+        "assets/products/minkang/262258836/05.webp",
+        "assets/products/minkang/262258836/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262258836/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:36:08.647Z"
+    },
+    {
+      "uniqueKey": "minkang:262258788",
+      "source": "minkang",
+      "sourceId": "262258788",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262258788",
+      "sourceCategory": "more",
+      "title": "Argentina Two-Stars 26/27 White Full Zipper Stand Collar Windbreaker Set S-XXL4",
+      "section": "Trainingskleding",
+      "category": "Landenteams",
+      "subcategory": "Argentina",
+      "competition": "Landenteams",
+      "club": "Argentina",
+      "country": "Argentina",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262258788/01.webp",
+        "assets/products/minkang/262258788/02.webp",
+        "assets/products/minkang/262258788/03.webp",
+        "assets/products/minkang/262258788/04.webp",
+        "assets/products/minkang/262258788/05.webp",
+        "assets/products/minkang/262258788/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262258788/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:36:13.760Z"
+    },
+    {
+      "uniqueKey": "minkang:262258752",
+      "source": "minkang",
+      "sourceId": "262258752",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262258752",
+      "sourceCategory": "more",
+      "title": "Argentina Two-Stars 26/27 Royal Blue Full Zipper Stand Collar Windbreaker Set S-XXL4",
+      "section": "Trainingskleding",
+      "category": "Landenteams",
+      "subcategory": "Argentina",
+      "competition": "Landenteams",
+      "club": "Argentina",
+      "country": "Argentina",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262258752/01.webp",
+        "assets/products/minkang/262258752/02.webp",
+        "assets/products/minkang/262258752/03.webp",
+        "assets/products/minkang/262258752/04.webp",
+        "assets/products/minkang/262258752/05.webp",
+        "assets/products/minkang/262258752/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262258752/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:36:14.848Z"
+    },
+    {
+      "uniqueKey": "minkang:262258695",
+      "source": "minkang",
+      "sourceId": "262258695",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262258695",
+      "sourceCategory": "more",
+      "title": "Argentina 26/27 White Full Zipper Windbreaker Set S-XXL7",
+      "section": "Trainingskleding",
+      "category": "Landenteams",
+      "subcategory": "Argentina",
+      "competition": "Landenteams",
+      "club": "Argentina",
+      "country": "Argentina",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262258695/01.webp",
+        "assets/products/minkang/262258695/02.webp",
+        "assets/products/minkang/262258695/03.webp",
+        "assets/products/minkang/262258695/04.webp",
+        "assets/products/minkang/262258695/05.webp",
+        "assets/products/minkang/262258695/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262258695/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:36:21.049Z"
+    },
+    {
+      "uniqueKey": "minkang:262258677",
+      "source": "minkang",
+      "sourceId": "262258677",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262258677",
+      "sourceCategory": "more",
+      "title": "Argentina 26/27 White Full Zipper Hooded Windbreaker Set S-XXL3",
+      "section": "Trainingskleding",
+      "category": "Landenteams",
+      "subcategory": "Argentina",
+      "competition": "Landenteams",
+      "club": "Argentina",
+      "country": "Argentina",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262258677/01.webp",
+        "assets/products/minkang/262258677/02.webp",
+        "assets/products/minkang/262258677/03.webp",
+        "assets/products/minkang/262258677/04.webp",
+        "assets/products/minkang/262258677/05.webp",
+        "assets/products/minkang/262258677/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262258677/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:36:21.950Z"
+    },
+    {
+      "uniqueKey": "minkang:262258650",
+      "source": "minkang",
+      "sourceId": "262258650",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262258650",
+      "sourceCategory": "more",
+      "title": "Argentina 26/27 Royal Blue Full Zipper Windbreaker Set S-XXL7",
+      "section": "Trainingskleding",
+      "category": "Landenteams",
+      "subcategory": "Argentina",
+      "competition": "Landenteams",
+      "club": "Argentina",
+      "country": "Argentina",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262258650/01.webp",
+        "assets/products/minkang/262258650/02.webp",
+        "assets/products/minkang/262258650/03.webp",
+        "assets/products/minkang/262258650/04.webp",
+        "assets/products/minkang/262258650/05.webp",
+        "assets/products/minkang/262258650/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262258650/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:36:27.856Z"
+    },
+    {
+      "uniqueKey": "minkang:262258638",
+      "source": "minkang",
+      "sourceId": "262258638",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262258638",
+      "sourceCategory": "more",
+      "title": "Argentina 26/27 Royal Blue Full Zipper Hooded Windbreaker Set S-XXL3",
+      "section": "Trainingskleding",
+      "category": "Landenteams",
+      "subcategory": "Argentina",
+      "competition": "Landenteams",
+      "club": "Argentina",
+      "country": "Argentina",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262258638/01.webp",
+        "assets/products/minkang/262258638/02.webp",
+        "assets/products/minkang/262258638/03.webp",
+        "assets/products/minkang/262258638/04.webp",
+        "assets/products/minkang/262258638/05.webp",
+        "assets/products/minkang/262258638/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262258638/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:36:27.351Z"
+    },
+    {
+      "uniqueKey": "minkang:262258597",
+      "source": "minkang",
+      "sourceId": "262258597",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262258597",
+      "sourceCategory": "more",
+      "title": "Argentina 26/27 Blue Full-Zip Windbreaker Set S-XXL8",
+      "section": "Trainingskleding",
+      "category": "Landenteams",
+      "subcategory": "Argentina",
+      "competition": "Landenteams",
+      "club": "Argentina",
+      "country": "Argentina",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262258597/01.webp",
+        "assets/products/minkang/262258597/02.webp",
+        "assets/products/minkang/262258597/03.webp",
+        "assets/products/minkang/262258597/04.webp",
+        "assets/products/minkang/262258597/05.webp",
+        "assets/products/minkang/262258597/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262258597/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:36:32.380Z"
+    },
+    {
+      "uniqueKey": "minkang:262258571",
+      "source": "minkang",
+      "sourceId": "262258571",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262258571",
+      "sourceCategory": "more",
+      "title": "Argentina 26/27 Black Full Zip Hooded Windbreaker Set S-XXL3",
+      "section": "Trainingskleding",
+      "category": "Landenteams",
+      "subcategory": "Argentina",
+      "competition": "Landenteams",
+      "club": "Argentina",
+      "country": "Argentina",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262258571/01.webp",
+        "assets/products/minkang/262258571/02.webp",
+        "assets/products/minkang/262258571/03.webp",
+        "assets/products/minkang/262258571/04.webp",
+        "assets/products/minkang/262258571/05.webp",
+        "assets/products/minkang/262258571/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262258571/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:36:33.798Z"
+    },
+    {
+      "uniqueKey": "minkang:262258548",
+      "source": "minkang",
+      "sourceId": "262258548",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262258548",
+      "sourceCategory": "more",
+      "title": "Algeria Two-Stars 26/27 Pink Full Zipper Windbreaker Set S-XXL6",
+      "section": "Trainingskleding",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "country": "",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262258548/01.webp",
+        "assets/products/minkang/262258548/02.webp",
+        "assets/products/minkang/262258548/03.webp",
+        "assets/products/minkang/262258548/04.webp",
+        "assets/products/minkang/262258548/05.webp",
+        "assets/products/minkang/262258548/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262258548/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:36:38.235Z"
+    },
+    {
+      "uniqueKey": "minkang:262258510",
+      "source": "minkang",
+      "sourceId": "262258510",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262258510",
+      "sourceCategory": "more",
+      "title": "Algeria National Team 26/27 Light Grey Full Zipper Windbreaker Set S-XXL7",
+      "section": "Trainingskleding",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "country": "",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262258510/01.webp",
+        "assets/products/minkang/262258510/02.webp",
+        "assets/products/minkang/262258510/03.webp",
+        "assets/products/minkang/262258510/04.webp",
+        "assets/products/minkang/262258510/05.webp",
+        "assets/products/minkang/262258510/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262258510/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:36:39.929Z"
+    },
+    {
+      "uniqueKey": "minkang:262258471",
+      "source": "minkang",
+      "sourceId": "262258471",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262258471",
+      "sourceCategory": "more",
+      "title": "Algeria National Team 26/27 Green Full-Zip Windbreaker Set S-XXL7",
+      "section": "Trainingskleding",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "country": "",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262258471/01.webp",
+        "assets/products/minkang/262258471/02.webp",
+        "assets/products/minkang/262258471/03.webp",
+        "assets/products/minkang/262258471/04.webp",
+        "assets/products/minkang/262258471/05.webp",
+        "assets/products/minkang/262258471/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262258471/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:36:43.633Z"
+    },
+    {
+      "uniqueKey": "minkang:262258433",
+      "source": "minkang",
+      "sourceId": "262258433",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262258433",
+      "sourceCategory": "more",
+      "title": "Algeria 26/27 White Full-Zip Windbreaker Set S-XXL6",
+      "section": "Trainingskleding",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "country": "",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262258433/01.webp",
+        "assets/products/minkang/262258433/02.webp",
+        "assets/products/minkang/262258433/03.webp",
+        "assets/products/minkang/262258433/04.webp",
+        "assets/products/minkang/262258433/05.webp",
+        "assets/products/minkang/262258433/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262258433/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:36:45.700Z"
+    },
+    {
+      "uniqueKey": "minkang:262258390",
+      "source": "minkang",
+      "sourceId": "262258390",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262258390",
+      "sourceCategory": "more",
+      "title": "Algeria 26/27 Off-white Full Zipper Windbreaker Set S-XXL9",
+      "section": "Trainingskleding",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "country": "",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262258390/01.webp",
+        "assets/products/minkang/262258390/02.webp",
+        "assets/products/minkang/262258390/03.webp",
+        "assets/products/minkang/262258390/04.webp",
+        "assets/products/minkang/262258390/05.webp",
+        "assets/products/minkang/262258390/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262258390/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:36:50.110Z"
+    },
+    {
+      "uniqueKey": "minkang:262258374",
+      "source": "minkang",
+      "sourceId": "262258374",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262258374",
+      "sourceCategory": "more",
+      "title": "Algeria 26/27 Light Grey Full Zipper Hooded Windbreaker Set S-XXL3",
+      "section": "Trainingskleding",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "country": "",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262258374/01.webp",
+        "assets/products/minkang/262258374/02.webp",
+        "assets/products/minkang/262258374/03.webp",
+        "assets/products/minkang/262258374/04.webp",
+        "assets/products/minkang/262258374/05.webp",
+        "assets/products/minkang/262258374/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262258374/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:36:51.853Z"
+    },
+    {
+      "uniqueKey": "minkang:262258344",
+      "source": "minkang",
+      "sourceId": "262258344",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262258344",
+      "sourceCategory": "more",
+      "title": "Algeria 26/27 Green Full Zipper Hooded Windbreaker Set S-XXL3",
+      "section": "Trainingskleding",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "country": "",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262258344/01.webp",
+        "assets/products/minkang/262258344/02.webp",
+        "assets/products/minkang/262258344/03.webp",
+        "assets/products/minkang/262258344/04.webp",
+        "assets/products/minkang/262258344/05.webp",
+        "assets/products/minkang/262258344/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262258344/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:36:55.865Z"
+    },
+    {
+      "uniqueKey": "minkang:262088232",
+      "source": "minkang",
+      "sourceId": "262088232",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262088232",
+      "sourceCategory": "more",
+      "title": "Argentina White Hooded Puffer Jacket with Concealed Zipper M-4XL6",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "Argentina",
+      "competition": "Landenteams",
+      "club": "Argentina",
+      "country": "Argentina",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Voetbalshirt"
+      ],
+      "images": [
+        "assets/products/minkang/262088232/01.webp",
+        "assets/products/minkang/262088232/02.webp",
+        "assets/products/minkang/262088232/03.webp",
+        "assets/products/minkang/262088232/04.webp",
+        "assets/products/minkang/262088232/05.webp",
+        "assets/products/minkang/262088232/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262088232/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:36:56.130Z"
+    },
+    {
+      "uniqueKey": "minkang:262088212",
+      "source": "minkang",
+      "sourceId": "262088212",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262088212",
+      "sourceCategory": "more",
+      "title": "Argentina Black Hooded Puffer Jacket with Concealed Zipper M-4XL5",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "Argentina",
+      "competition": "Landenteams",
+      "club": "Argentina",
+      "country": "Argentina",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Voetbalshirt"
+      ],
+      "images": [
+        "assets/products/minkang/262088212/01.webp",
+        "assets/products/minkang/262088212/02.webp",
+        "assets/products/minkang/262088212/03.webp",
+        "assets/products/minkang/262088212/04.webp",
+        "assets/products/minkang/262088212/05.webp",
+        "assets/products/minkang/262088212/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262088212/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:37:01.241Z"
+    },
+    {
+      "uniqueKey": "minkang:262088911",
+      "source": "minkang",
+      "sourceId": "262088911",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262088911",
+      "sourceCategory": "more",
+      "title": "Germany Black Hooded Puffer Jacket with Concealed Zipper M-4XL7",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "Germany",
+      "competition": "Landenteams",
+      "club": "Germany",
+      "country": "Germany",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Voetbalshirt"
+      ],
+      "images": [
+        "assets/products/minkang/262088911/01.webp",
+        "assets/products/minkang/262088911/02.webp",
+        "assets/products/minkang/262088911/03.webp",
+        "assets/products/minkang/262088911/04.webp",
+        "assets/products/minkang/262088911/05.webp",
+        "assets/products/minkang/262088911/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262088911/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:37:01.800Z"
+    },
+    {
+      "uniqueKey": "minkang:262089106",
+      "source": "minkang",
+      "sourceId": "262089106",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262089106",
+      "sourceCategory": "more",
+      "title": "Brazil Dark Grey Full Zip Stand Collar Vest Down Jacket S-XXL7",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Eredivisie",
+      "competition": "Eredivisie",
+      "club": "AZ",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Voetbalshirt"
+      ],
+      "images": [
+        "assets/products/minkang/262089106/01.webp",
+        "assets/products/minkang/262089106/02.webp",
+        "assets/products/minkang/262089106/03.webp",
+        "assets/products/minkang/262089106/04.webp",
+        "assets/products/minkang/262089106/05.webp",
+        "assets/products/minkang/262089106/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262089106/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:37:06.595Z"
+    },
+    {
+      "uniqueKey": "minkang:262088487",
+      "source": "minkang",
+      "sourceId": "262088487",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262088487",
+      "sourceCategory": "more",
+      "title": "Arsenal White Puffer Jacket with Concealed Zipper M-4XL7",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "competition": "Premier League",
+      "club": "Arsenal",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Voetbalshirt"
+      ],
+      "images": [
+        "assets/products/minkang/262088487/01.webp",
+        "assets/products/minkang/262088487/02.webp",
+        "assets/products/minkang/262088487/03.webp",
+        "assets/products/minkang/262088487/04.webp",
+        "assets/products/minkang/262088487/05.webp",
+        "assets/products/minkang/262088487/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262088487/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:37:06.589Z"
+    },
+    {
+      "uniqueKey": "minkang:262088472",
+      "source": "minkang",
+      "sourceId": "262088472",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262088472",
+      "sourceCategory": "more",
+      "title": "Arsenal Black Puffer Jacket with Concealed Zipper M-4XL6",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "competition": "Premier League",
+      "club": "Arsenal",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Voetbalshirt"
+      ],
+      "images": [
+        "assets/products/minkang/262088472/01.webp",
+        "assets/products/minkang/262088472/02.webp",
+        "assets/products/minkang/262088472/03.webp",
+        "assets/products/minkang/262088472/04.webp",
+        "assets/products/minkang/262088472/05.webp",
+        "assets/products/minkang/262088472/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262088472/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:37:12.646Z"
+    },
+    {
+      "uniqueKey": "minkang:262088373",
+      "source": "minkang",
+      "sourceId": "262088373",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262088373",
+      "sourceCategory": "more",
+      "title": "Arsenal Dark Grey Full Zip-Up Stand Collar Vest Down Jacket S-XXL6",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "competition": "Premier League",
+      "club": "Arsenal",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Voetbalshirt"
+      ],
+      "images": [
+        "assets/products/minkang/262088373/01.webp",
+        "assets/products/minkang/262088373/02.webp",
+        "assets/products/minkang/262088373/03.webp",
+        "assets/products/minkang/262088373/04.webp",
+        "assets/products/minkang/262088373/05.webp",
+        "assets/products/minkang/262088373/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262088373/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:37:11.250Z"
+    },
+    {
+      "uniqueKey": "minkang:262088352",
+      "source": "minkang",
+      "sourceId": "262088352",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262088352",
+      "sourceCategory": "more",
+      "title": "Arsenal Black Full Zip-Up Stand Collar Vest Down Jacket S-XXL5",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "competition": "Premier League",
+      "club": "Arsenal",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Voetbalshirt"
+      ],
+      "images": [
+        "assets/products/minkang/262088352/01.webp",
+        "assets/products/minkang/262088352/02.webp",
+        "assets/products/minkang/262088352/03.webp",
+        "assets/products/minkang/262088352/04.webp",
+        "assets/products/minkang/262088352/05.webp",
+        "assets/products/minkang/262088352/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262088352/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:37:16.004Z"
+    },
+    {
+      "uniqueKey": "minkang:262088887",
+      "source": "minkang",
+      "sourceId": "262088887",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262088887",
+      "sourceCategory": "more",
+      "title": "Bayern Munich White Hooded Puffer Jacket with Concealed Zipper M-4XL6",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Bundesliga",
+      "competition": "Bundesliga",
+      "club": "Bayern Munich",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Voetbalshirt"
+      ],
+      "images": [
+        "assets/products/minkang/262088887/01.webp",
+        "assets/products/minkang/262088887/02.webp",
+        "assets/products/minkang/262088887/03.webp",
+        "assets/products/minkang/262088887/04.webp",
+        "assets/products/minkang/262088887/05.webp",
+        "assets/products/minkang/262088887/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262088887/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:37:19.008Z"
+    },
+    {
+      "uniqueKey": "minkang:262088859",
+      "source": "minkang",
+      "sourceId": "262088859",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262088859",
+      "sourceCategory": "more",
+      "title": "Bayern Munich Black Hooded Puffer Jacket with Concealed Zipper M-4XL6",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Bundesliga",
+      "competition": "Bundesliga",
+      "club": "Bayern Munich",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Voetbalshirt"
+      ],
+      "images": [
+        "assets/products/minkang/262088859/01.webp",
+        "assets/products/minkang/262088859/02.webp",
+        "assets/products/minkang/262088859/03.webp",
+        "assets/products/minkang/262088859/04.webp",
+        "assets/products/minkang/262088859/05.webp",
+        "assets/products/minkang/262088859/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262088859/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:37:21.129Z"
+    },
+    {
+      "uniqueKey": "minkang:262088089",
+      "source": "minkang",
+      "sourceId": "262088089",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262088089",
+      "sourceCategory": "more",
+      "title": "PSG White Black Colorblock Hooded Puffer Jacket S-XXL8",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Ligue 1",
+      "competition": "Ligue 1",
+      "club": "PSG",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Voetbalshirt"
+      ],
+      "images": [
+        "assets/products/minkang/262088089/01.webp",
+        "assets/products/minkang/262088089/02.webp",
+        "assets/products/minkang/262088089/03.webp",
+        "assets/products/minkang/262088089/04.webp",
+        "assets/products/minkang/262088089/05.webp",
+        "assets/products/minkang/262088089/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262088089/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:37:22.908Z"
+    },
+    {
+      "uniqueKey": "minkang:262088049",
+      "source": "minkang",
+      "sourceId": "262088049",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262088049",
+      "sourceCategory": "more",
+      "title": "PSG Black Colorblock Hooded Puffer Jacket S-XXL6",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Ligue 1",
+      "competition": "Ligue 1",
+      "club": "PSG",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Voetbalshirt"
+      ],
+      "images": [
+        "assets/products/minkang/262088049/01.webp",
+        "assets/products/minkang/262088049/02.webp",
+        "assets/products/minkang/262088049/03.webp",
+        "assets/products/minkang/262088049/04.webp",
+        "assets/products/minkang/262088049/05.webp",
+        "assets/products/minkang/262088049/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262088049/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:37:26.097Z"
+    },
+    {
+      "uniqueKey": "minkang:262087946",
+      "source": "minkang",
+      "sourceId": "262087946",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262087946",
+      "sourceCategory": "more",
+      "title": "PSG Black Hooded Puffer Jacket M-3XL6",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Ligue 1",
+      "competition": "Ligue 1",
+      "club": "PSG",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Voetbalshirt"
+      ],
+      "images": [
+        "assets/products/minkang/262087946/01.webp",
+        "assets/products/minkang/262087946/02.webp",
+        "assets/products/minkang/262087946/03.webp",
+        "assets/products/minkang/262087946/04.webp",
+        "assets/products/minkang/262087946/05.webp",
+        "assets/products/minkang/262087946/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262087946/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:37:34.063Z"
+    },
+    {
+      "uniqueKey": "minkang:262087920",
+      "source": "minkang",
+      "sourceId": "262087920",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262087920",
+      "sourceCategory": "more",
+      "title": "PSG White Hooded Puffer Jacket S-XXL8",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Ligue 1",
+      "competition": "Ligue 1",
+      "club": "PSG",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Voetbalshirt"
+      ],
+      "images": [
+        "assets/products/minkang/262087920/01.webp",
+        "assets/products/minkang/262087920/02.webp",
+        "assets/products/minkang/262087920/03.webp",
+        "assets/products/minkang/262087920/04.webp",
+        "assets/products/minkang/262087920/05.webp",
+        "assets/products/minkang/262087920/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262087920/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:37:32.348Z"
+    },
+    {
+      "uniqueKey": "minkang:262087888",
+      "source": "minkang",
+      "sourceId": "262087888",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262087888",
+      "sourceCategory": "more",
+      "title": "PSG Sky Blue Hooded Puffer Jacket M-3XL8",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Ligue 1",
+      "competition": "Ligue 1",
+      "club": "PSG",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Voetbalshirt"
+      ],
+      "images": [
+        "assets/products/minkang/262087888/01.webp",
+        "assets/products/minkang/262087888/02.webp",
+        "assets/products/minkang/262087888/03.webp",
+        "assets/products/minkang/262087888/04.webp",
+        "assets/products/minkang/262087888/05.webp",
+        "assets/products/minkang/262087888/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262087888/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:37:37.464Z"
+    },
+    {
+      "uniqueKey": "minkang:262087867",
+      "source": "minkang",
+      "sourceId": "262087867",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262087867",
+      "sourceCategory": "more",
+      "title": "PSG Off-white Hooded Puffer Jacket M-3XL8",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Ligue 1",
+      "competition": "Ligue 1",
+      "club": "PSG",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Voetbalshirt"
+      ],
+      "images": [
+        "assets/products/minkang/262087867/01.webp",
+        "assets/products/minkang/262087867/02.webp",
+        "assets/products/minkang/262087867/03.webp",
+        "assets/products/minkang/262087867/04.webp",
+        "assets/products/minkang/262087867/05.webp",
+        "assets/products/minkang/262087867/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262087867/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:37:55.634Z"
+    },
+    {
+      "uniqueKey": "minkang:262087839",
+      "source": "minkang",
+      "sourceId": "262087839",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262087839",
+      "sourceCategory": "more",
+      "title": "PSG Gold Label Black Hooded Puffer Jacket S-XXL7",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Ligue 1",
+      "competition": "Ligue 1",
+      "club": "PSG",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Voetbalshirt"
+      ],
+      "images": [
+        "assets/products/minkang/262087839/01.webp",
+        "assets/products/minkang/262087839/02.webp",
+        "assets/products/minkang/262087839/03.webp",
+        "assets/products/minkang/262087839/04.webp",
+        "assets/products/minkang/262087839/05.webp",
+        "assets/products/minkang/262087839/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262087839/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:37:42.466Z"
+    },
+    {
+      "uniqueKey": "minkang:262087679",
+      "source": "minkang",
+      "sourceId": "262087679",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262087679",
+      "sourceCategory": "more",
+      "title": "PSG Blue Label Black Padded Bomber Jacket S-XXL8",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Ligue 1",
+      "competition": "Ligue 1",
+      "club": "PSG",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Voetbalshirt"
+      ],
+      "images": [
+        "assets/products/minkang/262087679/01.webp",
+        "assets/products/minkang/262087679/02.webp",
+        "assets/products/minkang/262087679/03.webp",
+        "assets/products/minkang/262087679/04.webp",
+        "assets/products/minkang/262087679/05.webp",
+        "assets/products/minkang/262087679/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262087679/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:37:49.864Z"
+    },
+    {
+      "uniqueKey": "minkang:262087656",
+      "source": "minkang",
+      "sourceId": "262087656",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262087656",
+      "sourceCategory": "more",
+      "title": "PSG Black Padded Bomber Jacket S-XXL7",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Ligue 1",
+      "competition": "Ligue 1",
+      "club": "PSG",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Voetbalshirt"
+      ],
+      "images": [
+        "assets/products/minkang/262087656/01.webp",
+        "assets/products/minkang/262087656/02.webp",
+        "assets/products/minkang/262087656/03.webp",
+        "assets/products/minkang/262087656/04.webp",
+        "assets/products/minkang/262087656/05.webp",
+        "assets/products/minkang/262087656/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262087656/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:37:56.165Z"
+    },
+    {
+      "uniqueKey": "minkang:262087431",
+      "source": "minkang",
+      "sourceId": "262087431",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262087431",
+      "sourceCategory": "more",
+      "title": "PSG Off-White Full Zipper Vest Down Jacket S-XXL7",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Ligue 1",
+      "competition": "Ligue 1",
+      "club": "PSG",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Voetbalshirt"
+      ],
+      "images": [
+        "assets/products/minkang/262087431/01.webp",
+        "assets/products/minkang/262087431/02.webp",
+        "assets/products/minkang/262087431/03.webp",
+        "assets/products/minkang/262087431/04.webp",
+        "assets/products/minkang/262087431/05.webp",
+        "assets/products/minkang/262087431/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262087431/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:38:01.697Z"
+    },
+    {
+      "uniqueKey": "minkang:262087398",
+      "source": "minkang",
+      "sourceId": "262087398",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262087398",
+      "sourceCategory": "more",
+      "title": "PSG Dark Grey Full Zip Down Jacket S-XXL9",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Ligue 1",
+      "competition": "Ligue 1",
+      "club": "PSG",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Voetbalshirt"
+      ],
+      "images": [
+        "assets/products/minkang/262087398/01.webp",
+        "assets/products/minkang/262087398/02.webp",
+        "assets/products/minkang/262087398/03.webp",
+        "assets/products/minkang/262087398/04.webp",
+        "assets/products/minkang/262087398/05.webp",
+        "assets/products/minkang/262087398/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262087398/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:38:01.626Z"
+    },
+    {
+      "uniqueKey": "minkang:262087363",
+      "source": "minkang",
+      "sourceId": "262087363",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262087363",
+      "sourceCategory": "more",
+      "title": "PSG Brown Full-Zip Vest Down Jacket S-XXL8",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Ligue 1",
+      "competition": "Ligue 1",
+      "club": "PSG",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Voetbalshirt"
+      ],
+      "images": [
+        "assets/products/minkang/262087363/01.webp",
+        "assets/products/minkang/262087363/02.webp",
+        "assets/products/minkang/262087363/03.webp",
+        "assets/products/minkang/262087363/04.webp",
+        "assets/products/minkang/262087363/05.webp",
+        "assets/products/minkang/262087363/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262087363/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:38:08.495Z"
+    },
+    {
+      "uniqueKey": "minkang:262087338",
+      "source": "minkang",
+      "sourceId": "262087338",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262087338",
+      "sourceCategory": "more",
+      "title": "PSG Black Full-Zip Vest Down Jacket S-XXL8",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Ligue 1",
+      "competition": "Ligue 1",
+      "club": "PSG",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Voetbalshirt"
+      ],
+      "images": [
+        "assets/products/minkang/262087338/01.webp",
+        "assets/products/minkang/262087338/02.webp",
+        "assets/products/minkang/262087338/03.webp",
+        "assets/products/minkang/262087338/04.webp",
+        "assets/products/minkang/262087338/05.webp",
+        "assets/products/minkang/262087338/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262087338/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:38:07.594Z"
+    },
+    {
+      "uniqueKey": "minkang:262087308",
+      "source": "minkang",
+      "sourceId": "262087308",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262087308",
+      "sourceCategory": "more",
+      "title": "PSG Black Full-Zip Vest Down Jacket S-XXL6",
+      "section": "Voetbal",
+      "category": "Clubteams",
+      "subcategory": "Ligue 1",
+      "competition": "Ligue 1",
+      "club": "PSG",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Voetbalshirt"
+      ],
+      "images": [
+        "assets/products/minkang/262087308/01.webp",
+        "assets/products/minkang/262087308/02.webp",
+        "assets/products/minkang/262087308/03.webp",
+        "assets/products/minkang/262087308/04.webp",
+        "assets/products/minkang/262087308/05.webp",
+        "assets/products/minkang/262087308/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262087308/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:38:13.722Z"
+    },
+    {
+      "uniqueKey": "minkang:262266466",
+      "source": "minkang",
+      "sourceId": "262266466",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262266466",
+      "sourceCategory": "Uncategorized album",
+      "title": "Spain Two-Stars 26/27 Off-white Full Zipper Hooded Windbreaker Set S-XXL4",
+      "section": "Trainingskleding",
+      "category": "Landenteams",
+      "subcategory": "Spain",
+      "competition": "Landenteams",
+      "club": "Spain",
+      "country": "Spain",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262266466/01.webp",
+        "assets/products/minkang/262266466/02.webp",
+        "assets/products/minkang/262266466/03.webp",
+        "assets/products/minkang/262266466/04.webp",
+        "assets/products/minkang/262266466/05.webp",
+        "assets/products/minkang/262266466/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262266466/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:38:23.976Z"
+    },
+    {
+      "uniqueKey": "minkang:262266439",
+      "source": "minkang",
+      "sourceId": "262266439",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262266439",
+      "sourceCategory": "Uncategorized album",
+      "title": "Spain Two-Stars 26/27 Lake Blue Full Zipper Hooded Windbreaker Set S-XXL4",
+      "section": "Trainingskleding",
+      "category": "Landenteams",
+      "subcategory": "Spain",
+      "competition": "Landenteams",
+      "club": "Spain",
+      "country": "Spain",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262266439/01.webp",
+        "assets/products/minkang/262266439/02.webp",
+        "assets/products/minkang/262266439/03.webp",
+        "assets/products/minkang/262266439/04.webp",
+        "assets/products/minkang/262266439/05.webp",
+        "assets/products/minkang/262266439/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262266439/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:38:24.773Z"
+    },
+    {
+      "uniqueKey": "minkang:262266416",
+      "source": "minkang",
+      "sourceId": "262266416",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262266416",
+      "sourceCategory": "Uncategorized album",
+      "title": "Senegal Two-Stars 26/27 Green Full Zipper Hooded Windbreaker Set S-XXL4",
+      "section": "Trainingskleding",
+      "category": "Landenteams",
+      "subcategory": "Senegal",
+      "competition": "Landenteams",
+      "club": "Senegal",
+      "country": "Senegal",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262266416/01.webp",
+        "assets/products/minkang/262266416/02.webp",
+        "assets/products/minkang/262266416/03.webp",
+        "assets/products/minkang/262266416/04.webp",
+        "assets/products/minkang/262266416/05.webp",
+        "assets/products/minkang/262266416/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262266416/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:38:32.126Z"
+    },
+    {
+      "uniqueKey": "minkang:262266380",
+      "source": "minkang",
+      "sourceId": "262266380",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262266380",
+      "sourceCategory": "Uncategorized album",
+      "title": "River Plate 26/27 Black Full Zipper Hooded Windbreaker Set S-XXL4",
+      "section": "Trainingskleding",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "country": "",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262266380/01.webp",
+        "assets/products/minkang/262266380/02.webp",
+        "assets/products/minkang/262266380/03.webp",
+        "assets/products/minkang/262266380/04.webp",
+        "assets/products/minkang/262266380/05.webp",
+        "assets/products/minkang/262266380/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262266380/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:38:34.600Z"
+    },
+    {
+      "uniqueKey": "minkang:262266340",
+      "source": "minkang",
+      "sourceId": "262266340",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262266340",
+      "sourceCategory": "Uncategorized album",
+      "title": "Real Madrid 26/27 White Full Zipper Hooded Windbreaker Set S-XXL5",
+      "section": "Trainingskleding",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "competition": "La Liga",
+      "club": "Real Madrid",
+      "country": "",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262266340/01.webp",
+        "assets/products/minkang/262266340/02.webp",
+        "assets/products/minkang/262266340/03.webp",
+        "assets/products/minkang/262266340/04.webp",
+        "assets/products/minkang/262266340/05.webp",
+        "assets/products/minkang/262266340/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262266340/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:38:41.270Z"
+    },
+    {
+      "uniqueKey": "minkang:262266296",
+      "source": "minkang",
+      "sourceId": "262266296",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262266296",
+      "sourceCategory": "Uncategorized album",
+      "title": "Real Madrid 26/27 White Full Zip Hooded Windbreaker Set S-XXL6",
+      "section": "Trainingskleding",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "competition": "La Liga",
+      "club": "Real Madrid",
+      "country": "",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262266296/01.webp",
+        "assets/products/minkang/262266296/02.webp",
+        "assets/products/minkang/262266296/03.webp",
+        "assets/products/minkang/262266296/04.webp",
+        "assets/products/minkang/262266296/05.webp",
+        "assets/products/minkang/262266296/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262266296/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:38:42.002Z"
+    },
+    {
+      "uniqueKey": "minkang:262266269",
+      "source": "minkang",
+      "sourceId": "262266269",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262266269",
+      "sourceCategory": "Uncategorized album",
+      "title": "Real Madrid 26/27 White and Green Full Zipper Hooded Windbreaker Set S-XXL4",
+      "section": "Trainingskleding",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "competition": "La Liga",
+      "club": "Real Madrid",
+      "country": "",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262266269/01.webp",
+        "assets/products/minkang/262266269/02.webp",
+        "assets/products/minkang/262266269/03.webp",
+        "assets/products/minkang/262266269/04.webp",
+        "assets/products/minkang/262266269/05.webp",
+        "assets/products/minkang/262266269/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262266269/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:38:50.534Z"
+    },
+    {
+      "uniqueKey": "minkang:262266234",
+      "source": "minkang",
+      "sourceId": "262266234",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262266234",
+      "sourceCategory": "Uncategorized album",
+      "title": "Real Madrid 26/27 Royal Blue Full Zipper Hooded Windbreaker Set S-XXL5",
+      "section": "Trainingskleding",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "competition": "La Liga",
+      "club": "Real Madrid",
+      "country": "",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262266234/01.webp",
+        "assets/products/minkang/262266234/02.webp",
+        "assets/products/minkang/262266234/03.webp",
+        "assets/products/minkang/262266234/04.webp",
+        "assets/products/minkang/262266234/05.webp",
+        "assets/products/minkang/262266234/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262266234/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:38:52.392Z"
+    },
+    {
+      "uniqueKey": "minkang:262266204",
+      "source": "minkang",
+      "sourceId": "262266204",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/262266204",
+      "sourceCategory": "Uncategorized album",
+      "title": "Real Madrid 26/27 Light Green Full Zipper Hooded Windbreaker Set S-XXL5",
+      "section": "Trainingskleding",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "competition": "La Liga",
+      "club": "Real Madrid",
+      "country": "",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/minkang/262266204/01.webp",
+        "assets/products/minkang/262266204/02.webp",
+        "assets/products/minkang/262266204/03.webp",
+        "assets/products/minkang/262266204/04.webp",
+        "assets/products/minkang/262266204/05.webp",
+        "assets/products/minkang/262266204/06.webp"
+      ],
+      "coverUrl": "assets/products/minkang/262266204/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-09T11:38:58.003Z"
     }
   ],
   "warnings": []
