@@ -1,7 +1,6 @@
 {
-  "lastSync": "2026-11-10T12:16:37.077Z",
-  "status": "running",
-  "currentSource": "yuhuaxieye1",
+  "lastSync": "2026-11-10T12:20:38.876Z",
+  "status": "completed",
   "products": [
     {
       "uniqueKey": "dachang88:66111399",
@@ -1140980,7 +1140979,7 @@
       "images": [],
       "coverUrl": "",
       "imageCount": 0,
-      "updatedAt": "2026-11-09T13:55:54.378Z",
+      "updatedAt": "2026-11-10T12:20:01.123Z",
       "sourceCollection": "",
       "classificationVersion": 2
     },
@@ -1141056,7 +1141055,7 @@
       "images": [],
       "coverUrl": "",
       "imageCount": 0,
-      "updatedAt": "2026-11-09T13:55:54.445Z",
+      "updatedAt": "2026-11-10T12:20:01.128Z",
       "sourceCollection": "",
       "classificationVersion": 2
     },
@@ -1141160,7 +1141159,7 @@
       "images": [],
       "coverUrl": "",
       "imageCount": 0,
-      "updatedAt": "2026-11-09T13:56:34.042Z",
+      "updatedAt": "2026-11-10T12:20:38.457Z",
       "sourceCollection": "",
       "classificationVersion": 2
     },
@@ -1200278,6 +1200277,64 @@
       "imageCount": 6,
       "classificationVersion": 2,
       "updatedAt": "2026-11-10T12:16:37.077Z"
+    },
+    {
+      "uniqueKey": "dongshanstore:262335476",
+      "source": "dongshanstore",
+      "sourceId": "262335476",
+      "sourceUrl": "https://dongshanstore.x.yupoo.com/albums/262335476",
+      "sourceCategory": "more",
+      "title": "B26113# 2627 AC -AC Milan2",
+      "section": "Trainingskleding",
+      "category": "Clubteams",
+      "subcategory": "Serie A",
+      "competition": "Serie A",
+      "club": "AC Milan",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/dongshanstore/262335476/01.webp",
+        "assets/products/dongshanstore/262335476/02.webp",
+        "assets/products/dongshanstore/262335476/03.webp",
+        "assets/products/dongshanstore/262335476/04.webp",
+        "assets/products/dongshanstore/262335476/05.webp"
+      ],
+      "coverUrl": "assets/products/dongshanstore/262335476/01.webp",
+      "imageCount": 5,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-10T12:20:07.301Z"
+    },
+    {
+      "uniqueKey": "dongshanstore:262335367",
+      "source": "dongshanstore",
+      "sourceId": "262335367",
+      "sourceUrl": "https://dongshanstore.x.yupoo.com/albums/262335367",
+      "sourceCategory": "more",
+      "title": "B26111# 2627 Korte mouw AC -AC Milan2",
+      "section": "Trainingskleding",
+      "category": "Clubteams",
+      "subcategory": "Serie A",
+      "competition": "Serie A",
+      "club": "AC Milan",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/dongshanstore/262335367/01.webp",
+        "assets/products/dongshanstore/262335367/02.webp",
+        "assets/products/dongshanstore/262335367/03.webp",
+        "assets/products/dongshanstore/262335367/04.webp",
+        "assets/products/dongshanstore/262335367/05.webp"
+      ],
+      "coverUrl": "assets/products/dongshanstore/262335367/01.webp",
+      "imageCount": 5,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-10T12:20:07.550Z"
     }
   ],
   "warnings": []
