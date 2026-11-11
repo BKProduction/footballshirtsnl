@@ -1,7 +1,6 @@
 {
-  "lastSync": "2026-11-11T11:24:11.377Z",
-  "status": "running",
-  "currentSource": "407131796",
+  "lastSync": "2026-11-11T11:34:41.474Z",
+  "status": "completed",
   "products": [
     {
       "uniqueKey": "dachang88:66111399",
@@ -1140980,7 +1140979,7 @@
       "images": [],
       "coverUrl": "",
       "imageCount": 0,
-      "updatedAt": "2026-11-10T12:20:01.123Z",
+      "updatedAt": "2026-11-11T11:32:40.012Z",
       "sourceCollection": "",
       "classificationVersion": 2
     },
@@ -1141056,7 +1141055,7 @@
       "images": [],
       "coverUrl": "",
       "imageCount": 0,
-      "updatedAt": "2026-11-10T12:20:01.128Z",
+      "updatedAt": "2026-11-11T11:32:40.012Z",
       "sourceCollection": "",
       "classificationVersion": 2
     },
@@ -1141160,7 +1141159,7 @@
       "images": [],
       "coverUrl": "",
       "imageCount": 0,
-      "updatedAt": "2026-11-10T12:20:38.457Z",
+      "updatedAt": "2026-11-11T11:33:42.886Z",
       "sourceCollection": "",
       "classificationVersion": 2
     },
@@ -1202302,6 +1202301,538 @@
       "imageCount": 6,
       "classificationVersion": 2,
       "updatedAt": "2026-11-11T11:24:10.702Z"
+    },
+    {
+      "uniqueKey": "dongshanstore:262576921",
+      "source": "dongshanstore",
+      "sourceId": "262576921",
+      "sourceUrl": "https://dongshanstore.x.yupoo.com/albums/262576921",
+      "sourceCategory": "more",
+      "title": "B26134# 2627 -Manchester City2",
+      "section": "Trainingskleding",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "competition": "Premier League",
+      "club": "Manchester City",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/dongshanstore/262576921/01.webp",
+        "assets/products/dongshanstore/262576921/02.webp",
+        "assets/products/dongshanstore/262576921/03.webp",
+        "assets/products/dongshanstore/262576921/04.webp",
+        "assets/products/dongshanstore/262576921/05.webp"
+      ],
+      "coverUrl": "assets/products/dongshanstore/262576921/01.webp",
+      "imageCount": 5,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-11T11:32:45.665Z"
+    },
+    {
+      "uniqueKey": "dongshanstore:262578380",
+      "source": "dongshanstore",
+      "sourceId": "262578380",
+      "sourceUrl": "https://dongshanstore.x.yupoo.com/albums/262578380",
+      "sourceCategory": "more",
+      "title": "A26155# 2627 V -Barcelona2",
+      "section": "Trainingskleding",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "competition": "La Liga",
+      "club": "Barcelona",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/dongshanstore/262578380/01.webp",
+        "assets/products/dongshanstore/262578380/02.webp",
+        "assets/products/dongshanstore/262578380/03.webp",
+        "assets/products/dongshanstore/262578380/04.webp",
+        "assets/products/dongshanstore/262578380/05.webp"
+      ],
+      "coverUrl": "assets/products/dongshanstore/262578380/01.webp",
+      "imageCount": 5,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-11T11:32:45.567Z"
+    },
+    {
+      "uniqueKey": "dongshanstore:262577398",
+      "source": "dongshanstore",
+      "sourceId": "262577398",
+      "sourceUrl": "https://dongshanstore.x.yupoo.com/albums/262577398",
+      "sourceCategory": "more",
+      "title": "A26154# 2627 -Tottenham2",
+      "section": "Trainingskleding",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "competition": "Premier League",
+      "club": "Tottenham",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/dongshanstore/262577398/01.webp",
+        "assets/products/dongshanstore/262577398/02.webp",
+        "assets/products/dongshanstore/262577398/03.webp",
+        "assets/products/dongshanstore/262577398/04.webp",
+        "assets/products/dongshanstore/262577398/05.webp"
+      ],
+      "coverUrl": "assets/products/dongshanstore/262577398/01.webp",
+      "imageCount": 5,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-11T11:32:51.742Z"
+    },
+    {
+      "uniqueKey": "dongshanstore:262577136",
+      "source": "dongshanstore",
+      "sourceId": "262577136",
+      "sourceUrl": "https://dongshanstore.x.yupoo.com/albums/262577136",
+      "sourceCategory": "more",
+      "title": "A26153# 2627 -Inter Milan2",
+      "section": "Trainingskleding",
+      "category": "Clubteams",
+      "subcategory": "Serie A",
+      "competition": "Serie A",
+      "club": "Inter Milan",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/dongshanstore/262577136/01.webp",
+        "assets/products/dongshanstore/262577136/02.webp",
+        "assets/products/dongshanstore/262577136/03.webp",
+        "assets/products/dongshanstore/262577136/04.webp",
+        "assets/products/dongshanstore/262577136/05.webp"
+      ],
+      "coverUrl": "assets/products/dongshanstore/262577136/01.webp",
+      "imageCount": 5,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-11T11:32:52.075Z"
+    },
+    {
+      "uniqueKey": "dongshanstore:262578273",
+      "source": "dongshanstore",
+      "sourceId": "262578273",
+      "sourceUrl": "https://dongshanstore.x.yupoo.com/albums/262578273",
+      "sourceCategory": "more",
+      "title": "E26252# 2627 V -Barcelona2",
+      "section": "Trainingskleding",
+      "category": "Clubteams",
+      "subcategory": "La Liga",
+      "competition": "La Liga",
+      "club": "Barcelona",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/dongshanstore/262578273/01.webp",
+        "assets/products/dongshanstore/262578273/02.webp",
+        "assets/products/dongshanstore/262578273/03.webp",
+        "assets/products/dongshanstore/262578273/04.webp",
+        "assets/products/dongshanstore/262578273/05.webp"
+      ],
+      "coverUrl": "assets/products/dongshanstore/262578273/01.webp",
+      "imageCount": 5,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-11T11:32:58.591Z"
+    },
+    {
+      "uniqueKey": "dongshanstore:262577521",
+      "source": "dongshanstore",
+      "sourceId": "262577521",
+      "sourceUrl": "https://dongshanstore.x.yupoo.com/albums/262577521",
+      "sourceCategory": "more",
+      "title": "E26251# 2627 -Tottenham2",
+      "section": "Trainingskleding",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "competition": "Premier League",
+      "club": "Tottenham",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/dongshanstore/262577521/01.webp",
+        "assets/products/dongshanstore/262577521/02.webp",
+        "assets/products/dongshanstore/262577521/03.webp",
+        "assets/products/dongshanstore/262577521/04.webp",
+        "assets/products/dongshanstore/262577521/05.webp"
+      ],
+      "coverUrl": "assets/products/dongshanstore/262577521/01.webp",
+      "imageCount": 5,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-11T11:33:06.411Z"
+    },
+    {
+      "uniqueKey": "dongshanstore:262577248",
+      "source": "dongshanstore",
+      "sourceId": "262577248",
+      "sourceUrl": "https://dongshanstore.x.yupoo.com/albums/262577248",
+      "sourceCategory": "more",
+      "title": "E26250# 2627 -Inter Milan2",
+      "section": "Trainingskleding",
+      "category": "Clubteams",
+      "subcategory": "Serie A",
+      "competition": "Serie A",
+      "club": "Inter Milan",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/dongshanstore/262577248/01.webp",
+        "assets/products/dongshanstore/262577248/02.webp",
+        "assets/products/dongshanstore/262577248/03.webp",
+        "assets/products/dongshanstore/262577248/04.webp",
+        "assets/products/dongshanstore/262577248/05.webp"
+      ],
+      "coverUrl": "assets/products/dongshanstore/262577248/01.webp",
+      "imageCount": 5,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-11T11:33:05.861Z"
+    },
+    {
+      "uniqueKey": "dongshanstore:262577012",
+      "source": "dongshanstore",
+      "sourceId": "262577012",
+      "sourceUrl": "https://dongshanstore.x.yupoo.com/albums/262577012",
+      "sourceCategory": "more",
+      "title": "E26249# 2627 -Manchester City2",
+      "section": "Trainingskleding",
+      "category": "Clubteams",
+      "subcategory": "Premier League",
+      "competition": "Premier League",
+      "club": "Manchester City",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/dongshanstore/262577012/01.webp",
+        "assets/products/dongshanstore/262577012/02.webp",
+        "assets/products/dongshanstore/262577012/03.webp",
+        "assets/products/dongshanstore/262577012/04.webp",
+        "assets/products/dongshanstore/262577012/05.webp"
+      ],
+      "coverUrl": "assets/products/dongshanstore/262577012/01.webp",
+      "imageCount": 5,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-11T11:33:12.332Z"
+    },
+    {
+      "uniqueKey": "aosendi:262664610",
+      "source": "aosendi",
+      "sourceId": "262664610",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/262664610",
+      "sourceCategory": "： Trainingskleding Set 【S-2XL】",
+      "title": "NK2601 10",
+      "section": "Trainingskleding",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/aosendi/262664610/01.webp",
+        "assets/products/aosendi/262664610/02.webp",
+        "assets/products/aosendi/262664610/03.webp",
+        "assets/products/aosendi/262664610/04.webp",
+        "assets/products/aosendi/262664610/05.webp",
+        "assets/products/aosendi/262664610/06.webp"
+      ],
+      "coverUrl": "assets/products/aosendi/262664610/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-11T11:33:52.319Z"
+    },
+    {
+      "uniqueKey": "aosendi:262664341",
+      "source": "aosendi",
+      "sourceId": "262664341",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/262664341",
+      "sourceCategory": "： Trainingskleding Set 【S-2XL】",
+      "title": "NK2601 10",
+      "section": "Trainingskleding",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/aosendi/262664341/01.webp",
+        "assets/products/aosendi/262664341/02.webp",
+        "assets/products/aosendi/262664341/03.webp",
+        "assets/products/aosendi/262664341/04.webp",
+        "assets/products/aosendi/262664341/05.webp",
+        "assets/products/aosendi/262664341/06.webp"
+      ],
+      "coverUrl": "assets/products/aosendi/262664341/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-11T11:33:56.911Z"
+    },
+    {
+      "uniqueKey": "aosendi:262664233",
+      "source": "aosendi",
+      "sourceId": "262664233",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/262664233",
+      "sourceCategory": "： Trainingskleding Set 【S-2XL】",
+      "title": "NK2601 10",
+      "section": "Trainingskleding",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/aosendi/262664233/01.webp",
+        "assets/products/aosendi/262664233/02.webp",
+        "assets/products/aosendi/262664233/03.webp",
+        "assets/products/aosendi/262664233/04.webp",
+        "assets/products/aosendi/262664233/05.webp",
+        "assets/products/aosendi/262664233/06.webp"
+      ],
+      "coverUrl": "assets/products/aosendi/262664233/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-11T11:34:02.682Z"
+    },
+    {
+      "uniqueKey": "aosendi:262664058",
+      "source": "aosendi",
+      "sourceId": "262664058",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/262664058",
+      "sourceCategory": "： Trainingskleding Set 【S-2XL】",
+      "title": "NK2601 10",
+      "section": "Trainingskleding",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/aosendi/262664058/01.webp",
+        "assets/products/aosendi/262664058/02.webp",
+        "assets/products/aosendi/262664058/03.webp",
+        "assets/products/aosendi/262664058/04.webp",
+        "assets/products/aosendi/262664058/05.webp",
+        "assets/products/aosendi/262664058/06.webp"
+      ],
+      "coverUrl": "assets/products/aosendi/262664058/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-11T11:34:08.245Z"
+    },
+    {
+      "uniqueKey": "aosendi:262663868",
+      "source": "aosendi",
+      "sourceId": "262663868",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/262663868",
+      "sourceCategory": "： Trainingskleding Set 【S-2XL】",
+      "title": "NK2601 9",
+      "section": "Trainingskleding",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/aosendi/262663868/01.webp",
+        "assets/products/aosendi/262663868/02.webp",
+        "assets/products/aosendi/262663868/03.webp",
+        "assets/products/aosendi/262663868/04.webp",
+        "assets/products/aosendi/262663868/05.webp",
+        "assets/products/aosendi/262663868/06.webp"
+      ],
+      "coverUrl": "assets/products/aosendi/262663868/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-11T11:34:13.320Z"
+    },
+    {
+      "uniqueKey": "aosendi:262545633",
+      "source": "aosendi",
+      "sourceId": "262545633",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/262545633",
+      "sourceCategory": "more",
+      "title": "2627 Windjack 9",
+      "section": "Trainingskleding",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/aosendi/262545633/01.webp",
+        "assets/products/aosendi/262545633/02.webp",
+        "assets/products/aosendi/262545633/03.webp",
+        "assets/products/aosendi/262545633/04.webp",
+        "assets/products/aosendi/262545633/05.webp",
+        "assets/products/aosendi/262545633/06.webp"
+      ],
+      "coverUrl": "assets/products/aosendi/262545633/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-11T11:34:27.460Z"
+    },
+    {
+      "uniqueKey": "aosendi:262545248",
+      "source": "aosendi",
+      "sourceId": "262545248",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/262545248",
+      "sourceCategory": "more",
+      "title": "2627 Windjack 8",
+      "section": "Trainingskleding",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/aosendi/262545248/01.webp",
+        "assets/products/aosendi/262545248/02.webp",
+        "assets/products/aosendi/262545248/03.webp",
+        "assets/products/aosendi/262545248/04.webp",
+        "assets/products/aosendi/262545248/05.webp",
+        "assets/products/aosendi/262545248/06.webp"
+      ],
+      "coverUrl": "assets/products/aosendi/262545248/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-11T11:34:25.871Z"
+    },
+    {
+      "uniqueKey": "aosendi:262544974",
+      "source": "aosendi",
+      "sourceId": "262544974",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/262544974",
+      "sourceCategory": "more",
+      "title": "2627 Windjack 【 NK 】9",
+      "section": "Trainingskleding",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/aosendi/262544974/01.webp",
+        "assets/products/aosendi/262544974/02.webp",
+        "assets/products/aosendi/262544974/03.webp",
+        "assets/products/aosendi/262544974/04.webp",
+        "assets/products/aosendi/262544974/05.webp",
+        "assets/products/aosendi/262544974/06.webp"
+      ],
+      "coverUrl": "assets/products/aosendi/262544974/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-11T11:34:32.760Z"
+    },
+    {
+      "uniqueKey": "aosendi:262544557",
+      "source": "aosendi",
+      "sourceId": "262544557",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/262544557",
+      "sourceCategory": "more",
+      "title": "2627 Windjack 【 NK 】9",
+      "section": "Trainingskleding",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/aosendi/262544557/01.webp",
+        "assets/products/aosendi/262544557/02.webp",
+        "assets/products/aosendi/262544557/03.webp",
+        "assets/products/aosendi/262544557/04.webp",
+        "assets/products/aosendi/262544557/05.webp",
+        "assets/products/aosendi/262544557/06.webp"
+      ],
+      "coverUrl": "assets/products/aosendi/262544557/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-11T11:34:34.482Z"
+    },
+    {
+      "uniqueKey": "aosendi:262544264",
+      "source": "aosendi",
+      "sourceId": "262544264",
+      "sourceUrl": "https://aosendi.x.yupoo.com/albums/262544264",
+      "sourceCategory": "more",
+      "title": "2627 Windjack 【 NK 】8",
+      "section": "Trainingskleding",
+      "category": "Overig",
+      "subcategory": "Overig",
+      "competition": "",
+      "club": "Overig",
+      "country": "",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "assets/products/aosendi/262544264/01.webp",
+        "assets/products/aosendi/262544264/02.webp",
+        "assets/products/aosendi/262544264/03.webp",
+        "assets/products/aosendi/262544264/04.webp",
+        "assets/products/aosendi/262544264/05.webp",
+        "assets/products/aosendi/262544264/06.webp"
+      ],
+      "coverUrl": "assets/products/aosendi/262544264/01.webp",
+      "imageCount": 6,
+      "classificationVersion": 2,
+      "updatedAt": "2026-11-11T11:34:40.893Z"
     }
   ],
   "warnings": []
