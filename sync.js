@@ -14,14 +14,15 @@ const SOURCES = [
   { key: "hema168", base: "https://hema168.x.yupoo.com" },
   { key: "dachang88", base: "https://dachang88.x.yupoo.com", mode: "shoes" },
   { key: "dongshanstore", base: "https://dongshanstore.x.yupoo.com", mode: "training" },
-  { key: "aosendi", base: "https://aosendi.x.yupoo.com", mode: "training" }
+  { key: "aosendi", base: "https://aosendi.x.yupoo.com", mode: "training" },
+  { key: "junhaoqiumi", base: "https://junhaoqiumi.x.yupoo.com" }
 ];
 
 const RUN = new Date().toISOString().slice(0, 10);
 const BATCH = 25;
 const MAX_PAGES = 100;
 const MAX_IMAGES = 6;
-const CLASSIFICATION_VERSION = 6;
+const CLASSIFICATION_VERSION = 7;
 const PHOTO_VERSION = 12;
 const limit = pLimit(2);
 const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
