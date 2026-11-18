@@ -1,12 +1,9 @@
 import fs from "node:fs/promises";
-import path from "node:path";
 import * as cheerio from "cheerio";
 import pLimit from "p-limit";
-import sharp from "sharp";
 
 const CATALOG = "data/catalog.json";
 const STATE = "data/sync-state.json";
-const ASSETS = "assets/products";
 
 const SOURCES = [
   { key: "minkang", base: "https://minkang.x.yupoo.com" },
@@ -24,8 +21,8 @@ const RUN = new Date().toISOString().slice(0, 10);
 const BATCH = 25;
 const MAX_PAGES = 100;
 const MAX_IMAGES = 6;
-const CLASSIFICATION_VERSION = 4;
-const PHOTO_VERSION = 9;
+const CLASSIFICATION_VERSION = 6;
+const PHOTO_VERSION = 12;
 const limit = pLimit(2);
 const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
 const unique = values => [...new Set(values.filter(Boolean))];
@@ -277,7 +274,9 @@ function historicPlayerTeam(player, year) {
 function classify(title, category, source) {
   const text = `${title} ${category}`, n = norm(text), year = season(text), player = findPlayer(text);
   const team = findTeam(text) || historicPlayerTeam(player, year), country = findCountry(text);
-  const training = source.mode === "training" || containsAny(text, TRAINING_WORDS);
+  const explicitTraining = containsAny(text, TRAINING_WORDS);
+  const explicitMatchShirt = containsAny(text, ["match shirt", "match jersey", "home shirt", "away shirt", "third shirt", "home jersey", "away jersey", "third jersey", "player version", "fan version"]);
+  const training = explicitTraining || (source.mode === "training" && !explicitMatchShirt);
   if (training) {
     if (team) return { section: "Trainingskleding", category: "Clubteams", subcategory: team.competition, competition: team.competition, club: team.club, country: "", player, season: year, types: ["Trainingskleding"] };
     if (country) return { section: "Trainingskleding", category: "Landenteams", subcategory: country, competition: "Landenteams", club: country, country, player, season: year, types: ["Trainingskleding"] };
@@ -314,7 +313,14 @@ async function exists(file) { try { await fs.access(file); return true; } catch 
 
 function validImage(url = "") {
   const value = String(url).toLowerCase();
-  return /^https?:\/\//.test(value) && !["logo", "avatar", "favicon", "default", "placeholder", "loading", "qrcode", "icon", "banner", "blank.gif", "spacer.gif"].some(word => value.includes(word));
+  return /^https?:\/\//.test(value) &&
+    value.includes("photo.yupoo.com") &&
+    !["logo", "avatar", "favicon", "default", "placeholder", "loading", "qrcode", "icon", "banner", "blank.gif", "spacer.gif"].some(word => value.includes(word));
+}
+
+function proxiedImage(url = "") {
+  if (!validImage(url)) return "";
+  return `https://wsrv.nl/?url=${encodeURIComponent(url)}&w=1200&output=webp&q=82`;
 }
 function srcset(value = "", base = "") { return String(value).split(",").map(item => absoluteUrl(base, item.trim().split(/\s+/)[0])).filter(validImage); }
 
@@ -350,8 +356,23 @@ async function discover(source, state) {
   }
   for (const category of categories.values()) {
     if (dead.has(category.url)) continue;
-    try { const data = pageData(await request(category.url), source, category.title); data.albums.forEach(item => albums.set(item.url, item)); }
-    catch (error) { if (error.status === 404) dead.add(category.url); else console.warn(`[${source.key}] categorie: ${error.message}`); }
+    for (let page = 1; page <= MAX_PAGES; page++) {
+      const separator = category.url.includes("?") ? "&" : "?";
+      const categoryUrl = page === 1 ? category.url : `${category.url}${separator}page=${page}`;
+      try {
+        const before = albums.size;
+        const data = pageData(await request(categoryUrl), source, category.title);
+        data.albums.forEach(item => albums.set(item.url, item));
+        if ((!data.albums.length || albums.size === before) && page > 1) break;
+      } catch (error) {
+        if (error.status === 404) {
+          if (page === 1) dead.add(category.url);
+          break;
+        }
+        console.warn(`[${source.key}] categoriepagina ${page}: ${error.message}`);
+        break;
+      }
+    }
   }
   state.deadCategories[source.key] = [...dead]; await write(STATE, state); return [...albums.values()];
 }
@@ -361,38 +382,53 @@ function albumData(html, album, source) {
   return { title: cleanText($("h1").first().text() || $("meta[property='og:title']").attr("content") || $("title").text() || album.title, album.title), images: collectImages($, source, album) };
 }
 
-const localImage = value => String(value || "").startsWith(`${ASSETS}/`);
-async function createImage(url, file, referer) {
-  const buffer = await request(url, true, referer), metadata = await sharp(buffer, { failOn: "none" }).metadata();
-  if ((metadata.width || 0) < 300 || (metadata.height || 0) < 300) throw new Error(`afbeelding te klein: ${metadata.width || 0}x${metadata.height || 0}`);
-  await fs.mkdir(path.dirname(file), { recursive: true });
-  await sharp(buffer, { failOn: "none" }).rotate().resize({ width: 1200, height: 1200, fit: "inside", withoutEnlargement: true }).webp({ quality: 82, effort: 4 }).toFile(file);
-  return file.replaceAll(path.sep, "/");
+async function imageWorks(url) {
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), 20000);
+  try {
+    const response = await fetch(url, {
+      method: "GET",
+      redirect: "follow",
+      signal: controller.signal,
+      headers: {
+        "user-agent": "Mozilla/5.0 Chrome/129 Safari/537.36",
+        accept: "image/avif,image/webp,image/*,*/*",
+        range: "bytes=0-65535"
+      }
+    });
+    const type = response.headers.get("content-type") || "";
+    const length = Number(response.headers.get("content-length") || 0);
+    if (response.body) await response.body.cancel();
+    return response.ok && type.startsWith("image/") && (length === 0 || length >= 1024);
+  } catch {
+    return false;
+  } finally {
+    clearTimeout(timer);
+  }
 }
 
-async function workingImages(source, id, candidates, referer, previous) {
-  const folder = path.join(ASSETS, source.key, id), images = [];
-  for (let i = 0; i < MAX_IMAGES; i++) { const file = path.join(folder, `${String(i + 1).padStart(2, "0")}.webp`); if (await exists(file)) images.push(file.replaceAll(path.sep, "/")); }
-  if (!images.length) {
-    let number = 1;
-    for (const url of candidates) {
-      if (images.length >= MAX_IMAGES) break;
-      try { images.push(await createImage(url, path.join(folder, `${String(number).padStart(2, "0")}.webp`), referer)); number++; }
-      catch (error) { console.warn(`[${source.key}:${id}] foto overgeslagen: ${error.message}`); }
-    }
+async function externalImages(candidates, previous) {
+  const urls = unique(candidates).filter(validImage).map(proxiedImage).filter(Boolean);
+  const working = [];
+  for (const url of urls) {
+    if (working.length >= MAX_IMAGES) break;
+    if (await imageWorks(url)) working.push(url);
   }
-  if (!images.length) {
-    for (const old of unique([previous?.coverUrl, ...(previous?.images || [])]).filter(localImage)) if (await exists(old)) images.push(old);
-  }
-  return unique(images).slice(0, MAX_IMAGES);
-}
+  if (working.length) return working;
 
+  const old = unique([previous?.coverUrl, ...(previous?.images || [])])
+    .filter(value => /^https?:\/\//.test(String(value || "")));
+  for (const url of old) {
+    if (await imageWorks(url)) return [url];
+  }
+  return [];
+}
 async function processAlbum(source, album, previous) {
   const id = album.url.match(/\/albums\/(\d+)/)?.[1] || "unknown", referer = album.fetchUrl || album.url;
   let detail = null; try { detail = albumData(await request(referer), album, source); } catch (error) { console.warn(`[${source.key}:${id}] albumdetail: ${error.message}`); }
   const title = detail?.title || album.title, raw = detail?.images?.length ? detail.images : album.preview ? [album.preview] : [];
   if (!meaningful(title, album.category)) return null;
-  const images = await workingImages(source, id, raw, referer, previous); if (!images.length) return null;
+  const images = await externalImages(raw, previous); if (!images.length) return null;
   return { ...(previous || {}), uniqueKey: `${source.key}:${id}`, source: source.key, sourceId: id, sourceUrl: album.url, sourceCategory: cleanText(album.category, "Overig"), title, ...classify(title, album.category, source), images, coverUrl: images[0], imageCount: images.length, classificationVersion: CLASSIFICATION_VERSION, photoVersion: PHOTO_VERSION, updatedAt: new Date().toISOString() };
 }
 
@@ -400,7 +436,7 @@ function cleanExisting(product) {
   const source = SOURCES.find(item => item.key === product.source) || { key: product.source || "existing" }, title = cleanText(product.title, `Product ${product.sourceId || "Unknown"}`), sourceCategory = cleanText(product.sourceCategory, "Overig");
   return { ...product, title, ...classify(title, sourceCategory, source), sourceCategory };
 }
-function publishedImage(product) { return unique([product?.coverUrl, ...(product?.images || [])]).some(localImage); }
+function publishedImage(product) { return unique([product?.coverUrl, ...(product?.images || [])]).some(value => /^https?:\/\//.test(String(value || ""))); }
 function complete(product) { return Boolean(product?.title && product?.section && product?.category && product?.subcategory && publishedImage(product) && product.classificationVersion >= CLASSIFICATION_VERSION && product.photoVersion >= PHOTO_VERSION); }
 function publicProducts(map) { return [...map.values()].filter(Boolean).filter(item => meaningful(item.title, item.sourceCategory)).filter(publishedImage).sort((a, b) => String(a.section).localeCompare(String(b.section), "nl") || String(a.competition || "").localeCompare(String(b.competition || ""), "nl") || String(a.club || "").localeCompare(String(b.club || ""), "nl") || String(b.season || "").localeCompare(String(a.season || ""), "nl") || String(a.title).localeCompare(String(b.title), "nl")); }
 
@@ -414,15 +450,62 @@ async function main() {
   for (const product of catalog.products || catalog.albums || []) { const cleaned = cleanExisting(product); map.set(cleaned.uniqueKey || `${cleaned.source}:${cleaned.sourceId}`, cleaned); }
   for (const source of SOURCES) {
     console.log(`[${source.key}] controle gestart`); const albums = await discover(source, state);
-    const work = albums.filter(album => { const id = album.url.match(/\/albums\/(\d+)/)?.[1] || "unknown"; return !complete(map.get(`${source.key}:${id}`)); });
-    console.log(`[${source.key}] ${albums.length} gevonden; ${work.length} te verwerken`);
-    for (let offset = 0; offset < work.length; offset += BATCH) {
-      const results = await Promise.all(work.slice(offset, offset + BATCH).map(album => limit(async () => { const id = album.url.match(/\/albums\/(\d+)/)?.[1] || "unknown", key = `${source.key}:${id}`; return { key, product: await processAlbum(source, album, map.get(key)) }; })));
-      for (const result of results) { if (result.product) map.set(result.key, result.product); else if (!publishedImage(map.get(result.key))) map.delete(result.key); }
-      state.sources[source.key] = { run: RUN, nextIndex: Math.min(offset + results.length, work.length), total: work.length, discovered: albums.length };
-      await save(map, warnings, source.key, "running"); await write(STATE, state);
+    const albumById = new Map(albums.map(album => [album.url.match(/\/albums\/(\d+)/)?.[1] || "unknown", album]));
+    const currentState = state.sources[source.key] || {};
+    const canResume =
+      currentState.classificationVersion === CLASSIFICATION_VERSION &&
+      currentState.photoVersion === PHOTO_VERSION &&
+      Array.isArray(currentState.pendingIds) &&
+      currentState.pendingIds.length > 0 &&
+      Number.isInteger(currentState.nextIndex) &&
+      currentState.nextIndex < currentState.pendingIds.length;
+
+    const pendingIds = canResume
+      ? currentState.pendingIds.filter(id => albumById.has(id))
+      : albums
+          .filter(album => {
+            const id = album.url.match(/\/albums\/(\d+)/)?.[1] || "unknown";
+            return !complete(map.get(`${source.key}:${id}`));
+          })
+          .map(album => album.url.match(/\/albums\/(\d+)/)?.[1] || "unknown");
+
+    const work = pendingIds.map(id => albumById.get(id)).filter(Boolean);
+    const startIndex = canResume ? Math.min(currentState.nextIndex || 0, work.length) : 0;
+    console.log(`[${source.key}] ${albums.length} gevonden; ${work.length} te verwerken; hervat bij ${startIndex}`);
+
+    state.sources[source.key] = {
+      run: RUN,
+      nextIndex: startIndex,
+      total: work.length,
+      discovered: albums.length,
+      pendingIds,
+      classificationVersion: CLASSIFICATION_VERSION,
+      photoVersion: PHOTO_VERSION
+    };
+    await write(STATE, state);
+
+    for (let offset = startIndex; offset < work.length; offset += BATCH) {
+      const batch = work.slice(offset, offset + BATCH);
+      const results = await Promise.all(batch.map(album => limit(async () => {
+        const id = album.url.match(/\/albums\/(\d+)/)?.[1] || "unknown";
+        const key = `${source.key}:${id}`;
+        return { key, product: await processAlbum(source, album, map.get(key)) };
+      })));
+      for (const result of results) {
+        if (result.product) map.set(result.key, result.product);
+        else map.delete(result.key);
+      }
+      state.sources[source.key].nextIndex = Math.min(offset + results.length, work.length);
+      await save(map, warnings, source.key, "running");
+      await write(STATE, state);
     }
-    state.sources[source.key] = { ...(state.sources[source.key] || {}), run: RUN, nextIndex: work.length, total: work.length, discovered: albums.length, completedAt: new Date().toISOString() }; await write(STATE, state);
+    state.sources[source.key] = {
+      ...state.sources[source.key],
+      nextIndex: work.length,
+      pendingIds: [],
+      completedAt: new Date().toISOString()
+    };
+    await write(STATE, state);
   }
   const products = publicProducts(map), counts = products.reduce((r, p) => { r.total++; if (p.section === "Voetbal") r.football++; if (p.section === "Trainingskleding") r.training++; if (p.section === "Voetbalschoenen") r.shoes++; if (p.section === "Overige producten") r.other++; return r; }, { total: 0, football: 0, training: 0, shoes: 0, other: 0 });
   await write(CATALOG, { lastSync: new Date().toISOString(), status: "completed", productCount: products.length, counts, products, warnings });
