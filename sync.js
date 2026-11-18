@@ -9,2111 +9,425 @@ const STATE = "data/sync-state.json";
 const ASSETS = "assets/products";
 
 const SOURCES = [
-  {
-    key: "minkang",
-    base: "https://minkang.x.yupoo.com"
-  },
-  {
-    key: "yema007",
-    base: "https://yema007.x.yupoo.com"
-  },
-  {
-    key: "popmo",
-    base: "https://popmo.x.yupoo.com"
-  },
-  {
-    key: "407131796",
-    base: "https://407131796.x.yupoo.com"
-  },
-  {
-    key: "yuhuaxieye1",
-    base: "https://yuhuaxieye1.x.yupoo.com"
-  },
-  {
-    key: "hema168",
-    base: "https://hema168.x.yupoo.com"
-  },
-  {
-    key: "dachang88",
-    base: "https://dachang88.x.yupoo.com",
-    mode: "shoes"
-  },
-  {
-    key: "dongshanstore",
-    base: "https://dongshanstore.x.yupoo.com",
-    mode: "training"
-  },
-  {
-    key: "aosendi",
-    base: "https://aosendi.x.yupoo.com",
-    mode: "training"
-  }
+  { key: "minkang", base: "https://minkang.x.yupoo.com" },
+  { key: "yema007", base: "https://yema007.x.yupoo.com" },
+  { key: "popmo", base: "https://popmo.x.yupoo.com" },
+  { key: "407131796", base: "https://407131796.x.yupoo.com" },
+  { key: "yuhuaxieye1", base: "https://yuhuaxieye1.x.yupoo.com" },
+  { key: "hema168", base: "https://hema168.x.yupoo.com" },
+  { key: "dachang88", base: "https://dachang88.x.yupoo.com", mode: "shoes" },
+  { key: "dongshanstore", base: "https://dongshanstore.x.yupoo.com", mode: "training" },
+  { key: "aosendi", base: "https://aosendi.x.yupoo.com", mode: "training" }
 ];
 
 const RUN = new Date().toISOString().slice(0, 10);
 const BATCH = 25;
 const MAX_PAGES = 100;
 const MAX_IMAGES = 6;
-const CLASSIFICATION_VERSION = 3;
-const SHOE_PHOTO_VERSION = 8;
-
+const CLASSIFICATION_VERSION = 4;
+const PHOTO_VERSION = 9;
 const limit = pLimit(2);
+const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
+const unique = values => [...new Set(values.filter(Boolean))];
 
-const sleep = milliseconds =>
-  new Promise(resolve => setTimeout(resolve, milliseconds));
+const norm = (value = "") => String(value)
+  .normalize("NFD")
+  .replace(/[\u0300-\u036f]/g, "")
+  .toLowerCase()
+  .replace(/&/g, " and ")
+  .replace(/[^a-z0-9]+/g, " ")
+  .replace(/\s+/g, " ")
+  .trim();
 
-const unique = values =>
-  [...new Set(values.filter(Boolean))];
-
-const norm = (value = "") =>
-  String(value)
-    .normalize("NFD")
-    .replace(/[\u0300-\u036f]/g, "")
-    .toLowerCase()
-    .replace(/&/g, " and ")
-    .replace(/[^a-z0-9]+/g, " ")
-    .replace(/\s+/g, " ")
-    .trim();
-
-const has = (text, words) => {
-  const normalizedText = norm(text);
-
-  return words.some(word => {
-    const normalizedWord = norm(word);
-    return normalizedWord && normalizedText.includes(normalizedWord);
-  });
+const containsAny = (text, words) => {
+  const n = norm(text);
+  return words.some(word => n.includes(norm(word)));
 };
 
-const abs = (base, value) => {
+const absoluteUrl = (base, value) => {
   if (!value) return "";
-
-  try {
-    return new URL(value, base).href;
-  } catch {
-    return "";
-  }
+  try { return new URL(value, base).href; } catch { return ""; }
 };
 
 const TRANSLATE = [
-  ["足球鞋", "Voetbalschoenen"],
-  ["训练服", "Trainingskleding"],
-  ["训练套装", "Trainingsset"],
-  ["球衣", "Shirt"],
-  ["短袖", "Korte mouw"],
-  ["长袖", "Lange mouw"],
-  ["套装", "Set"],
-  ["外套", "Jas"],
-  ["风衣", "Windjack"],
-  ["卫衣", "Hoodie"],
-  ["长裤", "Lange broek"],
-  ["短裤", "Korte broek"],
-  ["主场", "Thuis"],
-  ["客场", "Uit"],
-  ["球员版", "Spelersversie"],
-  ["球迷版", "Fanversie"],
-  ["复古", "Retro"],
-  ["童装", "Kindermaat"],
-  ["儿童", "Kinderen"],
-  ["成人", "Volwassenen"],
-  ["女款", "Dames"],
-  ["守门员", "Keeper"],
-  ["篮球", "Basketbal"],
-  ["帽子", "Pet"],
-  ["袜子", "Sokken"],
-  ["鞋子", "Schoenen"]
+  ["足球鞋", "Voetbalschoenen"], ["训练服", "Trainingskleding"],
+  ["训练套装", "Trainingsset"], ["球衣", "Shirt"],
+  ["短袖", "Korte mouw"], ["长袖", "Lange mouw"],
+  ["套装", "Set"], ["外套", "Jas"], ["风衣", "Windjack"],
+  ["卫衣", "Hoodie"], ["长裤", "Lange broek"], ["短裤", "Korte broek"],
+  ["主场", "Thuis"], ["客场", "Uit"], ["球员版", "Spelersversie"],
+  ["球迷版", "Fanversie"], ["复古", "Retro"], ["童装", "Kindermaat"],
+  ["儿童", "Kinderen"], ["成人", "Volwassenen"], ["女款", "Dames"],
+  ["守门员", "Keeper"], ["鞋子", "Schoenen"]
 ];
 
-function english(value, fallback = "") {
+function cleanText(value, fallback = "") {
   let text = String(value ?? "");
-
-  for (const [source, replacement] of TRANSLATE) {
-    text = text.split(source).join(` ${replacement} `);
-  }
-
-  text = text
-    .replace(/[\p{Script=Han}]+/gu, " ")
-    .replace(/\s+/g, " ")
-    .trim();
-
+  for (const [from, to] of TRANSLATE) text = text.split(from).join(` ${to} `);
+  text = text.replace(/[\p{Script=Han}]+/gu, " ").replace(/\s+/g, " ").trim();
   return text || fallback;
 }
 
 const CLUBS = [
-  {
-    competition: "Premier League",
-    club: "Arsenal",
-    aliases: ["arsenal", "the gunners"]
-  },
-  {
-    competition: "Premier League",
-    club: "Aston Villa",
-    aliases: ["aston villa", "villa"]
-  },
-  {
-    competition: "Premier League",
-    club: "Bournemouth",
-    aliases: ["bournemouth", "afc bournemouth"]
-  },
-  {
-    competition: "Premier League",
-    club: "Brentford",
-    aliases: ["brentford"]
-  },
-  {
-    competition: "Premier League",
-    club: "Brighton",
-    aliases: ["brighton", "brighton hove albion"]
-  },
-  {
-    competition: "Premier League",
-    club: "Burnley",
-    aliases: ["burnley"]
-  },
-  {
-    competition: "Premier League",
-    club: "Chelsea",
-    aliases: ["chelsea"]
-  },
-  {
-    competition: "Premier League",
-    club: "Crystal Palace",
-    aliases: ["crystal palace", "palace"]
-  },
-  {
-    competition: "Premier League",
-    club: "Everton",
-    aliases: ["everton"]
-  },
-  {
-    competition: "Premier League",
-    club: "Fulham",
-    aliases: ["fulham"]
-  },
-  {
-    competition: "Premier League",
-    club: "Leeds United",
-    aliases: ["leeds united", "leeds"]
-  },
-  {
-    competition: "Premier League",
-    club: "Leicester City",
-    aliases: ["leicester city", "leicester"]
-  },
-  {
-    competition: "Premier League",
-    club: "Liverpool",
-    aliases: ["liverpool", "lfc"]
-  },
-  {
-    competition: "Premier League",
-    club: "Manchester City",
-    aliases: ["manchester city", "man city", "mancity"]
-  },
-  {
-    competition: "Premier League",
-    club: "Manchester United",
-    aliases: [
-      "manchester united",
-      "man united",
-      "man utd",
-      "manchester utd",
-      "manu"
-    ]
-  },
-  {
-    competition: "Premier League",
-    club: "Newcastle United",
-    aliases: ["newcastle united", "newcastle"]
-  },
-  {
-    competition: "Premier League",
-    club: "Nottingham Forest",
-    aliases: ["nottingham forest", "nottm forest"]
-  },
-  {
-    competition: "Premier League",
-    club: "Sunderland",
-    aliases: ["sunderland"]
-  },
-  {
-    competition: "Premier League",
-    club: "Tottenham Hotspur",
-    aliases: ["tottenham hotspur", "tottenham", "spurs"]
-  },
-  {
-    competition: "Premier League",
-    club: "West Ham United",
-    aliases: ["west ham united", "west ham"]
-  },
-  {
-    competition: "Premier League",
-    club: "Wolverhampton Wanderers",
-    aliases: [
-      "wolverhampton wanderers",
-      "wolverhampton",
-      "wolves"
-    ]
-  },
-
-  {
-    competition: "La Liga",
-    club: "Athletic Bilbao",
-    aliases: ["athletic bilbao", "athletic club", "bilbao"]
-  },
-  {
-    competition: "La Liga",
-    club: "Atlético Madrid",
-    aliases: [
-      "atletico madrid",
-      "atlético madrid",
-      "atletico de madrid"
-    ]
-  },
-  {
-    competition: "La Liga",
-    club: "Barcelona",
-    aliases: ["fc barcelona", "barcelona", "barca", "fcb"]
-  },
-  {
-    competition: "La Liga",
-    club: "Cádiz",
-    aliases: ["cadiz", "cádiz"]
-  },
-  {
-    competition: "La Liga",
-    club: "Celta Vigo",
-    aliases: ["celta vigo", "celta"]
-  },
-  {
-    competition: "La Liga",
-    club: "Espanyol",
-    aliases: ["espanyol"]
-  },
-  {
-    competition: "La Liga",
-    club: "Getafe",
-    aliases: ["getafe"]
-  },
-  {
-    competition: "La Liga",
-    club: "Las Palmas",
-    aliases: ["las palmas"]
-  },
-  {
-    competition: "La Liga",
-    club: "Leganés",
-    aliases: ["leganes", "leganés"]
-  },
-  {
-    competition: "La Liga",
-    club: "Málaga",
-    aliases: ["malaga", "málaga"]
-  },
-  {
-    competition: "La Liga",
-    club: "Osasuna",
-    aliases: ["osasuna"]
-  },
-  {
-    competition: "La Liga",
-    club: "Real Betis",
-    aliases: ["real betis", "betis"]
-  },
-  {
-    competition: "La Liga",
-    club: "Real Madrid",
-    aliases: ["real madrid"]
-  },
-  {
-    competition: "La Liga",
-    club: "Real Sociedad",
-    aliases: ["real sociedad"]
-  },
-  {
-    competition: "La Liga",
-    club: "Real Valladolid",
-    aliases: ["real valladolid", "valladolid"]
-  },
-  {
-    competition: "La Liga",
-    club: "Real Zaragoza",
-    aliases: ["real zaragoza", "zaragoza"]
-  },
-  {
-    competition: "La Liga",
-    club: "Sevilla",
-    aliases: ["sevilla"]
-  },
-  {
-    competition: "La Liga",
-    club: "Valencia",
-    aliases: ["valencia"]
-  },
-  {
-    competition: "La Liga",
-    club: "Villarreal",
-    aliases: ["villarreal"]
-  },
-
-  {
-    competition: "Serie A",
-    club: "AC Milan",
-    aliases: ["ac milan", "milan"]
-  },
-  {
-    competition: "Serie A",
-    club: "Atalanta",
-    aliases: ["atalanta"]
-  },
-  {
-    competition: "Serie A",
-    club: "Bologna",
-    aliases: ["bologna"]
-  },
-  {
-    competition: "Serie A",
-    club: "Cagliari",
-    aliases: ["cagliari"]
-  },
-  {
-    competition: "Serie A",
-    club: "Fiorentina",
-    aliases: ["fiorentina"]
-  },
-  {
-    competition: "Serie A",
-    club: "Inter Milan",
-    aliases: [
-      "inter milan",
-      "internazionale",
-      "inter"
-    ]
-  },
-  {
-    competition: "Serie A",
-    club: "Juventus",
-    aliases: ["juventus", "juve"]
-  },
-  {
-    competition: "Serie A",
-    club: "Lazio",
-    aliases: ["lazio"]
-  },
-  {
-    competition: "Serie A",
-    club: "Napoli",
-    aliases: ["napoli"]
-  },
-  {
-    competition: "Serie A",
-    club: "Parma",
-    aliases: ["parma"]
-  },
-  {
-    competition: "Serie A",
-    club: "Roma",
-    aliases: ["as roma", "roma"]
-  },
-  {
-    competition: "Serie A",
-    club: "Torino",
-    aliases: ["torino"]
-  },
-  {
-    competition: "Serie A",
-    club: "Venezia",
-    aliases: ["venezia"]
-  },
-
-  {
-    competition: "Bundesliga",
-    club: "Bayern München",
-    aliases: [
-      "bayern munich",
-      "bayern münchen",
-      "bayern munchen",
-      "fc bayern",
-      "bayern"
-    ]
-  },
-  {
-    competition: "Bundesliga",
-    club: "Bayer Leverkusen",
-    aliases: [
-      "bayer leverkusen",
-      "bayer 04 leverkusen",
-      "leverkusen"
-    ]
-  },
-  {
-    competition: "Bundesliga",
-    club: "Borussia Dortmund",
-    aliases: [
-      "borussia dortmund",
-      "dortmund",
-      "bvb"
-    ]
-  },
-  {
-    competition: "Bundesliga",
-    club: "Eintracht Frankfurt",
-    aliases: [
-      "eintracht frankfurt",
-      "frankfurt"
-    ]
-  },
-  {
-    competition: "Bundesliga",
-    club: "FSV Mainz",
-    aliases: ["fsv mainz", "mainz"]
-  },
-  {
-    competition: "Bundesliga",
-    club: "Hamburger SV",
-    aliases: ["hamburger sv", "hamburg", "hsv"]
-  },
-  {
-    competition: "Bundesliga",
-    club: "RB Leipzig",
-    aliases: ["rb leipzig", "leipzig"]
-  },
-  {
-    competition: "Bundesliga",
-    club: "Schalke 04",
-    aliases: ["schalke 04", "schalke"]
-  },
-  {
-    competition: "Bundesliga",
-    club: "VfB Stuttgart",
-    aliases: ["vfb stuttgart", "stuttgart"]
-  },
-  {
-    competition: "Bundesliga",
-    club: "Union Berlin",
-    aliases: ["union berlin"]
-  },
-  {
-    competition: "Bundesliga",
-    club: "Werder Bremen",
-    aliases: ["werder bremen", "sv werder bremen"]
-  },
-  {
-    competition: "Bundesliga",
-    club: "VfL Wolfsburg",
-    aliases: ["vfl wolfsburg", "wolfsburg"]
-  },
-
-  {
-    competition: "Ligue 1",
-    club: "Lens",
-    aliases: ["rc lens", "lens"]
-  },
-  {
-    competition: "Ligue 1",
-    club: "Lille",
-    aliases: ["lille"]
-  },
-  {
-    competition: "Ligue 1",
-    club: "Lyon",
-    aliases: ["olympique lyon", "lyon"]
-  },
-  {
-    competition: "Ligue 1",
-    club: "Marseille",
-    aliases: ["olympique marseille", "marseille"]
-  },
-  {
-    competition: "Ligue 1",
-    club: "Monaco",
-    aliases: ["as monaco", "monaco"]
-  },
-  {
-    competition: "Ligue 1",
-    club: "Nice",
-    aliases: ["ogc nice", "nice"]
-  },
-  {
-    competition: "Ligue 1",
-    club: "Paris Saint-Germain",
-    aliases: [
-      "paris saint germain",
-      "paris saint-germain",
-      "psg"
-    ]
-  },
-  {
-    competition: "Ligue 1",
-    club: "Rennes",
-    aliases: ["rennes", "stade rennais"]
-  },
-  {
-    competition: "Ligue 1",
-    club: "Strasbourg",
-    aliases: ["strasbourg"]
-  },
-
-  {
-    competition: "Eredivisie",
-    club: "Ajax",
-    aliases: ["ajax"]
-  },
-  {
-    competition: "Eredivisie",
-    club: "AZ",
-    aliases: ["az alkmaar", "alkmaar", "az"]
-  },
-  {
-    competition: "Eredivisie",
-    club: "Feyenoord",
-    aliases: ["feyenoord"]
-  },
-  {
-    competition: "Eredivisie",
-    club: "FC Twente",
-    aliases: ["fc twente", "twente"]
-  },
-  {
-    competition: "Eredivisie",
-    club: "FC Utrecht",
-    aliases: ["fc utrecht"]
-  },
-  {
-    competition: "Eredivisie",
-    club: "PSV",
-    aliases: ["psv eindhoven", "psv"]
-  },
-  {
-    competition: "Eredivisie",
-    club: "Sparta Rotterdam",
-    aliases: ["sparta rotterdam"]
-  },
-  {
-    competition: "Eredivisie",
-    club: "Vitesse",
-    aliases: ["vitesse"]
-  },
-
-  {
-    competition: "Primeira Liga",
-    club: "Benfica",
-    aliases: ["sl benfica", "benfica"]
-  },
-  {
-    competition: "Primeira Liga",
-    club: "FC Porto",
-    aliases: ["fc porto", "porto"]
-  },
-  {
-    competition: "Primeira Liga",
-    club: "Sporting CP",
-    aliases: [
-      "sporting cp",
-      "sporting lisbon",
-      "sporting lisboa"
-    ]
-  },
-
-  {
-    competition: "Scottish Premiership",
-    club: "Celtic",
-    aliases: ["celtic"]
-  },
-  {
-    competition: "Scottish Premiership",
-    club: "Rangers",
-    aliases: ["glasgow rangers", "rangers"]
-  },
-
-  {
-    competition: "Süper Lig",
-    club: "Beşiktaş",
-    aliases: ["besiktas", "beşiktaş"]
-  },
-  {
-    competition: "Süper Lig",
-    club: "Fenerbahçe",
-    aliases: ["fenerbahce", "fenerbahçe"]
-  },
-  {
-    competition: "Süper Lig",
-    club: "Galatasaray",
-    aliases: ["galatasaray"]
-  },
-
-  {
-    competition: "MLS",
-    club: "Atlanta United",
-    aliases: ["atlanta united"]
-  },
-  {
-    competition: "MLS",
-    club: "Charlotte FC",
-    aliases: ["charlotte fc", "charlotte"]
-  },
-  {
-    competition: "MLS",
-    club: "Columbus Crew",
-    aliases: ["columbus crew"]
-  },
-  {
-    competition: "MLS",
-    club: "DC United",
-    aliases: ["dc united", "d c united"]
-  },
-  {
-    competition: "MLS",
-    club: "FC Dallas",
-    aliases: ["fc dallas", "dallas"]
-  },
-  {
-    competition: "MLS",
-    club: "Houston Dynamo",
-    aliases: ["houston dynamo"]
-  },
-  {
-    competition: "MLS",
-    club: "Inter Miami",
-    aliases: ["inter miami", "miami"]
-  },
-  {
-    competition: "MLS",
-    club: "LA Galaxy",
-    aliases: ["la galaxy"]
-  },
-  {
-    competition: "MLS",
-    club: "Los Angeles FC",
-    aliases: ["los angeles fc", "lafc"]
-  },
-  {
-    competition: "MLS",
-    club: "Minnesota United",
-    aliases: ["minnesota united"]
-  },
-  {
-    competition: "MLS",
-    club: "New York City FC",
-    aliases: ["new york city fc", "new york city"]
-  },
-  {
-    competition: "MLS",
-    club: "New York Red Bulls",
-    aliases: [
-      "new york red bulls",
-      "new york red bull"
-    ]
-  },
-  {
-    competition: "MLS",
-    club: "Orlando City",
-    aliases: ["orlando city"]
-  },
-  {
-    competition: "MLS",
-    club: "Philadelphia Union",
-    aliases: ["philadelphia union"]
-  },
-  {
-    competition: "MLS",
-    club: "Portland Timbers",
-    aliases: ["portland timbers"]
-  },
-  {
-    competition: "MLS",
-    club: "Seattle Sounders",
-    aliases: ["seattle sounders"]
-  },
-  {
-    competition: "MLS",
-    club: "Toronto FC",
-    aliases: ["toronto fc", "toronto"]
-  },
-  {
-    competition: "MLS",
-    club: "Vancouver Whitecaps",
-    aliases: ["vancouver whitecaps"]
-  },
-
-  {
-    competition: "Saudi Pro League",
-    club: "Al-Hilal",
-    aliases: ["al hilal", "al-hilal"]
-  },
-  {
-    competition: "Saudi Pro League",
-    club: "Al-Ittihad",
-    aliases: ["al ittihad", "al-ittihad"]
-  },
-  {
-    competition: "Saudi Pro League",
-    club: "Al-Nassr",
-    aliases: ["al nassr", "al-nassr"]
-  },
-  {
-    competition: "Saudi Pro League",
-    club: "Al-Ahli",
-    aliases: ["al ahli", "al-ahli"]
-  },
-
-  {
-    competition: "Liga MX",
-    club: "América",
-    aliases: [
-      "club america",
-      "club américa",
-      "america"
-    ]
-  },
-  {
-    competition: "Liga MX",
-    club: "Atlas",
-    aliases: ["atlas"]
-  },
-  {
-    competition: "Liga MX",
-    club: "Chivas",
-    aliases: ["chivas", "guadalajara"]
-  },
-  {
-    competition: "Liga MX",
-    club: "Monterrey",
-    aliases: ["monterrey"]
-  },
-  {
-    competition: "Liga MX",
-    club: "Necaxa",
-    aliases: ["necaxa"]
-  },
-  {
-    competition: "Liga MX",
-    club: "Pachuca",
-    aliases: ["pachuca"]
-  },
-  {
-    competition: "Liga MX",
-    club: "Puebla",
-    aliases: ["puebla"]
-  },
-  {
-    competition: "Liga MX",
-    club: "Pumas UNAM",
-    aliases: ["pumas unam", "pumas"]
-  },
-  {
-    competition: "Liga MX",
-    club: "Santos Laguna",
-    aliases: ["santos laguna"]
-  },
-  {
-    competition: "Liga MX",
-    club: "Tigres UANL",
-    aliases: ["tigres uanl", "tigres"]
-  },
-  {
-    competition: "Liga MX",
-    club: "Tijuana",
-    aliases: ["tijuana"]
-  },
-  {
-    competition: "Liga MX",
-    club: "Toluca",
-    aliases: ["toluca"]
-  },
-
-  {
-    competition: "Brasileirão Série A",
-    club: "Athletico Paranaense",
-    aliases: [
-      "athletico paranaense",
-      "atletico paranaense"
-    ]
-  },
-  {
-    competition: "Brasileirão Série A",
-    club: "Atlético Mineiro",
-    aliases: [
-      "atletico mineiro",
-      "atlético mineiro"
-    ]
-  },
-  {
-    competition: "Brasileirão Série A",
-    club: "Bahia",
-    aliases: ["bahia"]
-  },
-  {
-    competition: "Brasileirão Série A",
-    club: "Botafogo",
-    aliases: ["botafogo"]
-  },
-  {
-    competition: "Brasileirão Série A",
-    club: "Corinthians",
-    aliases: ["corinthians"]
-  },
-  {
-    competition: "Brasileirão Série A",
-    club: "Cruzeiro",
-    aliases: ["cruzeiro"]
-  },
-  {
-    competition: "Brasileirão Série A",
-    club: "Flamengo",
-    aliases: ["flamengo"]
-  },
-  {
-    competition: "Brasileirão Série A",
-    club: "Fluminense",
-    aliases: ["fluminense"]
-  },
-  {
-    competition: "Brasileirão Série A",
-    club: "Fortaleza",
-    aliases: ["fortaleza"]
-  },
-  {
-    competition: "Brasileirão Série A",
-    club: "Grêmio",
-    aliases: ["gremio", "grêmio"]
-  },
-  {
-    competition: "Brasileirão Série A",
-    club: "Internacional",
-    aliases: [
-      "sc internacional",
-      "internacional"
-    ]
-  },
-  {
-    competition: "Brasileirão Série A",
-    club: "Palmeiras",
-    aliases: ["palmeiras"]
-  },
-  {
-    competition: "Brasileirão Série A",
-    club: "Santos",
-    aliases: ["santos fc", "santos"]
-  },
-  {
-    competition: "Brasileirão Série A",
-    club: "São Paulo",
-    aliases: ["sao paulo", "são paulo"]
-  },
-  {
-    competition: "Brasileirão Série A",
-    club: "Vasco da Gama",
-    aliases: ["vasco da gama", "vasco"]
-  },
-
-  {
-    competition: "Argentijnse Primera División",
-    club: "Boca Juniors",
-    aliases: ["boca juniors", "boca"]
-  },
-  {
-    competition: "Argentijnse Primera División",
-    club: "River Plate",
-    aliases: ["river plate"]
-  },
-
-  {
-    competition: "Chileense Primera División",
-    club: "Colo-Colo",
-    aliases: ["colo colo", "colo-colo"]
-  },
-  {
-    competition: "Chileense Primera División",
-    club: "Universidad Católica",
-    aliases: [
-      "universidad catolica",
-      "universidad católica",
-      "la catolica"
-    ]
-  },
-
-  {
-    competition: "Uruguayaanse Primera División",
-    club: "Peñarol",
-    aliases: ["penarol", "peñarol"]
-  },
-
-  {
-    competition: "Japanse J1 League",
-    club: "Vissel Kobe",
-    aliases: ["vissel kobe"]
-  }
+  ["Premier League", "Arsenal", ["arsenal", "gunners"]],
+  ["Premier League", "Aston Villa", ["aston villa"]],
+  ["Premier League", "Bournemouth", ["bournemouth"]],
+  ["Premier League", "Brentford", ["brentford"]],
+  ["Premier League", "Brighton", ["brighton", "brighton hove albion"]],
+  ["Premier League", "Burnley", ["burnley"]],
+  ["Premier League", "Chelsea", ["chelsea"]],
+  ["Premier League", "Crystal Palace", ["crystal palace"]],
+  ["Premier League", "Everton", ["everton"]],
+  ["Premier League", "Fulham", ["fulham"]],
+  ["Premier League", "Leeds United", ["leeds united", "leeds"]],
+  ["Premier League", "Leicester City", ["leicester city", "leicester"]],
+  ["Premier League", "Liverpool", ["liverpool", "lfc"]],
+  ["Premier League", "Manchester City", ["manchester city", "man city", "mancity"]],
+  ["Premier League", "Manchester United", ["manchester united", "man united", "man utd", "manchester utd"]],
+  ["Premier League", "Newcastle United", ["newcastle united", "newcastle"]],
+  ["Premier League", "Nottingham Forest", ["nottingham forest", "nottm forest"]],
+  ["Premier League", "Sunderland", ["sunderland"]],
+  ["Premier League", "Tottenham Hotspur", ["tottenham hotspur", "tottenham", "spurs"]],
+  ["Premier League", "West Ham United", ["west ham united", "west ham"]],
+  ["Premier League", "Wolverhampton Wanderers", ["wolverhampton wanderers", "wolverhampton", "wolves"]],
+  ["La Liga", "Athletic Bilbao", ["athletic bilbao", "athletic club", "bilbao"]],
+  ["La Liga", "Atletico Madrid", ["atletico madrid", "atletico de madrid"]],
+  ["La Liga", "Barcelona", ["fc barcelona", "barcelona", "barca", "fcb"]],
+  ["La Liga", "Celta Vigo", ["celta vigo", "celta"]],
+  ["La Liga", "Espanyol", ["espanyol"]],
+  ["La Liga", "Las Palmas", ["las palmas"]],
+  ["La Liga", "Real Betis", ["real betis", "betis"]],
+  ["La Liga", "Real Madrid", ["real madrid"]],
+  ["La Liga", "Real Sociedad", ["real sociedad"]],
+  ["La Liga", "Real Valladolid", ["real valladolid", "valladolid"]],
+  ["La Liga", "Sevilla", ["sevilla"]],
+  ["La Liga", "Valencia", ["valencia"]],
+  ["La Liga", "Villarreal", ["villarreal"]],
+  ["Serie A", "AC Milan", ["ac milan"]],
+  ["Serie A", "Atalanta", ["atalanta"]],
+  ["Serie A", "Fiorentina", ["fiorentina"]],
+  ["Serie A", "Inter Milan", ["inter milan", "internazionale"]],
+  ["Serie A", "Juventus", ["juventus", "juve"]],
+  ["Serie A", "Lazio", ["lazio"]],
+  ["Serie A", "Napoli", ["napoli"]],
+  ["Serie A", "Roma", ["as roma"]],
+  ["Bundesliga", "Bayern Munchen", ["bayern munich", "bayern munchen", "fc bayern", "bayern"]],
+  ["Bundesliga", "Bayer Leverkusen", ["bayer leverkusen", "leverkusen"]],
+  ["Bundesliga", "Borussia Dortmund", ["borussia dortmund", "dortmund", "bvb"]],
+  ["Bundesliga", "Eintracht Frankfurt", ["eintracht frankfurt", "frankfurt"]],
+  ["Bundesliga", "FSV Mainz", ["fsv mainz", "mainz"]],
+  ["Bundesliga", "RB Leipzig", ["rb leipzig", "leipzig"]],
+  ["Bundesliga", "Schalke 04", ["schalke 04", "schalke"]],
+  ["Bundesliga", "VfB Stuttgart", ["vfb stuttgart", "stuttgart"]],
+  ["Bundesliga", "Union Berlin", ["union berlin"]],
+  ["Bundesliga", "Werder Bremen", ["werder bremen"]],
+  ["Bundesliga", "VfL Wolfsburg", ["vfl wolfsburg", "wolfsburg"]],
+  ["Ligue 1", "Lens", ["rc lens"]],
+  ["Ligue 1", "Lille", ["lille"]],
+  ["Ligue 1", "Lyon", ["olympique lyon"]],
+  ["Ligue 1", "Marseille", ["olympique marseille", "marseille"]],
+  ["Ligue 1", "Monaco", ["as monaco"]],
+  ["Ligue 1", "Paris Saint-Germain", ["paris saint germain", "psg"]],
+  ["Eredivisie", "Ajax", ["ajax"]],
+  ["Eredivisie", "AZ", ["az alkmaar", "alkmaar"]],
+  ["Eredivisie", "Feyenoord", ["feyenoord"]],
+  ["Eredivisie", "FC Twente", ["fc twente", "twente"]],
+  ["Eredivisie", "FC Utrecht", ["fc utrecht"]],
+  ["Eredivisie", "PSV", ["psv eindhoven", "psv"]],
+  ["Primeira Liga", "Benfica", ["sl benfica", "benfica"]],
+  ["Primeira Liga", "FC Porto", ["fc porto"]],
+  ["Primeira Liga", "Sporting CP", ["sporting cp", "sporting lisbon", "sporting lisboa"]],
+  ["Scottish Premiership", "Celtic", ["celtic"]],
+  ["Scottish Premiership", "Rangers", ["glasgow rangers"]],
+  ["Super Lig", "Besiktas", ["besiktas"]],
+  ["Super Lig", "Fenerbahce", ["fenerbahce"]],
+  ["Super Lig", "Galatasaray", ["galatasaray"]],
+  ["MLS", "Inter Miami", ["inter miami"]],
+  ["MLS", "LA Galaxy", ["la galaxy"]],
+  ["MLS", "Los Angeles FC", ["los angeles fc", "lafc"]],
+  ["MLS", "Seattle Sounders", ["seattle sounders"]],
+  ["Saudi Pro League", "Al-Hilal", ["al hilal"]],
+  ["Saudi Pro League", "Al-Ittihad", ["al ittihad"]],
+  ["Saudi Pro League", "Al-Nassr", ["al nassr"]],
+  ["Brasileirao Serie A", "Flamengo", ["flamengo"]],
+  ["Brasileirao Serie A", "Fluminense", ["fluminense"]],
+  ["Brasileirao Serie A", "Palmeiras", ["palmeiras"]],
+  ["Brasileirao Serie A", "Santos", ["santos fc"]],
+  ["Brasileirao Serie A", "Sao Paulo", ["sao paulo"]],
+  ["Brasileirao Serie A", "Vasco da Gama", ["vasco da gama"]],
+  ["Argentijnse Primera Division", "Boca Juniors", ["boca juniors"]],
+  ["Argentijnse Primera Division", "River Plate", ["river plate"]]
 ];
 
-const COUNTRY_ALIASES = [
-  ["Argentinië", ["argentina", "argentinie"]],
-  ["Australië", ["australia", "australie"]],
-  ["België", ["belgium", "belgie", "belgique"]],
-  ["Brazilië", ["brazil", "brasil", "brazilie"]],
-  ["Canada", ["canada"]],
-  ["Chili", ["chile"]],
-  ["China", ["china"]],
-  ["Colombia", ["colombia"]],
-  ["Costa Rica", ["costa rica"]],
-  ["Denemarken", ["denmark", "danmark", "denemarken"]],
-  ["Duitsland", ["germany", "deutschland", "duitsland"]],
-  ["Ecuador", ["ecuador"]],
-  ["Engeland", ["england", "engeland"]],
-  ["Frankrijk", ["france", "frankrijk"]],
-  ["Ghana", ["ghana"]],
-  ["Ierland", ["ireland", "eire", "ierland"]],
-  ["Italië", ["italy", "italia", "italie"]],
-  ["Ivoorkust", ["ivory coast", "cote d ivoire"]],
-  ["Japan", ["japan"]],
-  ["Kameroen", ["cameroon", "cameroun", "kameroen"]],
-  ["Kroatië", ["croatia", "kroatie"]],
-  ["Marokko", ["morocco", "maroc", "marokko"]],
-  ["Mexico", ["mexico"]],
-  ["Nederland", ["netherlands", "holland", "nederland"]],
-  ["Nigeria", ["nigeria"]],
-  ["Noorwegen", ["norway", "norge", "noorwegen"]],
-  ["Oekraïne", ["ukraine", "oekraine"]],
-  ["Polen", ["poland", "polska", "polen"]],
-  ["Portugal", ["portugal"]],
-  ["Rusland", ["russia", "rusland"]],
-  [
-    "Sovjet-Unie",
-    [
-      "soviet union",
-      "ussr",
-      "sovjet unie"
-    ]
-  ],
-  ["Saoedi-Arabië", ["saudi arabia", "saoedi arabie"]],
-  ["Schotland", ["scotland", "schotland"]],
-  ["Senegal", ["senegal"]],
-  ["Servië", ["serbia", "servie"]],
-  ["Spanje", ["spain", "espana", "spanje"]],
-  ["Tunesië", ["tunisia", "tunesie"]],
-  ["Turkije", ["turkey", "turkiye", "turkije"]],
-  ["Uruguay", ["uruguay"]],
-  [
-    "Verenigde Staten",
-    [
-      "united states",
-      "usa national",
-      "usmnt",
-      "team usa"
-    ]
-  ],
-  ["Wales", ["wales"]],
-  ["Zuid-Afrika", ["south africa", "zuid afrika"]],
-  [
-    "Zuid-Korea",
-    [
-      "south korea",
-      "korea republic",
-      "zuid korea"
-    ]
-  ],
-  [
-    "Zwitserland",
-    [
-      "switzerland",
-      "suisse",
-      "zwitserland"
-    ]
-  ]
+const COUNTRIES = [
+  ["Argentinie", ["argentina"]], ["Australie", ["australia"]],
+  ["Belgie", ["belgium", "belgie"]], ["Brazilie", ["brazil", "brasil"]],
+  ["Canada", ["canada"]], ["Chili", ["chile"]], ["Colombia", ["colombia"]],
+  ["Costa Rica", ["costa rica"]], ["Denemarken", ["denmark"]],
+  ["Duitsland", ["germany", "deutschland"]], ["Ecuador", ["ecuador"]],
+  ["Engeland", ["england"]], ["Frankrijk", ["france"]], ["Ghana", ["ghana"]],
+  ["Ierland", ["ireland"]], ["Italie", ["italy", "italia"]],
+  ["Japan", ["japan"]], ["Kameroen", ["cameroon"]], ["Kroatie", ["croatia"]],
+  ["Marokko", ["morocco", "maroc"]], ["Mexico", ["mexico"]],
+  ["Nederland", ["netherlands", "holland"]], ["Nigeria", ["nigeria"]],
+  ["Noorwegen", ["norway"]], ["Polen", ["poland"]], ["Portugal", ["portugal"]],
+  ["Rusland", ["russia"]], ["Sovjet-Unie", ["soviet union", "ussr"]],
+  ["Saoedi-Arabie", ["saudi arabia"]], ["Schotland", ["scotland"]],
+  ["Senegal", ["senegal"]], ["Spanje", ["spain", "espana"]],
+  ["Turkije", ["turkey", "turkiye"]], ["Uruguay", ["uruguay"]],
+  ["Verenigde Staten", ["usa national", "usmnt", "team usa"]],
+  ["Wales", ["wales"]], ["Zuid-Korea", ["south korea", "korea republic"]]
 ];
 
-const PLAYER_RULES = [
-  {
-    player: "Lionel Messi",
-    aliases: [
-      "lionel messi",
-      "messi10",
-      "messi 10",
-      "messi 19",
-      "messi 30",
-      "messi"
-    ]
-  },
-  {
-    player: "Cristiano Ronaldo",
-    aliases: [
-      "cristiano ronaldo",
-      "ronaldo7",
-      "ronaldo 7",
-      "cr7"
-    ]
-  },
-  {
-    player: "Ronaldo Nazário",
-    aliases: [
-      "ronaldo nazario",
-      "ronaldo fenómeno",
-      "ronaldo fenomeno",
-      "r9"
-    ]
-  },
-  {
-    player: "Neymar",
-    aliases: ["neymar jr", "neymar"]
-  },
-  {
-    player: "Kylian Mbappé",
-    aliases: ["kylian mbappe", "mbappe"]
-  },
-  {
-    player: "Erling Haaland",
-    aliases: ["erling haaland", "haaland"]
-  },
-  {
-    player: "Jude Bellingham",
-    aliases: ["jude bellingham", "bellingham"]
-  },
-  {
-    player: "Mohamed Salah",
-    aliases: ["mohamed salah", "mo salah", "salah"]
-  },
-  {
-    player: "David Beckham",
-    aliases: ["david beckham", "beckham"]
-  },
-  {
-    player: "Ronaldinho",
-    aliases: ["ronaldinho"]
-  },
-  {
-    player: "Zinedine Zidane",
-    aliases: ["zinedine zidane", "zidane"]
-  },
-  {
-    player: "Diego Maradona",
-    aliases: ["diego maradona", "maradona"]
-  },
-  {
-    player: "Pelé",
-    aliases: ["pele", "pelé"]
-  }
-];
-
-const PLAYER_CLUB_HISTORY = [
-  {
-    player: "Lionel Messi",
-    seasons: [
-      {
-        from: 2004,
-        to: 2021,
-        competition: "La Liga",
-        club: "Barcelona"
-      },
-      {
-        from: 2021,
-        to: 2023,
-        competition: "Ligue 1",
-        club: "Paris Saint-Germain"
-      },
-      {
-        from: 2023,
-        to: 2099,
-        competition: "MLS",
-        club: "Inter Miami"
-      }
-    ]
-  },
-  {
-    player: "Cristiano Ronaldo",
-    seasons: [
-      {
-        from: 2003,
-        to: 2009,
-        competition: "Premier League",
-        club: "Manchester United"
-      },
-      {
-        from: 2009,
-        to: 2018,
-        competition: "La Liga",
-        club: "Real Madrid"
-      },
-      {
-        from: 2018,
-        to: 2021,
-        competition: "Serie A",
-        club: "Juventus"
-      },
-      {
-        from: 2021,
-        to: 2023,
-        competition: "Premier League",
-        club: "Manchester United"
-      },
-      {
-        from: 2023,
-        to: 2099,
-        competition: "Saudi Pro League",
-        club: "Al-Nassr"
-      }
-    ]
-  }
+const PLAYERS = [
+  ["Lionel Messi", ["lionel messi", "messi10", "messi 10", "messi 19", "messi 30", "messi"]],
+  ["Cristiano Ronaldo", ["cristiano ronaldo", "ronaldo7", "ronaldo 7", "cr7"]],
+  ["Ronaldo Nazario", ["ronaldo nazario", "ronaldo fenomeno", "r9"]],
+  ["Neymar", ["neymar jr", "neymar"]], ["Kylian Mbappe", ["kylian mbappe", "mbappe"]],
+  ["Erling Haaland", ["erling haaland", "haaland"]],
+  ["Jude Bellingham", ["jude bellingham", "bellingham"]],
+  ["Mohamed Salah", ["mohamed salah", "mo salah"]], ["David Beckham", ["david beckham", "beckham"]],
+  ["Ronaldinho", ["ronaldinho"]], ["Zinedine Zidane", ["zinedine zidane", "zidane"]],
+  ["Diego Maradona", ["diego maradona", "maradona"]], ["Pele", ["pele"]]
 ];
 
 const SHOE_MODELS = [
-  {
-    brand: "Nike",
-    model: "Mercurial Vapor",
-    aliases: [
-      "mercurial vapor",
-      "vapor 15",
-      "vapor 16",
-      "vapor 17"
-    ]
-  },
-  {
-    brand: "Nike",
-    model: "Mercurial Superfly",
-    aliases: [
-      "mercurial superfly",
-      "superfly"
-    ]
-  },
-  {
-    brand: "Nike",
-    model: "Mercurial",
-    aliases: ["mercurial"]
-  },
-  {
-    brand: "Nike",
-    model: "Phantom GX",
-    aliases: ["phantom gx"]
-  },
-  {
-    brand: "Nike",
-    model: "Phantom Luna",
-    aliases: ["phantom luna"]
-  },
-  {
-    brand: "Nike",
-    model: "Phantom",
-    aliases: ["nike phantom", "phantom"]
-  },
-  {
-    brand: "Nike",
-    model: "Tiempo Legend",
-    aliases: ["tiempo legend"]
-  },
-  {
-    brand: "Nike",
-    model: "Tiempo",
-    aliases: ["nike tiempo", "tiempo"]
-  },
-  {
-    brand: "Nike",
-    model: "Premier",
-    aliases: ["nike premier"]
-  },
-
-  {
-    brand: "Adidas",
-    model: "Predator",
-    aliases: ["adidas predator", "predator"]
-  },
-  {
-    brand: "Adidas",
-    model: "F50",
-    aliases: ["adidas f50", "f50"]
-  },
-  {
-    brand: "Adidas",
-    model: "Copa Mundial",
-    aliases: ["copa mundial"]
-  },
-  {
-    brand: "Adidas",
-    model: "Copa Pure",
-    aliases: ["copa pure"]
-  },
-  {
-    brand: "Adidas",
-    model: "Copa Gloro",
-    aliases: ["copa gloro"]
-  },
-  {
-    brand: "Adidas",
-    model: "Copa",
-    aliases: ["adidas copa", "copa"]
-  },
-  {
-    brand: "Adidas",
-    model: "X Crazyfast",
-    aliases: ["crazyfast", "x crazyfast"]
-  },
-  {
-    brand: "Adidas",
-    model: "X Speedportal",
-    aliases: ["speedportal", "x speedportal"]
-  },
-  {
-    brand: "Adidas",
-    model: "X Speedflow",
-    aliases: ["speedflow", "x speedflow"]
-  },
-  {
-    brand: "Adidas",
-    model: "X",
-    aliases: ["adidas x"]
-  },
-
-  {
-    brand: "Puma",
-    model: "Future",
-    aliases: ["puma future"]
-  },
-  {
-    brand: "Puma",
-    model: "Ultra",
-    aliases: ["puma ultra"]
-  },
-  {
-    brand: "Puma",
-    model: "King",
-    aliases: ["puma king"]
-  },
-
-  {
-    brand: "Mizuno",
-    model: "Morelia",
-    aliases: ["mizuno morelia", "morelia"]
-  },
-  {
-    brand: "Mizuno",
-    model: "Alpha",
-    aliases: ["mizuno alpha"]
-  },
-  {
-    brand: "Mizuno",
-    model: "Monarcida",
-    aliases: ["monarcida"]
-  },
-
-  {
-    brand: "Joma",
-    model: "Top Flex",
-    aliases: ["joma top flex", "top flex"]
-  },
-
-  {
-    brand: "New Balance",
-    model: "Furon",
-    aliases: ["new balance furon", "furon"]
-  },
-  {
-    brand: "New Balance",
-    model: "Tekela",
-    aliases: ["new balance tekela", "tekela"]
-  }
+  ["Nike", "Mercurial Vapor", ["mercurial vapor", "vapor 15", "vapor 16", "vapor 17"]],
+  ["Nike", "Mercurial Superfly", ["mercurial superfly", "superfly"]],
+  ["Nike", "Mercurial", ["mercurial"]], ["Nike", "Phantom GX", ["phantom gx"]],
+  ["Nike", "Phantom Luna", ["phantom luna"]], ["Nike", "Phantom", ["nike phantom", "phantom"]],
+  ["Nike", "Tiempo Legend", ["tiempo legend"]], ["Nike", "Tiempo", ["nike tiempo", "tiempo"]],
+  ["Nike", "Premier", ["nike premier"]], ["Adidas", "Predator", ["adidas predator", "predator"]],
+  ["Adidas", "F50", ["adidas f50", "f50"]], ["Adidas", "Copa Mundial", ["copa mundial"]],
+  ["Adidas", "Copa Pure", ["copa pure"]], ["Adidas", "Copa Gloro", ["copa gloro"]],
+  ["Adidas", "Copa", ["adidas copa", "copa"]], ["Adidas", "X Crazyfast", ["crazyfast"]],
+  ["Adidas", "X Speedportal", ["speedportal"]], ["Adidas", "X Speedflow", ["speedflow"]],
+  ["Puma", "Future", ["puma future"]], ["Puma", "Ultra", ["puma ultra"]],
+  ["Puma", "King", ["puma king"]], ["Mizuno", "Morelia", ["mizuno morelia", "morelia"]],
+  ["Mizuno", "Alpha", ["mizuno alpha"]], ["Joma", "Top Flex", ["joma top flex", "top flex"]],
+  ["New Balance", "Furon", ["new balance furon", "furon"]],
+  ["New Balance", "Tekela", ["new balance tekela", "tekela"]]
 ];
 
-const SHOE_BRANDS = [
-  "Nike",
-  "Adidas",
-  "Puma",
-  "Mizuno",
-  "Joma",
-  "New Balance",
-  "Under Armour",
-  "Umbro",
-  "Lotto",
-  "Diadora",
-  "Asics"
-];
-
-const TRAINING_WORDS = [
-  "tracksuit",
-  "track suit",
-  "training suit",
-  "training set",
-  "training wear",
-  "training jersey",
-  "training shirt",
-  "training top",
-  "training pants",
-  "training pant",
-  "training shorts",
-  "pre match",
-  "prematch",
-  "warm up",
-  "warmup",
-  "windbreaker",
-  "wind breaker",
-  "trainingspak",
-  "trainingsset",
-  "trainingskleding",
-  "hoodie",
-  "sweatshirt",
-  "jacket",
-  "coat",
-  "polo",
-  "travel suit"
-];
-
-const SHOE_WORDS = [
-  "football boot",
-  "football boots",
-  "soccer shoe",
-  "soccer shoes",
-  "soccer boot",
-  "soccer boots",
-  "cleats",
-  "fg",
-  "ag",
-  "tf",
-  "ic",
-  "sg",
-  "mercurial",
-  "superfly",
-  "phantom gx",
-  "phantom luna",
-  "tiempo",
-  "predator",
-  "adidas f50",
-  "copa mundial",
-  "copa pure",
-  "copa gloro",
-  "speedportal",
-  "speedflow",
-  "crazyfast",
-  "puma future",
-  "puma ultra",
-  "mizuno morelia",
-  "top flex"
-];
-
-const FOOTBALL_WORDS = [
-  "football",
-  "soccer",
-  "jersey",
-  "shirt",
-  "kit",
-  "uniform",
-  "home",
-  "away",
-  "third",
-  "goalkeeper",
-  "player version",
-  "fan version",
-  "retro",
-  "classic",
-  "football clubs",
-  "national teams",
-  "club teams",
-  "landenteams",
-  "clubteams"
-];
-
-const IGNORE_ALBUM_WORDS = [
-  "about us",
-  "contact us",
-  "how to order",
-  "how to buy",
-  "tutorial",
-  "purchase tutorial",
-  "produto preco tutorial",
-  "price list",
-  "prices",
-  "payment",
-  "shipping",
-  "whatsapp",
-  "wechat",
-  "qrcode",
-  "qr code",
-  "size chart",
-  "sizes chart",
-  "measurement",
-  "measurements",
-  "customer service",
-  "create your own design",
-  "all over print",
-  "menu 1",
-  "menu 2",
-  "menu1",
-  "menu2",
-  "video",
-  "patch only",
-  "patches only",
-  "name set only",
-  "nameset only",
-  "fonts only",
-  "link only"
-];
-
-function isMeaningfulAlbum(title, category = "") {
-  const text = norm(`${title} ${category}`);
-
-  if (!text) return false;
-
-  return !IGNORE_ALBUM_WORDS.some(word =>
-    text.includes(norm(word))
-  );
-}
-
-function findPlayer(text) {
-  const normalizedText = norm(text);
-
-  return (
-    PLAYER_RULES.find(rule =>
-      rule.aliases.some(alias =>
-        normalizedText.includes(norm(alias))
-      )
-    ) || null
-  );
-}
-
-function findCountry(text) {
-  const normalizedText = norm(text);
-
-  for (const [country, aliases] of COUNTRY_ALIASES) {
-    for (const alias of aliases) {
-      if (normalizedText.includes(norm(alias))) {
-        return country;
-      }
-    }
-  }
-
-  return "";
-}
+const SHOE_BRANDS = ["Nike", "Adidas", "Puma", "Mizuno", "Joma", "New Balance", "Umbro", "Lotto", "Diadora", "Asics"];
+const TRAINING_WORDS = ["tracksuit", "track suit", "training suit", "training set", "training wear", "training shirt", "training top", "training pants", "pre match", "prematch", "warm up", "windbreaker", "trainingspak", "trainingsset", "hoodie", "sweatshirt", "jacket", "travel suit"];
+const SHOE_WORDS = ["football boot", "soccer shoe", "soccer boot", "cleats", "mercurial", "superfly", "phantom gx", "tiempo", "predator", "adidas f50", "copa mundial", "copa pure", "copa gloro", "speedportal", "speedflow", "crazyfast", "puma future", "puma ultra", "mizuno morelia", "top flex"];
+const FOOTBALL_WORDS = ["football", "soccer", "jersey", "shirt", "kit", "uniform", "home", "away", "third", "goalkeeper", "player version", "fan version", "retro", "classic", "football clubs", "national teams", "club teams"];
+const IGNORE_WORDS = ["about us", "contact us", "how to order", "how to buy", "tutorial", "price list", "payment", "shipping", "whatsapp", "wechat", "qrcode", "qr code", "size chart", "sizes chart", "measurement", "customer service", "create your own design", "all over print", "menu 1", "menu 2", "menu1", "menu2", "video", "patch only", "patches only", "name set only", "nameset only", "fonts only", "link only"];
 
 function findTeam(text) {
-  const normalizedText = norm(text);
-
-  const sorted = [...CLUBS].sort((a, b) => {
-    const longestA = Math.max(
-      ...a.aliases.map(alias => norm(alias).length)
-    );
-    const longestB = Math.max(
-      ...b.aliases.map(alias => norm(alias).length)
-    );
-
-    return longestB - longestA;
-  });
-
-  for (const entry of sorted) {
-    for (const alias of entry.aliases) {
-      const normalizedAlias = norm(alias);
-
-      if (
-        normalizedAlias &&
-        normalizedText.includes(normalizedAlias)
-      ) {
-        return {
-          competition: entry.competition,
-          club: entry.club
-        };
-      }
-    }
-  }
-
+  const n = norm(text);
+  const sorted = [...CLUBS].sort((a, b) => Math.max(...b[2].map(x => norm(x).length)) - Math.max(...a[2].map(x => norm(x).length)));
+  for (const [competition, club, aliases] of sorted) if (aliases.some(alias => n.includes(norm(alias)))) return { competition, club };
   return null;
 }
-
+function findCountry(text) {
+  const n = norm(text);
+  for (const [country, aliases] of COUNTRIES) if (aliases.some(alias => n.includes(norm(alias)))) return country;
+  return "";
+}
+function findPlayer(text) {
+  const n = norm(text);
+  for (const [player, aliases] of PLAYERS) if (aliases.some(alias => n.includes(norm(alias)))) return player;
+  return "";
+}
 function findShoe(text) {
-  const normalizedText = norm(text);
-
-  for (const entry of SHOE_MODELS) {
-    if (
-      entry.aliases.some(alias =>
-        normalizedText.includes(norm(alias))
-      )
-    ) {
-      return {
-        brand: entry.brand,
-        model: entry.model
-      };
-    }
-  }
-
-  const brand =
-    SHOE_BRANDS.find(item =>
-      normalizedText.includes(norm(item))
-    ) || "Overige merken";
-
-  return {
-    brand,
-    model: "Overig model"
-  };
+  const n = norm(text);
+  for (const [brand, model, aliases] of SHOE_MODELS) if (aliases.some(alias => n.includes(norm(alias)))) return { brand, model };
+  return { brand: SHOE_BRANDS.find(brand => n.includes(norm(brand))) || "Overige merken", model: "Overig model" };
 }
 
 function season(text) {
   const original = String(text ?? "");
-
-  const fourDigitPattern =
-    /\b((?:19|20)\d{2})\s*[\/_-]\s*((?:19|20)?\d{2})\b/g;
-
   let match;
-
-  while ((match = fourDigitPattern.exec(original)) !== null) {
-    const first = Number(match[1]);
-    let second = Number(match[2]);
-
-    if (match[2].length === 2) {
-      second =
-        Math.floor(first / 100) * 100 +
-        Number(match[2]);
-
-      if (second < first) second += 100;
-    }
-
-    if (
-      first >= 1980 &&
-      first <= 2099 &&
-      second === first + 1
-    ) {
-      return `${first}-${second}`;
-    }
+  const long = /\b((?:19|20)\d{2})\s*[\/_-]\s*((?:19|20)?\d{2})\b/g;
+  while ((match = long.exec(original)) !== null) {
+    const first = Number(match[1]); let second = Number(match[2]);
+    if (match[2].length === 2) { second = Math.floor(first / 100) * 100 + second; if (second < first) second += 100; }
+    if (first >= 1980 && first <= 2099 && second === first + 1) return `${first}-${second}`;
   }
-
-  const shortPattern =
-    /(?:^|[^a-z0-9])(\d{2})\s*[\/_-]\s*(\d{2})(?=$|[^a-z0-9])/gi;
-
-  while ((match = shortPattern.exec(original)) !== null) {
-    const left = Number(match[1]);
-    const right = Number(match[2]);
-
-    /*
-     * Alleen opeenvolgende seizoensjaren accepteren.
-     *
-     * Hierdoor worden onder andere deze waarden geweigerd:
-     * 39-45 maten
-     * 39-4514 modelcodes
-     * 20-1 productnummers
-     * 10-19 rugnummers
-     */
+  const short = /(?:^|[^a-z0-9])(\d{2})\s*[\/_-]\s*(\d{2})(?=$|[^a-z0-9])/gi;
+  while ((match = short.exec(original)) !== null) {
+    const left = Number(match[1]), right = Number(match[2]);
     if (right !== (left + 1) % 100) continue;
-
     const first = left >= 80 ? 1900 + left : 2000 + left;
-    const second = first + 1;
-
-    return `${first}-${second}`;
+    return `${first}-${first + 1}`;
   }
-
   return "Seizoen onbekend";
 }
 
-function playerClubFromSeason(playerName, seasonValue) {
-  if (!playerName) return null;
-  if (seasonValue === "Seizoen onbekend") return null;
-
-  const firstYear = Number(seasonValue.slice(0, 4));
-  if (!Number.isFinite(firstYear)) return null;
-
-  const history = PLAYER_CLUB_HISTORY.find(
-    item => item.player === playerName
-  );
-
-  if (!history) return null;
-
-  const period = history.seasons.find(
-    item => firstYear >= item.from && firstYear < item.to
-  );
-
-  if (!period) return null;
-
-  return {
-    competition: period.competition,
-    club: period.club
-  };
+function historicPlayerTeam(player, year) {
+  if (year === "Seizoen onbekend") return null;
+  const start = Number(year.slice(0, 4));
+  if (player === "Lionel Messi") {
+    if (start >= 2004 && start < 2021) return { competition: "La Liga", club: "Barcelona" };
+    if (start >= 2021 && start < 2023) return { competition: "Ligue 1", club: "Paris Saint-Germain" };
+    if (start >= 2023) return { competition: "MLS", club: "Inter Miami" };
+  }
+  if (player === "Cristiano Ronaldo") {
+    if (start >= 2003 && start < 2009) return { competition: "Premier League", club: "Manchester United" };
+    if (start >= 2009 && start < 2018) return { competition: "La Liga", club: "Real Madrid" };
+    if (start >= 2018 && start < 2021) return { competition: "Serie A", club: "Juventus" };
+    if (start >= 2021 && start < 2023) return { competition: "Premier League", club: "Manchester United" };
+    if (start >= 2023) return { competition: "Saudi Pro League", club: "Al-Nassr" };
+  }
+  return null;
 }
 
 function classify(title, category, source) {
-  const text = `${title} ${category}`;
-  const normalizedText = norm(text);
-  const year = season(text);
-  const directTeam = findTeam(text);
-  const country = findCountry(text);
-  const playerRule = findPlayer(text);
-
-  const historicPlayerTeam =
-    !directTeam && playerRule
-      ? playerClubFromSeason(playerRule.player, year)
-      : null;
-
-  const resolvedTeam = directTeam || historicPlayerTeam;
-
-  const training =
-    source.mode === "training" ||
-    has(text, TRAINING_WORDS);
-
+  const text = `${title} ${category}`, n = norm(text), year = season(text), player = findPlayer(text);
+  const team = findTeam(text) || historicPlayerTeam(player, year), country = findCountry(text);
+  const training = source.mode === "training" || containsAny(text, TRAINING_WORDS);
   if (training) {
-    if (resolvedTeam) {
-      return {
-        section: "Trainingskleding",
-        category: "Clubteams",
-        subcategory: resolvedTeam.competition,
-        competition: resolvedTeam.competition,
-        club: resolvedTeam.club,
-        country: "",
-        player: playerRule?.player || "",
-        season: year,
-        types: ["Trainingskleding"]
-      };
-    }
-
-    if (country) {
-      return {
-        section: "Trainingskleding",
-        category: "Landenteams",
-        subcategory: country,
-        competition: "Landenteams",
-        club: country,
-        country,
-        player: playerRule?.player || "",
-        season: year,
-        types: ["Trainingskleding"]
-      };
-    }
-
-    return {
-      section: "Trainingskleding",
-      category: "Overige trainingskleding",
-      subcategory: "Overige trainingskleding",
-      competition: "",
-      club: "Overige trainingskleding",
-      country: "",
-      player: playerRule?.player || "",
-      season: year,
-      types: ["Trainingskleding"]
-    };
+    if (team) return { section: "Trainingskleding", category: "Clubteams", subcategory: team.competition, competition: team.competition, club: team.club, country: "", player, season: year, types: ["Trainingskleding"] };
+    if (country) return { section: "Trainingskleding", category: "Landenteams", subcategory: country, competition: "Landenteams", club: country, country, player, season: year, types: ["Trainingskleding"] };
+    return { section: "Trainingskleding", category: "Overige trainingskleding", subcategory: "Overige trainingskleding", competition: "", club: "Overige trainingskleding", country: "", player, season: year, types: ["Trainingskleding"] };
   }
-
-  const shoe =
-    source.mode === "shoes" ||
-    has(text, SHOE_WORDS) ||
-    normalizedText === "shoes" ||
-    normalizedText.startsWith("shoes ");
-
-  if (shoe) {
-    const found = findShoe(text);
-
-    return {
-      section: "Voetbalschoenen",
-      category: found.brand,
-      subcategory: found.model,
-      competition: "",
-      club: "",
-      country: "",
-      player: "",
-      season: "Seizoen onbekend",
-      types: ["Voetbalschoenen"]
-    };
-  }
-
-  if (resolvedTeam) {
-    return {
-      section: "Voetbal",
-      category: "Clubteams",
-      subcategory: resolvedTeam.competition,
-      competition: resolvedTeam.competition,
-      club: resolvedTeam.club,
-      country: "",
-      player: playerRule?.player || "",
-      season: year,
-      types: ["Voetbalshirt"]
-    };
-  }
-
-  if (country) {
-    return {
-      section: "Voetbal",
-      category: "Landenteams",
-      subcategory: country,
-      competition: "Landenteams",
-      club: country,
-      country,
-      player: playerRule?.player || "",
-      season: year,
-      types: ["Voetbalshirt"]
-    };
-  }
-
-  if (playerRule || has(text, FOOTBALL_WORDS)) {
-    return {
-      section: "Voetbal",
-      category: "Overig voetbal",
-      subcategory:
-        playerRule?.player || "Overig voetbal",
-      competition: "Overig voetbal",
-      club: playerRule?.player || "Overig voetbal",
-      country: "",
-      player: playerRule?.player || "",
-      season: year,
-      types: ["Voetbalshirt"]
-    };
-  }
-
-  const cleanedCategory = english(category, "Overig");
-
-  return {
-    section: "Overige producten",
-    category: "Overige producten",
-    subcategory: cleanedCategory,
-    competition: "",
-    club: "",
-    country: "",
-    player: "",
-    season: "Seizoen onbekend",
-    types: ["Overig"]
-  };
+  const shoe = source.mode === "shoes" || containsAny(text, SHOE_WORDS) || n === "shoes" || n.startsWith("shoes ");
+  if (shoe) { const found = findShoe(text); return { section: "Voetbalschoenen", category: found.brand, subcategory: found.model, competition: "", club: "", country: "", player: "", season: "Seizoen onbekend", types: ["Voetbalschoenen"] }; }
+  if (team) return { section: "Voetbal", category: "Clubteams", subcategory: team.competition, competition: team.competition, club: team.club, country: "", player, season: year, types: ["Voetbalshirt"] };
+  if (country) return { section: "Voetbal", category: "Landenteams", subcategory: country, competition: "Landenteams", club: country, country, player, season: year, types: ["Voetbalshirt"] };
+  if (player || containsAny(text, FOOTBALL_WORDS)) return { section: "Voetbal", category: "Overig voetbal", subcategory: player || "Overig voetbal", competition: "Overig voetbal", club: player || "Overig voetbal", country: "", player, season: year, types: ["Voetbalshirt"] };
+  return { section: "Overige producten", category: "Overige producten", subcategory: cleanText(category, "Overig"), competition: "", club: "", country: "", player: "", season: "Seizoen onbekend", types: ["Overig"] };
 }
 
-class HttpError extends Error {
-  constructor(status, url) {
-    super(`HTTP ${status} for ${url}`);
-    this.status = status;
-    this.url = url;
-  }
-}
+function meaningful(title, category = "") { const text = norm(`${title} ${category}`); return text && !IGNORE_WORDS.some(word => text.includes(norm(word))); }
+class HttpError extends Error { constructor(status, url) { super(`HTTP ${status} for ${url}`); this.status = status; } }
 
 async function request(url, binary = false, referer = "") {
   for (let attempt = 0; attempt < 3; attempt++) {
-    await sleep(250);
-
-    const controller = new AbortController();
-    const timer = setTimeout(
-      () => controller.abort(),
-      45000
-    );
-
+    await sleep(250); const controller = new AbortController(); const timer = setTimeout(() => controller.abort(), 45000);
     try {
-      const headers = {
-        "user-agent":
-          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) " +
-          "AppleWebKit/537.36 (KHTML, like Gecko) " +
-          "Chrome/129.0 Safari/537.36",
-        accept: binary
-          ? "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
-          : "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-        "accept-language": "en-US,en;q=0.9,nl;q=0.8"
-      };
-
+      const headers = { "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/129 Safari/537.36", accept: binary ? "image/avif,image/webp,image/*,*/*" : "text/html,application/xhtml+xml", "accept-language": "en-US,en;q=0.9,nl;q=0.8" };
       if (referer) headers.referer = referer;
-
-      const response = await fetch(url, {
-        headers,
-        signal: controller.signal,
-        redirect: "follow"
-      });
-
-      if (!response.ok) {
-        throw new HttpError(response.status, url);
-      }
-
-      if (binary) {
-        return Buffer.from(await response.arrayBuffer());
-      }
-
-      return await response.text();
-    } catch (error) {
-      if (error.status === 404 || attempt === 2) {
-        throw error;
-      }
-
-      await sleep(1000 * (attempt + 1));
-    } finally {
-      clearTimeout(timer);
-    }
-  }
-
-  throw new Error(`Download mislukt: ${url}`);
-}
-
-async function read(file, fallback) {
-  try {
-    return JSON.parse(await fs.readFile(file, "utf8"));
-  } catch {
-    return fallback;
+      const response = await fetch(url, { headers, signal: controller.signal, redirect: "follow" });
+      if (!response.ok) throw new HttpError(response.status, url);
+      return binary ? Buffer.from(await response.arrayBuffer()) : await response.text();
+    } catch (error) { if (error.status === 404 || attempt === 2) throw error; await sleep(1000 * (attempt + 1)); }
+    finally { clearTimeout(timer); }
   }
 }
 
-async function write(file, data) {
-  await fs.mkdir(path.dirname(file), {
-    recursive: true
-  });
+async function read(file, fallback) { try { return JSON.parse(await fs.readFile(file, "utf8")); } catch { return fallback; } }
+async function write(file, data) { await fs.mkdir(path.dirname(file), { recursive: true }); const temp = `${file}.tmp`; await fs.writeFile(temp, JSON.stringify(data, null, 2) + "\n"); await fs.rename(temp, file); }
+async function exists(file) { try { await fs.access(file); return true; } catch { return false; } }
 
-  const temporaryFile = `${file}.tmp`;
-
-  await fs.writeFile(
-    temporaryFile,
-    JSON.stringify(data, null, 2) + "\n"
-  );
-
-  await fs.rename(temporaryFile, file);
-}
-
-async function exists(file) {
-  try {
-    await fs.access(file);
-    return true;
-  } catch {
-    return false;
-  }
-}
-
-function validImageUrl(url = "") {
+function validImage(url = "") {
   const value = String(url).toLowerCase();
-
-  if (!value) return false;
-
-  if (
-    !value.startsWith("http://") &&
-    !value.startsWith("https://")
-  ) {
-    return false;
-  }
-
-  const blocked = [
-    "logo",
-    "avatar",
-    "favicon",
-    "default",
-    "placeholder",
-    "loading",
-    "qrcode",
-    "qr-code",
-    "icon",
-    "banner",
-    "transparent.gif",
-    "blank.gif",
-    "spacer.gif"
-  ];
-
-  return !blocked.some(item => value.includes(item));
+  return /^https?:\/\//.test(value) && !["logo", "avatar", "favicon", "default", "placeholder", "loading", "qrcode", "icon", "banner", "blank.gif", "spacer.gif"].some(word => value.includes(word));
 }
+function srcset(value = "", base = "") { return String(value).split(",").map(item => absoluteUrl(base, item.trim().split(/\s+/)[0])).filter(validImage); }
 
-function parseSrcset(value = "", base = "") {
-  return String(value)
-    .split(",")
-    .map(item => item.trim().split(/\s+/)[0])
-    .map(item => abs(base, item))
-    .filter(validImageUrl);
-}
-
-function collectImageCandidates($, source, album) {
-  const candidates = [];
-
-  const add = value => {
-    const url = abs(source.base, value);
-
-    if (validImageUrl(url)) {
-      candidates.push(url);
-    }
-  };
-
-  const addSrcset = value => {
-    for (const url of parseSrcset(value, source.base)) {
-      candidates.push(url);
-    }
-  };
-
-  $(
-    [
-      "meta[property='og:image']",
-      "meta[name='twitter:image']",
-      "img",
-      "source"
-    ].join(",")
-  ).each((_, element) => {
-    add($(element).attr("content"));
-    add($(element).attr("data-origin-src"));
-    add($(element).attr("data-original"));
-    add($(element).attr("data-src"));
-    add($(element).attr("data-lazy"));
-    add($(element).attr("data-lazy-src"));
-    add($(element).attr("data-image"));
-    add($(element).attr("src"));
-
-    addSrcset($(element).attr("srcset"));
-    addSrcset($(element).attr("data-srcset"));
+function collectImages($, source, album) {
+  const images = [], add = value => { const url = absoluteUrl(source.base, value); if (validImage(url)) images.push(url); };
+  $("meta[property='og:image'],meta[name='twitter:image'],img,source").each((_, element) => {
+    for (const attribute of ["content", "data-origin-src", "data-original", "data-src", "data-lazy", "data-lazy-src", "data-image", "src"]) add($(element).attr(attribute));
+    images.push(...srcset($(element).attr("srcset"), source.base), ...srcset($(element).attr("data-srcset"), source.base));
   });
-
-  $("[style*='background-image']").each((_, element) => {
-    const style = $(element).attr("style") || "";
-    const matches = style.match(
-      /background-image\s*:\s*url$$(['"]?)(.*?)\1$$/gi
-    );
-
-    for (const match of matches || []) {
-      const urlMatch = match.match(
-        /url$$(['"]?)(.*?)\1$$/i
-      );
-
-      add(urlMatch?.[2]);
-    }
-  });
-
-  add(album.preview);
-
-  return unique(candidates).slice(0, MAX_IMAGES * 4);
+  $("[style*='background-image']").each((_, element) => { const style = $(element).attr("style") || ""; const regex = /url\((['\"]?)(.*?)\1\)/gi; let match; while ((match = regex.exec(style)) !== null) add(match[2]); });
+  add(album.preview); return unique(images).slice(0, MAX_IMAGES * 4);
 }
 
 function pageData(html, source, inherited = "") {
-  const $ = cheerio.load(html);
-  const categories = new Map();
-  const albums = new Map();
-
-  $(
-    "a[href*='/categories/'],a[href*='/collections/']"
-  ).each((_, element) => {
-    const url = abs(
-      source.base,
-      $(element).attr("href")
-    ).split("?")[0];
-
-    if (!url) return;
-
-    categories.set(url, {
-      url,
-      title: english(
-        $(element).attr("title") ||
-          $(element).text(),
-        "Overig"
-      )
-    });
-  });
-
+  const $ = cheerio.load(html), categories = new Map(), albums = new Map();
+  $("a[href*='/categories/'],a[href*='/collections/']").each((_, element) => { const url = absoluteUrl(source.base, $(element).attr("href")).split("?")[0]; if (url) categories.set(url, { url, title: cleanText($(element).attr("title") || $(element).text(), "Overig") }); });
   $("a[href*='/albums/']").each((_, element) => {
-    const fetchUrl = abs(
-      source.base,
-      $(element).attr("href")
-    );
-
-    const url = fetchUrl.split("?")[0];
-
-    if (!/\/albums\/\d+/.test(url)) return;
-
-    const image = $(element).find("img").first();
-
-    const previewCandidates = [
-      image.attr("data-origin-src"),
-      image.attr("data-original"),
-      image.attr("data-src"),
-      image.attr("data-lazy-src"),
-      image.attr("src")
-    ]
-      .map(value => abs(source.base, value))
-      .filter(validImageUrl);
-
-    const srcsetCandidates = [
-      ...parseSrcset(
-        image.attr("data-srcset"),
-        source.base
-      ),
-      ...parseSrcset(
-        image.attr("srcset"),
-        source.base
-      )
-    ];
-
-    const preview = unique([
-      ...previewCandidates,
-      ...srcsetCandidates
-    ])[0] || "";
-
-    const albumId =
-      url.match(/\/albums\/(\d+)/)?.[1] ||
-      "onbekend";
-
-    const title = english(
-      $(element).attr("title") ||
-        image.attr("alt") ||
-        $(element).text(),
-      `Product ${albumId}`
-    );
-
-    albums.set(url, {
-      url,
-      fetchUrl,
-      title,
-      category: english(inherited, "Overig"),
-      preview
-    });
+    const fetchUrl = absoluteUrl(source.base, $(element).attr("href")), url = fetchUrl.split("?")[0]; if (!/\/albums\/\d+/.test(url)) return;
+    const image = $(element).find("img").first(), candidates = [image.attr("data-origin-src"), image.attr("data-original"), image.attr("data-src"), image.attr("data-lazy-src"), image.attr("src")].map(value => absoluteUrl(source.base, value)).filter(validImage);
+    const preview = unique([...candidates, ...srcset(image.attr("srcset"), source.base), ...srcset(image.attr("data-srcset"), source.base)])[0] || "";
+    const id = url.match(/\/albums\/(\d+)/)?.[1] || "onbekend";
+    albums.set(url, { url, fetchUrl, title: cleanText($(element).attr("title") || image.attr("alt") || $(element).text(), `Product ${id}`), category: cleanText(inherited, "Overig"), preview });
   });
-
-  return {
-    categories: [...categories.values()],
-    albums: [...albums.values()]
-  };
+  return { categories: [...categories.values()], albums: [...albums.values()] };
 }
 
 async function discover(source, state) {
-  const albums = new Map();
-  const categories = new Map();
-
-  state.deadCategories ||= {};
-  state.deadCategories[source.key] ||= [];
-
-  const dead = new Set(
-    state.deadCategories[source.key]
-  );
-
+  const albums = new Map(), categories = new Map(); state.deadCategories ||= {}; state.deadCategories[source.key] ||= []; const dead = new Set(state.deadCategories[source.key]);
   for (let page = 1; page <= MAX_PAGES; page++) {
-    const url =
-      page === 1
-        ? `${source.base}/albums`
-        : `${source.base}/albums?page=${page}`;
-
-    try {
-      const data = pageData(
-        await request(url),
-        source
-      );
-
-      data.albums.forEach(album =>
-        albums.set(album.url, album)
-      );
-
-      data.categories.forEach(category =>
-        categories.set(category.url, category)
-      );
-
-      if (!data.albums.length && page > 1) {
-        break;
-      }
-    } catch (error) {
-      if (error.status !== 404) {
-        console.warn(
-          `[${source.key}] index: ${error.message}`
-        );
-      }
-
-      break;
-    }
+    const url = page === 1 ? `${source.base}/albums?tab=gallery` : `${source.base}/albums?tab=gallery&page=${page}`;
+    try { const data = pageData(await request(url), source); data.albums.forEach(item => albums.set(item.url, item)); data.categories.forEach(item => categories.set(item.url, item)); if (!data.albums.length && page > 1) break; }
+    catch (error) { if (error.status !== 404) console.warn(`[${source.key}] index: ${error.message}`); break; }
   }
-
   for (const category of categories.values()) {
     if (dead.has(category.url)) continue;
+    try { const data = pageData(await request(category.url), source, category.title); data.albums.forEach(item => albums.set(item.url, item)); }
+    catch (error) { if (error.status === 404) dead.add(category.url); else console.warn(`[${source.key}] categorie: ${error.message}`); }
+  }
+  state.deadCategories[source.key] = [...dead]; await write(STATE, state); return [...albums.values()];
+}
 
-    try {
-      const data = pageData(
-        await request(category.url),
-        source,
-        category.title
-      );
+function albumData(html, album, source) {
+  const $ = cheerio.load(html);
+  return { title: cleanText($("h1").first().text() || $("meta[property='og:title']").attr("content") || $("title").text() || album.title, album.title), images: collectImages($, source, album) };
+}
 
-      data.albums.forEach(album =>
-        albums.set(album.url, album)
-      );
-    } catch (error) {
-      if (error.status === 404) {
-        dead.add(category.url);
-      } else {
-        console.warn(
-          `[${source.key}] categorie: ${error.message}`
-        );
-      }
+const localImage = value => String(value || "").startsWith(`${ASSETS}/`);
+async function createImage(url, file, referer) {
+  const buffer = await request(url, true, referer), metadata = await sharp(buffer, { failOn: "none" }).metadata();
+  if ((metadata.width || 0) < 300 || (metadata.height || 0) < 300) throw new Error(`afbeelding te klein: ${metadata.width || 0}x${metadata.height || 0}`);
+  await fs.mkdir(path.dirname(file), { recursive: true });
+  await sharp(buffer, { failOn: "none" }).rotate().resize({ width: 1200, height: 1200, fit: "inside", withoutEnlargement: true }).webp({ quality: 82, effort: 4 }).toFile(file);
+  return file.replaceAll(path.sep, "/");
+}
+
+async function workingImages(source, id, candidates, referer, previous) {
+  const folder = path.join(ASSETS, source.key, id), images = [];
+  for (let i = 0; i < MAX_IMAGES; i++) { const file = path.join(folder, `${String(i + 1).padStart(2, "0")}.webp`); if (await exists(file)) images.push(file.replaceAll(path.sep, "/")); }
+  if (!images.length) {
+    let number = 1;
+    for (const url of candidates) {
+      if (images.length >= MAX_IMAGES) break;
+      try { images.push(await createImage(url, path.join(folder, `${String(number).padStart(2, "0")}.webp`), referer)); number++; }
+      catch (error) { console.warn(`[${source.key}:${id}] foto overgeslagen: ${error.message}`); }
     }
   }
+  if (!images.length) {
+    for (const old of unique([previous?.coverUrl, ...(previous?.images || [])]).filter(localImage)) if (await exists(old)) images.push(old);
+  }
+  return unique(images).slice(0, MAX_IMAGES);
+}
 
-  state.deadCategories[source.key] = [...dead];
+async function processAlbum(source, album, previous) {
+  const id = album.url.match(/\/albums\/(\d+)/)?.[1] || "unknown", referer = album.fetchUrl || album.url;
+  let detail = null; try { detail = albumData(await request(referer), album, source); } catch (error) { console.warn(`[${source.key}:${id}] albumdetail: ${error.message}`); }
+  const title = detail?.title || album.title, raw = detail?.images?.length ? detail.images : album.preview ? [album.preview] : [];
+  if (!meaningful(title, album.category)) return null;
+  const images = await workingImages(source, id, raw, referer, previous); if (!images.length) return null;
+  return { ...(previous || {}), uniqueKey: `${source.key}:${id}`, source: source.key, sourceId: id, sourceUrl: album.url, sourceCategory: cleanText(album.category, "Overig"), title, ...classify(title, album.category, source), images, coverUrl: images[0], imageCount: images.length, classificationVersion: CLASSIFICATION_VERSION, photoVersion: PHOTO_VERSION, updatedAt: new Date().toISOString() };
+}
 
-  await write(STATE, state);
+function cleanExisting(product) {
+  const source = SOURCES.find(item => item.key === product.source) || { key: product.source || "existing" }, title = cleanText(product.title, `Product ${product.sourceId || "Unknown"}`), sourceCategory = cleanText(product.sourceCategory, "Overig");
+  return { ...product, title, ...classify(title, sourceCategory, source), sourceCategory };
+}
+function publishedImage(product) { return unique([product?.coverUrl, ...(product?.images || [])]).some(localImage); }
+function complete(product) { return Boolean(product?.title && product?.section && product?.category && product?.subcategory && publishedImage(product) && product.classificationVersion >= CLASSIFICATION_VERSION && product.photoVersion >= PHOTO_VERSION); }
+function publicProducts(map) { return [...map.values()].filter(Boolean).filter(item => meaningful(item.title, item.sourceCategory)).filter(publishedImage).sort((a, b) => String(a.section).localeCompare(String(b.section), "nl") || String(a.competition || "").localeCompare(String(b.competition || ""), "nl") || String(a.club || "").localeCompare(String(b.club || ""), "nl") || String(b.season || "").localeCompare(String(a.season || ""), "nl") || String(a.title).localeCompare(String(b.title), "nl")); }
 
-  if (dead.size) {
-    console.log(
-      `[${source.key}] ${dead.size} bekende ` +
-        "404-categorie
+async function save(map, warnings, source, status) {
+  const products = publicProducts(map); await write(CATALOG, { lastSync: new Date().toISOString(), status, currentSource: source, productCount: products.length, products, warnings });
+}
+
+async function main() {
+  const catalog = await read(CATALOG, { products: [], warnings: [] }), map = new Map(), state = await read(STATE, { sources: {} }), warnings = [];
+  state.sources ||= {};
+  for (const product of catalog.products || catalog.albums || []) { const cleaned = cleanExisting(product); map.set(cleaned.uniqueKey || `${cleaned.source}:${cleaned.sourceId}`, cleaned); }
+  for (const source of SOURCES) {
+    console.log(`[${source.key}] controle gestart`); const albums = await discover(source, state);
+    const work = albums.filter(album => { const id = album.url.match(/\/albums\/(\d+)/)?.[1] || "unknown"; return !complete(map.get(`${source.key}:${id}`)); });
+    console.log(`[${source.key}] ${albums.length} gevonden; ${work.length} te verwerken`);
+    for (let offset = 0; offset < work.length; offset += BATCH) {
+      const results = await Promise.all(work.slice(offset, offset + BATCH).map(album => limit(async () => { const id = album.url.match(/\/albums\/(\d+)/)?.[1] || "unknown", key = `${source.key}:${id}`; return { key, product: await processAlbum(source, album, map.get(key)) }; })));
+      for (const result of results) { if (result.product) map.set(result.key, result.product); else if (!publishedImage(map.get(result.key))) map.delete(result.key); }
+      state.sources[source.key] = { run: RUN, nextIndex: Math.min(offset + results.length, work.length), total: work.length, discovered: albums.length };
+      await save(map, warnings, source.key, "running"); await write(STATE, state);
+    }
+    state.sources[source.key] = { ...(state.sources[source.key] || {}), run: RUN, nextIndex: work.length, total: work.length, discovered: albums.length, completedAt: new Date().toISOString() }; await write(STATE, state);
+  }
+  const products = publicProducts(map), counts = products.reduce((r, p) => { r.total++; if (p.section === "Voetbal") r.football++; if (p.section === "Trainingskleding") r.training++; if (p.section === "Voetbalschoenen") r.shoes++; if (p.section === "Overige producten") r.other++; return r; }, { total: 0, football: 0, training: 0, shoes: 0, other: 0 });
+  await write(CATALOG, { lastSync: new Date().toISOString(), status: "completed", productCount: products.length, counts, products, warnings });
+  state.completedAt = new Date().toISOString(); state.lastRun = RUN; state.counts = counts; await write(STATE, state);
+  console.log(`[Catalogus] ${counts.total} producten; voetbal ${counts.football}; training ${counts.training}; schoenen ${counts.shoes}; overige ${counts.other}.`);
+}
+
+main().catch(error => { console.error(error); process.exitCode = 1; });
