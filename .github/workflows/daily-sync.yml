@@ -1,17 +1,20 @@
 name: Daily sync and deploy FootballshirtsNL
 
 on:
-  schedule:
-    - cron: "15 3 * * *"
   workflow_dispatch:
+  schedule:
+    - cron: "15 2 * * *"
 
 permissions:
   contents: write
   pages: write
   id-token: write
 
+env:
+  NODE_VERSION: "22"
+
 concurrency:
-  group: footballshirtsnl-sync-and-deploy
+  group: footballshirtsnl-sync
   cancel-in-progress: false
 
 jobs:
@@ -24,132 +27,100 @@ jobs:
       - name: Download website
         uses: actions/checkout@v4
         with:
-          ref: main
           fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 22
+          node-version: ${{ env.NODE_VERSION }}
           cache: npm
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci
 
       - name: Validate sync files
         run: |
           node --check sync.js
           node --check autosave-sync.js
-          node --check externalize-images.js
 
       - name: Sync catalog with checkpoints
-        env:
-          CHECKPOINT_MINUTES: 5
-          SYNC_CONCURRENCY: 2
-          SYNC_DELAY_MS: 180
-          SYNC_BATCH_SIZE: 25
-          MAX_IMAGES_PER_ALBUM: 6
-          SYNC_MAX_PAGES: 100
-          SYNC_CATEGORY_MAX_PAGES: 100
-          SYNC_COLLECTION_MAX_PAGES: 100
         run: node autosave-sync.js
 
-      - name: Convert image paths to external URLs
-        run: node externalize-images.js
-
-      - name: Save final updated catalog
+      - name: Save sync result
+        if: always()
+        shell: bash
         run: |
-          git config user.name "footballshirtsnl-sync"
-          git config user.email "footballshirtsnl-sync@users.noreply.github.com"
+          set -e
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add -A
+          git add data/catalog.json data/sync-state.json 2>/dev/null || true
 
           if git diff --cached --quiet; then
-            echo "Geen nieuwe wijzigingen om definitief op te slaan."
-          else
-            git commit -m "Update FootballshirtsNL catalog and image URLs"
-
-            for attempt in 1 2 3 4 5; do
-              echo "Pushpoging ${attempt} van 5"
-
-              if git push origin HEAD:main; then
-                echo "Wijzigingen succesvol opgeslagen op main."
-                break
-              fi
-
-              if [ "${attempt}" -eq 5 ]; then
-                echo "Definitieve push is na vijf pogingen mislukt."
-                exit 1
-              fi
-
-              echo "Main is ondertussen gewijzigd. Nieuwe versie ophalen."
-              git pull --rebase origin main
-              sleep 5
-            done
+            echo "Geen wijzigingen om op te slaan."
+            exit 0
           fi
 
+          git commit -m "Update catalog and sync checkpoint"
+
+          for attempt in 1 2 3 4 5; do
+            git pull --rebase origin main || true
+
+            if git push origin HEAD:main; then
+              echo "Catalogus/checkpoint opgeslagen."
+              exit 0
+            fi
+
+            echo "Push poging ${attempt} mislukt; nieuwe poging over 15 seconden."
+            sleep 15
+          done
+
+          echo "Kon catalogus/checkpoint niet opslaan."
+          exit 1
+
       - name: Refresh checkout after final push
+        if: success()
         run: |
           git fetch origin main
           git reset --hard origin/main
 
       - name: Create GitHub Pages website
+        if: success()
+        shell: bash
         run: |
-          rm -rf public
-          mkdir -p public/data
+          set -e
 
-          cp index.html public/
-          cp app.js public/
-          cp style.css public/
-          cp -R data/. public/data/
+          rm -rf _site
+          mkdir -p _site/data
 
-          touch public/.nojekyll
+          cp index.html _site/
+          cp app.js _site/
+          cp style.css _site/
+          cp data/catalog.json _site/data/catalog.json
 
-          echo "Grootte van de publicatiemap:"
-          du -sh public
-
-          echo "Grootte per onderdeel:"
-          du -sh public/*
-
-          if [ -d "public/assets" ]; then
-            echo "FOUT: public/assets bestaat."
-            echo "Assets mogen niet naar GitHub Pages worden geupload."
-            exit 1
-          fi
-
-          PUBLIC_SIZE_BYTES=$(du -sb public | cut -f1)
-          MAX_SIZE_BYTES=1000000000
-
-          echo "Publicatiemap in bytes: ${PUBLIC_SIZE_BYTES}"
-
-          if [ "${PUBLIC_SIZE_BYTES}" -ge "${MAX_SIZE_BYTES}" ]; then
-            echo "FOUT: de GitHub Pages-publicatiemap is 1 GB of groter."
-            exit 1
-          fi
-
-          echo "Publicatiemap is kleiner dan 1 GB."
-          echo "De map assets wordt niet naar GitHub Pages geupload."
+          touch _site/.nojekyll
 
       - name: Configure GitHub Pages
+        if: success()
         uses: actions/configure-pages@v5
 
       - name: Upload FootballshirtsNL
+        if: success()
         uses: actions/upload-pages-artifact@v3
         with:
-          path: public
+          path: _site
 
   deploy:
     name: Deploy FootballshirtsNL
+    needs: sync
+    if: needs.sync.result == 'success'
     runs-on: ubuntu-latest
-
-    needs:
-      - sync
 
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
-      - name: Deploy FootballshirtsNL
+      - name: Deploy GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
