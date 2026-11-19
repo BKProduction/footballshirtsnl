@@ -1,8 +1,8 @@
 {
-  "lastSync": "2026-11-19T00:05:24.381Z",
+  "lastSync": "2026-11-19T00:11:26.548Z",
   "status": "running",
   "currentSource": "minkang",
-  "productCount": 38340,
+  "productCount": 38335,
   "products": [
     {
       "uniqueKey": "yuhuaxieye1:165070104",
@@ -248547,10 +248547,10 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "more",
+      "sourceCategory": "Shorts",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "more",
+      "subcategory": "Shorts",
       "country": "",
       "competition": "",
       "club": "",
@@ -248559,21 +248559,17 @@
         "Overig"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/225670034/01.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/225670034/02.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/225670034/03.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/225670034/04.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/225670034/05.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/225670034/06.webp"
+        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/225670034/01.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/fe2d6dc0/medium.jpg"
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/225670034/01.webp",
-      "imageCount": 6,
-      "updatedAt": "2026-10-30T02:10:10.550Z",
-      "classificationVersion": 2,
-      "player": ""
+      "imageCount": 1,
+      "updatedAt": "2026-11-19T00:08:18.101Z",
+      "classificationVersion": 7,
+      "player": "",
+      "photoVersion": 12
     },
     {
       "uniqueKey": "yuhuaxieye1:68616957",
@@ -378427,44 +378423,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "226512238",
-      "uniqueKey": "minkang:226512238",
-      "title": "Colo Colo 26/27 Pre-match Jersey S-4XL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/226512238",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "more",
-      "section": "Trainingskleding",
-      "category": "Overige trainingskleding",
-      "subcategory": "Overige trainingskleding",
-      "country": "",
-      "competition": "",
-      "club": "Overige trainingskleding",
-      "season": "2026-2027",
-      "types": [
-        "Trainingskleding"
-      ],
-      "images": [
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226512238/01.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226512238/02.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226512238/03.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226512238/04.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226512238/05.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226512238/06.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/c9a41a5d/medium.jpg"
-      ],
-      "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226512238/01.webp",
-      "imageCount": 6,
-      "updatedAt": "2026-10-30T01:40:50.075Z",
-      "classificationVersion": 2,
-      "player": ""
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "224170980",
       "uniqueKey": "minkang:224170980",
       "title": "Corinthians 26/27 Pre-match Jersey S-4XL7",
@@ -450908,6 +450866,40 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
+      "sourceId": "226512238",
+      "uniqueKey": "minkang:226512238",
+      "title": "Colo Colo 26/27 Pre-match Jersey S-4XL6",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/226512238",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "Chilean League",
+      "section": "Trainingskleding",
+      "category": "Landenteams",
+      "subcategory": "Chili",
+      "country": "Chili",
+      "competition": "Landenteams",
+      "club": "Chili",
+      "season": "2026-2027",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226512238/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/c9a41a5d/medium.jpg"
+      ],
+      "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226512238/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-11-19T00:05:45.815Z",
+      "classificationVersion": 7,
+      "player": "",
+      "photoVersion": 12
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
       "sourceId": "229204161",
       "uniqueKey": "minkang:229204161",
       "title": "Colo Colo 26/27 Pre-Match Kids Kit Size 16-289",
@@ -458995,11 +458987,11 @@
       "sourceId": "226512283",
       "uniqueKey": "minkang:226512283",
       "title": "England 26/27 Pre-match Jerseys S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/226512283?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/226512283",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Trainingskleding",
       "category": "Landenteams",
       "subcategory": "Engeland",
@@ -459017,9 +459009,11 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226512283/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-24T00:22:51.022Z",
+      "updatedAt": "2026-11-19T00:05:38.380Z",
       "season": "2026-2027",
-      "player": ""
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "yema007",
@@ -495469,11 +495463,11 @@
       "sourceId": "226512033",
       "uniqueKey": "minkang:226512033",
       "title": "Arsenal 26/27 Pre-match Jersey S-4XL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/226512033?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/226512033",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Trainingskleding",
       "category": "Clubteams",
       "subcategory": "Premier League",
@@ -495492,8 +495486,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226512033/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:10:44.261Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:05:59.729Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "uniqueKey": "minkang:262258865",
@@ -502181,11 +502177,11 @@
       "sourceId": "226512098",
       "uniqueKey": "minkang:226512098",
       "title": "Chelsea 26/27 Pre-Match Jerseys S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/226512098?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/226512098",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Trainingskleding",
       "category": "Clubteams",
       "subcategory": "Premier League",
@@ -502204,8 +502200,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226512098/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:09:58.760Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:05:52.312Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "uniqueKey": "minkang:262263616",
@@ -538596,38 +538594,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "224894223",
-      "uniqueKey": "minkang:224894223",
-      "title": "Flamengo 26/27 All sponsors Home Jersey S-4XL3",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/224894223?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Brasileirao Serie A",
-      "country": "",
-      "competition": "Brasileirao Serie A",
-      "club": "Flamengo",
-      "season": "2026-2027",
-      "types": [
-        "Voetbalshirt"
-      ],
-      "images": [
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/224894223/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/b3be384e/medium.jpg"
-      ],
-      "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/224894223/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:01:17.220Z",
-      "player": ""
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "224461014",
       "uniqueKey": "minkang:224461014",
       "title": "Flamengo 26/27 All sponsors Training - Apricot Jersey S-4XL2",
@@ -539318,11 +539284,11 @@
       "sourceId": "225669730",
       "uniqueKey": "minkang:225669730",
       "title": "Flamengo 26/27 Home All sponsors Player Version Jersey S-4XL3",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/225669730?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/225669730",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Brasileirao Serie A",
@@ -539341,8 +539307,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/225669730/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:01:17.220Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:09:21.252Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -539350,11 +539318,11 @@
       "sourceId": "225669687",
       "uniqueKey": "minkang:225669687",
       "title": "Flamengo 26/27 Home All sponsors Vest Jersey S-4XL3",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/225669687?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/225669687",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Brasileirao Serie A",
@@ -539373,8 +539341,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/225669687/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:01:17.220Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:09:28.060Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -539416,11 +539386,11 @@
       "sourceId": "224861961",
       "uniqueKey": "minkang:224861961",
       "title": "Flamengo 26/27 Home Jersey S-4XL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/224861961?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/224861961",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Brasileirao Serie A",
@@ -539439,8 +539409,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/224861961/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:01:17.220Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:10:18.086Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -539448,11 +539420,11 @@
       "sourceId": "225669648",
       "uniqueKey": "minkang:225669648",
       "title": "Flamengo 26/27 Home Kids Kit Jersey Size 16-2812",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/225669648?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/225669648",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Brasileirao Serie A",
@@ -539471,8 +539443,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/225669648/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:01:17.220Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:09:38.552Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -539548,11 +539522,11 @@
       "sourceId": "225669708",
       "uniqueKey": "minkang:225669708",
       "title": "Flamengo 26/27 Home Player Version Jersey S-4XL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/225669708?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/225669708",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Brasileirao Serie A",
@@ -539571,8 +539545,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/225669708/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:01:17.220Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:09:24.476Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -539614,11 +539590,11 @@
       "sourceId": "225669666",
       "uniqueKey": "minkang:225669666",
       "title": "Flamengo 26/27 Home Vest Jersey S-4XL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/225669666?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/225669666",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Brasileirao Serie A",
@@ -539637,8 +539613,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/225669666/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:01:17.220Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:09:38.363Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -539714,11 +539692,11 @@
       "sourceId": "224861054",
       "uniqueKey": "minkang:224861054",
       "title": "Flamengo 26/27 Kids Kit Training - Beige Size 16-2811",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/224861054?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/224861054",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Brasileirao Serie A",
@@ -539737,8 +539715,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/224861054/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:01:29.693Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:11:05.470Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -540488,7 +540468,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "more",
+      "sourceCategory": "⚽Polos",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Brasileirao Serie A",
@@ -540500,21 +540480,17 @@
         "Voetbalshirt"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/224861926/01.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/224861926/02.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/224861926/03.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/224861926/04.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/224861926/05.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/224861926/06.webp"
+        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/224861926/01.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/62bbdb78/medium.jpg"
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/224861926/01.webp",
-      "imageCount": 6,
-      "updatedAt": "2026-10-29T23:58:07.085Z",
-      "classificationVersion": 2,
-      "player": ""
+      "imageCount": 1,
+      "updatedAt": "2026-11-19T00:10:20.390Z",
+      "classificationVersion": 7,
+      "player": "",
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -540700,7 +540676,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "more",
+      "sourceCategory": "Shorts",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Brasileirao Serie A",
@@ -540712,21 +540688,17 @@
         "Voetbalshirt"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/224861096/01.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/224861096/02.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/224861096/03.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/224861096/04.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/224861096/05.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/224861096/06.webp"
+        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/224861096/01.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/cfc4b5f5/medium.jpg"
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/224861096/01.webp",
-      "imageCount": 6,
-      "updatedAt": "2026-10-30T02:10:10.571Z",
-      "classificationVersion": 2,
-      "player": ""
+      "imageCount": 1,
+      "updatedAt": "2026-11-19T00:10:49.859Z",
+      "classificationVersion": 7,
+      "player": "",
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -548958,11 +548930,11 @@
       "sourceId": "224894022",
       "uniqueKey": "minkang:224894022",
       "title": "Fluminense 26/27 All sponsors Away Jersey S-4XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/224894022?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/224894022",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Brasileirao Serie A",
@@ -548981,8 +548953,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/224894022/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:04:53.786Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:10:00.571Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -548990,11 +548964,11 @@
       "sourceId": "225669896",
       "uniqueKey": "minkang:225669896",
       "title": "Fluminense 26/27 Away All sponsors Player Version Jersey S-3XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/225669896?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/225669896",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Brasileirao Serie A",
@@ -549013,8 +548987,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/225669896/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:04:53.787Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:08:37.656Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -549022,11 +548998,11 @@
       "sourceId": "224860979",
       "uniqueKey": "minkang:224860979",
       "title": "Fluminense 26/27 Away Jersey S-4XL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/224860979?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/224860979",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Brasileirao Serie A",
@@ -549045,8 +549021,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/224860979/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:04:53.786Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:11:15.086Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -549054,11 +549032,11 @@
       "sourceId": "225669865",
       "uniqueKey": "minkang:225669865",
       "title": "Fluminense 26/27 Away Player Version Jersey S-3XL10",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/225669865?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/225669865",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Brasileirao Serie A",
@@ -549077,8 +549055,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/225669865/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:04:53.787Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:08:43.859Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -549120,11 +549100,11 @@
       "sourceId": "224893946",
       "uniqueKey": "minkang:224893946",
       "title": "Fluminense 26/27 Home All sponsors Jersey S-4XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/224893946?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/224893946",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Brasileirao Serie A",
@@ -549143,8 +549123,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/224893946/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:04:53.787Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:10:06.806Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -549152,11 +549134,11 @@
       "sourceId": "224861008",
       "uniqueKey": "minkang:224861008",
       "title": "Fluminense 26/27 Home Jersey S-4XL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/224861008?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/224861008",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Brasileirao Serie A",
@@ -549175,8 +549157,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/224861008/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:04:53.787Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:11:06.569Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -553652,11 +553636,11 @@
       "sourceId": "225670087",
       "uniqueKey": "minkang:225670087",
       "title": "Palmeiras 26/27 Away All sponsors Player Version Jersey S-3XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/225670087?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/225670087",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Brasileirao Serie A",
@@ -553675,8 +553659,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/225670087/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:02:26.466Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:07:47.008Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -553716,11 +553702,11 @@
       "sourceId": "224861688",
       "uniqueKey": "minkang:224861688",
       "title": "Palmeiras 26/27 Away kids kit Jersey SIZE 16-2810",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/224861688?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/224861688",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Brasileirao Serie A",
@@ -553739,8 +553725,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/224861688/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:02:26.466Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:10:36.958Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -553884,11 +553872,11 @@
       "sourceId": "225670147",
       "uniqueKey": "minkang:225670147",
       "title": "Palmeiras 26/27 Home All sponsors Player Version Jersey S-3XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/225670147?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/225670147",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Brasileirao Serie A",
@@ -553907,8 +553895,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/225670147/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:02:26.467Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:07:40.297Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -553948,11 +553938,11 @@
       "sourceId": "224861739",
       "uniqueKey": "minkang:224861739",
       "title": "Palmeiras 26/27 Home Kids Kit Jersey Size 16-2810",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/224861739?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/224861739",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Brasileirao Serie A",
@@ -553971,8 +553961,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/224861739/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:02:26.466Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:10:36.815Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -554014,11 +554006,11 @@
       "sourceId": "225670062",
       "uniqueKey": "minkang:225670062",
       "title": "Palmeiras 26/27 Player Version Away Jersey S-3XL10",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/225670062?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/225670062",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Brasileirao Serie A",
@@ -554037,8 +554029,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/225670062/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:02:26.466Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:08:05.438Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -554046,11 +554040,11 @@
       "sourceId": "225670123",
       "uniqueKey": "minkang:225670123",
       "title": "Palmeiras 26/27 Player Version Home Jersey S-4XL10",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/225670123?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/225670123",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Brasileirao Serie A",
@@ -554069,8 +554063,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/225670123/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:02:26.466Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:07:57.532Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -554214,11 +554210,11 @@
       "sourceId": "224861148",
       "uniqueKey": "minkang:224861148",
       "title": "Palmeiras 26/27 Women's Home Jersey S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/224861148?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/224861148",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Brasileirao Serie A",
@@ -554237,8 +554233,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/224861148/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:02:26.466Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:10:49.551Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "yema007",
@@ -564194,11 +564192,11 @@
       "sourceId": "225669845",
       "uniqueKey": "minkang:225669845",
       "title": "Vasco da Gama 26/27 Away All sponsors Jersey S-4XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/225669845?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/225669845",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Brasileirao Serie A",
@@ -564217,8 +564215,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/225669845/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:05:50.354Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:08:43.647Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -564226,11 +564226,11 @@
       "sourceId": "225669826",
       "uniqueKey": "minkang:225669826",
       "title": "Vasco da Gama 26/27 Away Jersey S-4XL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/225669826?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/225669826",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Brasileirao Serie A",
@@ -564249,8 +564249,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/225669826/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:05:50.354Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:08:54.463Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -564428,11 +564430,11 @@
       "sourceId": "225669809",
       "uniqueKey": "minkang:225669809",
       "title": "Vasco da Gama 26/27 Home All sponsors Jersey S-4XL2",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/225669809?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/225669809",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Brasileirao Serie A",
@@ -564451,8 +564453,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/225669809/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:05:50.354Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:08:48.777Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -564460,11 +564464,11 @@
       "sourceId": "225669792",
       "uniqueKey": "minkang:225669792",
       "title": "Vasco da Gama 26/27 Home Jersey S-4XL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/225669792?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/225669792",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Brasileirao Serie A",
@@ -564483,8 +564487,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/225669792/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:05:50.354Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:08:57.991Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -564594,11 +564600,11 @@
       "sourceId": "225669778",
       "uniqueKey": "minkang:225669778",
       "title": "Vasco da Gama 26/27 Home Women's Jersey S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/225669778?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/225669778",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Brasileirao Serie A",
@@ -564617,8 +564623,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/225669778/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:05:50.354Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:09:11.114Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -576203,11 +576211,11 @@
       "sourceId": "226511269",
       "uniqueKey": "minkang:226511269",
       "title": "Bayern Munich 25/26 125th Anniversary Long-sleeved Player Version S-XXL10",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/226511269?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/226511269",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "⚽Long sleeve shirt",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Bundesliga",
@@ -576226,8 +576234,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226511269/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:29:32.961Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:06:58.911Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -586919,11 +586929,11 @@
       "sourceId": "226514987",
       "uniqueKey": "minkang:226514987",
       "title": "Frankfurt 26/27 Special Edition Jersey S-4XL9",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/226514987?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/226514987",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Bundesliga",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Bundesliga",
@@ -586942,8 +586952,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226514987/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:30:17.181Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:05:38.685Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "popmo",
@@ -706851,7 +706863,7 @@
       "source": "minkang",
       "sourceId": "226511947",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/226511947",
-      "sourceCategory": "more",
+      "sourceCategory": "Shorts",
       "title": "Argentina 2026 Home Player Version Shorts S-3XL7",
       "section": "Voetbal",
       "category": "Landenteams",
@@ -706864,19 +706876,15 @@
         "Voetbalshirt"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226511947/01.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226511947/02.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226511947/03.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226511947/04.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226511947/05.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226511947/06.webp"
+        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226511947/01.webp"
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226511947/01.webp",
-      "imageCount": 6,
-      "updatedAt": "2026-10-30T02:10:05.528Z",
+      "imageCount": 1,
+      "updatedAt": "2026-11-19T00:06:06.262Z",
       "sourceCollection": "",
-      "classificationVersion": 2,
-      "player": ""
+      "classificationVersion": 7,
+      "player": "",
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -707254,11 +707262,11 @@
       "sourceId": "226510781",
       "uniqueKey": "minkang:226510781",
       "title": "Argentina 2026 Player Version Training - White Jersey S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/226510781?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/226510781",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Argentinie",
@@ -707277,8 +707285,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226510781/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-27T00:50:52.187Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:07:32.692Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -738479,6 +738489,34 @@
       "player": ""
     },
     {
+      "uniqueKey": "minkang:226512147",
+      "source": "minkang",
+      "sourceId": "226512147",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/226512147",
+      "sourceCategory": "Chilean League",
+      "title": "Colo Colo 26/27 Away Jersey S-4XL8",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "Chili",
+      "club": "Chili",
+      "country": "Chili",
+      "competition": "Landenteams",
+      "season": "2026-2027",
+      "types": [
+        "Voetbalshirt"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226512147/01.webp"
+      ],
+      "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226512147/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-11-19T00:05:52.464Z",
+      "sourceCollection": "",
+      "classificationVersion": 7,
+      "player": "",
+      "photoVersion": 12
+    },
+    {
       "source": "minkang",
       "sourcePriority": 1,
       "sourceId": "229204084",
@@ -738610,6 +738648,40 @@
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/230750806/02.webp",
       "imageCount": 1,
       "updatedAt": "2026-11-18T23:54:39.783Z",
+      "classificationVersion": 7,
+      "player": "",
+      "photoVersion": 12
+    },
+    {
+      "source": "minkang",
+      "sourcePriority": 1,
+      "sourceId": "226512196",
+      "uniqueKey": "minkang:226512196",
+      "title": "Colo Colo 26/27 Home Long-Sleeve Jersey S-4XL8",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/226512196",
+      "categoryId": null,
+      "collectionId": "712891",
+      "sourceCollection": "more",
+      "sourceCategory": "Chilean League",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "Chili",
+      "country": "Chili",
+      "competition": "Landenteams",
+      "club": "Chili",
+      "season": "2026-2027",
+      "types": [
+        "Voetbalshirt"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226512196/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/minkang/aaa504f3/medium.jpg"
+      ],
+      "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226512196/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-11-19T00:05:45.871Z",
       "classificationVersion": 7,
       "player": "",
       "photoVersion": 12
@@ -754120,11 +754192,11 @@
       "sourceId": "226511349",
       "uniqueKey": "minkang:226511349",
       "title": "Germany 2026 Player Version Training - Green Jersey S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/226511349?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/226511349",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Duitsland",
@@ -754143,8 +754215,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226511349/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-27T00:50:52.183Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:06:58.917Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -754281,38 +754355,6 @@
       "player": "",
       "classificationVersion": 7,
       "photoVersion": 12
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "226510878",
-      "uniqueKey": "minkang:226510878",
-      "title": "Germany 2026 Special Edition Player Version Jersey S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/226510878?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Duitsland",
-      "country": "Duitsland",
-      "competition": "Landenteams",
-      "club": "Duitsland",
-      "season": "Seizoen onbekend",
-      "types": [
-        "Voetbalshirt"
-      ],
-      "images": [
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226510878/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/8fd28801/medium.jpg"
-      ],
-      "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226510878/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-27T00:50:52.186Z",
-      "player": ""
     },
     {
       "source": "minkang",
@@ -776028,11 +776070,11 @@
       "sourceId": "226510919",
       "uniqueKey": "minkang:226510919",
       "title": "Ireland 25/26 Home Player Version Jersey S-3XL9",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/226510919?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/226510919",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Ierland",
@@ -776051,8 +776093,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226510919/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:38:45.902Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:07:19.959Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -780467,11 +780511,11 @@
       "sourceId": "226511419",
       "uniqueKey": "minkang:226511419",
       "title": "Italy 2026 Home Player Version Long-Sleeve Jersey S-4XL9",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/226511419?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/226511419",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "⚽Long sleeve shirt",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Italie",
@@ -780490,8 +780534,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226511419/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-27T00:50:35.714Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:06:51.410Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -780669,11 +780715,11 @@
       "sourceId": "226511460",
       "uniqueKey": "minkang:226511460",
       "title": "Italy 2026 Player Version Training - White Jersey S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/226511460?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/226511460",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Italie",
@@ -780692,8 +780738,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226511460/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-27T00:50:35.714Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:06:47.982Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -804537,7 +804585,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "more",
+      "sourceCategory": "Shorts",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Mexico",
@@ -804549,21 +804597,17 @@
         "Voetbalshirt"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226511989/01.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226511989/02.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226511989/03.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226511989/04.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226511989/05.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226511989/06.webp"
+        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226511989/01.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/8ec991aa/medium.jpg"
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226511989/01.webp",
-      "imageCount": 6,
-      "updatedAt": "2026-10-30T02:10:04.778Z",
-      "classificationVersion": 2,
-      "player": ""
+      "imageCount": 1,
+      "updatedAt": "2026-11-19T00:06:05.278Z",
+      "classificationVersion": 7,
+      "player": "",
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -804843,11 +804887,11 @@
       "sourceId": "226511103",
       "uniqueKey": "minkang:226511103",
       "title": "Mexico 2026 Player Version Training - Green Jersey S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/226511103?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/226511103",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Mexico",
@@ -804866,8 +804910,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226511103/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-27T00:50:52.184Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:07:13.646Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -824000,11 +824046,11 @@
       "sourceId": "226511759",
       "uniqueKey": "minkang:226511759",
       "title": "Portugal 2026 Home Player Version Long-Sleeve Jersey S-4XL9",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/226511759?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/226511759",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "2026 FIFA World Cup",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Portugal",
@@ -824023,8 +824069,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226511759/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-27T00:50:35.714Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:06:25.166Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -824230,11 +824278,11 @@
       "sourceId": "224860919",
       "uniqueKey": "minkang:224860919",
       "title": "Portugal 2026 Long-Sleeved Away Jersey S-4XL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/224860919?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/224860919",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "2026 FIFA World Cup",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Portugal",
@@ -824253,8 +824301,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/224860919/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-27T00:50:52.187Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:11:26.198Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -830688,11 +830738,11 @@
       "sourceId": "226511157",
       "uniqueKey": "minkang:226511157",
       "title": "Scotland 2026 Home Player Version Jersey S-4XL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/226511157?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/226511157",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Schotland",
@@ -830711,8 +830761,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226511157/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-27T00:50:52.183Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:07:06.492Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -840820,38 +840872,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "226511797",
-      "uniqueKey": "minkang:226511797",
-      "title": "Spain 2026 Player Version Training - Blue Jersey S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/226511797?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Landenteams",
-      "subcategory": "Spanje",
-      "country": "Spanje",
-      "competition": "Landenteams",
-      "club": "Spanje",
-      "season": "Seizoen onbekend",
-      "types": [
-        "Voetbalshirt"
-      ],
-      "images": [
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226511797/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/b7e70263/medium.jpg"
-      ],
-      "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226511797/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-27T00:50:35.714Z",
-      "player": ""
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "245422892",
       "uniqueKey": "minkang:245422892",
       "title": "Spain 2026 Player Version Training Jersey - Royal Blue S-3XL7",
@@ -841157,11 +841177,11 @@
       "sourceId": "226511835",
       "uniqueKey": "minkang:226511835",
       "title": "Spain 2026 Special Edition Player Version Jersey S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/226511835?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/226511835",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Spanje",
@@ -841180,8 +841200,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226511835/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-27T00:50:35.714Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:06:18.386Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -852412,7 +852434,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "more",
+      "sourceCategory": "Ligue 1",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -852424,21 +852446,17 @@
         "Voetbalshirt"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/225669627/01.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/225669627/02.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/225669627/03.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/225669627/04.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/225669627/05.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/225669627/06.webp"
+        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/225669627/01.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/bcfab7e8/medium.jpg"
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/225669627/01.webp",
-      "imageCount": 6,
-      "updatedAt": "2026-10-30T02:22:27.009Z",
-      "classificationVersion": 2,
-      "player": ""
+      "imageCount": 1,
+      "updatedAt": "2026-11-19T00:09:53.832Z",
+      "classificationVersion": 7,
+      "player": "",
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -905539,38 +905557,6 @@
       "photoVersion": 12
     },
     {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "226511214",
-      "uniqueKey": "minkang:226511214",
-      "title": "BAPE Collaboration Player Version Jersey S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/226511214?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overig voetbal",
-      "subcategory": "Overig voetbal",
-      "country": "",
-      "competition": "Overig voetbal",
-      "club": "Overig voetbal",
-      "season": "Seizoen onbekend",
-      "types": [
-        "Voetbalshirt"
-      ],
-      "images": [
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226511214/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/1585ee69/medium.jpg"
-      ],
-      "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226511214/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:38:34.864Z",
-      "player": ""
-    },
-    {
       "uniqueKey": "yema007:237650351",
       "source": "yema007",
       "sourceId": "237650351",
@@ -926224,11 +926210,11 @@
       "sourceId": "226511861",
       "uniqueKey": "minkang:226511861",
       "title": "Switzerland 2026 Away Player Version Jersey S-XXL11",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/226511861?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/226511861",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Overig voetbal",
       "subcategory": "Overig voetbal",
@@ -926247,8 +926233,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226511861/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-27T00:50:35.714Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:06:12.816Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -926320,11 +926308,11 @@
       "sourceId": "226511904",
       "uniqueKey": "minkang:226511904",
       "title": "Switzerland 2026 Home Player Version Jersey S-XXL10",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/226511904?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/226511904",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Overig voetbal",
       "subcategory": "Overig voetbal",
@@ -926343,8 +926331,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226511904/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-27T00:50:35.714Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:06:11.679Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "yema007",
@@ -960655,11 +960645,11 @@
       "sourceId": "224894132",
       "uniqueKey": "minkang:224894132",
       "title": "Atlético Mineiro 26/27 Home Jersey S-4XL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/224894132?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/224894132",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Overig voetbal",
       "subcategory": "Overig voetbal",
@@ -960678,8 +960668,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/224894132/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:04:31.409Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:10:11.365Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -960721,11 +960713,11 @@
       "sourceId": "225669756",
       "uniqueKey": "minkang:225669756",
       "title": "Atlético Mineiro 26/27 Home Women's Jersey S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/225669756?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/225669756",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
       "section": "Voetbal",
       "category": "Overig voetbal",
       "subcategory": "Overig voetbal",
@@ -960744,8 +960736,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/225669756/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:04:31.409Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:09:12.256Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -964309,38 +964303,6 @@
       "player": ""
     },
     {
-      "uniqueKey": "minkang:226512147",
-      "source": "minkang",
-      "sourceId": "226512147",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/226512147",
-      "sourceCategory": "more",
-      "title": "Colo Colo 26/27 Away Jersey S-4XL8",
-      "section": "Voetbal",
-      "category": "Overig voetbal",
-      "subcategory": "Overig voetbal",
-      "club": "Overig voetbal",
-      "country": "",
-      "competition": "Overig voetbal",
-      "season": "2026-2027",
-      "types": [
-        "Voetbalshirt"
-      ],
-      "images": [
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226512147/01.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226512147/02.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226512147/03.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226512147/04.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226512147/05.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226512147/06.webp"
-      ],
-      "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226512147/01.webp",
-      "imageCount": 6,
-      "updatedAt": "2026-10-30T01:40:53.834Z",
-      "sourceCollection": "",
-      "classificationVersion": 2,
-      "player": ""
-    },
-    {
       "source": "minkang",
       "sourcePriority": 1,
       "sourceId": "222820747",
@@ -964375,44 +964337,6 @@
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/222820747/01.webp",
       "imageCount": 6,
       "updatedAt": "2026-10-30T01:41:17.157Z",
-      "classificationVersion": 2,
-      "player": ""
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "226512196",
-      "uniqueKey": "minkang:226512196",
-      "title": "Colo Colo 26/27 Home Long-Sleeve Jersey S-4XL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/226512196",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "more",
-      "section": "Voetbal",
-      "category": "Overig voetbal",
-      "subcategory": "Overig voetbal",
-      "country": "",
-      "competition": "Overig voetbal",
-      "club": "Overig voetbal",
-      "season": "2026-2027",
-      "types": [
-        "Voetbalshirt"
-      ],
-      "images": [
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226512196/01.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226512196/02.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226512196/03.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226512196/04.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226512196/05.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226512196/06.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/aaa504f3/medium.jpg"
-      ],
-      "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226512196/01.webp",
-      "imageCount": 6,
-      "updatedAt": "2026-10-30T01:40:53.573Z",
       "classificationVersion": 2,
       "player": ""
     },
@@ -964861,11 +964785,11 @@
       "sourceId": "224860955",
       "uniqueKey": "minkang:224860955",
       "title": "Corinthians 26/27 Training - Maroon Jersey S-4XL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/224860955?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/224860955",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Overig voetbal",
       "subcategory": "Overig voetbal",
@@ -964884,8 +964808,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/224860955/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:03:23.289Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:11:16.556Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -965756,11 +965682,11 @@
       "sourceId": "225670007",
       "uniqueKey": "minkang:225670007",
       "title": "Cruzeiro 26/27 Home All sponsors Jersey S-4XL3",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/225670007?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/225670007",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Overig voetbal",
       "subcategory": "Overig voetbal",
@@ -965779,8 +965705,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/225670007/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:05:27.520Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:08:14.675Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -965788,11 +965716,11 @@
       "sourceId": "225669989",
       "uniqueKey": "minkang:225669989",
       "title": "Cruzeiro 26/27 Home Jersey S-4XL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/225669989?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/225669989",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Overig voetbal",
       "subcategory": "Overig voetbal",
@@ -965811,8 +965739,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/225669989/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:05:27.520Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:08:34.287Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -965888,11 +965818,11 @@
       "sourceId": "225669974",
       "uniqueKey": "minkang:225669974",
       "title": "Cruzeiro 26/27 Home Women's Jersey S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/225669974?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/225669974",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "⚽💁🏻‍♀️Women's shirt",
       "section": "Voetbal",
       "category": "Overig voetbal",
       "subcategory": "Overig voetbal",
@@ -965911,8 +965841,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/225669974/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:05:27.520Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:08:32.020Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -1019793,11 +1019725,11 @@
       "sourceId": "224861837",
       "uniqueKey": "minkang:224861837",
       "title": "Atletico Paranaense 25/26 Third Away Jersey S-4XL9",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/224861837?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/224861837",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Overig voetbal",
       "subcategory": "Overig voetbal",
@@ -1019816,8 +1019748,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/224861837/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:05:04.658Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:10:27.379Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -1023543,11 +1023477,11 @@
       "sourceId": "226511715",
       "uniqueKey": "minkang:226511715",
       "title": "M-U 25/26 Third Away Player Version Long-sleeved Jersey S-XXL11",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/226511715?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/226511715",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "⚽Long sleeve shirt",
       "section": "Voetbal",
       "category": "Overig voetbal",
       "subcategory": "Overig voetbal",
@@ -1023566,8 +1023500,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226511715/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:07:32.000Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:06:27.110Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -1023869,11 +1023805,11 @@
       "sourceId": "226511548",
       "uniqueKey": "minkang:226511548",
       "title": "Mali 25/26 Away Player Version Jersey S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/226511548?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/226511548",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Overig voetbal",
       "subcategory": "Overig voetbal",
@@ -1023892,8 +1023828,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226511548/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:38:34.864Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:06:41.814Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -1023901,11 +1023839,11 @@
       "sourceId": "226511003",
       "uniqueKey": "minkang:226511003",
       "title": "Mali 25/26 Black Player Version Jersey S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/226511003?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/226511003",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Overig voetbal",
       "subcategory": "Overig voetbal",
@@ -1023924,8 +1023862,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226511003/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:38:45.902Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:07:19.780Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -1023933,11 +1023873,11 @@
       "sourceId": "226511056",
       "uniqueKey": "minkang:226511056",
       "title": "Mali 25/26 BlackGreen Player Version Jersey S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/226511056?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/226511056",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Overig voetbal",
       "subcategory": "Overig voetbal",
@@ -1023956,8 +1023896,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226511056/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:38:45.902Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:07:12.896Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -1023965,11 +1023907,11 @@
       "sourceId": "226511586",
       "uniqueKey": "minkang:226511586",
       "title": "Mali 25/26 Green Player Version Jersey S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/226511586?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/226511586",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Overig voetbal",
       "subcategory": "Overig voetbal",
@@ -1023988,8 +1023930,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226511586/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:38:34.864Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:06:38.605Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -1024021,38 +1023965,6 @@
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/223116788/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:39:07.945Z",
-      "player": ""
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "226511622",
-      "uniqueKey": "minkang:226511622",
-      "title": "Mali 25/26 Home Player Version Jersey S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/226511622?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overig voetbal",
-      "subcategory": "Overig voetbal",
-      "country": "",
-      "competition": "Overig voetbal",
-      "club": "Overig voetbal",
-      "season": "2025-2026",
-      "types": [
-        "Voetbalshirt"
-      ],
-      "images": [
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226511622/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/842f03ce/medium.jpg"
-      ],
-      "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226511622/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:38:34.864Z",
       "player": ""
     },
     {
@@ -1024093,11 +1024005,11 @@
       "sourceId": "226511666",
       "uniqueKey": "minkang:226511666",
       "title": "Mali 25/26 White Player Version Jersey S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/226511666?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/226511666",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Overig voetbal",
       "subcategory": "Overig voetbal",
@@ -1024116,8 +1024028,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226511666/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:38:34.864Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:06:31.762Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -1024899,7 +1024813,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "more",
+      "sourceCategory": "Primeira Liga",
       "section": "Voetbal",
       "category": "Overig voetbal",
       "subcategory": "Overig voetbal",
@@ -1024911,21 +1024825,17 @@
         "Voetbalshirt"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/224861778/01.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/224861778/02.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/224861778/03.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/224861778/04.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/224861778/05.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/224861778/06.webp"
+        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/224861778/01.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/5a660995/medium.jpg"
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/224861778/01.webp",
-      "imageCount": 6,
-      "updatedAt": "2026-10-30T01:37:38.845Z",
-      "classificationVersion": 2,
-      "player": ""
+      "imageCount": 1,
+      "updatedAt": "2026-11-19T00:10:28.616Z",
+      "classificationVersion": 7,
+      "player": "",
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -1046495,11 +1046405,11 @@
       "sourceId": "226511507",
       "uniqueKey": "minkang:226511507",
       "title": "Mali 24/25 Away Player Version Jersey S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/226511507?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/226511507",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Overig voetbal",
       "subcategory": "Overig voetbal",
@@ -1046518,8 +1046428,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226511507/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:38:34.864Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:06:45.177Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -1093276,11 +1093188,11 @@
       "sourceId": "226512066",
       "uniqueKey": "minkang:226512066",
       "title": "Arsenal 92/94 Retro Away Jersey S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/226512066?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/226512066",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Premier League",
@@ -1093299,8 +1093211,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226512066/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:10:44.261Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:05:58.738Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -1134647,11 +1134561,11 @@
       "sourceId": "225670164",
       "uniqueKey": "minkang:225670164",
       "title": "Manchester City 26/27 Home Jersey S-4XL9",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/225670164?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/225670164",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Premier League",
@@ -1134670,8 +1134584,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/225670164/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:09:14.697Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:07:41.613Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -1161037,11 +1160953,11 @@
       "sourceId": "226515110",
       "uniqueKey": "minkang:226515110",
       "title": "Newcastle United 97/98 Goalkeeper Retro Long-Sleeve Jersey S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/226515110?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/226515110",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "⚽Long sleeve shirt",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Premier League",
@@ -1161060,8 +1160976,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226515110/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:12:48.776Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:05:31.772Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "yema007",
@@ -1161361,11 +1161279,11 @@
       "sourceId": "226515057",
       "uniqueKey": "minkang:226515057",
       "title": "Newcastle United 95/96 Training Retro Long-Sleeve Jersey S-4XL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/226515057?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/226515057",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "⚽Long sleeve shirt",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Premier League",
@@ -1161384,8 +1161302,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/226515057/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:12:48.776Z",
-      "player": ""
+      "updatedAt": "2026-11-19T00:05:31.714Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "yema007",
