@@ -1,8 +1,8 @@
 {
-  "lastSync": "2026-11-19T02:51:10.134Z",
+  "lastSync": "2026-11-19T02:55:57.909Z",
   "status": "running",
   "currentSource": "minkang",
-  "productCount": 38161,
+  "productCount": 38158,
   "products": [
     {
       "uniqueKey": "yuhuaxieye1:165070104",
@@ -39211,38 +39211,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "197163870",
-      "uniqueKey": "minkang:197163870",
-      "title": "25/26 Deportivo La Coruna Special Edition S-4XL9",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/197163870?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Overige producten",
-      "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
-      "country": "",
-      "competition": "",
-      "club": "",
-      "types": [
-        "Overig"
-      ],
-      "images": [
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/197163870/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/5ef46a7d/medium.jpg"
-      ],
-      "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/197163870/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-24T00:00:54.852Z",
-      "season": "Seizoen onbekend",
-      "player": ""
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "193802910",
       "uniqueKey": "minkang:193802910",
       "title": "25/26 FC Salzburg S-XXL8",
@@ -39310,14 +39278,14 @@
       "sourceId": "196991432",
       "uniqueKey": "minkang:196991432",
       "title": "25/26 Ibrahimovic Special Edition S-4XL9",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/196991432?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/196991432",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
+      "subcategory": "Overig",
       "country": "",
       "competition": "",
       "club": "",
@@ -39332,9 +39300,11 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/196991432/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-24T00:31:57.500Z",
+      "updatedAt": "2026-11-19T02:52:06.608Z",
       "season": "Seizoen onbekend",
-      "player": ""
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -39444,14 +39414,14 @@
       "sourceId": "195691250",
       "uniqueKey": "minkang:195691250",
       "title": "25/26 Monterey Special Edition S-4XL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/195691250?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/195691250",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "LIGA MX",
       "section": "Overige producten",
       "category": "Overige producten",
-      "subcategory": "KANG Team Official ✅",
+      "subcategory": "LIGA MX",
       "country": "",
       "competition": "",
       "club": "",
@@ -39466,9 +39436,11 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/195691250/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-24T00:31:58.188Z",
+      "updatedAt": "2026-11-19T02:54:17.184Z",
       "season": "Seizoen onbekend",
-      "player": ""
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -529624,7 +529596,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "more",
+      "sourceCategory": "Liga Profesional",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Argentijnse Primera Division",
@@ -529635,22 +529607,18 @@
         "Voetbalshirt"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/196991347/01.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/196991347/02.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/196991347/03.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/196991347/04.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/196991347/05.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/196991347/06.webp"
+        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/196991347/01.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/90397918/medium.jpg"
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/196991347/01.webp",
-      "imageCount": 6,
-      "updatedAt": "2026-10-30T00:47:39.087Z",
+      "imageCount": 1,
+      "updatedAt": "2026-11-19T02:52:37.040Z",
       "season": "2025-2026",
-      "classificationVersion": 2,
-      "player": ""
+      "classificationVersion": 7,
+      "player": "",
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -554708,11 +554676,11 @@
       "sourceId": "196260337",
       "uniqueKey": "minkang:196260337",
       "title": "25/26 Players Palmeiras away all sponsors S-4XL13",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/196260337?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/196260337",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Brasileirao Serie A",
@@ -554731,8 +554699,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/196260337/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:02:37.729Z",
-      "player": ""
+      "updatedAt": "2026-11-19T02:53:20.831Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -554740,11 +554710,11 @@
       "sourceId": "196260313",
       "uniqueKey": "minkang:196260313",
       "title": "25/26 Players Palmeiras Home all sponsors S-4XL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/196260313?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/196260313",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Brasileirao Serie A",
@@ -554763,8 +554733,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/196260313/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:02:37.729Z",
-      "player": ""
+      "updatedAt": "2026-11-19T02:53:30.418Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -560539,11 +560511,11 @@
       "sourceId": "195693701",
       "uniqueKey": "minkang:195693701",
       "title": "25/26 Women Sao Paulo Away S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/195693701?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/195693701",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Brasileirao Serie A",
@@ -560562,8 +560534,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/195693701/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:03:00.219Z",
-      "player": ""
+      "updatedAt": "2026-11-19T02:54:08.992Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -565020,11 +564994,11 @@
       "sourceId": "197820668",
       "uniqueKey": "minkang:197820668",
       "title": "25/26 Vasco da Gama away S-4XL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/197820668?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/197820668",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Brasileirao Serie A",
@@ -565043,8 +565017,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/197820668/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:06:01.725Z",
-      "player": ""
+      "updatedAt": "2026-11-19T02:51:19.915Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -595664,7 +595640,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "more",
+      "sourceCategory": "EREDIVISIE",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Eredivisie",
@@ -595676,21 +595652,17 @@
         "Voetbalshirt"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/196991254/01.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/196991254/02.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/196991254/03.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/196991254/04.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/196991254/05.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/196991254/06.webp"
+        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/196991254/01.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/e6012c2b/medium.jpeg"
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/196991254/01.webp",
-      "imageCount": 6,
-      "updatedAt": "2026-10-30T02:50:45.011Z",
-      "classificationVersion": 2,
-      "player": ""
+      "imageCount": 1,
+      "updatedAt": "2026-11-19T02:52:18.590Z",
+      "classificationVersion": 7,
+      "player": "",
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -624648,11 +624620,11 @@
       "sourceId": "196990959",
       "uniqueKey": "minkang:196990959",
       "title": "25/26 Barcelona S-4XL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/196990959?uid=1&isSubCate=false&referrercate=680717",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/196990959",
       "categoryId": null,
       "collectionId": "680717",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "La Liga",
@@ -624671,8 +624643,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/196990959/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T16:58:39.944Z",
-      "player": ""
+      "updatedAt": "2026-11-19T02:52:51.681Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -624714,11 +624688,11 @@
       "sourceId": "197163853",
       "uniqueKey": "minkang:197163853",
       "title": "25/26 Barcelona Special Edition S-4XL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/197163853?uid=1&isSubCate=false&referrercate=680717",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/197163853",
       "categoryId": null,
       "collectionId": "680717",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "La Liga",
@@ -624737,8 +624711,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/197163853/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T16:59:36.328Z",
-      "player": ""
+      "updatedAt": "2026-11-19T02:51:54.762Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -624746,11 +624722,11 @@
       "sourceId": "196805011",
       "uniqueKey": "minkang:196805011",
       "title": "25/26 Barcelona Special Edition S-4XL9",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/196805011?uid=1&isSubCate=false&referrercate=680717",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/196805011",
       "categoryId": null,
       "collectionId": "680717",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "La Liga",
@@ -624769,8 +624745,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/196805011/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T16:59:36.328Z",
-      "player": ""
+      "updatedAt": "2026-11-19T02:53:11.323Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -624914,11 +624892,11 @@
       "sourceId": "195653615",
       "uniqueKey": "minkang:195653615",
       "title": "25/26 kids Barcelona home size 16-2811",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/195653615?uid=1&isSubCate=false&referrercate=680717",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/195653615",
       "categoryId": null,
       "collectionId": "680717",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "La Liga",
@@ -624937,8 +624915,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/195653615/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T16:58:28.499Z",
-      "player": ""
+      "updatedAt": "2026-11-19T02:54:44.598Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -625014,11 +624994,11 @@
       "sourceId": "196260429",
       "uniqueKey": "minkang:196260429",
       "title": "25/26 Player Barcelona 125th Anniversary S-4XL9",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/196260429?uid=1&isSubCate=false&referrercate=680717",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/196260429",
       "categoryId": null,
       "collectionId": "680717",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "La Liga",
@@ -625037,8 +625017,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/196260429/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T16:59:25.389Z",
-      "player": ""
+      "updatedAt": "2026-11-19T02:53:22.694Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -628525,11 +628507,11 @@
       "sourceId": "196259795",
       "uniqueKey": "minkang:196259795",
       "title": "24/25 Barcelona away S-4XL9",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/196259795?uid=1&isSubCate=false&referrercate=680717",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/196259795",
       "categoryId": null,
       "collectionId": "680717",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "La Liga",
@@ -628548,8 +628530,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/196259795/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T16:59:36.328Z",
-      "player": ""
+      "updatedAt": "2026-11-19T02:53:40.410Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -628719,11 +628703,11 @@
       "sourceId": "194887150",
       "uniqueKey": "minkang:194887150",
       "title": "24/25 Player Barcelona Home S-3XL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/194887150?uid=1&isSubCate=false&referrercate=680717",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/194887150",
       "categoryId": null,
       "collectionId": "680717",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "La Liga",
@@ -628742,8 +628726,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/194887150/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T16:58:39.944Z",
-      "player": ""
+      "updatedAt": "2026-11-19T02:55:13.738Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -649369,11 +649355,11 @@
       "sourceId": "196259509",
       "uniqueKey": "minkang:196259509",
       "title": "Retro Real Betis 99/00 Away S-XXL5",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/196259509?uid=1&isSubCate=false&referrercate=680717",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/196259509",
       "categoryId": null,
       "collectionId": "680717",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "La Liga",
@@ -649392,8 +649378,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/196259509/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:25:31.137Z",
-      "player": ""
+      "updatedAt": "2026-11-19T02:53:49.892Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "yema007",
@@ -688573,38 +688561,6 @@
     {
       "source": "minkang",
       "sourcePriority": 1,
-      "sourceId": "195030963",
-      "uniqueKey": "minkang:195030963",
-      "title": "Retro Real Madrid 84/85 Away S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/195030963?uid=1&isSubCate=false&referrercate=680717",
-      "categoryId": null,
-      "collectionId": "680717",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "La Liga",
-      "country": "",
-      "competition": "La Liga",
-      "club": "Real Madrid",
-      "season": "1984-1985",
-      "types": [
-        "Voetbalshirt"
-      ],
-      "images": [
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/195030963/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/1d0e7a2c/medium.jpg"
-      ],
-      "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/195030963/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T17:24:14.415Z",
-      "player": ""
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
       "sourceId": "182401542",
       "uniqueKey": "minkang:182401542",
       "title": "Retro Real Madrid 84/85 home S-XXL7",
@@ -688805,11 +688761,11 @@
       "sourceId": "196259614",
       "uniqueKey": "minkang:196259614",
       "title": "Retro Real Sociedad 00/02 Away S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/196259614?uid=1&isSubCate=false&referrercate=680717",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/196259614",
       "categoryId": null,
       "collectionId": "680717",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "La Liga",
@@ -688828,8 +688784,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/196259614/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:25:09.244Z",
-      "player": ""
+      "updatedAt": "2026-11-19T02:53:48.023Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "yema007",
@@ -696024,11 +695982,11 @@
       "sourceId": "195654403",
       "uniqueKey": "minkang:195654403",
       "title": "Retro 99/00 Valencia Third away game S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/195654403?uid=1&isSubCate=false&referrercate=680717",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/195654403",
       "categoryId": null,
       "collectionId": "680717",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "La Liga",
@@ -696047,8 +696005,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/195654403/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:26:15.155Z",
-      "player": ""
+      "updatedAt": "2026-11-19T02:54:45.081Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -794975,11 +794935,11 @@
       "sourceId": "195689934",
       "uniqueKey": "minkang:195689934",
       "title": "Retro Cameroon 1998 home S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/195689934?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/195689934",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Kameroen",
@@ -794998,8 +794958,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/195689934/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-27T00:58:44.480Z",
-      "player": ""
+      "updatedAt": "2026-11-19T02:54:35.897Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "yema007",
@@ -819827,11 +819789,11 @@
       "sourceId": "196991515",
       "uniqueKey": "minkang:196991515",
       "title": "2025 Portugal Special Edition S-4XL9",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/196991515?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/196991515",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Portugal",
@@ -819850,8 +819812,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/196991515/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-27T00:58:44.474Z",
-      "player": ""
+      "updatedAt": "2026-11-19T02:51:55.790Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -832052,11 +832016,11 @@
       "sourceId": "195690266",
       "uniqueKey": "minkang:195690266",
       "title": "Retro Senegal 2002 Away S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/195690266?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/195690266",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Senegal",
@@ -832075,8 +832039,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/195690266/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-27T00:58:44.478Z",
-      "player": ""
+      "updatedAt": "2026-11-19T02:54:25.523Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -832084,11 +832050,11 @@
       "sourceId": "195690429",
       "uniqueKey": "minkang:195690429",
       "title": "Retro Senegal 2002 Home S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/195690429?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/195690429",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Senegal",
@@ -832107,8 +832073,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/195690429/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-27T00:58:44.477Z",
-      "player": ""
+      "updatedAt": "2026-11-19T02:54:25.292Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -863809,11 +863777,11 @@
       "sourceId": "195689353",
       "uniqueKey": "minkang:195689353",
       "title": "25/26 kids PSG home size: 16-2811",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/195689353?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/195689353",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Ligue 1",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Ligue 1",
@@ -863832,8 +863800,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/195689353/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:20:19.787Z",
-      "player": ""
+      "updatedAt": "2026-11-19T02:54:32.933Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -878460,11 +878430,11 @@
       "sourceId": "195030731",
       "uniqueKey": "minkang:195030731",
       "title": "25/26 Neymar Jr Special Edition S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/195030731?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/195030731",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Overig voetbal",
       "subcategory": "Neymar",
@@ -878482,9 +878452,11 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/195030731/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-24T00:31:59.356Z",
+      "updatedAt": "2026-11-19T02:55:09.966Z",
       "season": "2025-2026",
-      "player": "Neymar"
+      "player": "Neymar",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -920921,38 +920893,6 @@
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/186059798/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-25T17:19:02.505Z",
-      "player": ""
-    },
-    {
-      "source": "minkang",
-      "sourcePriority": 1,
-      "sourceId": "194781345",
-      "uniqueKey": "minkang:194781345",
-      "title": "Retro Roma14/15 Home S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/194781345?uid=1&isSubCate=false&referrercate=712891",
-      "categoryId": null,
-      "collectionId": "712891",
-      "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
-      "section": "Voetbal",
-      "category": "Overig voetbal",
-      "subcategory": "Overig voetbal",
-      "country": "",
-      "competition": "Overig voetbal",
-      "club": "Overig voetbal",
-      "types": [
-        "Voetbalshirt"
-      ],
-      "images": [
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/194781345/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/minkang/2e0db549/medium.jpg"
-      ],
-      "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/194781345/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-23T23:46:51.388Z",
-      "season": "Seizoen onbekend",
       "player": ""
     },
     {
@@ -1013270,11 +1013210,11 @@
       "sourceId": "194450617",
       "uniqueKey": "minkang:194450617",
       "title": "25/26 Bahia Away S-4XL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/194450617?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/194450617",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Overig voetbal",
       "subcategory": "Overig voetbal",
@@ -1013293,8 +1013233,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/194450617/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:06:25.038Z",
-      "player": ""
+      "updatedAt": "2026-11-19T02:55:47.956Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -1013374,11 +1013316,11 @@
       "sourceId": "195694688",
       "uniqueKey": "minkang:195694688",
       "title": "25/26 Bahia goalkeeper S-4XL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/195694688?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/195694688",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Overig voetbal",
       "subcategory": "Overig voetbal",
@@ -1013397,8 +1013339,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/195694688/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:06:25.039Z",
-      "player": ""
+      "updatedAt": "2026-11-19T02:54:00.286Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -1013440,11 +1013384,11 @@
       "sourceId": "194450433",
       "uniqueKey": "minkang:194450433",
       "title": "25/26 Bahia Home S-4XL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/194450433?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/194450433",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Overig voetbal",
       "subcategory": "Overig voetbal",
@@ -1013463,8 +1013407,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/194450433/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:06:25.040Z",
-      "player": ""
+      "updatedAt": "2026-11-19T02:55:57.537Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -1013574,11 +1013520,11 @@
       "sourceId": "195695285",
       "uniqueKey": "minkang:195695285",
       "title": "25/26 Botafogo third away S-4XL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/195695285?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/195695285",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Overig voetbal",
       "subcategory": "Overig voetbal",
@@ -1013597,8 +1013543,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/195695285/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:04:31.407Z",
-      "player": ""
+      "updatedAt": "2026-11-19T02:54:00.101Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -1014054,11 +1014002,11 @@
       "sourceId": "197820561",
       "uniqueKey": "minkang:197820561",
       "title": "25/26 Cruzeiro Home S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/197820561?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/197820561",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Overig voetbal",
       "subcategory": "Overig voetbal",
@@ -1014077,8 +1014025,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/197820561/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:05:38.814Z",
-      "player": ""
+      "updatedAt": "2026-11-19T02:51:22.475Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -1015218,7 +1015168,7 @@
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "more",
+      "sourceCategory": "Liga Profesional",
       "section": "Voetbal",
       "category": "Overig voetbal",
       "subcategory": "Overig voetbal",
@@ -1015229,21 +1015179,18 @@
         "Voetbalshirt"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/196991467/01.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/196991467/02.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/196991467/03.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/196991467/05.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/196991467/06.webp"
+        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/196991467/02.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/minkang/0eeb19b1/medium.jpeg"
       ],
-      "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/196991467/01.webp",
-      "imageCount": 5,
-      "updatedAt": "2026-10-30T00:47:52.518Z",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/196991467/02.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-11-19T02:52:05.614Z",
       "season": "2025-2026",
-      "classificationVersion": 2,
-      "player": ""
+      "classificationVersion": 7,
+      "player": "",
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -1016483,11 +1016430,11 @@
       "sourceId": "195694312",
       "uniqueKey": "minkang:195694312",
       "title": "25/26 Victoria Home Jersey S-4XL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/195694312?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/195694312",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Overig voetbal",
       "subcategory": "Overig voetbal",
@@ -1016506,8 +1016453,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/195694312/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:43:32.690Z",
-      "player": ""
+      "updatedAt": "2026-11-19T02:54:08.825Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -1016721,11 +1016670,11 @@
       "sourceId": "194451008",
       "uniqueKey": "minkang:194451008",
       "title": "25/26 Womens Bahia Away S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/194451008?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/194451008",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Overig voetbal",
       "subcategory": "Overig voetbal",
@@ -1016744,8 +1016693,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/194451008/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:06:13.331Z",
-      "player": ""
+      "updatedAt": "2026-11-19T02:55:31.678Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -1016791,11 +1016742,11 @@
       "sourceId": "194450806",
       "uniqueKey": "minkang:194450806",
       "title": "25/26 Womens Bahia Home S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/194450806?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/194450806",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Overig voetbal",
       "subcategory": "Overig voetbal",
@@ -1016814,8 +1016765,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/194450806/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:06:25.039Z",
-      "player": ""
+      "updatedAt": "2026-11-19T02:55:54.344Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -1072172,11 +1072125,11 @@
       "sourceId": "195030997",
       "uniqueKey": "minkang:195030997",
       "title": "Retro Mallorca 01/02 White S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/195030997?uid=1&isSubCate=false&referrercate=680717",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/195030997",
       "categoryId": null,
       "collectionId": "680717",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Overig voetbal",
       "subcategory": "Overig voetbal",
@@ -1072195,8 +1072148,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/195030997/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:28:27.171Z",
-      "player": ""
+      "updatedAt": "2026-11-19T02:55:02.132Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -1082434,11 +1082389,11 @@
       "sourceId": "196259666",
       "uniqueKey": "minkang:196259666",
       "title": "Retro Albacete 95/96 Home S-XXL7",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/196259666?uid=1&isSubCate=false&referrercate=680717",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/196259666",
       "categoryId": null,
       "collectionId": "680717",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Overig voetbal",
       "subcategory": "Overig voetbal",
@@ -1082456,9 +1082411,11 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/196259666/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-24T00:02:44.365Z",
+      "updatedAt": "2026-11-19T02:53:42.064Z",
       "season": "1995-1996",
-      "player": ""
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -1083958,11 +1083915,11 @@
       "sourceId": "195031019",
       "uniqueKey": "minkang:195031019",
       "title": "Retro Mallorca 94/95 Red S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/195031019?uid=1&isSubCate=false&referrercate=680717",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/195031019",
       "categoryId": null,
       "collectionId": "680717",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Overig voetbal",
       "subcategory": "Overig voetbal",
@@ -1083981,8 +1083938,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/195031019/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:28:16.500Z",
-      "player": ""
+      "updatedAt": "2026-11-19T02:54:51.690Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -1156474,11 +1156433,11 @@
       "sourceId": "196991072",
       "uniqueKey": "minkang:196991072",
       "title": "25/26 Newcastle United Special Edition S-4XL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/196991072?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/196991072",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Premier League",
@@ -1156497,8 +1156456,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/196991072/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:12:59.839Z",
-      "player": ""
+      "updatedAt": "2026-11-19T02:52:32.406Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -1173983,11 +1173944,11 @@
       "sourceId": "195690949",
       "uniqueKey": "minkang:195690949",
       "title": "25/26 Benfica Special Edition S-3XL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/195690949?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/195690949",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Primeira Liga",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Primeira Liga",
@@ -1174006,8 +1173967,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/195690949/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:15:14.586Z",
-      "player": ""
+      "updatedAt": "2026-11-19T02:54:17.133Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -1196564,11 +1196527,11 @@
       "sourceId": "194451088",
       "uniqueKey": "minkang:194451088",
       "title": "25/26 AC Milan Away S-4XL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/194451088?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/194451088",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Serie A",
@@ -1196587,8 +1196550,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/194451088/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:17:31.337Z",
-      "player": ""
+      "updatedAt": "2026-11-19T02:55:27.961Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -1196760,11 +1196725,11 @@
       "sourceId": "196260261",
       "uniqueKey": "minkang:196260261",
       "title": "25/26 Player AC Milan Home S-3XL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/196260261?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/196260261",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Serie A",
@@ -1196783,8 +1196748,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/196260261/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:17:31.337Z",
-      "player": ""
+      "updatedAt": "2026-11-19T02:53:31.399Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -1205243,11 +1205210,11 @@
       "sourceId": "194781285",
       "uniqueKey": "minkang:194781285",
       "title": "Retro 83/85 Fiorentina Away S-XXL6",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/194781285?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/194781285",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Serie A",
@@ -1205266,8 +1205233,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/194781285/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:19:24.719Z",
-      "player": ""
+      "updatedAt": "2026-11-19T02:55:22.207Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -1211170,11 +1211139,11 @@
       "sourceId": "194450696",
       "uniqueKey": "minkang:194450696",
       "title": "25/26 Inter Milan Special Edition S-XXL8",
-      "sourceUrl": "https://minkang.x.yupoo.com/albums/194450696?uid=1&isSubCate=false&referrercate=712891",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/194450696",
       "categoryId": null,
       "collectionId": "712891",
       "sourceCollection": "more",
-      "sourceCategory": "KANG Team Official ✅",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Serie A",
@@ -1211193,8 +1211162,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/minkang/194450696/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T17:17:09.386Z",
-      "player": ""
+      "updatedAt": "2026-11-19T02:55:41.337Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
