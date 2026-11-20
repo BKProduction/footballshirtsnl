@@ -1,8 +1,8 @@
 {
-  "lastSync": "2026-11-20T11:47:38.240Z",
+  "lastSync": "2026-11-20T11:53:05.852Z",
   "status": "running",
   "currentSource": "yema007",
-  "productCount": 37407,
+  "productCount": 37403,
   "products": [
     {
       "uniqueKey": "yuhuaxieye1:165070104",
@@ -345584,6 +345584,40 @@
       "player": ""
     },
     {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237529996",
+      "uniqueKey": "yema007:237529996",
+      "title": "English Windbreaker1",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529996",
+      "categoryId": "876630",
+      "collectionId": "876630",
+      "sourceCollection": "David jersey",
+      "sourceCategory": "Overig",
+      "section": "Trainingskleding",
+      "category": "Overige trainingskleding",
+      "subcategory": "Overige trainingskleding",
+      "country": "",
+      "competition": "",
+      "club": "Overige trainingskleding",
+      "season": "Seizoen onbekend",
+      "types": [
+        "Trainingskleding"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237529996/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/8db6b7f14e/medium.jpg"
+      ],
+      "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237529996/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-11-20T11:48:07.469Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
+    },
+    {
       "source": "popmo",
       "sourcePriority": 3,
       "sourceId": "209150453",
@@ -434811,11 +434845,11 @@
       "sourceId": "237530096",
       "uniqueKey": "yema007:237530096",
       "title": "Belgium Windbreaker16844233750001",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237530096?uid=1&isSubCate=true&referrercate=876631",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237530096",
       "categoryId": "876631",
       "collectionId": "876631",
       "sourceCollection": "David jersey",
-      "sourceCategory": "Belgium",
+      "sourceCategory": "Overig",
       "section": "Trainingskleding",
       "category": "Landenteams",
       "subcategory": "Belgie",
@@ -434833,9 +434867,11 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237530096/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-24T03:13:06.354Z",
+      "updatedAt": "2026-11-20T11:47:56.581Z",
       "season": "Seizoen onbekend",
-      "player": ""
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "yema007",
@@ -434977,11 +435013,11 @@
       "sourceId": "237528978",
       "uniqueKey": "yema007:237528978",
       "title": "2021 Brazil blueyellow windbreaker9",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237528978?uid=1&isSubCate=true&referrercate=876627",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237528978",
       "categoryId": "876627",
       "collectionId": "876627",
       "sourceCollection": "David jersey",
-      "sourceCategory": "Brazil",
+      "sourceCategory": "Overig",
       "section": "Trainingskleding",
       "category": "Landenteams",
       "subcategory": "Brazilie",
@@ -435000,8 +435036,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237528978/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-27T03:01:19.797Z",
-      "player": "Ronaldo Nazario"
+      "updatedAt": "2026-11-20T11:51:02.830Z",
+      "player": "Ronaldo Nazario",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "yema007",
@@ -435043,11 +435081,11 @@
       "sourceId": "237528848",
       "uniqueKey": "yema007:237528848",
       "title": "2022 Brazil black windbreaker8",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237528848?uid=1&isSubCate=true&referrercate=876627",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237528848",
       "categoryId": "876627",
       "collectionId": "876627",
       "sourceCollection": "David jersey",
-      "sourceCategory": "Brazil",
+      "sourceCategory": "Overig",
       "section": "Trainingskleding",
       "category": "Landenteams",
       "subcategory": "Brazilie",
@@ -435066,8 +435104,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237528848/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-27T03:01:19.797Z",
-      "player": ""
+      "updatedAt": "2026-11-20T11:51:24.988Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "yema007",
@@ -435507,38 +435547,6 @@
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237227383/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-10-27T03:02:30.313Z",
-      "player": ""
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237528721",
-      "uniqueKey": "yema007:237528721",
-      "title": "2023 Brazilian grass green training jacket9",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237528721?uid=1&isSubCate=true&referrercate=876627",
-      "categoryId": "876627",
-      "collectionId": "876627",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Brazil",
-      "section": "Trainingskleding",
-      "category": "Landenteams",
-      "subcategory": "Brazilie",
-      "country": "Brazilie",
-      "competition": "Landenteams",
-      "club": "Brazilie",
-      "season": "Seizoen onbekend",
-      "types": [
-        "Trainingskleding"
-      ],
-      "images": [
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237528721/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/88bbf20f6b/medium.jpg"
-      ],
-      "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237528721/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-27T03:01:19.797Z",
       "player": ""
     },
     {
@@ -440920,11 +440928,11 @@
       "sourceId": "237528460",
       "uniqueKey": "yema007:237528460",
       "title": "Windbreaker Brazil16844207510008",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237528460?uid=1&isSubCate=true&referrercate=876627",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237528460",
       "categoryId": "876627",
       "collectionId": "876627",
       "sourceCollection": "David jersey",
-      "sourceCategory": "Brazil",
+      "sourceCategory": "Overig",
       "section": "Trainingskleding",
       "category": "Landenteams",
       "subcategory": "Brazilie",
@@ -440943,8 +440951,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237528460/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T19:00:39.851Z",
-      "player": ""
+      "updatedAt": "2026-11-20T11:52:33.299Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "yema007",
@@ -440952,11 +440962,11 @@
       "sourceId": "237528616",
       "uniqueKey": "yema007:237528616",
       "title": "Windbreaker Brazil8",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237528616?uid=1&isSubCate=true&referrercate=876627",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237528616",
       "categoryId": "876627",
       "collectionId": "876627",
       "sourceCollection": "David jersey",
-      "sourceCategory": "Brazil",
+      "sourceCategory": "Overig",
       "section": "Trainingskleding",
       "category": "Landenteams",
       "subcategory": "Brazilie",
@@ -440975,8 +440985,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237528616/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T19:00:39.851Z",
-      "player": ""
+      "updatedAt": "2026-11-20T11:52:04.195Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "yema007",
@@ -441643,11 +441655,11 @@
       "sourceId": "237529120",
       "uniqueKey": "yema007:237529120",
       "title": "22-23 Windbreaker Brazil Royal Blue9",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529120?uid=1&isSubCate=true&referrercate=876627",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529120",
       "categoryId": "876627",
       "collectionId": "876627",
       "sourceCollection": "David jersey",
-      "sourceCategory": "Brazil",
+      "sourceCategory": "Overig",
       "section": "Trainingskleding",
       "category": "Landenteams",
       "subcategory": "Brazilie",
@@ -441665,9 +441677,11 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237529120/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-24T02:58:41.236Z",
+      "updatedAt": "2026-11-20T11:50:40.096Z",
       "season": "2022-2023",
-      "player": ""
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -443492,11 +443506,11 @@
       "sourceId": "237529478",
       "uniqueKey": "yema007:237529478",
       "title": "2021 Germany White Windbreaker10",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529478?uid=1&isSubCate=true&referrercate=876629",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529478",
       "categoryId": "876629",
       "collectionId": "876629",
       "sourceCollection": "David jersey",
-      "sourceCategory": "Germany",
+      "sourceCategory": "Overig",
       "section": "Trainingskleding",
       "category": "Landenteams",
       "subcategory": "Duitsland",
@@ -443515,8 +443529,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237529478/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-27T03:06:28.947Z",
-      "player": ""
+      "updatedAt": "2026-11-20T11:49:37.122Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "yema007",
@@ -443524,11 +443540,11 @@
       "sourceId": "237529341",
       "uniqueKey": "yema007:237529341",
       "title": "2022 Germany black redwhite Windbreaker8",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529341?uid=1&isSubCate=true&referrercate=876629",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529341",
       "categoryId": "876629",
       "collectionId": "876629",
       "sourceCollection": "David jersey",
-      "sourceCategory": "Germany",
+      "sourceCategory": "Overig",
       "section": "Trainingskleding",
       "category": "Landenteams",
       "subcategory": "Duitsland",
@@ -443547,8 +443563,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237529341/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-27T03:06:28.947Z",
-      "player": ""
+      "updatedAt": "2026-11-20T11:50:02.811Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "yema007",
@@ -443624,11 +443642,11 @@
       "sourceId": "237529228",
       "uniqueKey": "yema007:237529228",
       "title": "2022 Windbreaker Germany10",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529228?uid=1&isSubCate=true&referrercate=876629",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529228",
       "categoryId": "876629",
       "collectionId": "876629",
       "sourceCollection": "David jersey",
-      "sourceCategory": "Germany",
+      "sourceCategory": "Overig",
       "section": "Trainingskleding",
       "category": "Landenteams",
       "subcategory": "Duitsland",
@@ -443647,8 +443665,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237529228/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-27T03:06:28.947Z",
-      "player": ""
+      "updatedAt": "2026-11-20T11:50:20.528Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "yema007",
@@ -448255,11 +448275,11 @@
       "sourceId": "237529584",
       "uniqueKey": "yema007:237529584",
       "title": "23-24 Windbreaker Germany16844208870006",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529584?uid=1&isSubCate=true&referrercate=876629",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529584",
       "categoryId": "876629",
       "collectionId": "876629",
       "sourceCollection": "David jersey",
-      "sourceCategory": "Germany",
+      "sourceCategory": "Overig",
       "section": "Trainingskleding",
       "category": "Landenteams",
       "subcategory": "Duitsland",
@@ -448278,8 +448298,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237529584/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T19:03:56.371Z",
-      "player": ""
+      "updatedAt": "2026-11-20T11:49:15.067Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "yema007",
@@ -448287,11 +448309,11 @@
       "sourceId": "237529699",
       "uniqueKey": "yema007:237529699",
       "title": "23-24 Windbreaker Germany5",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529699?uid=1&isSubCate=true&referrercate=876629",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529699",
       "categoryId": "876629",
       "collectionId": "876629",
       "sourceCollection": "David jersey",
-      "sourceCategory": "Germany",
+      "sourceCategory": "Overig",
       "section": "Trainingskleding",
       "category": "Landenteams",
       "subcategory": "Duitsland",
@@ -448310,8 +448332,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237529699/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T19:03:56.371Z",
-      "player": ""
+      "updatedAt": "2026-11-20T11:48:57.132Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "yema007",
@@ -448319,11 +448343,11 @@
       "sourceId": "237529864",
       "uniqueKey": "yema007:237529864",
       "title": "20-21 Germany black windbreaker8",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529864?uid=1&isSubCate=true&referrercate=876629",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529864",
       "categoryId": "876629",
       "collectionId": "876629",
       "sourceCollection": "David jersey",
-      "sourceCategory": "Germany",
+      "sourceCategory": "Overig",
       "section": "Trainingskleding",
       "category": "Landenteams",
       "subcategory": "Duitsland",
@@ -448341,9 +448365,11 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237529864/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-24T03:07:19.708Z",
+      "updatedAt": "2026-11-20T11:48:33.245Z",
       "season": "2020-2021",
-      "player": ""
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -449765,38 +449791,6 @@
       "updatedAt": "2026-11-18T22:12:27.217Z",
       "player": "",
       "photoVersion": 12
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237529996",
-      "uniqueKey": "yema007:237529996",
-      "title": "English Windbreaker1",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529996?uid=1&isSubCate=true&referrercate=876630",
-      "categoryId": "876630",
-      "collectionId": "876630",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "England",
-      "section": "Trainingskleding",
-      "category": "Landenteams",
-      "subcategory": "Engeland",
-      "country": "Engeland",
-      "competition": "Landenteams",
-      "club": "Engeland",
-      "season": "Seizoen onbekend",
-      "types": [
-        "Trainingskleding"
-      ],
-      "images": [
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237529996/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/8db6b7f14e/medium.jpg"
-      ],
-      "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237529996/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:05:13.124Z",
-      "player": ""
     },
     {
       "uniqueKey": "dongshanstore:240844191",
@@ -518985,11 +518979,11 @@
       "sourceId": "237529206",
       "uniqueKey": "yema007:237529206",
       "title": "25-26 Boca Juniors 120th Anniversary Home Shirt Soccer Uniform David Jersey7",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529206?uid=1&isSubCate=false&referrercate=5217438",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529206",
       "categoryId": null,
       "collectionId": "5217438",
       "sourceCollection": "more",
-      "sourceCategory": "David jersey",
+      "sourceCategory": "🇦🇷⚽SAF",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Argentijnse Primera Division",
@@ -519008,8 +519002,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237529206/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T18:55:54.311Z",
-      "player": ""
+      "updatedAt": "2026-11-20T11:50:27.294Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "yema007",
@@ -561657,11 +561653,11 @@
       "sourceId": "237529568",
       "uniqueKey": "yema007:237529568",
       "title": "25-26 Bayern Munich Away Kit Football T-Shirt David Jersey7",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529568?uid=1&isSubCate=false&referrercate=5217438",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529568",
       "categoryId": null,
       "collectionId": "5217438",
       "sourceCollection": "more",
-      "sourceCategory": "David jersey",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Bundesliga",
@@ -561680,8 +561676,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237529568/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T18:43:10.615Z",
-      "player": ""
+      "updatedAt": "2026-11-20T11:49:21.721Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "yema007",
@@ -562609,11 +562607,11 @@
       "sourceId": "237529461",
       "uniqueKey": "yema007:237529461",
       "title": "25-26 Bayern Munich Red Goalkeeper Shirt Soccer Uniform David Jersey7",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529461?uid=1&isSubCate=false&referrercate=5217438",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529461",
       "categoryId": null,
       "collectionId": "5217438",
       "sourceCollection": "more",
-      "sourceCategory": "David jersey",
+      "sourceCategory": "🥊⚽Goalkeeper kit Keeper",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Bundesliga",
@@ -562632,8 +562630,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237529461/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T18:43:10.615Z",
-      "player": ""
+      "updatedAt": "2026-11-20T11:49:45.903Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "popmo",
@@ -577887,38 +577887,6 @@
       "player": "",
       "classificationVersion": 7,
       "photoVersion": 12
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237530144",
-      "uniqueKey": "yema007:237530144",
-      "title": "10-11 Schalke 04 Away Retro Kit Vintage Shirt David Jersey Supplier6",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237530144?uid=1&isSubCate=true&referrercate=876780",
-      "categoryId": "876780",
-      "collectionId": "876780",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Other Football Clubs",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "Bundesliga",
-      "country": "",
-      "competition": "Bundesliga",
-      "club": "Schalke 04",
-      "season": "2010-2011",
-      "types": [
-        "Voetbalshirt"
-      ],
-      "images": [
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237530144/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/5266eeed69/medium.jpg"
-      ],
-      "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237530144/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T18:45:57.048Z",
-      "player": ""
     },
     {
       "source": "yema007",
@@ -609790,38 +609758,6 @@
       "player": ""
     },
     {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237530070",
-      "uniqueKey": "yema007:237530070",
-      "title": "25-26 Barcelona Special Edition Shirt Football Uniform David Jersey6",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237530070?uid=1&isSubCate=false&referrercate=5217438",
-      "categoryId": null,
-      "collectionId": "5217438",
-      "sourceCollection": "more",
-      "sourceCategory": "David jersey",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "La Liga",
-      "country": "",
-      "competition": "La Liga",
-      "club": "Barcelona",
-      "season": "2025-2026",
-      "types": [
-        "Voetbalshirt"
-      ],
-      "images": [
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237530070/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/ee1f5f6d18/medium.jpg"
-      ],
-      "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237530070/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:31:30.364Z",
-      "player": ""
-    },
-    {
       "source": "popmo",
       "sourcePriority": 3,
       "sourceId": "215748097",
@@ -610460,11 +610396,11 @@
       "sourceId": "237529975",
       "uniqueKey": "yema007:237529975",
       "title": "25-26 Barcelona White Special Edition Shirt Football Uniform David Jersey7",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529975?uid=1&isSubCate=false&referrercate=5217438",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529975",
       "categoryId": null,
       "collectionId": "5217438",
       "sourceCollection": "more",
-      "sourceCategory": "David jersey",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "La Liga",
@@ -610483,8 +610419,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237529975/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T19:31:30.364Z",
-      "player": ""
+      "updatedAt": "2026-11-20T11:48:16.467Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "yema007",
@@ -611238,11 +611176,11 @@
       "sourceId": "237529847",
       "uniqueKey": "yema007:237529847",
       "title": "25-26 Barcelona Yellow Special Edition(With CL Patch) Shirt Soccer Uniform David Jersey5",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529847?uid=1&isSubCate=false&referrercate=5217438",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529847",
       "categoryId": null,
       "collectionId": "5217438",
       "sourceCollection": "more",
-      "sourceCategory": "David jersey",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "La Liga",
@@ -611261,8 +611199,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237529847/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T19:31:30.364Z",
-      "player": ""
+      "updatedAt": "2026-11-20T11:48:43.511Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "popmo",
@@ -626332,11 +626272,11 @@
       "sourceId": "237529181",
       "uniqueKey": "yema007:237529181",
       "title": "91-92 Barcelona Home Retro Kit Vintage Shirt David Jersey Supplier6",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529181?uid=1&isSubCate=true&referrercate=876813",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529181",
       "categoryId": "876813",
       "collectionId": "876813",
       "sourceCollection": "David jersey",
-      "sourceCategory": "Barcelona",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "La Liga",
@@ -626355,8 +626295,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237529181/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T19:31:30.364Z",
-      "player": ""
+      "updatedAt": "2026-11-20T11:50:28.637Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "yema007",
@@ -636949,11 +636891,11 @@
       "sourceId": "237528333",
       "uniqueKey": "yema007:237528333",
       "title": "94-96 Real Madrid Away Retro Kit Vintage Shirt David Jersey Supplier7",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237528333?uid=1&isSubCate=true&referrercate=876812",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237528333",
       "categoryId": "876812",
       "collectionId": "876812",
       "sourceCollection": "David jersey",
-      "sourceCategory": "Real Madrid",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "La Liga",
@@ -636972,8 +636914,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237528333/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T19:25:14.309Z",
-      "player": ""
+      "updatedAt": "2026-11-20T11:53:05.214Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "yema007",
@@ -676777,11 +676721,11 @@
       "sourceId": "237529816",
       "uniqueKey": "yema007:237529816",
       "title": "84-85 Valladolid Home Retro Kit Vintage Shirt David Jersey Supplier6",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529816?uid=1&isSubCate=true&referrercate=876819",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529816",
       "categoryId": "876819",
       "collectionId": "876819",
       "sourceCollection": "David jersey",
-      "sourceCategory": "Valladolid",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "La Liga",
@@ -676800,8 +676744,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237529816/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T19:35:33.310Z",
-      "player": ""
+      "updatedAt": "2026-11-20T11:48:42.098Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "yema007",
@@ -676843,11 +676789,11 @@
       "sourceId": "237529548",
       "uniqueKey": "yema007:237529548",
       "title": "87-90 Sevilla FC Home Retro Kit Vintage Shirt David Jersey Supplier4",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529548?uid=1&isSubCate=true&referrercate=876827",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529548",
       "categoryId": "876827",
       "collectionId": "876827",
       "sourceCollection": "David jersey",
-      "sourceCategory": "Sevilla",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "La Liga",
@@ -676866,8 +676812,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237529548/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T19:36:42.835Z",
-      "player": ""
+      "updatedAt": "2026-11-20T11:49:29.393Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "yema007",
@@ -679145,38 +679093,6 @@
       "photoVersion": 12
     },
     {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237528680",
-      "uniqueKey": "yema007:237528680",
-      "title": "92-93 Sevilla FC Home Retro Kit Vintage Shirt David Jersey Supplier6",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237528680?uid=1&isSubCate=true&referrercate=876827",
-      "categoryId": "876827",
-      "collectionId": "876827",
-      "sourceCollection": "David jersey",
-      "sourceCategory": "Sevilla",
-      "section": "Voetbal",
-      "category": "Clubteams",
-      "subcategory": "La Liga",
-      "country": "",
-      "competition": "La Liga",
-      "club": "Sevilla",
-      "season": "1992-1993",
-      "types": [
-        "Voetbalshirt"
-      ],
-      "images": [
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237528680/01.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/f3cba0c70e/medium.jpg"
-      ],
-      "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237528680/01.webp",
-      "imageCount": 1,
-      "updatedAt": "2026-10-25T19:36:42.835Z",
-      "player": ""
-    },
-    {
       "source": "minkang",
       "sourcePriority": 1,
       "sourceId": "181124153",
@@ -679284,11 +679200,11 @@
       "sourceId": "237528935",
       "uniqueKey": "yema007:237528935",
       "title": "91-92 Sevilla FC Away Retro Kit Vintage Shirt David Jersey Supplier6",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237528935?uid=1&isSubCate=true&referrercate=876827",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237528935",
       "categoryId": "876827",
       "collectionId": "876827",
       "sourceCollection": "David jersey",
-      "sourceCategory": "Sevilla",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "La Liga",
@@ -679307,8 +679223,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237528935/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T19:36:42.835Z",
-      "player": ""
+      "updatedAt": "2026-11-20T11:51:14.414Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "yema007",
@@ -706251,11 +706169,11 @@
       "sourceId": "237528810",
       "uniqueKey": "yema007:237528810",
       "title": "91-93 Brazil Home Retro Kit Vintage Shirt David Jersey Supplier5",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237528810?uid=1&isSubCate=true&referrercate=876627",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237528810",
       "categoryId": "876627",
       "collectionId": "876627",
       "sourceCollection": "David jersey",
-      "sourceCategory": "Brazil",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Brazilie",
@@ -706273,9 +706191,11 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237528810/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-24T02:58:42.067Z",
+      "updatedAt": "2026-11-20T11:51:32.299Z",
       "season": "Seizoen onbekend",
-      "player": ""
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "yema007",
@@ -728136,6 +728056,40 @@
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237547876/01.webp",
       "imageCount": 1,
       "updatedAt": "2026-11-20T10:44:00.305Z",
+      "classificationVersion": 7,
+      "player": "",
+      "photoVersion": 12
+    },
+    {
+      "source": "yema007",
+      "sourcePriority": 2,
+      "sourceId": "237528437",
+      "uniqueKey": "yema007:237528437",
+      "title": "25-26 Colo Colo 100th Anniversary Black Shirt Football Uniform David Jersey6",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237528437",
+      "categoryId": null,
+      "collectionId": "5217438",
+      "sourceCollection": "more",
+      "sourceCategory": "🇨🇱⚽Chilean League",
+      "section": "Voetbal",
+      "category": "Landenteams",
+      "subcategory": "Chili",
+      "country": "Chili",
+      "competition": "Landenteams",
+      "club": "Chili",
+      "season": "2025-2026",
+      "types": [
+        "Voetbalshirt"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237528437/01.webp"
+      ],
+      "sourceImages": [
+        "https://photo.yupoo.com/yema007/60c8a65e74/medium.jpg"
+      ],
+      "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237528437/01.webp",
+      "imageCount": 1,
+      "updatedAt": "2026-11-20T11:52:45.576Z",
       "classificationVersion": 7,
       "player": "",
       "photoVersion": 12
@@ -834975,11 +834929,11 @@
       "sourceId": "237528424",
       "uniqueKey": "yema007:237528424",
       "title": "94-95 Wales Away Retro Kit Vintage Shirt David Jersey Supplier3",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237528424?uid=1&isSubCate=true&referrercate=876651",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237528424",
       "categoryId": "876651",
       "collectionId": "876651",
       "sourceCollection": "David jersey",
-      "sourceCategory": "Wales",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Landenteams",
       "subcategory": "Wales",
@@ -834997,9 +834951,11 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237528424/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-24T03:40:29.366Z",
+      "updatedAt": "2026-11-20T11:52:39.789Z",
       "season": "1994-1995",
-      "player": ""
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "yema007",
@@ -965167,11 +965123,11 @@
       "sourceId": "237529674",
       "uniqueKey": "yema007:237529674",
       "title": "25-26 Barranquilla Home Shirt Football Uniforms David Jersey7",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529674?uid=1&isSubCate=false&referrercate=5217438",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529674",
       "categoryId": null,
       "collectionId": "5217438",
       "sourceCollection": "more",
-      "sourceCategory": "David jersey",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Overig voetbal",
       "subcategory": "Overig voetbal",
@@ -965190,8 +965146,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237529674/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T19:43:19.372Z",
-      "player": ""
+      "updatedAt": "2026-11-20T11:48:59.332Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "yema007",
@@ -965534,11 +965492,11 @@
       "sourceId": "237529317",
       "uniqueKey": "yema007:237529317",
       "title": "25-26 Boca Junior Home 120th Anniversary Kit Player Version Shirt David Jersey6",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529317?uid=1&isSubCate=false&referrercate=5217438",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529317",
       "categoryId": null,
       "collectionId": "5217438",
       "sourceCollection": "more",
-      "sourceCategory": "David jersey",
+      "sourceCategory": "🇦🇷⚽SAF",
       "section": "Voetbal",
       "category": "Overig voetbal",
       "subcategory": "Overig voetbal",
@@ -965557,8 +965515,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237529317/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T18:55:54.311Z",
-      "player": ""
+      "updatedAt": "2026-11-20T11:50:02.418Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "yema007",
@@ -966245,11 +966205,11 @@
       "sourceId": "237529095",
       "uniqueKey": "yema007:237529095",
       "title": "25-26 Botafogo Green Training Kit Soccer T-Shirt David Jersey7",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529095?uid=1&isSubCate=false&referrercate=5217438",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529095",
       "categoryId": null,
       "collectionId": "5217438",
       "sourceCollection": "more",
-      "sourceCategory": "David jersey",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Overig voetbal",
       "subcategory": "Overig voetbal",
@@ -966268,8 +966228,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237529095/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T18:39:19.525Z",
-      "player": ""
+      "updatedAt": "2026-11-20T11:50:45.763Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "popmo",
@@ -966412,11 +966374,11 @@
       "sourceId": "237528956",
       "uniqueKey": "yema007:237528956",
       "title": "25-26 Botafogo Purple Training Kit Soccer T-Shirt David Jersey6",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237528956?uid=1&isSubCate=false&referrercate=5217438",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237528956",
       "categoryId": null,
       "collectionId": "5217438",
       "sourceCollection": "more",
-      "sourceCategory": "David jersey",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Overig voetbal",
       "subcategory": "Overig voetbal",
@@ -966435,8 +966397,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237528956/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T18:39:19.525Z",
-      "player": ""
+      "updatedAt": "2026-11-20T11:51:05.547Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "yema007",
@@ -966582,11 +966546,11 @@
       "sourceId": "237528836",
       "uniqueKey": "yema007:237528836",
       "title": "25-26 Botafogo White Training Kit Soccer T-Shirt David Jersey6",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237528836?uid=1&isSubCate=false&referrercate=5217438",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237528836",
       "categoryId": null,
       "collectionId": "5217438",
       "sourceCollection": "more",
-      "sourceCategory": "David jersey",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Overig voetbal",
       "subcategory": "Overig voetbal",
@@ -966605,8 +966569,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237528836/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T18:39:19.525Z",
-      "player": ""
+      "updatedAt": "2026-11-20T11:51:32.467Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "popmo",
@@ -968679,11 +968645,11 @@
       "sourceId": "237528591",
       "uniqueKey": "yema007:237528591",
       "title": "25-26 Club Atlético Tigre Away Shirt Football Uniform David Jersey7",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237528591?uid=1&isSubCate=false&referrercate=5217438",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237528591",
       "categoryId": null,
       "collectionId": "5217438",
       "sourceCollection": "more",
-      "sourceCategory": "David jersey",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Overig voetbal",
       "subcategory": "Overig voetbal",
@@ -968702,8 +968668,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237528591/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T19:43:19.372Z",
-      "player": ""
+      "updatedAt": "2026-11-20T11:52:08.796Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "popmo",
@@ -968952,44 +968920,6 @@
       "imageCount": 1,
       "updatedAt": "2026-10-24T13:32:30.011Z",
       "season": "2025-2026",
-      "player": ""
-    },
-    {
-      "source": "yema007",
-      "sourcePriority": 2,
-      "sourceId": "237528437",
-      "uniqueKey": "yema007:237528437",
-      "title": "25-26 Colo Colo 100th Anniversary Black Shirt Football Uniform David Jersey6",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237528437",
-      "categoryId": null,
-      "collectionId": "5217438",
-      "sourceCollection": "more",
-      "sourceCategory": "more",
-      "section": "Voetbal",
-      "category": "Overig voetbal",
-      "subcategory": "Overig voetbal",
-      "country": "",
-      "competition": "Overig voetbal",
-      "club": "Overig voetbal",
-      "season": "2025-2026",
-      "types": [
-        "Voetbalshirt"
-      ],
-      "images": [
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237528437/01.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237528437/02.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237528437/03.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237528437/04.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237528437/05.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237528437/06.webp"
-      ],
-      "sourceImages": [
-        "https://photo.yupoo.com/yema007/60c8a65e74/medium.jpg"
-      ],
-      "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237528437/01.webp",
-      "imageCount": 6,
-      "updatedAt": "2026-10-30T12:51:30.066Z",
-      "classificationVersion": 2,
       "player": ""
     },
     {
@@ -970176,11 +970106,11 @@
       "sourceId": "237528369",
       "uniqueKey": "yema007:237528369",
       "title": "25-26 Corinthians Away Kit Soccer T-Shirt David Jersey5",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237528369?uid=1&isSubCate=false&referrercate=5217438",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237528369",
       "categoryId": null,
       "collectionId": "5217438",
       "sourceCollection": "more",
-      "sourceCategory": "David jersey",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Overig voetbal",
       "subcategory": "Overig voetbal",
@@ -970199,8 +970129,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237528369/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T18:35:27.781Z",
-      "player": ""
+      "updatedAt": "2026-11-20T11:52:55.878Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "yema007",
@@ -1044570,11 +1044502,11 @@
       "sourceId": "237530043",
       "uniqueKey": "yema007:237530043",
       "title": "12-13 Santos Home Long Sleeve Retro Kit Vintage Shirt David Jersey Supplier6",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237530043?uid=1&isSubCate=true&referrercate=876743",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237530043",
       "categoryId": "876743",
       "collectionId": "876743",
       "sourceCollection": "David jersey",
-      "sourceCategory": "Santos",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Overig voetbal",
       "subcategory": "Overig voetbal",
@@ -1044593,8 +1044525,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237530043/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T18:37:17.496Z",
-      "player": ""
+      "updatedAt": "2026-11-20T11:48:03.563Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "yema007",
@@ -1065282,11 +1065216,11 @@
       "sourceId": "237529073",
       "uniqueKey": "yema007:237529073",
       "title": "91-92 Roma Away Retro Kit Vintage Shirt David Jersey Supplier7",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529073?uid=1&isSubCate=true&referrercate=876785",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529073",
       "categoryId": "876785",
       "collectionId": "876785",
       "sourceCollection": "David jersey",
-      "sourceCategory": "Roma",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Overig voetbal",
       "subcategory": "Overig voetbal",
@@ -1065305,8 +1065239,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237529073/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T18:30:27.509Z",
-      "player": ""
+      "updatedAt": "2026-11-20T11:50:50.122Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "yema007",
@@ -1066870,11 +1066806,11 @@
       "sourceId": "237529649",
       "uniqueKey": "yema007:237529649",
       "title": "86-87 Porto Home Retro Kit Vintage Shirt David Jersey Supplier6",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529649?uid=1&isSubCate=true&referrercate=876689",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529649",
       "categoryId": "876689",
       "collectionId": "876689",
       "sourceCollection": "David jersey",
-      "sourceCategory": "Porto",
+      "sourceCategory": "🇵🇹⚽LIGA NOS",
       "section": "Voetbal",
       "category": "Overig voetbal",
       "subcategory": "Overig voetbal",
@@ -1066893,8 +1066829,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237529649/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T18:53:20.185Z",
-      "player": ""
+      "updatedAt": "2026-11-20T11:49:06.927Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -1067690,11 +1067628,11 @@
       "sourceId": "237529955",
       "uniqueKey": "yema007:237529955",
       "title": "80-81 Sporting de Gijón Home Retro Kit Vintage Shirt David Jersey Supplier4",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529955?uid=1&isSubCate=true&referrercate=876832",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529955",
       "categoryId": "876832",
       "collectionId": "876832",
       "sourceCollection": "David jersey",
-      "sourceCategory": "Others Football Clubs",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Overig voetbal",
       "subcategory": "Overig voetbal",
@@ -1067713,8 +1067651,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237529955/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T19:38:14.174Z",
-      "player": ""
+      "updatedAt": "2026-11-20T11:48:19.293Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
@@ -1087682,11 +1087622,11 @@
       "sourceId": "237528571",
       "uniqueKey": "yema007:237528571",
       "title": "94-95 Aston Villa Third Retro Kit UEFA Cup Shirt David Jersey Supplier5",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237528571?uid=1&isSubCate=true&referrercate=876803",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237528571",
       "categoryId": "876803",
       "collectionId": "876803",
       "sourceCollection": "David jersey",
-      "sourceCategory": "Aston Villa",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Premier League",
@@ -1087705,8 +1087645,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237528571/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T18:18:23.304Z",
-      "player": ""
+      "updatedAt": "2026-11-20T11:52:21.581Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "popmo",
@@ -1108945,11 +1108887,11 @@
       "sourceId": "237529291",
       "uniqueKey": "yema007:237529291",
       "title": "89-91 Manchester City Home Retro Kit Vintage Shirt David Jersey Supplier6",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529291?uid=1&isSubCate=true&referrercate=876797",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529291",
       "categoryId": "876797",
       "collectionId": "876797",
       "sourceCollection": "David jersey",
-      "sourceCategory": "Manchester City",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Premier League",
@@ -1108968,8 +1108910,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237529291/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T18:10:31.886Z",
-      "player": ""
+      "updatedAt": "2026-11-20T11:50:13.694Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "yema007",
@@ -1167139,7 +1167083,7 @@
       "categoryId": null,
       "collectionId": "5217438",
       "sourceCollection": "more",
-      "sourceCategory": "more",
+      "sourceCategory": "🏴󠁧󠁢󠁳󠁣󠁴󠁿⚽Scottish League",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Scottish Premiership",
@@ -1167151,21 +1167095,17 @@
         "Voetbalshirt"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237528704/01.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237528704/02.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237528704/03.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237528704/04.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237528704/05.webp",
-        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237528704/06.webp"
+        "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237528704/01.webp"
       ],
       "sourceImages": [
         "https://photo.yupoo.com/yema007/6e796cdfc8/medium.jpg"
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237528704/01.webp",
-      "imageCount": 6,
-      "updatedAt": "2026-10-30T10:11:02.583Z",
-      "classificationVersion": 2,
-      "player": ""
+      "imageCount": 1,
+      "updatedAt": "2026-11-20T11:51:47.476Z",
+      "classificationVersion": 7,
+      "player": "",
+      "photoVersion": 12
     },
     {
       "source": "yema007",
@@ -1181876,11 +1181816,11 @@
       "sourceId": "237529427",
       "uniqueKey": "yema007:237529427",
       "title": "88-89 AC Milan Home Retro Kit Vintage Shirt David Jersey Supplier6",
-      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529427?uid=1&isSubCate=true&referrercate=876781",
+      "sourceUrl": "https://yema007.x.yupoo.com/albums/237529427",
       "categoryId": "876781",
       "collectionId": "876781",
       "sourceCollection": "David jersey",
-      "sourceCategory": "AC Milan",
+      "sourceCategory": "Overig",
       "section": "Voetbal",
       "category": "Clubteams",
       "subcategory": "Serie A",
@@ -1181899,8 +1181839,10 @@
       ],
       "coverUrl": "https://cdn.jsdelivr.net/gh/BKProduction/footballshirtsnl@main/assets/products/yema007/237529427/01.webp",
       "imageCount": 1,
-      "updatedAt": "2026-10-25T18:26:57.636Z",
-      "player": ""
+      "updatedAt": "2026-11-20T11:49:45.520Z",
+      "player": "",
+      "classificationVersion": 7,
+      "photoVersion": 12
     },
     {
       "source": "minkang",
