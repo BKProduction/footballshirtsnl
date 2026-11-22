@@ -3,7 +3,7 @@
   "sources": {
     "407131796": {
       "run": "2026-11-22",
-      "nextIndex": 19950,
+      "nextIndex": 19975,
       "total": 21172,
       "discovered": 21212,
       "pendingIds": [
@@ -21662,6 +21662,6 @@
     "dongshanstore": [],
     "aosendi": []
   },
-  "pausedAt": "2026-11-21T14:58:47.265Z",
+  "pausedAt": "2026-11-22T14:58:19.783Z",
   "pauseReason": "safe-runtime-limit"
 }
