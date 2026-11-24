@@ -16,7 +16,8 @@ const SOURCES = [
   { key: "dachang88", base: "https://dachang88.x.yupoo.com", mode: "shoes" },
   { key: "dongshanstore", base: "https://dongshanstore.x.yupoo.com", mode: "training" },
   { key: "aosendi", base: "https://aosendi.x.yupoo.com", mode: "training" },
-  { key: "junhaoqiumi", base: "https://junhaoqiumi.x.yupoo.com" }
+  { key: "junhaoqiumi", base: "https://junhaoqiumi.x.yupoo.com" },
+  { key: "wanli1688", base: "https://wanli1688.x.yupoo.com" }
 ];
 
 const RUN = new Date().toISOString().slice(0, 10);
@@ -953,7 +954,7 @@ function collectImages(
         $(element).attr("style") || "";
 
       const regex =
-        /url\((['"]?)(.*?)\1\)/gi;
+        /url$$(['"]?)(.*?)\1$$/gi;
 
       let match;
 
