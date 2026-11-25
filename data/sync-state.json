@@ -23,7 +23,7 @@
     },
     "yema007": {
       "run": "2026-11-25",
-      "nextIndex": 2000,
+      "nextIndex": 2025,
       "total": 2778,
       "discovered": 12557,
       "pendingIds": [
@@ -5557,6 +5557,6 @@
     "dongshanstore": [],
     "aosendi": []
   },
-  "pausedAt": "2026-11-24T17:40:54.453Z",
+  "pausedAt": "2026-11-25T16:29:58.352Z",
   "pauseReason": "safe-runtime-limit"
 }
